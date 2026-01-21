@@ -1,0 +1,12 @@
+version: '3.8'
+
+services:
+  dhamma-reader:
+    build: .
+    ports:
+      - "8080:80"
+    volumes:
+      - ./cache:/app/cache
+    environment:
+      - NODE_ENV=development
+    container_name: dhamma-reader

@@ -1,0 +1,422 @@
+@font-face {
+  font-family: 'THSarabunNew_content';
+  src: url('/api/fetch?url=https%3A%2F%2Fwww0.dek-d.com%2Fassets%2Ffonts%2FTHSarabunNew%2FTHSarabunNew-Bold_content_100_some.eot');
+  src: url('/api/fetch?url=https%3A%2F%2Fwww0.dek-d.com%2Fassets%2Ffonts%2FTHSarabunNew%2FTHSarabunNew-Bold_content_100_some.eot%3F%23iefix') format('embedded-opentype'), url('/api/fetch?url=https%3A%2F%2Fwww0.dek-d.com%2Fassets%2Ffonts%2FTHSarabunNew%2FTHSarabunNew-Bold_content_100_some.woff') format('woff'), url('/api/fetch?url=https%3A%2F%2Fwww0.dek-d.com%2Fassets%2Ffonts%2FTHSarabunNew%2FTHSarabunNew-Bold_content_100_some.ttf') format('truetype');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'THSarabunNew_content';
+  src: url('/api/fetch?url=https%3A%2F%2Fwww0.dek-d.com%2Fassets%2Ffonts%2FTHSarabunNew%2FTHSarabunNew_content_100_some.eot');
+  src: url('/api/fetch?url=https%3A%2F%2Fwww0.dek-d.com%2Fassets%2Ffonts%2FTHSarabunNew%2FTHSarabunNew_content_100_some.eot%3F%23iefix') format('embedded-opentype'), url('/api/fetch?url=https%3A%2F%2Fwww0.dek-d.com%2Fassets%2Ffonts%2FTHSarabunNew%2FTHSarabunNew_content_100_some.woff') format('woff'), url('/api/fetch?url=https%3A%2F%2Fwww0.dek-d.com%2Fassets%2Ffonts%2FTHSarabunNew%2FTHSarabunNew_content_100_some.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+:root {
+  --bg-color: #fdfaf1;
+  --sidebar-bg: #f3eee3;
+  --text-primary: #2c2c2c;
+  --text-secondary: #5f5f5f;
+  --accent-color: #8c7355;
+  --hover-color: #e8e2d4;
+  --border-color: #e0d9c8;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Sarabun', sans-serif;
+  background-color: var(--bg-color);
+  color: var(--text-primary);
+  line-height: 1.6;
+  height: 100vh;
+  overflow: hidden;
+}
+
+h1,
+h2,
+h3,
+.serif {
+  font-family: 'Noto Serif Thai', serif;
+}
+
+#root {
+  display: flex;
+  height: 100vh;
+}
+
+.sidebar {
+  width: 350px;
+  background-color: var(--sidebar-bg);
+  border-right: 1px solid var(--border-color);
+  display: flex;
+  flex-direction: column;
+  transition: all 0.3s ease;
+}
+
+.sidebar-header {
+  padding: 2rem 1.5rem;
+  border-bottom: 1px solid var(--border-color);
+}
+
+.sidebar-header h1 {
+  font-size: 1.5rem;
+  color: var(--accent-color);
+  margin-bottom: 1rem;
+}
+
+.search-box {
+  display: flex;
+  align-items: center;
+  background: white;
+  padding: 0.5rem 0.8rem;
+  border-radius: 8px;
+  border: 1px solid var(--border-color);
+  gap: 8px;
+}
+
+.search-box input {
+  border: none;
+  background: transparent;
+  width: 100%;
+  font-family: inherit;
+  font-size: 0.9rem;
+  color: var(--text-primary);
+  outline: none;
+}
+
+.playlist-container {
+  flex: 1;
+  overflow-y: auto;
+  padding: 1rem 0;
+}
+
+.chapter-item {
+  padding: 1rem 1.5rem;
+  cursor: pointer;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+  transition: background 0.2s;
+}
+
+.chapter-item:hover {
+  background-color: var(--hover-color);
+}
+
+.chapter-item.active {
+  background-color: white;
+  border-left: 4px solid var(--accent-color);
+}
+
+.chapter-item.read {
+  background-color: rgba(140, 115, 85, 0.03);
+}
+
+.chapter-item.read .chapter-title {
+  color: var(--text-secondary);
+  opacity: 0.8;
+}
+
+.chapter-title {
+  font-weight: 500;
+  font-size: 1rem;
+  margin-bottom: 0.25rem;
+}
+
+.chapter-date {
+  font-size: 0.8rem;
+  color: var(--text-secondary);
+}
+
+.main-content {
+  flex: 1;
+  overflow-y: auto;
+  padding: 3rem;
+  display: flex;
+  justify-content: center;
+}
+
+.reader-container {
+  max-width: 800px;
+  width: 100%;
+}
+
+.article-header {
+  margin-bottom: 3rem;
+  text-align: center;
+}
+
+.article-header h2 {
+  font-size: 2.2rem;
+  margin-bottom: 1rem;
+  color: var(--text-primary);
+}
+
+.article-meta {
+  color: var(--text-secondary);
+  font-style: italic;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
+
+.font-controls {
+  display: flex;
+  align-items: center;
+  background: var(--sidebar-bg);
+  padding: 6px 15px;
+  border-radius: 20px;
+  border: 1px solid var(--border-color);
+  gap: 15px;
+  font-style: normal;
+}
+
+.font-selector {
+  background: transparent;
+  border: none;
+  font-family: inherit;
+  font-size: 0.85rem;
+  color: var(--accent-color);
+  cursor: pointer;
+  outline: none;
+  padding-right: 5px;
+}
+
+.divider {
+  width: 1px;
+  height: 20px;
+  background: var(--border-color);
+}
+
+.font-controls button {
+  background: white;
+  border: 1px solid var(--border-color);
+  border-radius: 50%;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  color: var(--accent-color);
+  transition: all 0.2s;
+}
+
+.font-controls button:hover {
+  background: var(--accent-color);
+  color: white;
+}
+
+.article-body {
+  font-size: 1.25rem;
+  line-height: 1.8;
+  color: #333;
+}
+
+.article-body p {
+  margin-bottom: 1.5rem;
+}
+
+.navigation-footer {
+  margin-top: 5rem;
+}
+
+.nav-btn {
+  display: flex;
+  align-items: center;
+  background: white;
+  border: 1px solid var(--border-color);
+  padding: 1rem 1.5rem;
+  border-radius: 12px;
+  cursor: pointer;
+  max-width: 48%;
+  gap: 12px;
+  transition: all 0.3s;
+  color: var(--text-primary);
+  text-decoration: none;
+}
+
+.nav-btn:hover {
+  border-color: var(--accent-color);
+  background-color: var(--hover-color);
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(140, 115, 85, 0.1);
+}
+
+.nav-btn.next {
+  text-align: right;
+}
+
+.nav-btn-title {
+  font-weight: 600;
+  font-size: 0.9rem;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 200px;
+}
+
+/* Scrollbar styling */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--bg-color);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--border-color);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--accent-color);
+}
+
+@media (max-width: 768px) {
+  #root {
+    flex-direction: column;
+  }
+
+  .sidebar {
+    width: 100%;
+    height: 300px;
+  }
+
+  .main-content {
+    padding: 1.5rem;
+  }
+
+  .nav-btn-title {
+    max-width: 120px;
+  }
+
+  .nav-btn {
+    padding: 0.8rem;
+  }
+}
+
+.progress-bar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 4px;
+  background: var(--accent-color);
+  z-index: 1000;
+  transition: width 0.1s ease-out;
+}
+
+.chapter-number {
+  font-size: 0.85rem;
+  font-weight: 700;
+  color: var(--accent-color);
+  opacity: 0.6;
+  min-width: 25px;
+}
+
+.fav-btn {
+  background: white;
+  border: 1px solid var(--border-color);
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  transition: all 0.3s;
+  color: var(--text-secondary);
+}
+
+.fav-btn:hover {
+  transform: scale(1.1);
+  border-color: #e63946;
+  color: #e63946;
+}
+
+.fav-btn.active {
+  background: #fff5f5;
+  border-color: #e63946;
+  color: #e63946;
+}
+
+.scroll-top-btn {
+  position: fixed;
+  bottom: 2rem;
+  right: 2rem;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  background: rgba(140, 115, 85, 0.9);
+  color: white;
+  border: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+  transition: all 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+  z-index: 1000;
+}
+
+.scroll-top-btn:hover {
+  transform: translateY(-5px) scale(1.1);
+  background: var(--accent-color);
+  box-shadow: 0 6px 20px rgba(140, 115, 85, 0.4);
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.scroll-top-btn {
+  animation: fadeIn 0.3s ease-out;
+}
+
+.sidebar-tabs {
+  display: flex;
+  margin-top: 1.2rem;
+  background: rgba(0, 0, 0, 0.05);
+  padding: 4px;
+  border-radius: 10px;
+  gap: 4px;
+}
+
+.sidebar-tabs button {
+  flex: 1;
+  border: none;
+  background: transparent;
+  padding: 0.6rem;
+  font-size: 0.85rem;
+  font-family: inherit;
+  cursor: pointer;
+  border-radius: 7px;
+  transition: all 0.2s;
+  color: var(--text-secondary);
+}
+
+.sidebar-tabs button:hover {
+  color: var(--accent-color);
+}
+
+.sidebar-tabs button.active {
+  background: white;
+  color: var(--accent-color);
+  font-weight: 600;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.08);
+}

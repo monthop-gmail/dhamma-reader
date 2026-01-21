@@ -1,0 +1,13 @@
+services:
+  - type: web
+    name: dhamma-reader
+    env: docker
+    plan: free
+    region: singapore # Choose a region closer to Thailand
+    envVars:
+      - key: NODE_ENV
+        value: production
+    disk:
+      name: cache-disk
+      mountPath: /app/cache
+      sizeGB: 1
