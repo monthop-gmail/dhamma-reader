@@ -66,7 +66,7 @@ function App() {
     useEffect(() => {
         if (!currentChapter) return;
 
-        fetchContent(currentChapter.url);
+        fetchContent(currentChapter);
         localStorage.setItem('lastChapterOrder', currentChapter.order.toString());
         window.scrollTo({ top: 0, behavior: 'smooth' });
 
@@ -107,30 +107,61 @@ function App() {
         }
     }, [loading]);
 
-    const fetchContent = async (url) => {
+    const fetchContent = async (item) => {
+        if (!item) return;
         setLoading(true);
         setContent('');
         setScrollProgress(0);
 
         try {
-            const proxyUrl = `/api/fetch?url=${encodeURIComponent(url)}`;
+            // Strategy 1: Try to load from pre-scraped local content (Fastest & Most Reliable for Render)
+            const localUrl = `/content/${item.order}.json`;
+            const localResponse = await fetch(localUrl);
+
+            if (localResponse.ok) {
+                console.log('Loading from local content...');
+                const data = await localResponse.json();
+                processRawHtml(data.html);
+                setLoading(false);
+                return;
+            }
+
+            // Strategy 2: Fallback to dynamic proxy (Original way)
+            console.log('Local content not found, falling back to proxy...');
+            const proxyUrl = `/api/fetch?url=${encodeURIComponent(item.url)}`;
             const response = await fetch(proxyUrl);
             const html = await response.text();
 
-            const parser = new DOMParser();
-            const doc = parser.parseFromString(html, 'text/html');
-            const storyContent = doc.querySelector('#story-content');
-
-            if (storyContent) {
-                setContent(storyContent.innerHTML);
+            if (html.toLowerCase().includes('human verification') || html.toLowerCase().includes('cloudflare')) {
+                setContent(`
+                    <div style="text-align: center; padding: 20px; border: 1px solid #e63946; border-radius: 8px; background: #fff5f5;">
+                        <h3 style="color: #e63946;">ถูกระงับการเข้าถึงชั่วคราว (Human Verification)</h3>
+                        <p>เซิร์ฟเวอร์โดนระบบป้องกันความปลอดภัยบล็อกครับ</p>
+                        <p style="margin-top: 10px; font-size: 0.9rem;">
+                            <strong>วิธีแก้:</strong> ญาติๆ สามารถอ่านได้แน่นอนหากคุณใช้ระบบ "Scraper" ในเครื่องแล้วส่งขึ้น GitHub อีกครั้งครับ
+                        </p>
+                    </div>
+                `);
             } else {
-                setContent('<p>ไม่สามารถดึงเนื้อหาได้ อาจเกิดจากโครงสร้างหน้าเว็บเปลี่ยนไป หรือการจำกัดการเข้าถึง</p>');
+                processRawHtml(html);
             }
         } catch (error) {
             console.error('Error fetching content:', error);
             setContent('<p>เกิดข้อผิดพลาดในการโหลดเนื้อหา กรุณาตรวจสอบการเชื่อมต่ออินเทอร์เน็ต</p>');
         } finally {
             setLoading(false);
+        }
+    };
+
+    const processRawHtml = (html) => {
+        const parser = new DOMParser();
+        const doc = parser.parseFromString(html, 'text/html');
+        const storyContent = doc.querySelector('#story-content');
+
+        if (storyContent) {
+            setContent(storyContent.innerHTML);
+        } else {
+            setContent('<p>ไม่สามารถดึงเนื้อหาได้ อาจเกิดจากโครงสร้างหน้าเว็บเปลี่ยนไป หรือการจำกัดการเข้าถึง</p>');
         }
     };
 

@@ -1,0 +1,2815 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta name="viewport" content="initial-scale=1" />
+    <title>นิยาย ธรรมเทศนา พระอาจารย์วิชัย กัมมสุทโธ > ลำดับตอนที่ #125 : ธรรมะในการดำรงชีวิต : Dek-D.com - Writer</title>
+    <meta name="description" content="ถอดเทปจากการแสดงธรรมโดยพระอาจารย์วิชัย กัมมสุทโธสถานปฏิบัติธรรมป่าวิเวกสิกขารามอำเภอพล จังหวัดขอนแก่นสอนหลังปฏิบัติที่ใช้ได้ในชีวิตประจำวันไม่เน้นเดินจงกรม นั่งสมาธิ เน้นการเจริญสติ ปัญญา" />
+    <meta name="keywords" content="นิยาย ธรรมเทศนา พระอาจารย์วิชัย กัมมสุทโธ, ธรรมะในการดำรงชีวิต, ธรรมชาติ,การใช้ชีวิต,ธรรมะ,บรรลุธรรม,รักษาจิต,นิพพาน,ละกิเลส,สติ,สมาธิ,ปัญญา,ศีล,ภาวนา,พ้นทุกข์,สัมมาทิฏฐิ,ลังเลสงสัย" />
+    <meta property="og:title" content="ธรรมเทศนา พระอาจารย์วิชัย กัมมสุทโธ - ธรรมะในการดำรงชีวิต" />
+    <meta property="og:description" content="ถอดเทปจากการแสดงธรรมโดยพระอาจารย์วิชัย กัมมสุทโธสถานปฏิบัติธรรมป่าวิเวกสิกขารามอำเภอพล จังหวัดขอนแก่นสอนหลังปฏิบัติที่ใช้ได้ในชีวิตประจำวันไม่เน้นเดินจงกรม นั่งสมาธิ เน้นการเจริญสติ ปัญญา" />
+    <meta property="og:site_name" content="ธรรมเทศนา พระอาจารย์วิชัย กัมมสุทโธ" />
+    <meta property="og:image" content="https://fbi.dek-d.com/27/0978/8364/133546233" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://writer.dek-d.com/Wiweksikkaram/writer/view.php?id=2485901" />
+    <!-- <meta name="apple-itunes-app" content="app-id=581184059"> -->
+    <meta property="fb:app_id" content="193207127471363" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@webdekd" />
+    <meta name="twitter:title" content="ธรรมเทศนา พระอาจารย์วิชัย กัมมสุทโธ - ธรรมะในการดำรงชีวิต" />
+    <meta name="twitter:description" content="ถอดเทปจากการแสดงธรรมโดยพระอาจารย์วิชัย กัมมสุทโธสถานปฏิบัติธรรมป่าวิเวกสิกขารามอำเภอพล จังหวัดขอนแก่นสอนหลังปฏิบัติที่ใช้ได้ในชีวิตประจำวันไม่เน้นเดินจงกรม นั่งสมาธิ เน้นการเจริญสติ ปัญญา" />
+    <meta name="twitter:image:src" content="https://fbi.dek-d.com/27/0978/8364/133546233" />
+    <meta name="twitter:domain" content="dek-d.com" />
+    <link href="https://www.dek-d.com/favicon.ico" rel="icon" type="image/ico">
+    
+			<meta property="al:ios:app_name" content="นิยาย Dek-D">
+			<meta property="al:ios:app_store_id" content="581184059">
+			<meta property="al:ios:url" content="dekd.novel://page/novel/2485901/chapter/125" />
+			<meta property="al:android:app_name" content="นิยาย Dek-D">
+			<meta property="al:android:package" content="com.dekd.apps">
+			<meta property="al:android:url" content="dekd.novel://page/novel/2485901/chapter/125">
+			
+    <!-- DMP -->
+    <meta name="category" content="novel" />
+    <link rel="canonical" href="https://writer.dek-d.com/Wiweksikkaram/writer/viewlongc.php?id=2485901&chapter=125" />
+    <style type="text/css" media="print">
+        body {
+            display: none;
+        }
+    </style>
+    <link rel="stylesheet" href="https://use.typekit.net/dum8wsh.css" />
+        <script type="text/javascript">
+	window.dataLayer = window.dataLayer || [];
+
+			dataLayer.push({
+			'truehitsPage': 'Writer_Long_chapter'
+		})
+	
+	
+	
+	
+	
+	
+	
+			dataLayer.push({
+			'twPixel': 'o4jlg'
+		})
+	
+			dataLayer.push({
+			'twPixel2': 'onnva'
+		})
+	
+	
+	
+	</script>
+<!-- Google Tag Manager -->
+<script>
+	(function(w, d, s, l, i) {
+		w[l] = w[l] || [];
+		w[l].push({
+			'gtm.start': new Date().getTime(),
+			event: 'gtm.js'
+		});
+		var f = d.getElementsByTagName(s)[0],
+			j = d.createElement(s),
+			dl = l != 'dataLayer' ? '&l=' + l : '';
+		j.async = true;
+		j.src =
+			'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+		f.parentNode.insertBefore(j, f);
+	})(window, document, 'script', 'dataLayer', 'GTM-PMXT86T');
+</script>
+<!-- End Google Tag Manager -->    <script src="https://cdnjs.cloudflare.com/ajax/libs/iframe-resizer/4.2.11/iframeResizer.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/loading-attribute-polyfill/1.5.4/loading-attribute-polyfill.min.js" integrity="sha512-Kq3/MTxphzXJIRDWtrpLhhNnLDPiBXPMKkx/KogMYZO92Geor9j8sJguZ1OozBS+YVmVKo2HEx2gZfGOQBFM8A==" crossorigin="anonymous"></script>
+    <!-- DFP -->
+    <script async='async' src='https://securepubads.g.doubleclick.net/tag/js/gpt.js'></script>
+    <script src="https://unpkg.com/@popperjs/core@2.9.3/dist/umd/popper.min.js"></script>
+    <script src="https://unpkg.com/tippy.js@6.3.1/dist/tippy-bundle.umd.min.js"></script>
+
+    <!-- CAPTCHA: Turnstile -->
+    <script src="https://www.dek-d.com/captless/turnstile.js.php"></script>
+    <!-- CAPTCHA: Turnstile -->
+
+    <script>
+        var googletag = googletag || {};
+        googletag.cmd = googletag.cmd || [];
+        window.page = 'main';
+        window.allowComment = true;
+        window.host = 'my';
+        window.hostAsset = 'www0';
+        window.hostWWW = 'www';
+        window.novelId = +'2485901';
+        window.chapterId = +'125';
+        window.isGod = '';
+        window.isAdmin = ''
+        window.isOwner = '';
+        window.editorVersion = +'3';
+        window.mainCat = '2';
+        window.subCat = '2';
+        window.hasEbook = !!'';
+        window.hasBook = !!'';
+
+        window.userId = '0'
+        window.username = ''
+        window.userThumbnail = 'https://www0.dek-d.com/assets/article/images/thumb_snowman_50x50.jpg'
+        window.userAliasname = ''
+        window.donationState = 'none'
+        window.title = 'ธรรมเทศนา พระอาจารย์วิชัย กัมมสุทโธ';
+        window.chapterTitle = 'ลำดับตอนที่ 125 : ธรรมะในการดำรงชีวิต';
+        window.ownerId = '9788364'
+        window.writerAlias = 'Wiweksikkaram'
+        window.isTopupPurchased = '1'
+        window.readerPage = 'reader'
+        window.favoriteStory = +'0'
+        window.productTypeNumber = ''
+        window.isNightMode = false
+        window.collectionId = ''
+        window.collectionAction = ''
+        window.hostWriter = 'writer'
+        window.clientIP = '124.120.194.30'
+
+        window.mainCatName = 'มีสาระ'
+        window.subCatName = 'ความรู้เพื่อดำเนินชีวิต'
+        window.novelDescription = 'ถอดเทปจากการแสดงธรรม โดยพระอาจารย์วิชัย กัมมสุทโธ สถานปฏิบัติธรรมป่าวิเวกสิกขาราม อำเภอพล จังหวัดขอนแก่น สอนหลังปฏิบัติที่ใช้ได้ในชีวิตประจำวัน ไม่เน้นเดินจงกรม นั่งสมาธิ เน้นการเจริญสติ ปัญญา'
+        window.novelThumbnail = 'https://image.dek-d.com/27/0978/8364/133546232'
+        window.categoryGroupId = ''
+        window.chapterOrderId = +'125'
+        window.totalComment = +'0'
+        window.analyticsPageName = 'reader'
+        window.coinFlashSaleEligible = JSON.parse('null')
+        window.chapterData = JSON.parse('{\"id\":125,\"order\":125,\"novelType\":\"long\",\"referType\":1,\"title\":\"\\u0e18\\u0e23\\u0e23\\u0e21\\u0e30\\u0e43\\u0e19\\u0e01\\u0e32\\u0e23\\u0e14\\u0e33\\u0e23\\u0e07\\u0e0a\\u0e35\\u0e27\\u0e34\\u0e15\",\"thumbnail\":{\"normal\":\"https:\\/\\/image.dek-d.com\\/27\\/0978\\/8364\\/133546232\",\"landscape\":\"https:\\/\\/image.dek-d.com\\/27\\/0978\\/8364\\/133546233\"},\"lastUpdateLength\":29100,\"updatedAt\":\"2025-04-07T00:00:00+07:00\",\"engagements\":{\"commentMain\":0,\"comment\":0,\"view\":7,\"vote\":0,\"score\":0},\"state\":{\"status\":\"none\",\"hidden\":false,\"banned\":false,\"hasBanHistory\":false,\"accessible\":false,\"voted\":false,\"isEaForever\":false,\"isBoughtEAChapterForever\":false,\"toggleHidden\":false,\"favorited\":false,\"bookmarked\":false,\"bannedAt\":null},\"pageInfo\":{\"previousId\":124,\"nextId\":126},\"announcement\":null,\"body\":\"<p style=\\\"text-align:center;\\\"><strong>&#8220;\\u0e18\\u0e23\\u0e23\\u0e21\\u0e30\\u0e43\\u0e19\\u0e01\\u0e32\\u0e23\\u0e14\\u0e33\\u0e23\\u0e07\\u0e0a\\u0e35\\u0e27\\u0e34\\u0e15&#8221;<\\/strong><br><strong>\\u0e40\\u0e17\\u0e28\\u0e19\\u0e4c\\u0e17\\u0e35\\u0e48 \\u0e1a\\u0e23\\u0e34\\u0e29\\u0e31\\u0e17&nbsp;R &amp; T&nbsp; \\u0e51\\u0e53 \\u0e01\\u0e38\\u0e21\\u0e20\\u0e32\\u0e1e\\u0e31\\u0e19\\u0e18\\u0e4c \\u0e52\\u0e55\\u0e55\\u0e55<\\/strong><br>\\u0e1e\\u0e23\\u0e30\\u0e2d\\u0e32\\u0e08\\u0e32\\u0e23\\u0e22\\u0e4c\\u0e27\\u0e34\\u0e0a\\u0e31\\u0e22&nbsp; \\u0e01\\u0e31\\u0e21\\u0e21\\u0e2a\\u0e38\\u0e17\\u0e42\\u0e18&nbsp;\\u0e2a\\u0e16\\u0e32\\u0e19\\u0e1b\\u0e0f\\u0e34\\u0e1a\\u0e31\\u0e15\\u0e34\\u0e18\\u0e23\\u0e23\\u0e21\\u0e1b\\u0e48\\u0e32\\u0e27\\u0e34\\u0e40\\u0e27\\u0e01\\u0e2a\\u0e34\\u0e01\\u0e02\\u0e32\\u0e23\\u0e32\\u0e21 \\u0e2d.\\u0e1e\\u0e25 \\u0e08.\\u0e02\\u0e2d\\u0e19\\u0e41\\u0e01\\u0e48\\u0e19<\\/p><p style=\\\"text-align:justify;\\\" class=\\\"indent-a\\\">\\u0e40\\u0e08\\u0e23\\u0e34\\u0e0d\\u0e1e\\u0e23&nbsp; \\u0e1e\\u0e19\\u0e31\\u0e01\\u0e07\\u0e32\\u0e19\\u0e1a\\u0e23\\u0e34\\u0e29\\u0e31\\u0e17\\u0e17\\u0e31\\u0e49\\u0e07\\u0e2b\\u0e25\\u0e32\\u0e22&nbsp;\\u0e27\\u0e31\\u0e19\\u0e19\\u0e35\\u0e49\\u0e40\\u0e1b\\u0e47\\u0e19\\u0e42\\u0e2d\\u0e01\\u0e32\\u0e2a\\u0e2d\\u0e31\\u0e19\\u0e14\\u0e35\\u0e17\\u0e35\\u0e48\\u0e44\\u0e14\\u0e49\\u0e21\\u0e32\\u0e41\\u0e19\\u0e30\\u0e19\\u0e33\\u0e1a\\u0e32\\u0e07\\u0e2d\\u0e22\\u0e48\\u0e32\\u0e07&nbsp; \\u0e18\\u0e23\\u0e23\\u0e21\\u0e30\\u0e19\\u0e35\\u0e48\\u0e40\\u0e23\\u0e32\\u0e22\\u0e31\\u0e07\\u0e40\\u0e02\\u0e49\\u0e32\\u0e43\\u0e08\\u0e1c\\u0e34\\u0e14\\u0e01\\u0e31\\u0e19\\u0e40\\u0e22\\u0e2d\\u0e30&nbsp; \\u0e2a\\u0e48\\u0e27\\u0e19\\u0e43\\u0e2b\\u0e0d\\u0e48\\u0e1a\\u0e32\\u0e07\\u0e04\\u0e19\\u0e01\\u0e47\\u0e1a\\u0e2d\\u0e01\\u0e27\\u0e48\\u0e32\\u0e18\\u0e23\\u0e23\\u0e21\\u0e30\\u0e19\\u0e31\\u0e49\\u0e19\\u0e15\\u0e49\\u0e2d\\u0e07\\u0e15\\u0e2d\\u0e19\\u0e41\\u0e01\\u0e48\\u0e04\\u0e48\\u0e2d\\u0e22\\u0e40\\u0e02\\u0e49\\u0e32\\u0e44\\u0e1b\\u0e27\\u0e31\\u0e14\\u0e44\\u0e1b\\u0e1b\\u0e23\\u0e30\\u0e1e\\u0e24\\u0e15\\u0e34\\u0e1b\\u0e0f\\u0e34\\u0e1a\\u0e31\\u0e15\\u0e34&nbsp;\\u0e1a\\u0e32\\u0e07\\u0e04\\u0e19\\u0e01\\u0e47\\u0e1a\\u0e2d\\u0e01\\u0e27\\u0e48\\u0e32\\u0e18\\u0e23\\u0e23\\u0e21\\u0e30\\u0e19\\u0e31\\u0e49\\u0e19\\u0e15\\u0e49\\u0e2d\\u0e07\\u0e40\\u0e1b\\u0e47\\u0e19\\u0e40\\u0e23\\u0e37\\u0e48\\u0e2d\\u0e07\\u0e02\\u0e2d\\u0e07\\u0e1e\\u0e23\\u0e30\\u0e02\\u0e2d\\u0e07\\u0e0a\\u0e35&nbsp; \\u0e2d\\u0e31\\u0e19\\u0e19\\u0e35\\u0e49\\u0e40\\u0e1b\\u0e47\\u0e19\\u0e04\\u0e27\\u0e32\\u0e21\\u0e40\\u0e02\\u0e49\\u0e32\\u0e43\\u0e08\\u0e1c\\u0e34\\u0e14 \\u0e04\\u0e27\\u0e32\\u0e21\\u0e40\\u0e2b\\u0e47\\u0e19\\u0e1c\\u0e34\\u0e14&nbsp; \\u0e2d\\u0e32\\u0e15\\u0e21\\u0e32\\u0e44\\u0e1b\\u0e40\\u0e17\\u0e28\\u0e19\\u0e4c\\u0e17\\u0e35\\u0e48\\u0e2a\\u0e27\\u0e19\\u0e42\\u0e21\\u0e01\\u0e02\\u0e4c\\u0e01\\u0e23\\u0e38\\u0e07\\u0e40\\u0e17\\u0e1e&nbsp; \\u0e1b\\u0e15\\u0e17.\\u0e2a\\u0e1c.\\u0e19\\u0e34\\u0e21\\u0e19\\u0e15\\u0e4c\\u0e19\\u0e48\\u0e30&nbsp; \\u0e44\\u0e1b\\u0e40\\u0e17\\u0e28\\u0e19\\u0e4c\\u0e17\\u0e35\\u0e48\\u0e40\\u0e2d\\u0e2a\\u0e0b\\u0e35\\u0e08\\u0e35 \\u0e40\\u0e04\\u0e21\\u0e34\\u0e04\\u0e2d\\u0e25\\u0e2a\\u0e4c \\u0e23\\u0e30\\u0e22\\u0e2d\\u0e07 \\u0e41\\u0e25\\u0e30\\u0e1a\\u0e23\\u0e34\\u0e29\\u0e31\\u0e17\\u0e27\\u0e34\\u0e17\\u0e22\\u0e38\\u0e01\\u0e32\\u0e23\\u0e1a\\u0e34\\u0e19\\u0e41\\u0e2b\\u0e48\\u0e07\\u0e1b\\u0e23\\u0e30\\u0e40\\u0e17\\u0e28\\u0e44\\u0e17\\u0e22&nbsp;\\u0e44\\u0e14\\u0e49\\u0e17\\u0e31\\u0e28\\u0e19\\u0e30\\u0e43\\u0e2b\\u0e49\\u0e40\\u0e02\\u0e32\\u0e1f\\u0e31\\u0e07\\u0e19\\u0e48\\u0e30&nbsp;\\u0e21\\u0e31\\u0e19\\u0e02\\u0e36\\u0e49\\u0e19\\u0e21\\u0e32&nbsp; \\u0e16\\u0e32\\u0e21\\u0e42\\u0e22\\u0e21\\u0e27\\u0e48\\u0e32 \\u0e16\\u0e49\\u0e32\\u0e1e\\u0e27\\u0e01\\u0e40\\u0e23\\u0e32\\u0e19\\u0e35\\u0e48\\u0e08\\u0e33\\u0e40\\u0e1b\\u0e47\\u0e19\\u0e15\\u0e49\\u0e2d\\u0e07\\u0e17\\u0e33\\u0e07\\u0e32\\u0e19&nbsp; \\u0e41\\u0e15\\u0e48\\u0e40\\u0e23\\u0e32\\u0e44\\u0e21\\u0e48\\u0e23\\u0e39\\u0e49\\u0e40\\u0e23\\u0e37\\u0e48\\u0e2d\\u0e07\\u0e02\\u0e2d\\u0e07\\u0e07\\u0e32\\u0e19&nbsp; \\u0e1b\\u0e31\\u0e0d\\u0e2b\\u0e32\\u0e08\\u0e30\\u0e40\\u0e01\\u0e34\\u0e14\\u0e44\\u0e2b\\u0e21&nbsp; \\u0e2d\\u0e31\\u0e19\\u0e19\\u0e35\\u0e49\\u0e04\\u0e19\\u0e17\\u0e35\\u0e48\\u0e21\\u0e35\\u0e1b\\u0e31\\u0e0d\\u0e0d\\u0e32&nbsp; \\u0e15\\u0e49\\u0e2d\\u0e07\\u0e17\\u0e33\\u0e07\\u0e32\\u0e19&nbsp;\\u0e15\\u0e49\\u0e2d\\u0e07\\u0e23\\u0e39\\u0e49\\u0e40\\u0e23\\u0e37\\u0e48\\u0e2d\\u0e07\\u0e02\\u0e2d\\u0e07\\u0e07\\u0e32\\u0e19\\u0e43\\u0e0a\\u0e48\\u0e44\\u0e2b\\u0e21&nbsp;\\u0e16\\u0e49\\u0e32\\u0e44\\u0e21\\u0e48\\u0e23\\u0e39\\u0e49\\u0e01\\u0e47\\u0e15\\u0e49\\u0e2d\\u0e07\\u0e28\\u0e36\\u0e01\\u0e29\\u0e32&nbsp;\\u0e40\\u0e21\\u0e37\\u0e48\\u0e2d\\u0e28\\u0e36\\u0e01\\u0e29\\u0e32\\u0e41\\u0e25\\u0e49\\u0e27\\u0e01\\u0e47\\u0e08\\u0e30\\u0e2a\\u0e32\\u0e21\\u0e32\\u0e23\\u0e16\\u0e1b\\u0e0f\\u0e34\\u0e1a\\u0e31\\u0e15\\u0e34\\u0e07\\u0e32\\u0e19\\u0e43\\u0e19\\u0e08\\u0e38\\u0e14\\u0e19\\u0e31\\u0e49\\u0e19\\u0e44\\u0e14\\u0e49\\u0e16\\u0e39\\u0e01\\u0e15\\u0e49\\u0e2d\\u0e07&nbsp; \\u0e1b\\u0e31\\u0e0d\\u0e2b\\u0e32\\u0e01\\u0e47\\u0e08\\u0e30\\u0e44\\u0e21\\u0e48\\u0e21\\u0e35&nbsp; \\u0e09\\u0e31\\u0e19\\u0e43\\u0e14\\u0e09\\u0e31\\u0e19\\u0e19\\u0e31\\u0e49\\u0e19&nbsp;\\u0e18\\u0e23\\u0e23\\u0e21\\u0e30\\u0e01\\u0e47\\u0e40\\u0e0a\\u0e48\\u0e19\\u0e01\\u0e31\\u0e19&nbsp; \\u0e1e\\u0e27\\u0e01\\u0e40\\u0e23\\u0e32\\u0e19\\u0e35\\u0e48\\u0e19\\u0e30&nbsp; \\u0e44\\u0e21\\u0e48\\u0e27\\u0e48\\u0e32\\u0e42\\u0e22\\u0e21 \\u0e44\\u0e21\\u0e48\\u0e27\\u0e48\\u0e32\\u0e2d\\u0e32\\u0e15\\u0e21\\u0e32 \\u0e44\\u0e21\\u0e48\\u0e27\\u0e48\\u0e32\\u0e0a\\u0e35&nbsp; \\u0e40\\u0e2b\\u0e21\\u0e37\\u0e2d\\u0e19\\u0e01\\u0e31\\u0e19\\u0e2b\\u0e21\\u0e14&nbsp;\\u0e40\\u0e27\\u0e25\\u0e32\\u0e15\\u0e37\\u0e48\\u0e19\\u0e19\\u0e2d\\u0e19\\u0e02\\u0e36\\u0e49\\u0e19\\u0e21\\u0e32\\u0e19\\u0e35\\u0e48&nbsp;\\u0e21\\u0e31\\u0e19\\u0e21\\u0e35\\u0e04\\u0e27\\u0e32\\u0e21\\u0e23\\u0e39\\u0e49\\u0e2a\\u0e36\\u0e01\\u0e44\\u0e2b\\u0e21&nbsp; \\u0e04\\u0e27\\u0e32\\u0e21\\u0e23\\u0e39\\u0e49\\u0e2a\\u0e36\\u0e01\\u0e21\\u0e31\\u0e19\\u0e21\\u0e35\\u0e2d\\u0e22\\u0e39\\u0e48\\u0e15\\u0e31\\u0e49\\u0e07\\u0e41\\u0e15\\u0e48\\u0e15\\u0e37\\u0e48\\u0e19\\u0e19\\u0e2d\\u0e19\\u0e08\\u0e19\\u0e16\\u0e36\\u0e07\\u0e25\\u0e07\\u0e19\\u0e2d\\u0e19&nbsp; \\u0e40\\u0e27\\u0e25\\u0e32\\u0e19\\u0e2d\\u0e19\\u0e2b\\u0e25\\u0e31\\u0e1a\\u0e44\\u0e1b\\u0e21\\u0e31\\u0e19\\u0e01\\u0e47\\u0e44\\u0e21\\u0e48\\u0e23\\u0e39\\u0e49\\u0e43\\u0e0a\\u0e48\\u0e44\\u0e2b\\u0e21&nbsp;\\u0e17\\u0e35\\u0e19\\u0e35\\u0e49\\u0e40\\u0e23\\u0e32\\u0e15\\u0e49\\u0e2d\\u0e07\\u0e2d\\u0e22\\u0e39\\u0e48\\u0e01\\u0e31\\u0e1a\\u0e01\\u0e32\\u0e22\\u0e43\\u0e08\\u0e15\\u0e31\\u0e27\\u0e40\\u0e2d\\u0e07\\u0e15\\u0e31\\u0e49\\u0e07\\u0e41\\u0e15\\u0e48\\u0e15\\u0e37\\u0e48\\u0e19\\u0e19\\u0e2d\\u0e19\\u0e16\\u0e36\\u0e07\\u0e25\\u0e07\\u0e19\\u0e2d\\u0e19&nbsp;\\u0e16\\u0e49\\u0e32\\u0e40\\u0e23\\u0e32\\u0e44\\u0e21\\u0e48\\u0e23\\u0e39\\u0e49\\u0e44\\u0e21\\u0e48\\u0e40\\u0e2b\\u0e47\\u0e19\\u0e44\\u0e21\\u0e48\\u0e40\\u0e02\\u0e49\\u0e32\\u0e43\\u0e08\\u0e43\\u0e19\\u0e40\\u0e23\\u0e37\\u0e48\\u0e2d\\u0e07\\u0e01\\u0e32\\u0e22\\u0e43\\u0e08\\u0e15\\u0e19\\u0e40\\u0e2d\\u0e07\\u0e19\\u0e31\\u0e49\\u0e19&nbsp; \\u0e1b\\u0e31\\u0e0d\\u0e2b\\u0e32\\u0e08\\u0e30\\u0e40\\u0e01\\u0e34\\u0e14\\u0e44\\u0e2b\\u0e21&nbsp; \\u0e40\\u0e2b\\u0e21\\u0e37\\u0e2d\\u0e19\\u0e40\\u0e23\\u0e32\\u0e15\\u0e49\\u0e2d\\u0e07\\u0e17\\u0e33\\u0e07\\u0e32\\u0e19\\u0e19\\u0e31\\u0e48\\u0e19\\u0e40\\u0e2d\\u0e07&nbsp; \\u0e40\\u0e1e\\u0e23\\u0e32\\u0e30\\u0e40\\u0e23\\u0e32\\u0e2d\\u0e22\\u0e39\\u0e48\\u0e01\\u0e31\\u0e1a\\u0e21\\u0e31\\u0e19\\u0e15\\u0e31\\u0e49\\u0e07\\u0e41\\u0e15\\u0e48\\u0e15\\u0e37\\u0e48\\u0e19\\u0e19\\u0e2d\\u0e19\\u0e16\\u0e36\\u0e07\\u0e25\\u0e07\\u0e19\\u0e2d\\u0e19&nbsp; \\u0e41\\u0e15\\u0e48\\u0e44\\u0e21\\u0e48\\u0e23\\u0e39\\u0e49\\u0e40\\u0e23\\u0e37\\u0e48\\u0e2d\\u0e07\\u0e02\\u0e2d\\u0e07\\u0e21\\u0e31\\u0e19&nbsp; \\u0e1b\\u0e31\\u0e0d\\u0e2b\\u0e32\\u0e08\\u0e30\\u0e40\\u0e01\\u0e34\\u0e14\\u0e44\\u0e2b\\u0e21&nbsp; (\\u0e42\\u0e22\\u0e21&nbsp;: \\u0e40\\u0e01\\u0e34\\u0e14\\u0e41\\u0e19\\u0e48\\u0e19\\u0e2d\\u0e19)&nbsp; \\u0e19\\u0e35\\u0e48 \\u0e1b\\u0e31\\u0e0d\\u0e2b\\u0e32\\u0e08\\u0e30\\u0e40\\u0e01\\u0e34\\u0e14&nbsp; \\u0e40\\u0e1e\\u0e23\\u0e32\\u0e30\\u0e09\\u0e30\\u0e19\\u0e31\\u0e49\\u0e19\\u0e21\\u0e31\\u0e19\\u0e40\\u0e1b\\u0e47\\u0e19\\u0e40\\u0e2b\\u0e15\\u0e38\\u0e1c\\u0e25\\u0e44\\u0e07&nbsp; \\u0e27\\u0e48\\u0e32\\u0e17\\u0e33\\u0e44\\u0e21\\u0e15\\u0e49\\u0e2d\\u0e07\\u0e1b\\u0e0f\\u0e34\\u0e1a\\u0e31\\u0e15\\u0e34\\u0e18\\u0e23\\u0e23\\u0e21&nbsp;\\u0e01\\u0e32\\u0e23\\u0e1b\\u0e0f\\u0e34\\u0e1a\\u0e31\\u0e15\\u0e34\\u0e18\\u0e23\\u0e23\\u0e21\\u0e01\\u0e47\\u0e04\\u0e37\\u0e2d\\u0e01\\u0e32\\u0e23\\u0e21\\u0e32\\u0e28\\u0e36\\u0e01\\u0e29\\u0e32\\u0e01\\u0e32\\u0e22\\u0e43\\u0e08\\u0e15\\u0e19\\u0e40\\u0e2d\\u0e07\\u0e19\\u0e31\\u0e48\\u0e19\\u0e40\\u0e2d\\u0e07&nbsp; \\u0e43\\u0e2b\\u0e49\\u0e23\\u0e39\\u0e49\\u0e04\\u0e27\\u0e32\\u0e21\\u0e08\\u0e23\\u0e34\\u0e07\\u0e02\\u0e2d\\u0e07\\u0e01\\u0e32\\u0e22\\u0e43\\u0e08&nbsp; \\u0e40\\u0e21\\u0e37\\u0e48\\u0e2d\\u0e40\\u0e23\\u0e32\\u0e23\\u0e39\\u0e49\\u0e04\\u0e27\\u0e32\\u0e21\\u0e08\\u0e23\\u0e34\\u0e07\\u0e02\\u0e2d\\u0e07\\u0e01\\u0e32\\u0e22\\u0e43\\u0e08\\u0e15\\u0e19\\u0e40\\u0e2d\\u0e07\\u0e41\\u0e25\\u0e49\\u0e27&nbsp;\\u0e21\\u0e31\\u0e19\\u0e01\\u0e47\\u0e08\\u0e30\\u0e2a\\u0e32\\u0e21\\u0e32\\u0e23\\u0e16\\u0e14\\u0e33\\u0e23\\u0e07\\u0e0a\\u0e35\\u0e27\\u0e34\\u0e15\\u0e2d\\u0e22\\u0e39\\u0e48\\u0e14\\u0e49\\u0e27\\u0e22\\u0e04\\u0e27\\u0e32\\u0e21\\u0e44\\u0e21\\u0e48\\u0e17\\u0e38\\u0e01\\u0e02\\u0e4c\\u0e19\\u0e31\\u0e48\\u0e19\\u0e40\\u0e2d\\u0e07&nbsp; \\u0e2d\\u0e31\\u0e19\\u0e19\\u0e35\\u0e49\\u0e21\\u0e31\\u0e19\\u0e04\\u0e25\\u0e38\\u0e21\\u0e2b\\u0e21\\u0e14&nbsp; \\u0e04\\u0e33\\u0e27\\u0e48\\u0e32\\u0e14\\u0e33\\u0e23\\u0e07\\u0e0a\\u0e35\\u0e27\\u0e34\\u0e15\\u0e19\\u0e35\\u0e48\\u0e21\\u0e31\\u0e19\\u0e04\\u0e25\\u0e38\\u0e21\\u0e2b\\u0e21\\u0e14&nbsp; \\u0e44\\u0e21\\u0e48\\u0e27\\u0e48\\u0e32\\u0e40\\u0e23\\u0e37\\u0e48\\u0e2d\\u0e07\\u0e07\\u0e32\\u0e19\\u0e20\\u0e32\\u0e22\\u0e19\\u0e2d\\u0e01&nbsp; \\u0e40\\u0e23\\u0e37\\u0e48\\u0e2d\\u0e07\\u0e08\\u0e34\\u0e15\\u0e43\\u0e08\\u0e20\\u0e32\\u0e22\\u0e43\\u0e19&nbsp; \\u0e40\\u0e1e\\u0e23\\u0e32\\u0e30\\u0e21\\u0e31\\u0e19\\u0e2a\\u0e31\\u0e21\\u0e1e\\u0e31\\u0e19\\u0e18\\u0e4c\\u0e01\\u0e31\\u0e19\\u0e2b\\u0e21\\u0e14&nbsp; \\u0e16\\u0e49\\u0e32\\u0e40\\u0e23\\u0e32\\u0e23\\u0e39\\u0e49\\u0e40\\u0e23\\u0e37\\u0e48\\u0e2d\\u0e07\\u0e01\\u0e32\\u0e22\\u0e43\\u0e08\\u0e15\\u0e19\\u0e40\\u0e2d\\u0e07\\u0e41\\u0e25\\u0e49\\u0e27 &nbsp;\\u0e17\\u0e38\\u0e01\\u0e2d\\u0e22\\u0e48\\u0e32\\u0e07\\u0e1b\\u0e31\\u0e0d\\u0e2b\\u0e32\\u0e21\\u0e31\\u0e19\\u0e08\\u0e30\\u0e08\\u0e1a&nbsp; \\u0e40\\u0e1e\\u0e23\\u0e32\\u0e30\\u0e2a\\u0e15\\u0e34\\u0e1b\\u0e31\\u0e0d\\u0e0d\\u0e32\\u0e17\\u0e35\\u0e48\\u0e21\\u0e31\\u0e19\\u0e23\\u0e39\\u0e49\\u0e41\\u0e08\\u0e49\\u0e07\\u0e15\\u0e23\\u0e07\\u0e19\\u0e31\\u0e49\\u0e19&nbsp; \\u0e21\\u0e31\\u0e19\\u0e08\\u0e30\\u0e41\\u0e01\\u0e49\\u0e1b\\u0e31\\u0e0d\\u0e2b\\u0e32\\u0e15\\u0e25\\u0e2d\\u0e14&nbsp; \\u0e40\\u0e1e\\u0e23\\u0e32\\u0e30\\u0e09\\u0e30\\u0e19\\u0e31\\u0e49\\u0e19\\u0e16\\u0e49\\u0e32\\u0e40\\u0e23\\u0e32\\u0e40\\u0e02\\u0e49\\u0e32\\u0e43\\u0e08\\u0e1b\\u0e23\\u0e30\\u0e42\\u0e22\\u0e04\\u0e19\\u0e35\\u0e49&nbsp; \\u0e17\\u0e35\\u0e48\\u0e1a\\u0e2d\\u0e01\\u0e27\\u0e48\\u0e32\\u0e15\\u0e49\\u0e2d\\u0e07\\u0e41\\u0e01\\u0e48\\u0e41\\u0e25\\u0e49\\u0e27\\u0e04\\u0e48\\u0e2d\\u0e22\\u0e40\\u0e02\\u0e49\\u0e32\\u0e27\\u0e31\\u0e14 \\u0e04\\u0e48\\u0e2d\\u0e22\\u0e1b\\u0e0f\\u0e34\\u0e1a\\u0e31\\u0e15\\u0e34\\u0e18\\u0e23\\u0e23\\u0e21&nbsp; \\u0e21\\u0e31\\u0e19\\u0e01\\u0e47\\u0e40\\u0e25\\u0e22\\u0e40\\u0e1b\\u0e47\\u0e19\\u0e04\\u0e27\\u0e32\\u0e21\\u0e40\\u0e2b\\u0e47\\u0e19\\u0e17\\u0e35\\u0e48\\u0e1c\\u0e34\\u0e14\\u0e44\\u0e07&nbsp; \\u0e18\\u0e23\\u0e23\\u0e21\\u0e30\\u0e40\\u0e1b\\u0e47\\u0e19\\u0e40\\u0e23\\u0e37\\u0e48\\u0e2d\\u0e07\\u0e02\\u0e2d\\u0e07\\u0e1e\\u0e23\\u0e30\\u0e0a\\u0e35&nbsp; \\u0e21\\u0e31\\u0e19\\u0e01\\u0e47\\u0e40\\u0e25\\u0e22\\u0e1c\\u0e34\\u0e14\\u0e44\\u0e07&nbsp;\\u0e40\\u0e1e\\u0e23\\u0e32\\u0e30\\u0e2d\\u0e30\\u0e44\\u0e23&nbsp; \\u0e40\\u0e1e\\u0e23\\u0e32\\u0e30\\u0e17\\u0e38\\u0e01\\u0e04\\u0e19\\u0e44\\u0e21\\u0e48\\u0e27\\u0e48\\u0e32\\u0e0d\\u0e32\\u0e15\\u0e34\\u0e42\\u0e22\\u0e21 \\u0e44\\u0e21\\u0e48\\u0e27\\u0e48\\u0e32\\u0e1e\\u0e23\\u0e30\\u0e0a\\u0e35&nbsp; \\u0e21\\u0e31\\u0e19\\u0e21\\u0e35\\u0e01\\u0e32\\u0e22\\u0e43\\u0e08\\u0e17\\u0e38\\u0e01\\u0e04\\u0e19\\u0e43\\u0e0a\\u0e48\\u0e44\\u0e2b\\u0e21&nbsp; \\u0e40\\u0e21\\u0e37\\u0e48\\u0e2d\\u0e21\\u0e35\\u0e21\\u0e31\\u0e19\\u0e01\\u0e47\\u0e15\\u0e49\\u0e2d\\u0e07\\u0e28\\u0e36\\u0e01\\u0e29\\u0e32&nbsp; \\u0e16\\u0e49\\u0e32\\u0e44\\u0e21\\u0e48\\u0e28\\u0e36\\u0e01\\u0e29\\u0e32 \\u0e1b\\u0e31\\u0e0d\\u0e2b\\u0e32\\u0e01\\u0e47\\u0e40\\u0e01\\u0e34\\u0e14&nbsp; \\u0e1b\\u0e31\\u0e0d\\u0e2b\\u0e32\\u0e17\\u0e35\\u0e48\\u0e40\\u0e01\\u0e34\\u0e14\\u0e01\\u0e47\\u0e04\\u0e37\\u0e2d&nbsp; \\u0e51. \\u0e01\\u0e47\\u0e04\\u0e37\\u0e2d\\u0e04\\u0e27\\u0e32\\u0e21\\u0e17\\u0e38\\u0e01\\u0e02\\u0e4c\\u0e43\\u0e08\\u0e19\\u0e31\\u0e48\\u0e19\\u0e40\\u0e2d\\u0e07&nbsp; \\u0e52. \\u0e40\\u0e21\\u0e37\\u0e48\\u0e2d\\u0e40\\u0e23\\u0e32\\u0e44\\u0e21\\u0e48\\u0e40\\u0e02\\u0e49\\u0e32\\u0e43\\u0e08\\u0e43\\u0e19\\u0e04\\u0e27\\u0e32\\u0e21\\u0e08\\u0e23\\u0e34\\u0e07\\u0e02\\u0e2d\\u0e07\\u0e01\\u0e32\\u0e22\\u0e43\\u0e08&nbsp; \\u0e04\\u0e27\\u0e32\\u0e21\\u0e1b\\u0e23\\u0e30\\u0e1e\\u0e24\\u0e15\\u0e34\\u0e01\\u0e32\\u0e23\\u0e1b\\u0e0f\\u0e34\\u0e1a\\u0e31\\u0e15\\u0e34\\u0e43\\u0e19\\u0e01\\u0e32\\u0e23\\u0e14\\u0e33\\u0e23\\u0e07\\u0e0a\\u0e35\\u0e27\\u0e34\\u0e15\\u0e1b\\u0e23\\u0e30\\u0e08\\u0e33\\u0e27\\u0e31\\u0e19\\u0e01\\u0e47\\u0e2d\\u0e32\\u0e08\\u0e08\\u0e30\\u0e1c\\u0e34\\u0e14\\u0e1e\\u0e25\\u0e32\\u0e14\\u0e44\\u0e14\\u0e49&nbsp; \\u0e1c\\u0e25\\u0e41\\u0e2b\\u0e48\\u0e07\\u0e01\\u0e32\\u0e23\\u0e1c\\u0e34\\u0e14\\u0e1e\\u0e25\\u0e32\\u0e14\\u0e15\\u0e23\\u0e07\\u0e19\\u0e31\\u0e49\\u0e19&nbsp; \\u0e01\\u0e47\\u0e40\\u0e1b\\u0e47\\u0e19\\u0e1b\\u0e31\\u0e0d\\u0e2b\\u0e32\\u0e15\\u0e48\\u0e2d\\u0e40\\u0e23\\u0e32\\u0e19\\u0e31\\u0e48\\u0e19\\u0e40\\u0e2d\\u0e07\\u0e17\\u0e35\\u0e48\\u0e15\\u0e49\\u0e2d\\u0e07\\u0e44\\u0e1b\\u0e41\\u0e01\\u0e49&nbsp; \\u0e19\\u0e35\\u0e48 \\u0e40\\u0e2b\\u0e15\\u0e38\\u0e19\\u0e31\\u0e49\\u0e19\\u0e16\\u0e49\\u0e32\\u0e40\\u0e23\\u0e32\\u0e40\\u0e02\\u0e49\\u0e32\\u0e43\\u0e08\\u0e1b\\u0e23\\u0e30\\u0e42\\u0e22\\u0e04\\u0e19\\u0e35\\u0e49\\u0e19\\u0e35\\u0e48&nbsp; \\u0e18\\u0e23\\u0e23\\u0e21\\u0e30\\u0e21\\u0e31\\u0e19\\u0e40\\u0e1b\\u0e47\\u0e19\\u0e40\\u0e23\\u0e37\\u0e48\\u0e2d\\u0e07\\u0e02\\u0e2d\\u0e07\\u0e17\\u0e38\\u0e01\\u0e04\\u0e19\\u0e17\\u0e35\\u0e48\\u0e21\\u0e35\\u0e01\\u0e32\\u0e22\\u0e43\\u0e08&nbsp; \\u0e21\\u0e31\\u0e19\\u0e40\\u0e1b\\u0e47\\u0e19\\u0e40\\u0e23\\u0e37\\u0e48\\u0e2d\\u0e07\\u0e02\\u0e2d\\u0e07\\u0e15\\u0e31\\u0e49\\u0e07\\u0e41\\u0e15\\u0e48\\u0e40\\u0e14\\u0e47\\u0e01\\u0e08\\u0e19\\u0e16\\u0e36\\u0e07\\u0e04\\u0e19\\u0e41\\u0e01\\u0e48&nbsp; \\u0e21\\u0e31\\u0e19\\u0e44\\u0e21\\u0e48\\u0e44\\u0e14\\u0e49\\u0e40\\u0e01\\u0e35\\u0e48\\u0e22\\u0e27\\u0e27\\u0e48\\u0e32\\u0e15\\u0e49\\u0e2d\\u0e07\\u0e41\\u0e01\\u0e48\\u0e41\\u0e25\\u0e49\\u0e27\\u0e04\\u0e48\\u0e2d\\u0e22\\u0e40\\u0e02\\u0e49\\u0e32\\u0e27\\u0e31\\u0e14&nbsp; \\u0e21\\u0e31\\u0e19\\u0e44\\u0e21\\u0e48\\u0e44\\u0e14\\u0e49\\u0e40\\u0e01\\u0e35\\u0e48\\u0e22\\u0e27\\u0e27\\u0e48\\u0e32\\u0e15\\u0e49\\u0e2d\\u0e07\\u0e1e\\u0e23\\u0e30\\u0e0a\\u0e35\\u0e41\\u0e25\\u0e49\\u0e27\\u0e15\\u0e49\\u0e2d\\u0e07\\u0e1b\\u0e0f\\u0e34\\u0e1a\\u0e31\\u0e15\\u0e34\\u0e18\\u0e23\\u0e23\\u0e21&nbsp; \\u0e0d\\u0e32\\u0e15\\u0e34\\u0e42\\u0e22\\u0e21\\u0e44\\u0e21\\u0e48\\u0e15\\u0e49\\u0e2d\\u0e07\\u0e1b\\u0e0f\\u0e34\\u0e1a\\u0e31\\u0e15\\u0e34\\u0e18\\u0e23\\u0e23\\u0e21&nbsp; \\u0e44\\u0e21\\u0e48\\u0e43\\u0e0a\\u0e48&nbsp;\\u0e01\\u0e32\\u0e23\\u0e1b\\u0e0f\\u0e34\\u0e1a\\u0e31\\u0e15\\u0e34\\u0e18\\u0e23\\u0e23\\u0e21\\u0e04\\u0e37\\u0e2d\\u0e01\\u0e32\\u0e23\\u0e21\\u0e32\\u0e28\\u0e36\\u0e01\\u0e29\\u0e32\\u0e01\\u0e32\\u0e22\\u0e43\\u0e08&nbsp; \\u0e43\\u0e2b\\u0e49\\u0e23\\u0e39\\u0e49\\u0e04\\u0e27\\u0e32\\u0e21\\u0e08\\u0e23\\u0e34\\u0e07\\u0e02\\u0e2d\\u0e07\\u0e01\\u0e32\\u0e22\\u0e43\\u0e08\\u0e15\\u0e32\\u0e21\\u0e04\\u0e27\\u0e32\\u0e21\\u0e40\\u0e1b\\u0e47\\u0e19\\u0e08\\u0e23\\u0e34\\u0e07\\u0e02\\u0e2d\\u0e07\\u0e21\\u0e31\\u0e19\\u0e19\\u0e48\\u0e30&nbsp; \\u0e19\\u0e35\\u0e48\\u0e04\\u0e37\\u0e2d\\u0e01\\u0e32\\u0e23\\u0e1b\\u0e0f\\u0e34\\u0e1a\\u0e31\\u0e15\\u0e34\\u0e18\\u0e23\\u0e23\\u0e21&nbsp; \\u0e40\\u0e21\\u0e37\\u0e48\\u0e2d\\u0e40\\u0e23\\u0e32\\u0e40\\u0e02\\u0e49\\u0e32\\u0e43\\u0e08\\u0e15\\u0e23\\u0e07\\u0e19\\u0e35\\u0e49&nbsp;\\u0e40\\u0e23\\u0e32\\u0e01\\u0e47\\u0e2a\\u0e32\\u0e21\\u0e32\\u0e23\\u0e16\\u0e17\\u0e35\\u0e48\\u0e08\\u0e30\\u0e14\\u0e33\\u0e23\\u0e07\\u0e0a\\u0e35\\u0e27\\u0e34\\u0e15\\u0e2d\\u0e22\\u0e39\\u0e48\\u0e15\\u0e32\\u0e21\\u0e2d\\u0e31\\u0e15\\u0e20\\u0e32\\u0e1e\\u0e14\\u0e49\\u0e27\\u0e22\\u0e04\\u0e27\\u0e32\\u0e21\\u0e44\\u0e21\\u0e48\\u0e17\\u0e38\\u0e01\\u0e02\\u0e4c&nbsp; \\u0e2b\\u0e23\\u0e37\\u0e2d\\u0e17\\u0e38\\u0e01\\u0e02\\u0e4c\\u0e19\\u0e49\\u0e2d\\u0e22&nbsp;\\u0e17\\u0e38\\u0e01\\u0e02\\u0e4c\\u0e19\\u0e35\\u0e49\\u0e40\\u0e23\\u0e35\\u0e22\\u0e01\\u0e27\\u0e48\\u0e32\\u0e17\\u0e38\\u0e01\\u0e02\\u0e4c\\u0e43\\u0e08\\u0e19\\u0e30&nbsp;\\u0e44\\u0e21\\u0e48\\u0e43\\u0e0a\\u0e48\\u0e17\\u0e38\\u0e01\\u0e02\\u0e4c\\u0e01\\u0e32\\u0e22&nbsp;\\u0e17\\u0e38\\u0e01\\u0e02\\u0e4c\\u0e01\\u0e32\\u0e22\\u0e19\\u0e48\\u0e30\\u0e21\\u0e31\\u0e19\\u0e21\\u0e35\\u0e2d\\u0e22\\u0e39\\u0e48\\u0e1b\\u0e23\\u0e30\\u0e08\\u0e33\\u0e2a\\u0e31\\u0e07\\u0e02\\u0e32\\u0e23&nbsp;\\u0e40\\u0e27\\u0e25\\u0e32\\u0e1b\\u0e48\\u0e27\\u0e22\\u0e40\\u0e27\\u0e25\\u0e32\\u0e2d\\u0e30\\u0e44\\u0e23&nbsp; \\u0e2d\\u0e31\\u0e19\\u0e19\\u0e35\\u0e49\\u0e15\\u0e49\\u0e2d\\u0e07\\u0e44\\u0e1b\\u0e2b\\u0e32\\u0e2b\\u0e21\\u0e2d&nbsp; \\u0e41\\u0e15\\u0e48\\u0e17\\u0e38\\u0e01\\u0e02\\u0e4c\\u0e43\\u0e08\\u0e19\\u0e35\\u0e49\\u0e2b\\u0e32\\u0e2b\\u0e21\\u0e2d\\u0e01\\u0e47\\u0e41\\u0e01\\u0e49\\u0e44\\u0e21\\u0e48\\u0e44\\u0e14\\u0e49&nbsp; \\u0e21\\u0e31\\u0e19\\u0e15\\u0e49\\u0e2d\\u0e07\\u0e41\\u0e01\\u0e49\\u0e14\\u0e49\\u0e27\\u0e22\\u0e2a\\u0e15\\u0e34\\u0e1b\\u0e31\\u0e0d\\u0e0d\\u0e32\\u0e40\\u0e02\\u0e49\\u0e32\\u0e43\\u0e08\\u0e43\\u0e19\\u0e15\\u0e19\\u0e40\\u0e2d\\u0e07&nbsp; \\u0e2d\\u0e31\\u0e19\\u0e19\\u0e35\\u0e49\\u0e40\\u0e23\\u0e35\\u0e22\\u0e01\\u0e27\\u0e48\\u0e32\\u0e28\\u0e36\\u0e01\\u0e29\\u0e32\\u0e2b\\u0e32\\u0e04\\u0e27\\u0e32\\u0e21\\u0e08\\u0e23\\u0e34\\u0e07\\u0e04\\u0e37\\u0e2d\\u0e15\\u0e31\\u0e27\\u0e18\\u0e23\\u0e23\\u0e21\\u0e30\\u0e19\\u0e31\\u0e48\\u0e19\\u0e40\\u0e2d\\u0e07&nbsp; \\u0e19\\u0e35\\u0e48\\u0e43\\u0e2b\\u0e49\\u0e40\\u0e02\\u0e49\\u0e32\\u0e43\\u0e08&nbsp;\\u0e40\\u0e21\\u0e37\\u0e48\\u0e2d\\u0e40\\u0e02\\u0e49\\u0e32\\u0e43\\u0e08\\u0e08\\u0e38\\u0e14\\u0e19\\u0e35\\u0e49\\u0e41\\u0e25\\u0e49\\u0e27&nbsp;\\u0e1a\\u0e32\\u0e07\\u0e04\\u0e19\\u0e01\\u0e47\\u0e1a\\u0e2d\\u0e01\\u0e27\\u0e48\\u0e32 \\u0e1c\\u0e21\\u0e19\\u0e48\\u0e30\\u0e44\\u0e21\\u0e48\\u0e21\\u0e35\\u0e40\\u0e27\\u0e25\\u0e32\\u0e1b\\u0e0f\\u0e34\\u0e1a\\u0e31\\u0e15\\u0e34\\u0e18\\u0e23\\u0e23\\u0e21&nbsp;\\u0e07\\u0e32\\u0e19\\u0e1c\\u0e21\\u0e22\\u0e38\\u0e48\\u0e07&nbsp; \\u0e2d\\u0e31\\u0e19\\u0e19\\u0e35\\u0e49\\u0e01\\u0e47\\u0e40\\u0e02\\u0e49\\u0e32\\u0e43\\u0e08\\u0e1c\\u0e34\\u0e14&nbsp; \\u0e40\\u0e1e\\u0e23\\u0e32\\u0e30\\u0e2d\\u0e30\\u0e44\\u0e23&nbsp;\\u0e40\\u0e1e\\u0e23\\u0e32\\u0e30\\u0e40\\u0e23\\u0e32\\u0e21\\u0e35\\u0e25\\u0e21\\u0e2b\\u0e32\\u0e22\\u0e43\\u0e08\\u0e40\\u0e02\\u0e49\\u0e32\\u0e2d\\u0e2d\\u0e01&nbsp;\\u0e21\\u0e35\\u0e02\\u0e49\\u0e32\\u0e23\\u0e32\\u0e0a\\u0e01\\u0e32\\u0e23\\u0e01\\u0e23\\u0e30\\u0e17\\u0e23\\u0e27\\u0e07\\u0e21\\u0e2b\\u0e32\\u0e14\\u0e44\\u0e17\\u0e22\\u0e44\\u0e1b\\u0e01\\u0e23\\u0e32\\u0e1a\\u0e2b\\u0e25\\u0e27\\u0e07\\u0e1b\\u0e39\\u0e48\\u0e14\\u0e39\\u0e25\\u0e22\\u0e4c&nbsp; \\u0e41\\u0e25\\u0e49\\u0e27\\u0e17\\u0e48\\u0e32\\u0e19\\u0e01\\u0e47\\u0e16\\u0e32\\u0e21\\u0e27\\u0e48\\u0e32 \\u0e44\\u0e14\\u0e49\\u0e20\\u0e32\\u0e27\\u0e19\\u0e32\\u0e44\\u0e2b\\u0e21&nbsp; \\u0e02\\u0e49\\u0e32\\u0e23\\u0e32\\u0e0a\\u0e01\\u0e32\\u0e23\\u0e1c\\u0e39\\u0e49\\u0e19\\u0e31\\u0e49\\u0e19\\u0e40\\u0e1b\\u0e47\\u0e19\\u0e02\\u0e49\\u0e32\\u0e23\\u0e32\\u0e0a\\u0e01\\u0e32\\u0e23\\u0e1c\\u0e39\\u0e49\\u0e43\\u0e2b\\u0e0d\\u0e48&nbsp; \\u0e07\\u0e32\\u0e19\\u0e40\\u0e22\\u0e2d\\u0e30&nbsp;\\u0e01\\u0e47\\u0e1a\\u0e2d\\u0e01\\u0e27\\u0e48\\u0e32\\u0e44\\u0e21\\u0e48\\u0e21\\u0e35\\u0e40\\u0e27\\u0e25\\u0e32\\u0e20\\u0e32\\u0e27\\u0e19\\u0e32\\u0e40\\u0e25\\u0e22&nbsp;\\u0e07\\u0e32\\u0e19\\u0e22\\u0e38\\u0e48\\u0e07\\u0e21\\u0e32\\u0e01&nbsp; \\u0e2b\\u0e25\\u0e27\\u0e07\\u0e1b\\u0e39\\u0e48\\u0e08\\u0e36\\u0e07\\u0e16\\u0e32\\u0e21\\u0e01\\u0e25\\u0e31\\u0e1a\\u0e27\\u0e48\\u0e32 \\u0e2d\\u0e22\\u0e48\\u0e32\\u0e07\\u0e19\\u0e31\\u0e49\\u0e19\\u0e42\\u0e22\\u0e21\\u0e21\\u0e35\\u0e40\\u0e27\\u0e25\\u0e32\\u0e2b\\u0e32\\u0e22\\u0e43\\u0e08\\u0e40\\u0e02\\u0e49\\u0e32\\u0e2d\\u0e2d\\u0e01\\u0e44\\u0e2b\\u0e21&nbsp; \\u0e40\\u0e02\\u0e32\\u0e01\\u0e47\\u0e15\\u0e2d\\u0e1a\\u0e27\\u0e48\\u0e32\\u0e21\\u0e35&nbsp;\\u0e16\\u0e49\\u0e32\\u0e42\\u0e22\\u0e21\\u0e21\\u0e35\\u0e40\\u0e27\\u0e25\\u0e32\\u0e2b\\u0e32\\u0e22\\u0e43\\u0e08\\u0e40\\u0e02\\u0e49\\u0e32\\u0e2d\\u0e2d\\u0e01&nbsp;\\u0e42\\u0e22\\u0e21\\u0e01\\u0e47\\u0e21\\u0e35\\u0e40\\u0e27\\u0e25\\u0e32\\u0e1b\\u0e0f\\u0e34\\u0e1a\\u0e31\\u0e15\\u0e34\\u0e18\\u0e23\\u0e23\\u0e21&nbsp;\\u0e2d\\u0e31\\u0e19\\u0e19\\u0e35\\u0e49\\u0e17\\u0e48\\u0e32\\u0e19\\u0e44\\u0e21\\u0e48\\u0e44\\u0e14\\u0e49\\u0e1e\\u0e39\\u0e14\\u0e41\\u0e1a\\u0e1a\\u0e22\\u0e2d\\u0e01\\u0e22\\u0e49\\u0e2d\\u0e19\\u0e19\\u0e30&nbsp;\\u0e17\\u0e48\\u0e32\\u0e19\\u0e1e\\u0e39\\u0e14\\u0e04\\u0e27\\u0e32\\u0e21\\u0e08\\u0e23\\u0e34\\u0e07&nbsp;\\u0e41\\u0e15\\u0e48\\u0e17\\u0e48\\u0e32\\u0e19\\u0e44\\u0e21\\u0e48\\u0e02\\u0e22\\u0e32\\u0e22\\u0e04\\u0e27\\u0e32\\u0e21&nbsp;\\u0e2d\\u0e32\\u0e15\\u0e21\\u0e32\\u0e08\\u0e36\\u0e07\\u0e21\\u0e32\\u0e02\\u0e22\\u0e32\\u0e22\\u0e04\\u0e27\\u0e32\\u0e21\\u0e43\\u0e2b\\u0e49\\u0e1f\\u0e31\\u0e07&nbsp;\\u0e40\\u0e21\\u0e37\\u0e48\\u0e2d\\u0e40\\u0e23\\u0e32\\u0e21\\u0e35\\u0e04\\u0e27\\u0e32\\u0e21\\u0e23\\u0e39\\u0e49\\u0e2a\\u0e36\\u0e01\\u0e15\\u0e31\\u0e27\\u0e15\\u0e37\\u0e48\\u0e19\\u0e02\\u0e36\\u0e49\\u0e19\\u0e21\\u0e32&nbsp;\\u0e15\\u0e31\\u0e49\\u0e07\\u0e41\\u0e15\\u0e48\\u0e15\\u0e37\\u0e48\\u0e19\\u0e08\\u0e19\\u0e16\\u0e36\\u0e07\\u0e25\\u0e07\\u0e19\\u0e2d\\u0e19&nbsp;\\u0e40\\u0e23\\u0e32\\u0e21\\u0e35\\u0e04\\u0e27\\u0e32\\u0e21\\u0e23\\u0e39\\u0e49\\u0e2a\\u0e36\\u0e01\\u0e15\\u0e31\\u0e27&nbsp;\\u0e23\\u0e39\\u0e49\\u0e40\\u0e23\\u0e37\\u0e48\\u0e2d\\u0e07\\u0e01\\u0e32\\u0e22\\u0e23\\u0e39\\u0e49\\u0e40\\u0e23\\u0e37\\u0e48\\u0e2d\\u0e07\\u0e43\\u0e08\\u0e15\\u0e19\\u0e40\\u0e2d\\u0e07\\u0e19\\u0e48\\u0e30&nbsp;\\u0e16\\u0e49\\u0e32\\u0e40\\u0e23\\u0e32\\u0e21\\u0e35\\u0e2a\\u0e15\\u0e34\\u0e23\\u0e30\\u0e25\\u0e36\\u0e01\\u0e23\\u0e39\\u0e49&nbsp; \\u0e21\\u0e35\\u0e2a\\u0e15\\u0e34\\u0e15\\u0e31\\u0e49\\u0e07\\u0e21\\u0e31\\u0e48\\u0e19\\u0e2d\\u0e22\\u0e39\\u0e48\\u0e17\\u0e35\\u0e48\\u0e01\\u0e32\\u0e22\\u0e43\\u0e08&nbsp; \\u0e2a\\u0e21\\u0e32\\u0e18\\u0e34\\u0e21\\u0e31\\u0e19\\u0e08\\u0e30\\u0e40\\u0e01\\u0e34\\u0e14&nbsp; \\u0e40\\u0e21\\u0e37\\u0e48\\u0e2d\\u0e2a\\u0e21\\u0e32\\u0e18\\u0e34\\u0e40\\u0e01\\u0e34\\u0e14&nbsp;\\u0e40\\u0e23\\u0e32\\u0e01\\u0e47\\u0e08\\u0e30\\u0e21\\u0e35\\u0e1b\\u0e31\\u0e0d\\u0e0d\\u0e32\\u0e2a\\u0e31\\u0e07\\u0e40\\u0e01\\u0e15\\u0e2d\\u0e30\\u0e44\\u0e23\\u0e17\\u0e35\\u0e48\\u0e21\\u0e31\\u0e19\\u0e40\\u0e01\\u0e34\\u0e14\\u0e02\\u0e36\\u0e49\\u0e19\\u0e43\\u0e19\\u0e01\\u0e32\\u0e22\\u0e43\\u0e19\\u0e43\\u0e08\\u0e40\\u0e23\\u0e32&nbsp; \\u0e08\\u0e30\\u0e40\\u0e2b\\u0e47\\u0e19\\u0e02\\u0e1a\\u0e27\\u0e19\\u0e01\\u0e32\\u0e23\\u0e02\\u0e2d\\u0e07\\u0e21\\u0e31\\u0e19&nbsp; \\u0e28\\u0e36\\u0e01\\u0e29\\u0e32\\u0e2b\\u0e32\\u0e04\\u0e27\\u0e32\\u0e21\\u0e08\\u0e23\\u0e34\\u0e07\\u0e02\\u0e2d\\u0e07\\u0e21\\u0e31\\u0e19\\u0e19\\u0e31\\u0e48\\u0e19\\u0e40\\u0e2d\\u0e07&nbsp; \\u0e40\\u0e21\\u0e37\\u0e48\\u0e2d\\u0e28\\u0e36\\u0e01\\u0e29\\u0e32\\u0e2b\\u0e32\\u0e04\\u0e27\\u0e32\\u0e21\\u0e08\\u0e23\\u0e34\\u0e07\\u0e02\\u0e2d\\u0e07\\u0e21\\u0e31\\u0e19&nbsp; \\u0e21\\u0e31\\u0e19\\u0e08\\u0e30\\u0e40\\u0e02\\u0e49\\u0e32\\u0e43\\u0e08\\u0e44\\u0e07&nbsp;\\u0e40\\u0e21\\u0e37\\u0e48\\u0e2d\\u0e40\\u0e02\\u0e49\\u0e32\\u0e43\\u0e08\\u0e41\\u0e25\\u0e49\\u0e27&nbsp; \\u0e21\\u0e31\\u0e19\\u0e08\\u0e30\\u0e17\\u0e33\\u0e43\\u0e2b\\u0e49\\u0e01\\u0e32\\u0e23\\u0e17\\u0e35\\u0e48\\u0e40\\u0e23\\u0e32\\u0e08\\u0e30\\u0e1b\\u0e0f\\u0e34\\u0e1a\\u0e31\\u0e15\\u0e34\\u0e43\\u0e19\\u0e15\\u0e19\\u0e40\\u0e2d\\u0e07\\u0e41\\u0e25\\u0e30\\u0e1c\\u0e39\\u0e49\\u0e2d\\u0e37\\u0e48\\u0e19\\u0e17\\u0e35\\u0e48\\u0e21\\u0e32\\u0e2a\\u0e31\\u0e21\\u0e1c\\u0e31\\u0e2a\\u0e2a\\u0e31\\u0e21\\u0e1e\\u0e31\\u0e19\\u0e18\\u0e4c\\u0e01\\u0e31\\u0e19\\u0e16\\u0e39\\u0e01\\u0e15\\u0e49\\u0e2d\\u0e07&nbsp; \\u0e19\\u0e35\\u0e48 \\u0e2d\\u0e31\\u0e19\\u0e19\\u0e35\\u0e49\\u0e43\\u0e2b\\u0e49\\u0e40\\u0e02\\u0e49\\u0e32\\u0e43\\u0e08\\u0e43\\u0e2b\\u0e49\\u0e16\\u0e39\\u0e01\\u0e15\\u0e49\\u0e2d\\u0e07&nbsp; \\u0e40\\u0e1e\\u0e23\\u0e32\\u0e30\\u0e09\\u0e30\\u0e19\\u0e31\\u0e49\\u0e19\\u0e40\\u0e2b\\u0e15\\u0e38\\u0e19\\u0e31\\u0e49\\u0e19\\u0e19\\u0e35\\u0e48&nbsp; \\u0e40\\u0e21\\u0e37\\u0e48\\u0e2d\\u0e40\\u0e23\\u0e32\\u0e21\\u0e35\\u0e04\\u0e27\\u0e32\\u0e21\\u0e23\\u0e39\\u0e49\\u0e2a\\u0e36\\u0e01&nbsp; \\u0e15\\u0e37\\u0e48\\u0e19\\u0e02\\u0e36\\u0e49\\u0e19\\u0e21\\u0e32\\u0e15\\u0e31\\u0e49\\u0e07\\u0e41\\u0e15\\u0e48\\u0e15\\u0e37\\u0e48\\u0e19\\u0e19\\u0e2d\\u0e19\\u0e16\\u0e36\\u0e07\\u0e25\\u0e07\\u0e19\\u0e2d\\u0e19&nbsp; \\u0e40\\u0e23\\u0e32\\u0e22\\u0e31\\u0e07\\u0e2b\\u0e32\\u0e22\\u0e43\\u0e08\\u0e2d\\u0e22\\u0e39\\u0e48&nbsp; \\u0e17\\u0e38\\u0e01\\u0e40\\u0e27\\u0e25\\u0e32\\u0e19\\u0e31\\u0e49\\u0e19\\u0e25\\u0e48\\u0e30&nbsp; \\u0e40\\u0e21\\u0e37\\u0e48\\u0e2d\\u0e40\\u0e23\\u0e32\\u0e21\\u0e35\\u0e2a\\u0e15\\u0e34\\u0e23\\u0e30\\u0e25\\u0e36\\u0e01\\u0e23\\u0e39\\u0e49\\u0e2d\\u0e22\\u0e39\\u0e48&nbsp; \\u0e08\\u0e30\\u0e40\\u0e14\\u0e34\\u0e19\\u0e01\\u0e47\\u0e23\\u0e39\\u0e49 \\u0e08\\u0e30\\u0e19\\u0e31\\u0e48\\u0e07\\u0e01\\u0e47\\u0e23\\u0e39\\u0e49 \\u0e08\\u0e30\\u0e01\\u0e34\\u0e19\\u0e01\\u0e47\\u0e23\\u0e39\\u0e49&nbsp; \\u0e08\\u0e30\\u0e17\\u0e33\\u0e07\\u0e32\\u0e19\\u0e17\\u0e33\\u0e01\\u0e34\\u0e08\\u0e01\\u0e23\\u0e23\\u0e21\\u0e2d\\u0e30\\u0e44\\u0e23\\u0e43\\u0e2b\\u0e49\\u0e21\\u0e35\\u0e2a\\u0e15\\u0e34\\u0e15\\u0e32\\u0e21\\u0e23\\u0e30\\u0e25\\u0e36\\u0e01\\u0e23\\u0e39\\u0e49\\u0e2d\\u0e22\\u0e39\\u0e48&nbsp; \\u0e08\\u0e30\\u0e04\\u0e34\\u0e14\\u0e19\\u0e36\\u0e01\\u0e41\\u0e1e\\u0e25\\u0e19\\u0e07\\u0e32\\u0e19\\u0e01\\u0e47\\u0e43\\u0e2b\\u0e49\\u0e21\\u0e35\\u0e2a\\u0e15\\u0e34\\u0e23\\u0e30\\u0e25\\u0e36\\u0e01\\u0e23\\u0e39\\u0e49\\u0e01\\u0e32\\u0e23\\u0e04\\u0e34\\u0e14\\u0e19\\u0e36\\u0e01&nbsp; \\u0e23\\u0e39\\u0e49\\u0e16\\u0e36\\u0e07\\u0e07\\u0e32\\u0e19\\u0e40\\u0e1b\\u0e49\\u0e32\\u0e2b\\u0e21\\u0e32\\u0e22\\u0e17\\u0e35\\u0e48\\u0e40\\u0e23\\u0e32\\u0e17\\u0e33\\u0e19\\u0e48\\u0e30&nbsp; \\u0e17\\u0e33\\u0e44\\u0e1b\\u0e40\\u0e1e\\u0e37\\u0e48\\u0e2d\\u0e2d\\u0e30\\u0e44\\u0e23&nbsp;\\u0e40\\u0e2b\\u0e15\\u0e38\\u0e1c\\u0e25\\u0e2d\\u0e22\\u0e39\\u0e48\\u0e15\\u0e23\\u0e07\\u0e44\\u0e2b\\u0e19&nbsp;\\u0e2a\\u0e15\\u0e34\\u0e19\\u0e31\\u0e49\\u0e19\\u0e08\\u0e30\\u0e17\\u0e33\\u0e07\\u0e32\\u0e19\\u0e2d\\u0e22\\u0e39\\u0e48&nbsp;\\u0e40\\u0e21\\u0e37\\u0e48\\u0e2d\\u0e2a\\u0e15\\u0e34\\u0e15\\u0e32\\u0e21\\u0e23\\u0e30\\u0e25\\u0e36\\u0e01\\u0e23\\u0e39\\u0e49&nbsp;\\u0e08\\u0e30\\u0e23\\u0e39\\u0e49\\u0e17\\u0e31\\u0e49\\u0e07\\u0e2a\\u0e48\\u0e27\\u0e19\\u0e02\\u0e2d\\u0e07\\u0e07\\u0e32\\u0e19\\u0e20\\u0e32\\u0e22\\u0e19\\u0e2d\\u0e01&nbsp;\\u0e08\\u0e30\\u0e23\\u0e30\\u0e25\\u0e36\\u0e01\\u0e23\\u0e39\\u0e49\\u0e16\\u0e36\\u0e07\\u0e15\\u0e31\\u0e27\\u0e04\\u0e34\\u0e14\\u0e19\\u0e36\\u0e01\\u0e17\\u0e35\\u0e48\\u0e21\\u0e31\\u0e19\\u0e44\\u0e1b\\u0e1e\\u0e34\\u0e08\\u0e32\\u0e23\\u0e13\\u0e32\\u0e07\\u0e32\\u0e19\\u0e20\\u0e32\\u0e22\\u0e19\\u0e2d\\u0e01&nbsp; \\u0e40\\u0e21\\u0e37\\u0e48\\u0e2d\\u0e23\\u0e39\\u0e49\\u0e04\\u0e27\\u0e32\\u0e21\\u0e08\\u0e23\\u0e34\\u0e07\\u0e15\\u0e23\\u0e07\\u0e19\\u0e35\\u0e49&nbsp; \\u0e16\\u0e49\\u0e32\\u0e2a\\u0e15\\u0e34\\u0e21\\u0e31\\u0e19\\u0e21\\u0e35\\u0e1e\\u0e25\\u0e31\\u0e07&nbsp; \\u0e07\\u0e32\\u0e19\\u0e20\\u0e32\\u0e22\\u0e19\\u0e2d\\u0e01\\u0e01\\u0e47\\u0e2a\\u0e31\\u0e21\\u0e24\\u0e17\\u0e18\\u0e34\\u0e4c\\u0e1c\\u0e25&nbsp; \\u0e40\\u0e21\\u0e37\\u0e48\\u0e2d\\u0e04\\u0e34\\u0e14\\u0e19\\u0e36\\u0e01\\u0e08\\u0e1a\\u0e44\\u0e1b&nbsp; \\u0e21\\u0e31\\u0e19\\u0e01\\u0e47\\u0e40\\u0e2b\\u0e47\\u0e19\\u0e04\\u0e27\\u0e32\\u0e21\\u0e04\\u0e34\\u0e14\\u0e40\\u0e01\\u0e34\\u0e14\\u0e41\\u0e25\\u0e49\\u0e27\\u0e01\\u0e47\\u0e14\\u0e31\\u0e1a\\u0e2d\\u0e35\\u0e01&nbsp; \\u0e44\\u0e14\\u0e49\\u0e17\\u0e31\\u0e49\\u0e07\\u0e07\\u0e32\\u0e19\\u0e20\\u0e32\\u0e22\\u0e19\\u0e2d\\u0e01&nbsp; \\u0e44\\u0e14\\u0e49\\u0e17\\u0e31\\u0e49\\u0e07\\u0e40\\u0e2b\\u0e47\\u0e19\\u0e04\\u0e27\\u0e32\\u0e21\\u0e08\\u0e23\\u0e34\\u0e07\\u0e02\\u0e2d\\u0e07\\u0e04\\u0e27\\u0e32\\u0e21\\u0e04\\u0e34\\u0e14&nbsp; \\u0e21\\u0e31\\u0e19\\u0e01\\u0e47\\u0e44\\u0e21\\u0e48\\u0e40\\u0e17\\u0e35\\u0e48\\u0e22\\u0e07&nbsp; \\u0e21\\u0e31\\u0e19\\u0e44\\u0e21\\u0e48\\u0e43\\u0e0a\\u0e48\\u0e02\\u0e2d\\u0e07\\u0e40\\u0e23\\u0e32\\u0e19\\u0e31\\u0e48\\u0e19\\u0e40\\u0e2d\\u0e07&nbsp; \\u0e40\\u0e1e\\u0e23\\u0e32\\u0e30\\u0e2a\\u0e34\\u0e48\\u0e07\\u0e17\\u0e35\\u0e48\\u0e21\\u0e31\\u0e19\\u0e40\\u0e01\\u0e34\\u0e14\\u0e21\\u0e31\\u0e19\\u0e14\\u0e31\\u0e1a&nbsp; \\u0e21\\u0e31\\u0e19\\u0e04\\u0e07\\u0e2d\\u0e22\\u0e39\\u0e48\\u0e44\\u0e21\\u0e48\\u0e44\\u0e14\\u0e49&nbsp; \\u0e21\\u0e31\\u0e19\\u0e01\\u0e47\\u0e44\\u0e21\\u0e48\\u0e43\\u0e0a\\u0e48\\u0e15\\u0e31\\u0e27\\u0e40\\u0e23\\u0e32&nbsp; \\u0e40\\u0e21\\u0e37\\u0e48\\u0e2d\\u0e40\\u0e2b\\u0e47\\u0e19\\u0e2d\\u0e22\\u0e48\\u0e32\\u0e07\\u0e19\\u0e35\\u0e49\\u0e04\\u0e27\\u0e32\\u0e21\\u0e17\\u0e38\\u0e01\\u0e02\\u0e4c\\u0e43\\u0e08\\u0e01\\u0e47\\u0e44\\u0e21\\u0e48\\u0e21\\u0e35&nbsp; \\u0e01\\u0e32\\u0e23\\u0e07\\u0e32\\u0e19\\u0e01\\u0e47\\u0e40\\u0e25\\u0e22\\u0e17\\u0e33\\u0e14\\u0e49\\u0e27\\u0e22\\u0e2a\\u0e15\\u0e34\\u0e1b\\u0e31\\u0e0d\\u0e0d\\u0e32\\u0e2d\\u0e32\\u0e28\\u0e31\\u0e22&nbsp; \\u0e17\\u0e33\\u0e44\\u0e21\\u0e15\\u0e49\\u0e2d\\u0e07\\u0e17\\u0e33\\u0e07\\u0e32\\u0e19&nbsp;\\u0e2d\\u0e31\\u0e19\\u0e19\\u0e35\\u0e49\\u0e40\\u0e23\\u0e32\\u0e15\\u0e49\\u0e2d\\u0e07\\u0e1e\\u0e34\\u0e08\\u0e32\\u0e23\\u0e13\\u0e32&nbsp;\\u0e1e\\u0e23\\u0e30\\u0e1c\\u0e39\\u0e49\\u0e21\\u0e35\\u0e1e\\u0e23\\u0e30\\u0e20\\u0e32\\u0e04\\u0e40\\u0e08\\u0e49\\u0e32\\u0e40\\u0e21\\u0e37\\u0e48\\u0e2d\\u0e20\\u0e34\\u0e01\\u0e29\\u0e38\\u0e1a\\u0e27\\u0e0a&nbsp;\\u0e17\\u0e48\\u0e32\\u0e19\\u0e1a\\u0e2d\\u0e01\\u0e27\\u0e48\\u0e32\\u0e19\\u0e34\\u0e2a\\u0e31\\u0e22 \\u0e54&nbsp; \\u0e19\\u0e34\\u0e2a\\u0e31\\u0e22 \\u0e54 \\u0e40\\u0e1b\\u0e47\\u0e19\\u0e40\\u0e04\\u0e23\\u0e37\\u0e48\\u0e2d\\u0e07\\u0e2d\\u0e32\\u0e28\\u0e31\\u0e22\\u0e02\\u0e2d\\u0e07\\u0e2a\\u0e21\\u0e13\\u0e30&nbsp; \\u0e04\\u0e37\\u0e2d \\u0e51. \\u0e1a\\u0e34\\u0e13\\u0e11\\u0e1a\\u0e32\\u0e15&nbsp; \\u0e40\\u0e25\\u0e35\\u0e49\\u0e22\\u0e07\\u0e0a\\u0e35\\u0e1e\\u0e14\\u0e49\\u0e27\\u0e22\\u0e1b\\u0e25\\u0e35\\u0e41\\u0e02\\u0e49\\u0e07&nbsp; \\u0e2b\\u0e32\\u0e14\\u0e49\\u0e27\\u0e22\\u0e25\\u0e33\\u0e41\\u0e02\\u0e49\\u0e07\\u0e02\\u0e2d\\u0e07\\u0e15\\u0e31\\u0e27\\u0e40\\u0e2d\\u0e07&nbsp; \\u0e04\\u0e37\\u0e2d\\u0e40\\u0e14\\u0e34\\u0e19\\u0e19\\u0e48\\u0e30&nbsp;\\u0e52. \\u0e1c\\u0e49\\u0e32\\u0e1a\\u0e31\\u0e07\\u0e2a\\u0e38\\u0e01\\u0e38\\u0e25&nbsp;\\u0e08\\u0e35\\u0e27\\u0e23\\u0e19\\u0e31\\u0e48\\u0e19\\u0e40\\u0e2d\\u0e07\\u0e44\\u0e27\\u0e49\\u0e1b\\u0e01\\u0e1b\\u0e34\\u0e14&nbsp; \\u0e53. \\u0e17\\u0e35\\u0e48\\u0e2d\\u0e22\\u0e39\\u0e48\\u0e2d\\u0e32\\u0e28\\u0e31\\u0e22\\u0e40\\u0e2a\\u0e19\\u0e32\\u0e2a\\u0e19\\u0e30&nbsp; \\u0e54. \\u0e04\\u0e34\\u0e25\\u0e32\\u0e19\\u0e40\\u0e20\\u0e2a\\u0e31\\u0e0a&nbsp; \\u0e22\\u0e32\\u0e23\\u0e31\\u0e01\\u0e29\\u0e32\\u0e42\\u0e23\\u0e04&nbsp;\\u0e40\\u0e21\\u0e37\\u0e48\\u0e2d\\u0e40\\u0e08\\u0e47\\u0e1a\\u0e1b\\u0e48\\u0e27\\u0e22\\u0e01\\u0e47\\u0e2d\\u0e32\\u0e28\\u0e31\\u0e22\\u0e21\\u0e31\\u0e19&nbsp; \\u0e40\\u0e23\\u0e32\\u0e2d\\u0e32\\u0e28\\u0e31\\u0e22\\u0e1b\\u0e31\\u0e08\\u0e08\\u0e31\\u0e22 \\u0e54 \\u0e40\\u0e1b\\u0e47\\u0e19\\u0e40\\u0e04\\u0e23\\u0e37\\u0e48\\u0e2d\\u0e07\\u0e22\\u0e31\\u0e07\\u0e0a\\u0e35\\u0e1e&nbsp; \\u0e44\\u0e21\\u0e48\\u0e43\\u0e0a\\u0e48\\u0e22\\u0e36\\u0e14\\u0e19\\u0e30&nbsp; \\u0e2d\\u0e32\\u0e28\\u0e31\\u0e22\\u0e40\\u0e09\\u0e22 \\u0e46&nbsp;\\u0e19\\u0e35\\u0e48\\u0e17\\u0e48\\u0e32\\u0e19\\u0e1a\\u0e2d\\u0e01\\u0e19\\u0e34\\u0e2a\\u0e31\\u0e22 \\u0e54&nbsp; \\u0e17\\u0e35\\u0e19\\u0e35\\u0e49\\u0e43\\u0e19\\u0e21\\u0e23\\u0e23\\u0e04\\u0e2d\\u0e07\\u0e04\\u0e4c \\u0e58 \\u0e17\\u0e48\\u0e32\\u0e19\\u0e01\\u0e47\\u0e1a\\u0e2d\\u0e01\\u0e2d\\u0e35\\u0e01&nbsp; \\u0e2a\\u0e31\\u0e21\\u0e21\\u0e32\\u0e2d\\u0e32\\u0e0a\\u0e35\\u0e42\\u0e27&nbsp; \\u0e2a\\u0e31\\u0e21\\u0e21\\u0e32\\u0e01\\u0e31\\u0e21\\u0e21\\u0e31\\u0e19\\u0e15\\u0e30&nbsp;\\u0e2a\\u0e31\\u0e21\\u0e21\\u0e32\\u0e2d\\u0e32\\u0e0a\\u0e35\\u0e42\\u0e27\\u0e04\\u0e37\\u0e2d\\u0e40\\u0e25\\u0e35\\u0e49\\u0e22\\u0e07\\u0e0a\\u0e35\\u0e1e\\u0e0a\\u0e2d\\u0e1a&nbsp;\\u0e2a\\u0e31\\u0e21\\u0e21\\u0e32\\u0e01\\u0e31\\u0e21\\u0e21\\u0e31\\u0e19\\u0e15\\u0e30\\u0e04\\u0e37\\u0e2d\\u0e01\\u0e32\\u0e23\\u0e07\\u0e32\\u0e19\\u0e0a\\u0e2d\\u0e1a&nbsp;\\u0e19\\u0e35\\u0e48\\u0e2d\\u0e22\\u0e39\\u0e48\\u0e43\\u0e19\\u0e21\\u0e23\\u0e23\\u0e04 \\u0e58&nbsp;\\u0e17\\u0e35\\u0e19\\u0e35\\u0e49\\u0e17\\u0e33\\u0e44\\u0e21\\u0e15\\u0e49\\u0e2d\\u0e07\\u0e21\\u0e35\\u0e2a\\u0e31\\u0e21\\u0e21\\u0e32\\u0e2d\\u0e32\\u0e0a\\u0e35\\u0e42\\u0e27 \\u0e2a\\u0e31\\u0e21\\u0e21\\u0e32\\u0e01\\u0e31\\u0e21\\u0e21\\u0e31\\u0e19\\u0e15\\u0e30&nbsp;\\u0e44\\u0e21\\u0e48\\u0e21\\u0e35\\u0e07\\u0e32\\u0e19\\u0e01\\u0e32\\u0e23\\u0e44\\u0e14\\u0e49\\u0e44\\u0e2b\\u0e21&nbsp; \\u0e44\\u0e21\\u0e48\\u0e44\\u0e14\\u0e49&nbsp; \\u0e40\\u0e1e\\u0e23\\u0e32\\u0e30\\u0e2d\\u0e30\\u0e44\\u0e23&nbsp;\\u0e40\\u0e1e\\u0e23\\u0e32\\u0e30\\u0e17\\u0e49\\u0e2d\\u0e07\\u0e21\\u0e31\\u0e19\\u0e2b\\u0e34\\u0e27\\u0e44\\u0e07&nbsp; \\u0e17\\u0e38\\u0e01\\u0e04\\u0e19\\u0e15\\u0e49\\u0e2d\\u0e07\\u0e01\\u0e34\\u0e19\\u0e43\\u0e0a\\u0e48\\u0e44\\u0e2b\\u0e21&nbsp; \\u0e17\\u0e38\\u0e01\\u0e04\\u0e19\\u0e15\\u0e49\\u0e2d\\u0e07\\u0e21\\u0e35\\u0e1b\\u0e31\\u0e08\\u0e08\\u0e31\\u0e22 \\u0e54 \\u0e40\\u0e1b\\u0e47\\u0e19\\u0e40\\u0e04\\u0e23\\u0e37\\u0e48\\u0e2d\\u0e07\\u0e2d\\u0e32\\u0e28\\u0e31\\u0e22&nbsp; \\u0e16\\u0e49\\u0e32\\u0e40\\u0e23\\u0e32\\u0e44\\u0e21\\u0e48\\u0e21\\u0e35\\u0e07\\u0e32\\u0e19&nbsp; \\u0e40\\u0e23\\u0e32\\u0e44\\u0e21\\u0e48\\u0e21\\u0e35\\u0e2d\\u0e32\\u0e0a\\u0e35\\u0e1e&nbsp;\\u0e41\\u0e25\\u0e49\\u0e27\\u0e08\\u0e30\\u0e40\\u0e2d\\u0e32\\u0e2d\\u0e30\\u0e44\\u0e23\\u0e44\\u0e1b\\u0e40\\u0e1b\\u0e25\\u0e35\\u0e48\\u0e22\\u0e19\\u0e40\\u0e1b\\u0e47\\u0e19\\u0e40\\u0e2a\\u0e37\\u0e49\\u0e2d\\u0e1c\\u0e49\\u0e32 \\u0e40\\u0e04\\u0e23\\u0e37\\u0e48\\u0e2d\\u0e07\\u0e19\\u0e38\\u0e48\\u0e07\\u0e2b\\u0e48\\u0e21 \\u0e22\\u0e32\\u0e23\\u0e31\\u0e01\\u0e29\\u0e32\\u0e42\\u0e23\\u0e04 \\u0e1b\\u0e31\\u0e08\\u0e08\\u0e31\\u0e22 \\u0e54 \\u0e19\\u0e31\\u0e48\\u0e19\\u0e40\\u0e2d\\u0e07&nbsp; \\u0e08\\u0e23\\u0e34\\u0e07\\u0e44\\u0e2b\\u0e21&nbsp; \\u0e19\\u0e35\\u0e48 \\u0e40\\u0e2b\\u0e15\\u0e38\\u0e19\\u0e31\\u0e49\\u0e19\\u0e40\\u0e21\\u0e37\\u0e48\\u0e2d\\u0e2a\\u0e31\\u0e07\\u0e02\\u0e32\\u0e23\\u0e04\\u0e37\\u0e2d\\u0e23\\u0e48\\u0e32\\u0e07\\u0e01\\u0e32\\u0e22\\u0e19\\u0e35\\u0e49\\u0e08\\u0e33\\u0e40\\u0e1b\\u0e47\\u0e19\\u0e15\\u0e49\\u0e2d\\u0e07\\u0e2d\\u0e32\\u0e28\\u0e31\\u0e22\\u0e1b\\u0e31\\u0e08\\u0e08\\u0e31\\u0e22 \\u0e54&nbsp; \\u0e2a\\u0e21\\u0e31\\u0e22\\u0e2d\\u0e32\\u0e15\\u0e21\\u0e32\\u0e40\\u0e1b\\u0e47\\u0e19\\u0e19\\u0e31\\u0e01\\u0e28\\u0e36\\u0e01\\u0e29\\u0e32\\u0e41\\u0e1e\\u0e17\\u0e22\\u0e4c\\u0e40\\u0e02\\u0e32\\u0e01\\u0e47\\u0e2a\\u0e2d\\u0e19\\u0e27\\u0e48\\u0e32&nbsp;basic needs&nbsp; \\u0e04\\u0e27\\u0e32\\u0e21\\u0e08\\u0e33\\u0e40\\u0e1b\\u0e47\\u0e19\\u0e02\\u0e31\\u0e49\\u0e19\\u0e1e\\u0e37\\u0e49\\u0e19\\u0e10\\u0e32\\u0e19&nbsp; \\u0e01\\u0e47\\u0e04\\u0e37\\u0e2d\\u0e1b\\u0e31\\u0e08\\u0e08\\u0e31\\u0e22 \\u0e54 \\u0e19\\u0e31\\u0e48\\u0e19\\u0e40\\u0e2d\\u0e07&nbsp; \\u0e41\\u0e15\\u0e48\\u0e44\\u0e2d\\u0e49\\u0e2a\\u0e34\\u0e48\\u0e07\\u0e2d\\u0e37\\u0e48\\u0e19\\u0e17\\u0e35\\u0e48\\u0e15\\u0e32\\u0e21\\u0e21\\u0e32\\u0e21\\u0e31\\u0e19\\u0e40\\u0e01\\u0e34\\u0e19\\u0e08\\u0e33\\u0e40\\u0e1b\\u0e47\\u0e19&nbsp; \\u0e41\\u0e04\\u0e48\\u0e2d\\u0e32\\u0e28\\u0e31\\u0e22\\u0e21\\u0e31\\u0e19&nbsp;\\u0e44\\u0e21\\u0e48\\u0e19\\u0e31\\u0e49\\u0e19\\u0e04\\u0e27\\u0e32\\u0e21\\u0e17\\u0e38\\u0e01\\u0e02\\u0e4c\\u0e21\\u0e31\\u0e19\\u0e08\\u0e30\\u0e40\\u0e01\\u0e34\\u0e14\\u0e44\\u0e07&nbsp;\\u0e40\\u0e1e\\u0e23\\u0e32\\u0e30\\u0e04\\u0e27\\u0e32\\u0e21\\u0e42\\u0e25\\u0e20\\u0e21\\u0e31\\u0e19\\u0e15\\u0e32\\u0e21\\u0e21\\u0e32&nbsp; \\u0e19\\u0e35\\u0e48 \\u0e40\\u0e1e\\u0e23\\u0e32\\u0e30\\u0e09\\u0e30\\u0e19\\u0e31\\u0e49\\u0e19\\u0e04\\u0e27\\u0e32\\u0e21\\u0e08\\u0e33\\u0e40\\u0e1b\\u0e47\\u0e19\\u0e02\\u0e31\\u0e49\\u0e19\\u0e1e\\u0e37\\u0e49\\u0e19\\u0e10\\u0e32\\u0e19\\u0e04\\u0e37\\u0e2d\\u0e1b\\u0e31\\u0e08\\u0e08\\u0e31\\u0e22 \\u0e54 \\u0e17\\u0e38\\u0e01\\u0e04\\u0e19\\u0e15\\u0e49\\u0e2d\\u0e07\\u0e21\\u0e35\\u0e08\\u0e23\\u0e34\\u0e07\\u0e44\\u0e2b\\u0e21&nbsp; \\u0e44\\u0e21\\u0e48\\u0e19\\u0e31\\u0e49\\u0e19\\u0e1e\\u0e27\\u0e01\\u0e42\\u0e22\\u0e21\\u0e01\\u0e47\\u0e15\\u0e49\\u0e2d\\u0e07\\u0e41\\u0e01\\u0e49\\u0e1c\\u0e49\\u0e32\\u0e21\\u0e32\\u0e17\\u0e33\\u0e07\\u0e32\\u0e19\\u0e19\\u0e48\\u0e30&nbsp; \\u0e08\\u0e23\\u0e34\\u0e07\\u0e44\\u0e2b\\u0e21&nbsp;\\u0e40\\u0e21\\u0e37\\u0e48\\u0e2d\\u0e08\\u0e33\\u0e40\\u0e1b\\u0e47\\u0e19\\u0e01\\u0e47\\u0e15\\u0e49\\u0e2d\\u0e07\\u0e21\\u0e35\\u0e2d\\u0e32\\u0e0a\\u0e35\\u0e1e&nbsp;\\u0e41\\u0e15\\u0e48\\u0e1e\\u0e23\\u0e30\\u0e2d\\u0e07\\u0e04\\u0e4c\\u0e01\\u0e47\\u0e43\\u0e2b\\u0e49\\u0e2a\\u0e31\\u0e21\\u0e21\\u0e32\\u0e2d\\u0e32\\u0e0a\\u0e35\\u0e1e&nbsp;\\u0e04\\u0e37\\u0e2d\\u0e40\\u0e25\\u0e35\\u0e49\\u0e22\\u0e07\\u0e0a\\u0e35\\u0e1e\\u0e0a\\u0e2d\\u0e1a&nbsp; \\u0e44\\u0e21\\u0e48\\u0e44\\u0e14\\u0e49\\u0e04\\u0e14\\u0e42\\u0e01\\u0e07&nbsp; \\u0e44\\u0e21\\u0e48\\u0e44\\u0e14\\u0e49\\u0e08\\u0e35\\u0e49\\u0e1b\\u0e25\\u0e49\\u0e19\\u0e40\\u0e02\\u0e32&nbsp; \\u0e17\\u0e33\\u0e15\\u0e32\\u0e21\\u0e2a\\u0e31\\u0e21\\u0e21\\u0e32\\u0e2d\\u0e32\\u0e0a\\u0e35\\u0e1e&nbsp; \\u0e17\\u0e33\\u0e42\\u0e14\\u0e22\\u0e2a\\u0e38\\u0e08\\u0e23\\u0e34\\u0e15&nbsp;\\u0e40\\u0e23\\u0e32\\u0e01\\u0e47\\u0e20\\u0e39\\u0e21\\u0e34\\u0e43\\u0e08\\u0e17\\u0e35\\u0e48\\u0e40\\u0e23\\u0e32\\u0e44\\u0e14\\u0e49\\u0e17\\u0e33\\u0e2a\\u0e38\\u0e08\\u0e23\\u0e34\\u0e15&nbsp;\\u0e08\\u0e30\\u0e44\\u0e14\\u0e49\\u0e1b\\u0e31\\u0e08\\u0e08\\u0e31\\u0e22\\u0e21\\u0e32\\u0e01\\u0e19\\u0e49\\u0e2d\\u0e22\\u0e01\\u0e47\\u0e41\\u0e25\\u0e49\\u0e27\\u0e41\\u0e15\\u0e48\\u0e2a\\u0e15\\u0e34\\u0e1b\\u0e31\\u0e0d\\u0e0d\\u0e32&nbsp;\\u0e41\\u0e25\\u0e49\\u0e27\\u0e41\\u0e15\\u0e48\\u0e27\\u0e34\\u0e16\\u0e35\\u0e01\\u0e23\\u0e23\\u0e21&nbsp;\\u0e41\\u0e25\\u0e49\\u0e27\\u0e41\\u0e15\\u0e48\\u0e2b\\u0e19\\u0e49\\u0e32\\u0e17\\u0e35\\u0e48\\u0e02\\u0e2d\\u0e07\\u0e41\\u0e15\\u0e48\\u0e25\\u0e30\\u0e04\\u0e19&nbsp;\\u0e41\\u0e15\\u0e48\\u0e21\\u0e31\\u0e19\\u0e01\\u0e47\\u0e2a\\u0e38\\u0e08\\u0e23\\u0e34\\u0e15\\u0e40\\u0e2b\\u0e21\\u0e37\\u0e2d\\u0e19\\u0e01\\u0e31\\u0e19\\u0e2b\\u0e21\\u0e14&nbsp;\\u0e01\\u0e47\\u0e20\\u0e39\\u0e21\\u0e34\\u0e43\\u0e08\\u0e15\\u0e23\\u0e07\\u0e19\\u0e35\\u0e49&nbsp; \\u0e2d\\u0e31\\u0e19\\u0e19\\u0e31\\u0e49\\u0e19\\u0e08\\u0e36\\u0e07\\u0e15\\u0e49\\u0e2d\\u0e07\\u0e17\\u0e33\\u0e44\\u0e07&nbsp; \\u0e40\\u0e1e\\u0e23\\u0e32\\u0e30\\u0e17\\u0e49\\u0e2d\\u0e07\\u0e21\\u0e31\\u0e19\\u0e2b\\u0e34\\u0e27\\u0e19\\u0e48\\u0e30&nbsp; \\u0e1a\\u0e31\\u0e07\\u0e04\\u0e31\\u0e1a\\u0e43\\u0e2b\\u0e49\\u0e21\\u0e31\\u0e19\\u0e44\\u0e21\\u0e48\\u0e2b\\u0e34\\u0e27\\u0e44\\u0e14\\u0e49\\u0e44\\u0e2b\\u0e21&nbsp; \\u0e44\\u0e21\\u0e48\\u0e44\\u0e14\\u0e49&nbsp;\\u0e19\\u0e35\\u0e48\\u0e04\\u0e37\\u0e2d\\u0e40\\u0e23\\u0e37\\u0e48\\u0e2d\\u0e07\\u0e02\\u0e2d\\u0e07\\u0e18\\u0e32\\u0e15\\u0e38&nbsp;\\u0e04\\u0e37\\u0e2d\\u0e23\\u0e48\\u0e32\\u0e07\\u0e01\\u0e32\\u0e22\\u0e19\\u0e31\\u0e48\\u0e19\\u0e40\\u0e2d\\u0e07&nbsp;\\u0e16\\u0e49\\u0e32\\u0e40\\u0e23\\u0e32\\u0e40\\u0e02\\u0e49\\u0e32\\u0e43\\u0e08\\u0e15\\u0e23\\u0e07\\u0e19\\u0e35\\u0e49&nbsp;\\u0e40\\u0e23\\u0e32\\u0e01\\u0e47\\u0e15\\u0e49\\u0e2d\\u0e07\\u0e21\\u0e35\\u0e2d\\u0e32\\u0e0a\\u0e35\\u0e1e&nbsp; \\u0e17\\u0e35\\u0e19\\u0e35\\u0e49\\u0e40\\u0e23\\u0e32\\u0e21\\u0e35\\u0e2d\\u0e32\\u0e0a\\u0e35\\u0e1e&nbsp; \\u0e21\\u0e31\\u0e19\\u0e01\\u0e47\\u0e1b\\u0e0f\\u0e34\\u0e1a\\u0e31\\u0e15\\u0e34\\u0e18\\u0e23\\u0e23\\u0e21\\u0e19\\u0e31\\u0e48\\u0e19\\u0e40\\u0e2d\\u0e07&nbsp; \\u0e40\\u0e1e\\u0e23\\u0e32\\u0e30\\u0e40\\u0e21\\u0e37\\u0e48\\u0e2d\\u0e40\\u0e23\\u0e32\\u0e15\\u0e31\\u0e49\\u0e07\\u0e44\\u0e27\\u0e49\\u0e40\\u0e1b\\u0e47\\u0e19\\u0e2a\\u0e31\\u0e21\\u0e21\\u0e32\\u0e2d\\u0e32\\u0e0a\\u0e35\\u0e1e&nbsp; \\u0e44\\u0e21\\u0e48\\u0e04\\u0e14\\u0e42\\u0e01\\u0e07\\u0e40\\u0e02\\u0e32&nbsp;\\u0e21\\u0e31\\u0e19\\u0e01\\u0e47\\u0e2d\\u0e22\\u0e39\\u0e48\\u0e43\\u0e19\\u0e2d\\u0e07\\u0e04\\u0e4c\\u0e21\\u0e23\\u0e23\\u0e04 \\u0e58&nbsp;\\u0e17\\u0e35\\u0e19\\u0e35\\u0e49\\u0e40\\u0e27\\u0e25\\u0e32\\u0e40\\u0e23\\u0e32\\u0e44\\u0e1b\\u0e17\\u0e33\\u0e2d\\u0e30\\u0e44\\u0e23&nbsp;\\u0e01\\u0e47\\u0e43\\u0e2b\\u0e49\\u0e2a\\u0e15\\u0e34\\u0e19\\u0e31\\u0e49\\u0e19\\u0e25\\u0e48\\u0e30\\u0e15\\u0e32\\u0e21\\u0e23\\u0e30\\u0e25\\u0e36\\u0e01\\u0e2d\\u0e22\\u0e39\\u0e48&nbsp; \\u0e40\\u0e21\\u0e37\\u0e48\\u0e2d\\u0e40\\u0e23\\u0e32\\u0e21\\u0e35\\u0e2a\\u0e15\\u0e34\\u0e15\\u0e32\\u0e21\\u0e23\\u0e30\\u0e25\\u0e36\\u0e01\\u0e2d\\u0e22\\u0e39\\u0e48&nbsp; \\u0e08\\u0e30\\u0e44\\u0e1b\\u0e2a\\u0e48\\u0e07\\u0e02\\u0e2d\\u0e07 \\u0e08\\u0e30\\u0e44\\u0e1b\\u0e15\\u0e34\\u0e14\\u0e15\\u0e31\\u0e49\\u0e07\\u0e1c\\u0e49\\u0e32\\u0e21\\u0e48\\u0e32\\u0e19 \\u0e08\\u0e30\\u0e17\\u0e33\\u0e2d\\u0e30\\u0e44\\u0e23\\u0e01\\u0e47\\u0e43\\u0e2b\\u0e49\\u0e21\\u0e35\\u0e2a\\u0e15\\u0e34\\u0e23\\u0e2d\\u0e1a\\u0e04\\u0e2d\\u0e1a\\u0e2d\\u0e22\\u0e39\\u0e48\\u0e43\\u0e19\\u0e15\\u0e23\\u0e07\\u0e19\\u0e31\\u0e49\\u0e19&nbsp; \\u0e15\\u0e32\\u0e21\\u0e23\\u0e30\\u0e25\\u0e36\\u0e01\\u0e2d\\u0e22\\u0e39\\u0e48\\u0e15\\u0e23\\u0e07\\u0e19\\u0e31\\u0e49\\u0e19&nbsp; \\u0e44\\u0e21\\u0e48\\u0e43\\u0e2b\\u0e49\\u0e21\\u0e31\\u0e19\\u0e1c\\u0e34\\u0e14\\u0e44\\u0e21\\u0e48\\u0e43\\u0e2b\\u0e49\\u0e21\\u0e31\\u0e19\\u0e1e\\u0e25\\u0e32\\u0e14&nbsp; \\u0e44\\u0e21\\u0e48\\u0e43\\u0e2b\\u0e49\\u0e21\\u0e31\\u0e19\\u0e40\\u0e01\\u0e34\\u0e14\\u0e2d\\u0e38\\u0e1a\\u0e31\\u0e15\\u0e34\\u0e40\\u0e2b\\u0e15\\u0e38&nbsp; \\u0e21\\u0e31\\u0e19\\u0e01\\u0e47\\u0e04\\u0e37\\u0e2d\\u0e1b\\u0e0f\\u0e34\\u0e1a\\u0e31\\u0e15\\u0e34\\u0e18\\u0e23\\u0e23\\u0e21\\u0e19\\u0e31\\u0e48\\u0e19\\u0e40\\u0e2d\\u0e07&nbsp; \\u0e41\\u0e15\\u0e48\\u0e2a\\u0e48\\u0e27\\u0e19\\u0e43\\u0e2b\\u0e0d\\u0e48\\u0e1e\\u0e27\\u0e01\\u0e40\\u0e23\\u0e32\\u0e40\\u0e21\\u0e37\\u0e48\\u0e2d\\u0e44\\u0e1b\\u0e17\\u0e33\\u0e07\\u0e32\\u0e19&nbsp; \\u0e21\\u0e31\\u0e19\\u0e44\\u0e21\\u0e48\\u0e23\\u0e30\\u0e25\\u0e36\\u0e01\\u0e44\\u0e07&nbsp;\\u0e1e\\u0e2d\\u0e04\\u0e34\\u0e14\\u0e08\\u0e30\\u0e17\\u0e33\\u0e2d\\u0e30\\u0e44\\u0e23\\u0e01\\u0e47\\u0e1e\\u0e38\\u0e48\\u0e07\\u0e44\\u0e1b\\u0e17\\u0e33\\u0e40\\u0e25\\u0e22&nbsp;\\u0e1a\\u0e32\\u0e07\\u0e17\\u0e35\\u0e04\\u0e27\\u0e32\\u0e21\\u0e23\\u0e2d\\u0e1a\\u0e04\\u0e2d\\u0e1a\\u0e21\\u0e31\\u0e19\\u0e02\\u0e32\\u0e14&nbsp;\\u0e1e\\u0e2d\\u0e21\\u0e31\\u0e19\\u0e02\\u0e32\\u0e14&nbsp; \\u0e21\\u0e31\\u0e19\\u0e2d\\u0e32\\u0e08\\u0e08\\u0e30\\u0e40\\u0e01\\u0e34\\u0e14\\u0e2d\\u0e38\\u0e1a\\u0e31\\u0e15\\u0e34\\u0e40\\u0e2b\\u0e15\\u0e38&nbsp; \\u0e16\\u0e49\\u0e32\\u0e40\\u0e14\\u0e34\\u0e19\\u0e17\\u0e32\\u0e07\\u0e2d\\u0e22\\u0e48\\u0e32\\u0e07\\u0e19\\u0e35\\u0e49&nbsp; \\u0e02\\u0e31\\u0e1a\\u0e23\\u0e16\\u0e02\\u0e31\\u0e1a\\u0e23\\u0e32\\u0e2b\\u0e23\\u0e37\\u0e2d\\u0e2d\\u0e30\\u0e44\\u0e23&nbsp; \\u0e44\\u0e21\\u0e48\\u0e2a\\u0e31\\u0e07\\u0e40\\u0e01\\u0e15\\u0e2a\\u0e31\\u0e07\\u0e01\\u0e32\\u0e43\\u0e0a\\u0e49\\u0e2a\\u0e15\\u0e34\\u0e23\\u0e2d\\u0e1a\\u0e04\\u0e2d\\u0e1a&nbsp; \\u0e2d\\u0e32\\u0e08\\u0e08\\u0e30\\u0e44\\u0e1b\\u0e1a\\u0e27\\u0e01\\u0e01\\u0e31\\u0e19\\u0e01\\u0e47\\u0e44\\u0e14\\u0e49 &nbsp;\\u0e43\\u0e0a\\u0e48\\u0e44\\u0e2b\\u0e21&nbsp; \\u0e2b\\u0e23\\u0e37\\u0e2d\\u0e40\\u0e23\\u0e32\\u0e21\\u0e35\\u0e04\\u0e27\\u0e32\\u0e21\\u0e04\\u0e34\\u0e14\\u0e17\\u0e35\\u0e48\\u0e1c\\u0e34\\u0e14&nbsp; \\u0e2d\\u0e22\\u0e48\\u0e32\\u0e07\\u0e40\\u0e0a\\u0e48\\u0e19\\u0e2a\\u0e38\\u0e23\\u0e32\\u0e22\\u0e32\\u0e40\\u0e21\\u0e32 &nbsp;\\u0e21\\u0e35\\u0e01\\u0e32\\u0e23\\u0e01\\u0e34\\u0e19\\u0e01\\u0e32\\u0e23\\u0e40\\u0e2a\\u0e1e\\u0e02\\u0e36\\u0e49\\u0e19\\u0e21\\u0e32&nbsp; \\u0e21\\u0e31\\u0e19\\u0e01\\u0e47\\u0e02\\u0e32\\u0e14\\u0e2a\\u0e15\\u0e34 &nbsp;\\u0e44\\u0e21\\u0e48\\u0e40\\u0e2b\\u0e47\\u0e19\\u0e42\\u0e17\\u0e29\\u0e44\\u0e07&nbsp;\\u0e21\\u0e31\\u0e19\\u0e01\\u0e47\\u0e40\\u0e01\\u0e34\\u0e14\\u0e2d\\u0e38\\u0e1a\\u0e31\\u0e15\\u0e34\\u0e40\\u0e2b\\u0e15\\u0e38\\u0e44\\u0e14\\u0e49&nbsp;\\u0e08\\u0e23\\u0e34\\u0e07\\u0e44\\u0e2b\\u0e21&nbsp; \\u0e19\\u0e35\\u0e49\\u0e40\\u0e2b\\u0e21\\u0e37\\u0e2d\\u0e19\\u0e01\\u0e31\\u0e19&nbsp; \\u0e17\\u0e48\\u0e32\\u0e19\\u0e08\\u0e36\\u0e07\\u0e43\\u0e2b\\u0e49\\u0e23\\u0e31\\u0e01\\u0e29\\u0e32\\u0e28\\u0e35\\u0e25 \\u0e55 \\u0e44\\u0e07&nbsp; \\u0e28\\u0e35\\u0e25 \\u0e55 \\u0e19\\u0e31\\u0e49\\u0e19\\u0e40\\u0e1b\\u0e47\\u0e19\\u0e04\\u0e38\\u0e13&nbsp; \\u0e04\\u0e19\\u0e17\\u0e35\\u0e48\\u0e08\\u0e30\\u0e23\\u0e31\\u0e01\\u0e29\\u0e32\\u0e28\\u0e35\\u0e25 \\u0e55 \\u0e44\\u0e14\\u0e49\\u0e19\\u0e31\\u0e49\\u0e19&nbsp; \\u0e15\\u0e49\\u0e2d\\u0e07\\u0e40\\u0e2b\\u0e47\\u0e19\\u0e04\\u0e38\\u0e13\\u0e40\\u0e2b\\u0e47\\u0e19\\u0e42\\u0e17\\u0e29&nbsp; \\u0e40\\u0e21\\u0e37\\u0e48\\u0e2d\\u0e40\\u0e23\\u0e32\\u0e40\\u0e2b\\u0e47\\u0e19\\u0e04\\u0e38\\u0e13\\u0e40\\u0e2b\\u0e47\\u0e19\\u0e42\\u0e17\\u0e29\\u0e02\\u0e2d\\u0e07\\u0e01\\u0e32\\u0e23\\u0e1b\\u0e23\\u0e30\\u0e1e\\u0e24\\u0e15\\u0e34\\u0e1c\\u0e34\\u0e14\\u0e42\\u0e17\\u0e29 \\u0e55 \\u0e2d\\u0e22\\u0e48\\u0e32\\u0e07&nbsp; \\u0e04\\u0e37\\u0e2d\\u0e06\\u0e48\\u0e32\\u0e2a\\u0e31\\u0e15\\u0e27\\u0e4c&nbsp; \\u0e2a\\u0e31\\u0e15\\u0e27\\u0e4c\\u0e17\\u0e38\\u0e01\\u0e2a\\u0e31\\u0e15\\u0e27\\u0e4c\\u0e19\\u0e31\\u0e49\\u0e19\\u0e40\\u0e02\\u0e32\\u0e23\\u0e31\\u0e01\\u0e0a\\u0e35\\u0e27\\u0e34\\u0e15\\u0e40\\u0e02\\u0e32&nbsp; \\u0e40\\u0e23\\u0e32\\u0e01\\u0e47\\u0e23\\u0e31\\u0e01\\u0e0a\\u0e35\\u0e27\\u0e34\\u0e15\\u0e40\\u0e23\\u0e32&nbsp; \\u0e40\\u0e23\\u0e32\\u0e06\\u0e48\\u0e32\\u0e40\\u0e02\\u0e32&nbsp;\\u0e40\\u0e02\\u0e32\\u0e22\\u0e34\\u0e19\\u0e14\\u0e35\\u0e44\\u0e2b\\u0e21&nbsp; \\u0e40\\u0e02\\u0e32\\u0e06\\u0e48\\u0e32\\u0e40\\u0e23\\u0e32&nbsp; \\u0e40\\u0e23\\u0e32\\u0e22\\u0e34\\u0e19\\u0e14\\u0e35\\u0e44\\u0e2b\\u0e21&nbsp;\\u0e19\\u0e35\\u0e49\\u0e04\\u0e37\\u0e2d\\u0e04\\u0e27\\u0e32\\u0e21\\u0e40\\u0e1b\\u0e47\\u0e19\\u0e18\\u0e23\\u0e23\\u0e21&nbsp; \\u0e40\\u0e21\\u0e37\\u0e48\\u0e2d\\u0e40\\u0e2b\\u0e47\\u0e19\\u0e15\\u0e23\\u0e07\\u0e19\\u0e35\\u0e49\\u0e01\\u0e47\\u0e40\\u0e25\\u0e22\\u0e44\\u0e21\\u0e48\\u0e06\\u0e48\\u0e32\\u0e2a\\u0e31\\u0e15\\u0e27\\u0e4c\\u0e44\\u0e07&nbsp; \\u0e44\\u0e21\\u0e48\\u0e06\\u0e48\\u0e32\\u0e2a\\u0e31\\u0e15\\u0e27\\u0e4c\\u0e19\\u0e31\\u0e49\\u0e19\\u0e44\\u0e21\\u0e48\\u0e40\\u0e1a\\u0e35\\u0e22\\u0e14\\u0e40\\u0e1a\\u0e35\\u0e22\\u0e19\\u0e2a\\u0e31\\u0e15\\u0e27\\u0e4c&nbsp; \\u0e01\\u0e32\\u0e23\\u0e44\\u0e21\\u0e48\\u0e40\\u0e1a\\u0e35\\u0e22\\u0e14\\u0e40\\u0e1a\\u0e35\\u0e22\\u0e19\\u0e2a\\u0e31\\u0e15\\u0e27\\u0e4c\\u0e21\\u0e31\\u0e19\\u0e40\\u0e1b\\u0e47\\u0e19\\u0e04\\u0e38\\u0e13\\u0e15\\u0e48\\u0e2d\\u0e40\\u0e23\\u0e32\\u0e15\\u0e23\\u0e07\\u0e44\\u0e2b\\u0e19\\u0e23\\u0e39\\u0e49\\u0e44\\u0e2b\\u0e21&nbsp; \\u0e21\\u0e31\\u0e19\\u0e40\\u0e1b\\u0e47\\u0e19\\u0e04\\u0e38\\u0e13\\u0e15\\u0e48\\u0e2d\\u0e08\\u0e34\\u0e15\\u0e43\\u0e08\\u0e17\\u0e35\\u0e48\\u0e21\\u0e31\\u0e19\\u0e44\\u0e21\\u0e48\\u0e42\\u0e2b\\u0e14\\u0e23\\u0e49\\u0e32\\u0e22&nbsp; \\u0e08\\u0e34\\u0e15\\u0e43\\u0e08\\u0e17\\u0e35\\u0e48\\u0e44\\u0e21\\u0e48\\u0e42\\u0e2b\\u0e14\\u0e23\\u0e49\\u0e32\\u0e22\\u0e40\\u0e1b\\u0e47\\u0e19\\u0e08\\u0e34\\u0e15\\u0e43\\u0e08\\u0e17\\u0e35\\u0e48\\u0e2d\\u0e48\\u0e2d\\u0e19\\u0e42\\u0e22\\u0e19&nbsp; \\u0e40\\u0e1b\\u0e47\\u0e19\\u0e08\\u0e34\\u0e15\\u0e43\\u0e08\\u0e17\\u0e35\\u0e48\\u0e08\\u0e30\\u0e43\\u0e2b\\u0e49\\u0e40\\u0e01\\u0e34\\u0e14\\u0e2a\\u0e15\\u0e34&nbsp; \\u0e40\\u0e01\\u0e34\\u0e14\\u0e1b\\u0e31\\u0e0d\\u0e0d\\u0e32\\u0e19\\u0e31\\u0e48\\u0e19\\u0e40\\u0e2d\\u0e07&nbsp; \\u0e40\\u0e01\\u0e34\\u0e14\\u0e2a\\u0e21\\u0e32\\u0e18\\u0e34\\u0e19\\u0e31\\u0e48\\u0e19\\u0e40\\u0e2d\\u0e07&nbsp; \\u0e16\\u0e49\\u0e32\\u0e08\\u0e34\\u0e15\\u0e43\\u0e08\\u0e17\\u0e35\\u0e48\\u0e42\\u0e2b\\u0e14\\u0e23\\u0e49\\u0e32\\u0e22&nbsp; \\u0e21\\u0e31\\u0e19\\u0e08\\u0e30\\u0e40\\u0e1b\\u0e47\\u0e19\\u0e08\\u0e34\\u0e15\\u0e43\\u0e08\\u0e17\\u0e35\\u0e48\\u0e21\\u0e35\\u0e41\\u0e15\\u0e48\\u0e04\\u0e27\\u0e32\\u0e21\\u0e42\\u0e01\\u0e23\\u0e18&nbsp; \\u0e2a\\u0e15\\u0e34\\u0e2a\\u0e21\\u0e32\\u0e18\\u0e34\\u0e1b\\u0e31\\u0e0d\\u0e0d\\u0e32\\u0e21\\u0e31\\u0e19\\u0e40\\u0e01\\u0e34\\u0e14\\u0e44\\u0e21\\u0e48\\u0e44\\u0e14\\u0e49&nbsp; \\u0e2d\\u0e31\\u0e19\\u0e19\\u0e31\\u0e49\\u0e19\\u0e21\\u0e31\\u0e19\\u0e40\\u0e1b\\u0e47\\u0e19\\u0e04\\u0e38\\u0e13\\u0e17\\u0e35\\u0e48\\u0e40\\u0e23\\u0e32\\u0e44\\u0e14\\u0e49\\u0e17\\u0e35\\u0e48\\u0e40\\u0e1b\\u0e47\\u0e19\\u0e19\\u0e32\\u0e21\\u0e18\\u0e23\\u0e23\\u0e21&nbsp; \\u0e01\\u0e32\\u0e23\\u0e44\\u0e21\\u0e48\\u0e06\\u0e48\\u0e32\\u0e2a\\u0e31\\u0e15\\u0e27\\u0e4c&nbsp; \\u0e04\\u0e38\\u0e13\\u0e20\\u0e32\\u0e22\\u0e19\\u0e2d\\u0e01\\u0e04\\u0e37\\u0e2d\\u0e44\\u0e21\\u0e48\\u0e40\\u0e1a\\u0e35\\u0e22\\u0e14\\u0e40\\u0e1a\\u0e35\\u0e22\\u0e19\\u0e0a\\u0e35\\u0e27\\u0e34\\u0e15\\u0e40\\u0e02\\u0e32&nbsp; \\u0e21\\u0e31\\u0e19\\u0e08\\u0e36\\u0e07\\u0e40\\u0e1b\\u0e47\\u0e19\\u0e40\\u0e21\\u0e15\\u0e15\\u0e32&nbsp; \\u0e40\\u0e2b\\u0e15\\u0e38\\u0e19\\u0e31\\u0e49\\u0e19\\u0e44\\u0e21\\u0e48\\u0e25\\u0e31\\u0e01\\u0e17\\u0e23\\u0e31\\u0e1e\\u0e22\\u0e4c&nbsp; \\u0e02\\u0e49\\u0e2d\\u0e17\\u0e35\\u0e48 \\u0e52 \\u0e01\\u0e47\\u0e44\\u0e21\\u0e48\\u0e40\\u0e1a\\u0e35\\u0e22\\u0e14\\u0e40\\u0e1a\\u0e35\\u0e22\\u0e19\\u0e17\\u0e23\\u0e31\\u0e1e\\u0e22\\u0e4c\\u0e40\\u0e02\\u0e32\\u0e19\\u0e31\\u0e48\\u0e19\\u0e40\\u0e2d\\u0e07&nbsp;\\u0e17\\u0e38\\u0e01\\u0e04\\u0e19\\u0e2b\\u0e32\\u0e17\\u0e23\\u0e31\\u0e1e\\u0e22\\u0e4c\\u0e21\\u0e32\\u0e14\\u0e49\\u0e27\\u0e22\\u0e2b\\u0e22\\u0e32\\u0e14\\u0e40\\u0e2b\\u0e07\\u0e37\\u0e48\\u0e2d\\u0e41\\u0e23\\u0e07\\u0e01\\u0e32\\u0e22\\u0e15\\u0e31\\u0e27\\u0e40\\u0e2d\\u0e07&nbsp; \\u0e01\\u0e47\\u0e08\\u0e30\\u0e21\\u0e35\\u0e04\\u0e27\\u0e32\\u0e21\\u0e23\\u0e31\\u0e01\\u0e04\\u0e27\\u0e32\\u0e21\\u0e2b\\u0e27\\u0e07\\u0e41\\u0e2b\\u0e19\\u0e2d\\u0e22\\u0e39\\u0e48\\u0e43\\u0e19\\u0e17\\u0e23\\u0e31\\u0e1e\\u0e22\\u0e4c\\u0e17\\u0e35\\u0e48\\u0e40\\u0e23\\u0e32\\u0e2b\\u0e32\\u0e21\\u0e32 &nbsp;\\u0e16\\u0e49\\u0e32\\u0e1c\\u0e39\\u0e49\\u0e2d\\u0e37\\u0e48\\u0e19\\u0e21\\u0e32\\u0e25\\u0e31\\u0e01\\u0e21\\u0e32\\u0e02\\u0e42\\u0e21\\u0e22&nbsp; \\u0e21\\u0e31\\u0e19\\u0e01\\u0e47\\u0e40\\u0e2a\\u0e35\\u0e22\\u0e43\\u0e08&nbsp;\\u0e40\\u0e02\\u0e32\\u0e21\\u0e32\\u0e40\\u0e2d\\u0e32\\u0e02\\u0e2d\\u0e07\\u0e40\\u0e23\\u0e32&nbsp; \\u0e40\\u0e23\\u0e32\\u0e01\\u0e47\\u0e40\\u0e2a\\u0e35\\u0e22\\u0e43\\u0e08&nbsp; \\u0e40\\u0e23\\u0e32\\u0e44\\u0e1b\\u0e40\\u0e2d\\u0e32\\u0e02\\u0e2d\\u0e07\\u0e40\\u0e02\\u0e32&nbsp; \\u0e40\\u0e02\\u0e32\\u0e01\\u0e47\\u0e40\\u0e2a\\u0e35\\u0e22\\u0e43\\u0e08&nbsp;\\u0e21\\u0e31\\u0e19\\u0e40\\u0e2b\\u0e47\\u0e19\\u0e15\\u0e23\\u0e07\\u0e19\\u0e35\\u0e49&nbsp;\\u0e21\\u0e31\\u0e19\\u0e01\\u0e47\\u0e40\\u0e25\\u0e22\\u0e44\\u0e21\\u0e48\\u0e25\\u0e31\\u0e01\\u0e17\\u0e23\\u0e31\\u0e1e\\u0e22\\u0e4c\\u0e44\\u0e07&nbsp;\\u0e01\\u0e32\\u0e23\\u0e44\\u0e21\\u0e48\\u0e25\\u0e31\\u0e01\\u0e17\\u0e23\\u0e31\\u0e1e\\u0e22\\u0e4c\\u0e15\\u0e23\\u0e07\\u0e19\\u0e35\\u0e49&nbsp;\\u0e21\\u0e31\\u0e19\\u0e08\\u0e36\\u0e07\\u0e17\\u0e33\\u0e43\\u0e2b\\u0e49\\u0e08\\u0e34\\u0e15\\u0e43\\u0e08\\u0e19\\u0e31\\u0e49\\u0e19\\u0e40\\u0e2d\\u0e07&nbsp;\\u0e21\\u0e31\\u0e19\\u0e44\\u0e21\\u0e48\\u0e21\\u0e35\\u0e04\\u0e27\\u0e32\\u0e21\\u0e2d\\u0e04\\u0e15\\u0e34 \\u0e04\\u0e27\\u0e32\\u0e21\\u0e09\\u0e49\\u0e2d\\u0e42\\u0e01\\u0e07\\u0e40\\u0e02\\u0e32 \\u0e04\\u0e27\\u0e32\\u0e21\\u0e02\\u0e42\\u0e21\\u0e22\\u0e02\\u0e2d\\u0e07\\u0e40\\u0e02\\u0e32&nbsp; \\u0e08\\u0e34\\u0e15\\u0e19\\u0e35\\u0e49\\u0e21\\u0e31\\u0e19\\u0e08\\u0e36\\u0e07\\u0e40\\u0e1b\\u0e47\\u0e19\\u0e08\\u0e34\\u0e15\\u0e17\\u0e35\\u0e48\\u0e21\\u0e31\\u0e19\\u0e2a\\u0e30\\u0e2d\\u0e32\\u0e14\\u0e44\\u0e07&nbsp;\\u0e40\\u0e1e\\u0e23\\u0e32\\u0e30\\u0e01\\u0e32\\u0e23\\u0e17\\u0e35\\u0e48\\u0e40\\u0e23\\u0e32\\u0e08\\u0e30\\u0e40\\u0e2d\\u0e32\\u0e02\\u0e2d\\u0e07\\u0e40\\u0e02\\u0e32\\u0e14\\u0e49\\u0e27\\u0e22\\u0e04\\u0e27\\u0e32\\u0e21\\u0e44\\u0e21\\u0e48\\u0e2a\\u0e38\\u0e08\\u0e23\\u0e34\\u0e15\\u0e19\\u0e31\\u0e49\\u0e19&nbsp; \\u0e21\\u0e31\\u0e19\\u0e21\\u0e35\\u0e04\\u0e27\\u0e32\\u0e21\\u0e40\\u0e1b\\u0e47\\u0e19\\u0e04\\u0e27\\u0e32\\u0e21\\u0e42\\u0e25\\u0e20\\u0e2d\\u0e22\\u0e39\\u0e48&nbsp; \\u0e21\\u0e31\\u0e19\\u0e21\\u0e35\\u0e04\\u0e27\\u0e32\\u0e21\\u0e40\\u0e1b\\u0e47\\u0e19\\u0e15\\u0e31\\u0e27\\u0e15\\u0e19\\u0e19\\u0e31\\u0e48\\u0e19\\u0e40\\u0e2d\\u0e07&nbsp; \\u0e40\\u0e1e\\u0e23\\u0e32\\u0e30\\u0e42\\u0e25\\u0e20\\u0e21\\u0e31\\u0e19\\u0e01\\u0e47\\u0e40\\u0e1e\\u0e37\\u0e48\\u0e2d\\u0e15\\u0e31\\u0e27\\u0e15\\u0e19\\u0e19\\u0e48\\u0e30&nbsp; \\u0e04\\u0e27\\u0e32\\u0e21\\u0e40\\u0e1b\\u0e47\\u0e19\\u0e15\\u0e31\\u0e27\\u0e15\\u0e19\\u0e40\\u0e1b\\u0e47\\u0e19\\u0e04\\u0e27\\u0e32\\u0e21\\u0e2b\\u0e25\\u0e07\\u0e19\\u0e48\\u0e30&nbsp; \\u0e19\\u0e35\\u0e48\\u0e21\\u0e31\\u0e19\\u0e08\\u0e36\\u0e07\\u0e08\\u0e34\\u0e15\\u0e44\\u0e21\\u0e48\\u0e2a\\u0e30\\u0e2d\\u0e32\\u0e14&nbsp; \\u0e17\\u0e35\\u0e19\\u0e35\\u0e49\\u0e01\\u0e32\\u0e23\\u0e1b\\u0e23\\u0e30\\u0e1e\\u0e24\\u0e15\\u0e34\\u0e1c\\u0e34\\u0e14\\u0e43\\u0e19\\u0e01\\u0e32\\u0e21&nbsp; \\u0e25\\u0e39\\u0e01\\u0e40\\u0e21\\u0e35\\u0e22\\u0e40\\u0e02\\u0e32\\u0e19\\u0e35\\u0e48\\u0e40\\u0e02\\u0e32\\u0e23\\u0e31\\u0e01\\u0e19\\u0e30&nbsp; \\u0e16\\u0e49\\u0e32\\u0e42\\u0e22\\u0e21\\u0e21\\u0e35\\u0e25\\u0e39\\u0e01\\u0e19\\u0e48\\u0e30&nbsp; \\u0e41\\u0e25\\u0e49\\u0e27\\u0e04\\u0e19\\u0e21\\u0e32\\u0e40\\u0e2d\\u0e32\\u0e25\\u0e39\\u0e01\\u0e2a\\u0e32\\u0e27\\u0e42\\u0e22\\u0e21\\u0e2d\\u0e22\\u0e48\\u0e32\\u0e07\\u0e19\\u0e35\\u0e49&nbsp; \\u0e42\\u0e22\\u0e21\\u0e08\\u0e30\\u0e1e\\u0e2d\\u0e43\\u0e08\\u0e44\\u0e2b\\u0e21&nbsp;\\u0e44\\u0e21\\u0e48\\u0e16\\u0e39\\u0e01\\u0e15\\u0e49\\u0e2d\\u0e07\\u0e15\\u0e32\\u0e21\\u0e17\\u0e33\\u0e19\\u0e2d\\u0e07\\u0e04\\u0e25\\u0e2d\\u0e07\\u0e18\\u0e23\\u0e23\\u0e21\\u0e19\\u0e48\\u0e30&nbsp;\\u0e21\\u0e31\\u0e19\\u0e01\\u0e47\\u0e40\\u0e1b\\u0e47\\u0e19\\u0e1b\\u0e31\\u0e0d\\u0e2b\\u0e32\\u0e43\\u0e0a\\u0e48\\u0e44\\u0e2b\\u0e21&nbsp;\\u0e40\\u0e2a\\u0e35\\u0e22\\u0e43\\u0e08\\u0e17\\u0e31\\u0e49\\u0e07\\u0e1e\\u0e48\\u0e2d\\u0e41\\u0e21\\u0e48&nbsp;\\u0e40\\u0e2a\\u0e35\\u0e22\\u0e43\\u0e08\\u0e17\\u0e31\\u0e49\\u0e07\\u0e40\\u0e14\\u0e47\\u0e01\\u0e43\\u0e0a\\u0e48\\u0e44\\u0e2b\\u0e21&nbsp; \\u0e19\\u0e35\\u0e48 \\u0e40\\u0e1e\\u0e23\\u0e32\\u0e30\\u0e09\\u0e30\\u0e19\\u0e31\\u0e49\\u0e19\\u0e17\\u0e48\\u0e32\\u0e19\\u0e08\\u0e36\\u0e07\\u0e1a\\u0e31\\u0e0d\\u0e0d\\u0e31\\u0e15\\u0e34\\u0e44\\u0e07&nbsp;\\u0e2d\\u0e31\\u0e19\\u0e19\\u0e35\\u0e49\\u0e40\\u0e1b\\u0e47\\u0e19\\u0e40\\u0e23\\u0e37\\u0e48\\u0e2d\\u0e07\\u0e02\\u0e2d\\u0e07\\u0e04\\u0e27\\u0e32\\u0e21\\u0e2a\\u0e07\\u0e1a&nbsp;\\u0e04\\u0e27\\u0e32\\u0e21\\u0e1b\\u0e01\\u0e15\\u0e34\\u0e43\\u0e19\\u0e2a\\u0e31\\u0e07\\u0e04\\u0e21\\u0e44\\u0e07&nbsp; \\u0e40\\u0e21\\u0e37\\u0e48\\u0e2d\\u0e40\\u0e02\\u0e32\\u0e21\\u0e32\\u0e17\\u0e33\\u0e40\\u0e23\\u0e32&nbsp; \\u0e40\\u0e23\\u0e32\\u0e01\\u0e47\\u0e44\\u0e21\\u0e48\\u0e0a\\u0e2d\\u0e1a&nbsp;\\u0e40\\u0e23\\u0e32\\u0e44\\u0e1b\\u0e17\\u0e33\\u0e43\\u0e2a\\u0e48\\u0e40\\u0e02\\u0e32&nbsp; \\u0e40\\u0e02\\u0e32\\u0e08\\u0e30\\u0e0a\\u0e2d\\u0e1a\\u0e44\\u0e2b\\u0e21&nbsp; \\u0e19\\u0e35\\u0e48\\u0e04\\u0e37\\u0e2d\\u0e04\\u0e27\\u0e32\\u0e21\\u0e40\\u0e1b\\u0e47\\u0e19\\u0e18\\u0e23\\u0e23\\u0e21\\u0e44\\u0e07&nbsp; \\u0e17\\u0e48\\u0e32\\u0e19\\u0e08\\u0e36\\u0e07\\u0e2a\\u0e2d\\u0e19\\u0e43\\u0e2b\\u0e49\\u0e07\\u0e14\\u0e40\\u0e27\\u0e49\\u0e19\\u0e08\\u0e32\\u0e01\\u0e01\\u0e32\\u0e23\\u0e1b\\u0e23\\u0e30\\u0e1e\\u0e24\\u0e15\\u0e34\\u0e1c\\u0e34\\u0e14\\u0e43\\u0e19\\u0e01\\u0e32\\u0e21&nbsp; \\u0e1c\\u0e34\\u0e14\\u0e25\\u0e39\\u0e01\\u0e1c\\u0e34\\u0e14\\u0e40\\u0e21\\u0e35\\u0e22\\u0e40\\u0e02\\u0e32&nbsp; \\u0e15\\u0e49\\u0e2d\\u0e07\\u0e44\\u0e1b\\u0e15\\u0e32\\u0e21\\u0e17\\u0e33\\u0e19\\u0e2d\\u0e07\\u0e04\\u0e25\\u0e2d\\u0e07\\u0e18\\u0e23\\u0e23\\u0e21\\u0e19\\u0e48\\u0e30&nbsp; \\u0e41\\u0e15\\u0e48\\u0e07\\u0e07\\u0e32\\u0e19\\u0e01\\u0e31\\u0e19\\u0e2d\\u0e30\\u0e44\\u0e23\\u0e01\\u0e31\\u0e19\\u0e43\\u0e2b\\u0e49\\u0e16\\u0e39\\u0e01\\u0e15\\u0e49\\u0e2d\\u0e07&nbsp; \\u0e23\\u0e31\\u0e1a\\u0e1c\\u0e34\\u0e14\\u0e0a\\u0e2d\\u0e1a\\u0e01\\u0e31\\u0e19\\u0e43\\u0e2b\\u0e49\\u0e16\\u0e39\\u0e01\\u0e15\\u0e49\\u0e2d\\u0e07&nbsp; \\u0e21\\u0e31\\u0e19\\u0e08\\u0e36\\u0e07\\u0e44\\u0e21\\u0e48\\u0e40\\u0e01\\u0e34\\u0e14\\u0e1b\\u0e31\\u0e0d\\u0e2b\\u0e32\\u0e44\\u0e07&nbsp; \\u0e16\\u0e49\\u0e32\\u0e40\\u0e23\\u0e32\\u0e44\\u0e1b\\u0e17\\u0e33\\u0e40\\u0e23\\u0e37\\u0e48\\u0e2d\\u0e07\\u0e1e\\u0e27\\u0e01\\u0e19\\u0e35\\u0e49&nbsp; \\u0e21\\u0e31\\u0e19\\u0e01\\u0e47\\u0e23\\u0e49\\u0e2d\\u0e19\\u0e40\\u0e19\\u0e37\\u0e49\\u0e2d\\u0e23\\u0e49\\u0e2d\\u0e19\\u0e43\\u0e08&nbsp; \\u0e40\\u0e02\\u0e32\\u0e40\\u0e23\\u0e35\\u0e22\\u0e01\\u0e27\\u0e48\\u0e32\\u0e01\\u0e32\\u0e21\\u0e23\\u0e32\\u0e04\\u0e30\\u0e21\\u0e31\\u0e19\\u0e40\\u0e01\\u0e34\\u0e14\\u0e43\\u0e19\\u0e08\\u0e34\\u0e15&nbsp; \\u0e15\\u0e31\\u0e27\\u0e19\\u0e35\\u0e49\\u0e21\\u0e31\\u0e19\\u0e17\\u0e33\\u0e43\\u0e2b\\u0e49\\u0e08\\u0e34\\u0e15\\u0e21\\u0e31\\u0e19\\u0e44\\u0e21\\u0e48\\u0e2a\\u0e07\\u0e1a&nbsp; \\u0e08\\u0e34\\u0e15\\u0e44\\u0e21\\u0e48\\u0e2a\\u0e07\\u0e1a\\u0e21\\u0e31\\u0e19\\u0e01\\u0e47\\u0e17\\u0e33\\u0e43\\u0e2b\\u0e49\\u0e08\\u0e34\\u0e15\\u0e19\\u0e31\\u0e49\\u0e19\\u0e19\\u0e48\\u0e30\\u0e21\\u0e31\\u0e19\\u0e44\\u0e21\\u0e48\\u0e1a\\u0e23\\u0e34\\u0e2a\\u0e38\\u0e17\\u0e18\\u0e34\\u0e4c&nbsp; \\u0e40\\u0e1e\\u0e23\\u0e32\\u0e30\\u0e01\\u0e32\\u0e21\\u0e21\\u0e31\\u0e19\\u0e40\\u0e01\\u0e34\\u0e14\\u0e08\\u0e32\\u0e01\\u0e15\\u0e31\\u0e27\\u0e15\\u0e19\\u0e19\\u0e48\\u0e30&nbsp; \\u0e21\\u0e31\\u0e19\\u0e40\\u0e1b\\u0e47\\u0e19\\u0e15\\u0e31\\u0e27\\u0e15\\u0e19\\u0e40\\u0e01\\u0e34\\u0e14&nbsp; \\u0e08\\u0e23\\u0e34\\u0e07 \\u0e46 \\u0e41\\u0e25\\u0e49\\u0e27\\u0e02\\u0e31\\u0e19\\u0e18\\u0e4c \\u0e55 \\u0e2b\\u0e31\\u0e27\\u0e08\\u0e14\\u0e40\\u0e17\\u0e49\\u0e32\\u0e44\\u0e21\\u0e48\\u0e43\\u0e0a\\u0e48\\u0e02\\u0e2d\\u0e07\\u0e40\\u0e23\\u0e32\\u0e19\\u0e30&nbsp; \\u0e2d\\u0e31\\u0e19\\u0e19\\u0e35\\u0e49\\u0e42\\u0e22\\u0e21\\u0e2d\\u0e32\\u0e08\\u0e08\\u0e30\\u0e22\\u0e31\\u0e07\\u0e2a\\u0e07\\u0e2a\\u0e31\\u0e22&nbsp; \\u0e40\\u0e1e\\u0e23\\u0e32\\u0e30\\u0e22\\u0e31\\u0e07\\u0e44\\u0e21\\u0e48\\u0e44\\u0e14\\u0e49\\u0e40\\u0e23\\u0e35\\u0e22\\u0e19\\u0e28\\u0e36\\u0e01\\u0e29\\u0e32&nbsp; \\u0e2d\\u0e31\\u0e19\\u0e19\\u0e35\\u0e49\\u0e02\\u0e49\\u0e32\\u0e21\\u0e44\\u0e1b\\u0e01\\u0e48\\u0e2d\\u0e19&nbsp; \\u0e40\\u0e2d\\u0e32\\u0e07\\u0e48\\u0e32\\u0e22 \\u0e46&nbsp;\\u0e16\\u0e49\\u0e32\\u0e04\\u0e19\\u0e2b\\u0e19\\u0e36\\u0e48\\u0e07\\u0e21\\u0e35\\u0e40\\u0e21\\u0e35\\u0e22\\u0e2d\\u0e22\\u0e39\\u0e48 \\u0e55 \\u0e04\\u0e19\\u0e2d\\u0e22\\u0e48\\u0e32\\u0e07\\u0e19\\u0e35\\u0e49&nbsp;\\u0e1b\\u0e27\\u0e14\\u0e2b\\u0e31\\u0e27\\u0e19\\u0e30&nbsp; \\u0e40\\u0e2b\\u0e21\\u0e37\\u0e2d\\u0e19\\u0e08\\u0e30\\u0e1b\\u0e01\\u0e04\\u0e23\\u0e2d\\u0e07\\u0e20\\u0e23\\u0e23\\u0e22\\u0e32\\u0e44\\u0e14\\u0e49&nbsp; \\u0e41\\u0e15\\u0e48\\u0e08\\u0e23\\u0e34\\u0e07 \\u0e46 \\u0e44\\u0e21\\u0e48\\u0e44\\u0e14\\u0e49\\u0e2b\\u0e23\\u0e2d\\u0e01&nbsp; \\u0e44\\u0e14\\u0e49\\u0e40\\u0e09\\u0e1e\\u0e32\\u0e30\\u0e20\\u0e32\\u0e22\\u0e19\\u0e2d\\u0e01&nbsp; \\u0e41\\u0e15\\u0e48\\u0e20\\u0e32\\u0e22\\u0e43\\u0e19\\u0e22\\u0e31\\u0e07\\u0e41\\u0e22\\u0e48\\u0e07\\u0e01\\u0e31\\u0e19\\u0e2d\\u0e22\\u0e39\\u0e48&nbsp; \\u0e43\\u0e04\\u0e23\\u0e08\\u0e30\\u0e40\\u0e1b\\u0e47\\u0e19\\u0e2b\\u0e19\\u0e36\\u0e48\\u0e07&nbsp; \\u0e43\\u0e0a\\u0e48\\u0e44\\u0e2b\\u0e21&nbsp;\\u0e2d\\u0e34\\u0e08\\u0e09\\u0e32\\u0e23\\u0e34\\u0e29\\u0e22\\u0e32\\u0e01\\u0e31\\u0e19&nbsp;\\u0e40\\u0e23\\u0e37\\u0e48\\u0e2d\\u0e07\\u0e40\\u0e22\\u0e2d\\u0e30\\u0e17\\u0e35\\u0e48\\u0e2a\\u0e38\\u0e14\\u0e40\\u0e25\\u0e22&nbsp;\\u0e16\\u0e49\\u0e32\\u0e43\\u0e04\\u0e23\\u0e21\\u0e35\\u0e15\\u0e23\\u0e07\\u0e19\\u0e35\\u0e49\\u0e08\\u0e30\\u0e23\\u0e39\\u0e49&nbsp;\\u0e16\\u0e49\\u0e32\\u0e43\\u0e04\\u0e23\\u0e44\\u0e21\\u0e48\\u0e21\\u0e35\\u0e01\\u0e47\\u0e16\\u0e37\\u0e2d\\u0e27\\u0e48\\u0e32\\u0e40\\u0e1b\\u0e47\\u0e19\\u0e1a\\u0e38\\u0e0d&nbsp; \\u0e40\\u0e1e\\u0e23\\u0e32\\u0e30\\u0e09\\u0e30\\u0e19\\u0e31\\u0e49\\u0e19\\u0e40\\u0e23\\u0e32\\u0e2d\\u0e22\\u0e32\\u0e01\\u0e44\\u0e14\\u0e49\\u0e1a\\u0e38\\u0e0d\\u0e01\\u0e38\\u0e28\\u0e25&nbsp; \\u0e2d\\u0e22\\u0e48\\u0e32\\u0e44\\u0e1b\\u0e21\\u0e35\\u0e19\\u0e30&nbsp;\\u0e04\\u0e19\\u0e40\\u0e14\\u0e35\\u0e22\\u0e27\\u0e01\\u0e47\\u0e1e\\u0e2d\\u0e41\\u0e25\\u0e49\\u0e27&nbsp;\\u0e2d\\u0e22\\u0e48\\u0e32\\u0e21\\u0e35\\u0e2b\\u0e25\\u0e32\\u0e22\\u0e04\\u0e19\\u0e19\\u0e48\\u0e30&nbsp;\\u0e40\\u0e1e\\u0e23\\u0e32\\u0e30\\u0e2b\\u0e25\\u0e32\\u0e22\\u0e04\\u0e19\\u0e21\\u0e31\\u0e19\\u0e2b\\u0e25\\u0e32\\u0e22\\u0e04\\u0e27\\u0e32\\u0e21\\u0e40\\u0e2b\\u0e47\\u0e19&nbsp;\\u0e08\\u0e23\\u0e34\\u0e07\\u0e44\\u0e2b\\u0e21&nbsp;\\u0e17\\u0e38\\u0e01\\u0e04\\u0e19\\u0e19\\u0e30\\u0e1a\\u0e2d\\u0e01\\u0e27\\u0e48\\u0e32\\u0e23\\u0e31\\u0e01\\u0e01\\u0e31\\u0e19\\u0e2d\\u0e22\\u0e48\\u0e32\\u0e07\\u0e44\\u0e23\\u0e01\\u0e47\\u0e15\\u0e32\\u0e21\\u0e19\\u0e30&nbsp;\\u0e2b\\u0e19\\u0e36\\u0e48\\u0e07\\u0e19\\u0e30\\u0e1c\\u0e39\\u0e49\\u0e2b\\u0e0d\\u0e34\\u0e07\\u0e1c\\u0e39\\u0e49\\u0e0a\\u0e32\\u0e22\\u0e23\\u0e31\\u0e01\\u0e01\\u0e31\\u0e19&nbsp; \\u0e21\\u0e31\\u0e19\\u0e2b\\u0e19\\u0e36\\u0e48\\u0e07\\u0e23\\u0e39\\u0e1b\\u0e23\\u0e48\\u0e32\\u0e07\\u0e2b\\u0e19\\u0e49\\u0e32\\u0e15\\u0e32\\u0e01\\u0e48\\u0e2d\\u0e19&nbsp; \\u0e2a\\u0e2d\\u0e07\\u0e2d\\u0e38\\u0e1b\\u0e19\\u0e34\\u0e2a\\u0e31\\u0e22&nbsp;\\u0e1e\\u0e39\\u0e14\\u0e04\\u0e38\\u0e22\\u0e01\\u0e31\\u0e19\\u0e41\\u0e25\\u0e49\\u0e27\\u0e21\\u0e31\\u0e19\\u0e16\\u0e39\\u0e01\\u0e43\\u0e08\\u0e01\\u0e31\\u0e19&nbsp;\\u0e14\\u0e49\\u0e27\\u0e22\\u0e40\\u0e2b\\u0e15\\u0e38\\u0e14\\u0e49\\u0e27\\u0e22\\u0e1c\\u0e25&nbsp;\\u0e16\\u0e49\\u0e32\\u0e04\\u0e19\\u0e0a\\u0e2d\\u0e1a\\u0e40\\u0e2b\\u0e15\\u0e38\\u0e1c\\u0e25&nbsp;\\u0e04\\u0e19\\u0e0a\\u0e2d\\u0e1a\\u0e2d\\u0e48\\u0e2d\\u0e19\\u0e2b\\u0e27\\u0e32\\u0e19\\u0e01\\u0e47\\u0e16\\u0e39\\u0e01\\u0e43\\u0e08\\u0e2d\\u0e48\\u0e2d\\u0e19\\u0e2b\\u0e27\\u0e32\\u0e19&nbsp;\\u0e41\\u0e15\\u0e48\\u0e08\\u0e30\\u0e16\\u0e39\\u0e01\\u0e43\\u0e08\\u0e01\\u0e31\\u0e19\\u0e2d\\u0e22\\u0e48\\u0e32\\u0e07\\u0e44\\u0e23&nbsp;\\u0e21\\u0e31\\u0e19\\u0e16\\u0e39\\u0e01\\u0e41\\u0e04\\u0e48\\u0e2a\\u0e48\\u0e27\\u0e19\\u0e2b\\u0e19\\u0e36\\u0e48\\u0e07\\u0e19\\u0e30&nbsp;\\u0e17\\u0e33\\u0e44\\u0e21\\u0e40\\u0e23\\u0e32\\u0e2a\\u0e31\\u0e07\\u0e40\\u0e01\\u0e15\\u0e44\\u0e2b\\u0e21\\u0e43\\u0e19\\u0e04\\u0e23\\u0e2d\\u0e1a\\u0e04\\u0e23\\u0e31\\u0e27\\u0e2b\\u0e19\\u0e36\\u0e48\\u0e07\\u0e40\\u0e01\\u0e34\\u0e14\\u0e01\\u0e32\\u0e23\\u0e2b\\u0e22\\u0e48\\u0e32\\u0e23\\u0e49\\u0e32\\u0e07\\u0e01\\u0e31\\u0e19\\u0e02\\u0e36\\u0e49\\u0e19&nbsp; \\u0e21\\u0e35\\u0e02\\u0e48\\u0e32\\u0e27\\u0e2d\\u0e2d\\u0e01\\u0e21\\u0e32\\u0e40\\u0e22\\u0e2d\\u0e30\\u0e19\\u0e30&nbsp; \\u0e17\\u0e33\\u0e44\\u0e21\\u0e40\\u0e1b\\u0e47\\u0e19\\u0e40\\u0e0a\\u0e48\\u0e19\\u0e19\\u0e31\\u0e49\\u0e19&nbsp; \\u0e16\\u0e32\\u0e21\\u0e27\\u0e48\\u0e32 \\u0e52 \\u0e04\\u0e19\\u0e19\\u0e35\\u0e49\\u0e44\\u0e21\\u0e48\\u0e16\\u0e39\\u0e01\\u0e43\\u0e08\\u0e01\\u0e31\\u0e19\\u0e2b\\u0e23\\u0e37\\u0e2d&nbsp; \\u0e16\\u0e39\\u0e01\\u0e43\\u0e08\\u0e01\\u0e31\\u0e19\\u0e2d\\u0e22\\u0e39\\u0e48&nbsp;\\u0e21\\u0e31\\u0e19\\u0e16\\u0e39\\u0e01\\u0e1a\\u0e32\\u0e07\\u0e2a\\u0e48\\u0e27\\u0e19&nbsp;\\u0e41\\u0e15\\u0e48\\u0e1e\\u0e2d\\u0e2d\\u0e22\\u0e39\\u0e48\\u0e23\\u0e48\\u0e27\\u0e21\\u0e01\\u0e31\\u0e19\\u0e41\\u0e25\\u0e49\\u0e27\\u0e19\\u0e35\\u0e48&nbsp; \\u0e52 \\u0e04\\u0e19\\u0e19\\u0e35\\u0e48\\u0e19\\u0e30&nbsp; \\u0e16\\u0e32\\u0e21\\u0e27\\u0e48\\u0e32\\u0e15\\u0e31\\u0e49\\u0e07\\u0e41\\u0e15\\u0e48\\u0e40\\u0e01\\u0e34\\u0e14\\u0e21\\u0e32\\u0e08\\u0e19\\u0e16\\u0e36\\u0e07\\u0e1b\\u0e31\\u0e08\\u0e08\\u0e38\\u0e1a\\u0e31\\u0e19\\u0e19\\u0e35\\u0e48&nbsp; \\u0e40\\u0e23\\u0e35\\u0e22\\u0e19\\u0e21\\u0e32\\u0e40\\u0e2b\\u0e21\\u0e37\\u0e2d\\u0e19\\u0e01\\u0e31\\u0e19\\u0e17\\u0e38\\u0e01\\u0e2d\\u0e22\\u0e48\\u0e32\\u0e07\\u0e44\\u0e2b\\u0e21&nbsp; \\u0e44\\u0e21\\u0e48\\u0e40\\u0e2b\\u0e21\\u0e37\\u0e2d\\u0e19&nbsp;\\u0e2a\\u0e20\\u0e32\\u0e1e\\u0e04\\u0e23\\u0e2d\\u0e1a\\u0e04\\u0e23\\u0e31\\u0e27\\u0e01\\u0e47\\u0e44\\u0e21\\u0e48\\u0e40\\u0e2b\\u0e21\\u0e37\\u0e2d\\u0e19\\u0e01\\u0e31\\u0e19&nbsp; \\u0e01\\u0e32\\u0e23\\u0e2d\\u0e1a\\u0e23\\u0e21\\u0e1e\\u0e37\\u0e49\\u0e19\\u0e10\\u0e32\\u0e19\\u0e44\\u0e21\\u0e48\\u0e40\\u0e2b\\u0e21\\u0e37\\u0e2d\\u0e19\\u0e01\\u0e31\\u0e19&nbsp; \\u0e04\\u0e27\\u0e32\\u0e21\\u0e17\\u0e35\\u0e48\\u0e1e\\u0e37\\u0e49\\u0e19\\u0e10\\u0e32\\u0e19\\u0e44\\u0e21\\u0e48\\u0e40\\u0e2b\\u0e21\\u0e37\\u0e2d\\u0e19\\u0e01\\u0e31\\u0e19\\u0e19\\u0e31\\u0e49\\u0e19\\u0e25\\u0e48\\u0e30&nbsp; \\u0e21\\u0e31\\u0e19\\u0e17\\u0e33\\u0e43\\u0e2b\\u0e49\\u0e1b\\u0e31\\u0e0d\\u0e2b\\u0e32\\u0e40\\u0e01\\u0e34\\u0e14\\u0e44\\u0e07&nbsp; \\u0e21\\u0e31\\u0e19\\u0e40\\u0e2b\\u0e21\\u0e37\\u0e2d\\u0e19\\u0e40\\u0e09\\u0e1e\\u0e32\\u0e30\\u0e1a\\u0e32\\u0e07\\u0e2a\\u0e48\\u0e27\\u0e19\\u0e17\\u0e35\\u0e48\\u0e21\\u0e31\\u0e19\\u0e0a\\u0e2d\\u0e1a\\u0e01\\u0e31\\u0e19&nbsp; \\u0e41\\u0e15\\u0e48\\u0e1e\\u0e2d\\u0e21\\u0e32\\u0e2d\\u0e22\\u0e39\\u0e48\\u0e14\\u0e49\\u0e27\\u0e22\\u0e01\\u0e31\\u0e19\\u0e41\\u0e25\\u0e49\\u0e27&nbsp; \\u0e21\\u0e31\\u0e19\\u0e15\\u0e49\\u0e2d\\u0e07\\u0e17\\u0e38\\u0e01\\u0e2a\\u0e48\\u0e27\\u0e19\\u0e44\\u0e07&nbsp; \\u0e40\\u0e21\\u0e37\\u0e48\\u0e2d\\u0e44\\u0e2d\\u0e49\\u0e17\\u0e38\\u0e01\\u0e2a\\u0e48\\u0e27\\u0e19\\u0e21\\u0e31\\u0e19\\u0e44\\u0e21\\u0e48\\u0e21\\u0e35&nbsp; \\u0e44\\u0e2d\\u0e49\\u0e2a\\u0e48\\u0e27\\u0e19\\u0e17\\u0e35\\u0e48\\u0e21\\u0e31\\u0e19\\u0e15\\u0e48\\u0e32\\u0e07\\u0e01\\u0e31\\u0e19\\u0e21\\u0e32\\u0e01&nbsp; \\u0e21\\u0e31\\u0e19\\u0e01\\u0e47\\u0e40\\u0e25\\u0e22\\u0e2d\\u0e22\\u0e39\\u0e48\\u0e01\\u0e31\\u0e19\\u0e44\\u0e21\\u0e48\\u0e44\\u0e14\\u0e49&nbsp; \\u0e21\\u0e31\\u0e19\\u0e01\\u0e47\\u0e40\\u0e25\\u0e22\\u0e15\\u0e49\\u0e2d\\u0e07\\u0e2b\\u0e22\\u0e48\\u0e32\\u0e23\\u0e49\\u0e32\\u0e07\\u0e17\\u0e30\\u0e40\\u0e25\\u0e32\\u0e30\\u0e40\\u0e1a\\u0e32\\u0e30\\u0e41\\u0e27\\u0e49\\u0e07\\u0e01\\u0e31\\u0e19\\u0e44\\u0e1b&nbsp; \\u0e19\\u0e35\\u0e48 \\u0e21\\u0e31\\u0e19\\u0e1b\\u0e31\\u0e0d\\u0e2b\\u0e32\\u0e40\\u0e01\\u0e34\\u0e14&nbsp; \\u0e40\\u0e1e\\u0e23\\u0e32\\u0e30\\u0e19\\u0e31\\u0e49\\u0e19\\u0e16\\u0e49\\u0e32\\u0e40\\u0e23\\u0e32\\u0e44\\u0e1b\\u0e40\\u0e2d\\u0e32\\u0e2b\\u0e25\\u0e32\\u0e22\\u0e04\\u0e19\\u0e40\\u0e02\\u0e49\\u0e32\\u0e21\\u0e32&nbsp; \\u0e23\\u0e31\\u0e1a\\u0e23\\u0e2d\\u0e07\\u0e21\\u0e31\\u0e19\\u0e21\\u0e35\\u0e2b\\u0e25\\u0e32\\u0e22\\u0e40\\u0e2b\\u0e15\\u0e38\\u0e17\\u0e35\\u0e48\\u0e21\\u0e31\\u0e19\\u0e44\\u0e21\\u0e48\\u0e15\\u0e23\\u0e07\\u0e01\\u0e31\\u0e19&nbsp; \\u0e21\\u0e31\\u0e19\\u0e01\\u0e47\\u0e40\\u0e25\\u0e22\\u0e40\\u0e1b\\u0e47\\u0e19\\u0e1b\\u0e31\\u0e0d\\u0e2b\\u0e32\\u0e44\\u0e07&nbsp; \\u0e1e\\u0e2d\\u0e40\\u0e1b\\u0e47\\u0e19\\u0e1b\\u0e31\\u0e0d\\u0e2b\\u0e32\\u0e15\\u0e23\\u0e07\\u0e19\\u0e35\\u0e49\\u0e01\\u0e47\\u0e17\\u0e33\\u0e43\\u0e2b\\u0e49\\u0e40\\u0e23\\u0e32\\u0e14\\u0e33\\u0e23\\u0e07\\u0e0a\\u0e35\\u0e27\\u0e34\\u0e15\\u0e14\\u0e49\\u0e27\\u0e22\\u0e04\\u0e27\\u0e32\\u0e21\\u0e44\\u0e21\\u0e48\\u0e21\\u0e35\\u0e2a\\u0e38\\u0e02&nbsp; \\u0e07\\u0e32\\u0e19\\u0e01\\u0e32\\u0e23\\u0e01\\u0e47\\u0e40\\u0e2a\\u0e35\\u0e22\\u0e2b\\u0e32\\u0e22&nbsp; \\u0e08\\u0e34\\u0e15\\u0e43\\u0e08\\u0e01\\u0e47\\u0e40\\u0e2a\\u0e35\\u0e22\\u0e2b\\u0e32\\u0e22&nbsp; \\u0e40\\u0e2a\\u0e35\\u0e22\\u0e2b\\u0e32\\u0e22\\u0e15\\u0e31\\u0e27\\u0e40\\u0e2d\\u0e07\\u0e44\\u0e21\\u0e48\\u0e1e\\u0e2d&nbsp; \\u0e40\\u0e2a\\u0e35\\u0e22\\u0e2b\\u0e32\\u0e22\\u0e17\\u0e38\\u0e01\\u0e04\\u0e19\\u0e17\\u0e35\\u0e48\\u0e23\\u0e48\\u0e27\\u0e21\\u0e01\\u0e31\\u0e19\\u0e2d\\u0e22\\u0e39\\u0e48\\u0e15\\u0e23\\u0e07\\u0e19\\u0e31\\u0e49\\u0e19\\u0e25\\u0e48\\u0e30&nbsp; \\u0e40\\u0e1e\\u0e23\\u0e32\\u0e30\\u0e21\\u0e31\\u0e19\\u0e2a\\u0e30\\u0e40\\u0e17\\u0e37\\u0e2d\\u0e19\\u0e2b\\u0e21\\u0e14&nbsp; \\u0e16\\u0e49\\u0e32\\u0e21\\u0e35\\u0e2d\\u0e22\\u0e39\\u0e48 \\u0e55 \\u0e2d\\u0e22\\u0e48\\u0e32\\u0e07\\u0e19\\u0e35\\u0e49&nbsp; \\u0e21\\u0e31\\u0e19\\u0e44\\u0e21\\u0e48\\u0e44\\u0e14\\u0e49\\u0e2a\\u0e30\\u0e40\\u0e17\\u0e37\\u0e2d\\u0e19\\u0e15\\u0e31\\u0e27\\u0e40\\u0e23\\u0e32\\u0e04\\u0e19\\u0e40\\u0e14\\u0e35\\u0e22\\u0e27\\u0e19\\u0e30&nbsp; \\u0e21\\u0e31\\u0e19\\u0e2a\\u0e30\\u0e40\\u0e17\\u0e37\\u0e2d\\u0e19\\u0e17\\u0e31\\u0e49\\u0e07 \\u0e55&nbsp; \\u0e40\\u0e1e\\u0e23\\u0e32\\u0e30\\u0e41\\u0e15\\u0e48\\u0e25\\u0e30\\u0e04\\u0e19\\u0e19\\u0e35\\u0e48\\u0e21\\u0e31\\u0e19\\u0e41\\u0e17\\u0e23\\u0e01\\u0e41\\u0e0b\\u0e07\\u0e01\\u0e31\\u0e19\\u0e15\\u0e25\\u0e2d\\u0e14&nbsp; \\u0e19\\u0e35\\u0e48 \\u0e40\\u0e1e\\u0e23\\u0e32\\u0e30\\u0e09\\u0e30\\u0e19\\u0e31\\u0e49\\u0e19\\u0e1e\\u0e23\\u0e30\\u0e1e\\u0e38\\u0e17\\u0e18\\u0e40\\u0e08\\u0e49\\u0e32\\u0e08\\u0e36\\u0e07\\u0e1a\\u0e31\\u0e0d\\u0e0d\\u0e31\\u0e15\\u0e34\\u0e43\\u0e2b\\u0e49\\u0e1c\\u0e31\\u0e27\\u0e40\\u0e14\\u0e35\\u0e22\\u0e27\\u0e40\\u0e21\\u0e35\\u0e22\\u0e40\\u0e14\\u0e35\\u0e22\\u0e27&nbsp; \\u0e2d\\u0e22\\u0e48\\u0e32\\u0e44\\u0e1b\\u0e1c\\u0e34\\u0e14\\u0e25\\u0e39\\u0e01\\u0e1c\\u0e34\\u0e14\\u0e40\\u0e21\\u0e35\\u0e22\\u0e40\\u0e02\\u0e32&nbsp; \\u0e19\\u0e35\\u0e49\\u0e43\\u0e2b\\u0e49\\u0e40\\u0e02\\u0e49\\u0e32\\u0e43\\u0e08&nbsp;\\u0e40\\u0e1e\\u0e23\\u0e32\\u0e30\\u0e19\\u0e31\\u0e49\\u0e19\\u0e16\\u0e49\\u0e32\\u0e40\\u0e23\\u0e32\\u0e1e\\u0e34\\u0e08\\u0e32\\u0e23\\u0e13\\u0e32\\u0e15\\u0e23\\u0e07\\u0e19\\u0e35\\u0e49&nbsp;\\u0e21\\u0e31\\u0e19\\u0e40\\u0e1b\\u0e47\\u0e19\\u0e04\\u0e27\\u0e32\\u0e21\\u0e40\\u0e1b\\u0e47\\u0e19\\u0e18\\u0e23\\u0e23\\u0e21&nbsp;\\u0e40\\u0e1e\\u0e23\\u0e32\\u0e30\\u0e25\\u0e39\\u0e01\\u0e40\\u0e21\\u0e35\\u0e22\\u0e40\\u0e02\\u0e32&nbsp; \\u0e40\\u0e02\\u0e32\\u0e01\\u0e47\\u0e23\\u0e31\\u0e01&nbsp; \\u0e40\\u0e23\\u0e32\\u0e44\\u0e1b\\u0e25\\u0e48\\u0e27\\u0e07\\u0e40\\u0e01\\u0e34\\u0e19\\u0e40\\u0e02\\u0e32 &nbsp;\\u0e40\\u0e02\\u0e32\\u0e01\\u0e47\\u0e44\\u0e21\\u0e48\\u0e0a\\u0e2d\\u0e1a\\u0e43\\u0e0a\\u0e48\\u0e44\\u0e2b\\u0e21&nbsp; \\u0e16\\u0e49\\u0e32\\u0e25\\u0e39\\u0e01\\u0e40\\u0e21\\u0e35\\u0e22\\u0e40\\u0e23\\u0e32\\u0e40\\u0e02\\u0e32\\u0e21\\u0e32\\u0e25\\u0e48\\u0e27\\u0e07\\u0e40\\u0e01\\u0e34\\u0e19&nbsp; \\u0e40\\u0e23\\u0e32\\u0e01\\u0e47\\u0e44\\u0e21\\u0e48\\u0e0a\\u0e2d\\u0e1a\\u0e2d\\u0e35\\u0e01&nbsp; \\u0e19\\u0e35\\u0e48\\u0e04\\u0e37\\u0e2d\\u0e04\\u0e27\\u0e32\\u0e21\\u0e40\\u0e1b\\u0e47\\u0e19\\u0e18\\u0e23\\u0e23\\u0e21&nbsp; \\u0e16\\u0e49\\u0e32\\u0e04\\u0e19\\u0e44\\u0e2b\\u0e19\\u0e21\\u0e35\\u0e43\\u0e08\\u0e40\\u0e1b\\u0e47\\u0e19\\u0e18\\u0e23\\u0e23\\u0e21\\u0e01\\u0e47\\u0e44\\u0e21\\u0e48\\u0e40\\u0e2d\\u0e32&nbsp; \\u0e41\\u0e25\\u0e49\\u0e27\\u0e22\\u0e34\\u0e48\\u0e07\\u0e16\\u0e49\\u0e32\\u0e40\\u0e2b\\u0e47\\u0e19\\u0e1b\\u0e31\\u0e0d\\u0e2b\\u0e32\\u0e17\\u0e35\\u0e48\\u0e2d\\u0e32\\u0e15\\u0e21\\u0e32\\u0e1e\\u0e39\\u0e14\\u0e43\\u0e2b\\u0e49\\u0e1f\\u0e31\\u0e07&nbsp; \\u0e27\\u0e48\\u0e32\\u0e1e\\u0e37\\u0e49\\u0e19\\u0e10\\u0e32\\u0e19\\u0e21\\u0e31\\u0e19\\u0e15\\u0e48\\u0e32\\u0e07\\u0e01\\u0e31\\u0e19\\u0e21\\u0e32&nbsp; \\u0e21\\u0e31\\u0e19\\u0e21\\u0e32\\u0e41\\u0e25\\u0e49\\u0e27\\u0e21\\u0e31\\u0e19\\u0e01\\u0e47\\u0e40\\u0e25\\u0e22\\u0e15\\u0e49\\u0e2d\\u0e07\\u0e27\\u0e38\\u0e48\\u0e19\\u0e27\\u0e32\\u0e22\\u0e44\\u0e07&nbsp; \\u0e16\\u0e49\\u0e32\\u0e40\\u0e2b\\u0e47\\u0e19\\u0e15\\u0e23\\u0e07\\u0e19\\u0e35\\u0e49\\u0e41\\u0e25\\u0e49\\u0e27\\u0e40\\u0e23\\u0e32\\u0e08\\u0e30\\u0e44\\u0e1b\\u0e17\\u0e38\\u0e01\\u0e02\\u0e4c\\u0e17\\u0e33\\u0e44\\u0e21\\u0e25\\u0e48\\u0e30&nbsp; \\u0e04\\u0e19\\u0e21\\u0e35\\u0e1b\\u0e31\\u0e0d\\u0e0d\\u0e32\\u0e40\\u0e25\\u0e22\\u0e44\\u0e21\\u0e48\\u0e40\\u0e2d\\u0e32&nbsp; \\u0e40\\u0e2d\\u0e32\\u0e41\\u0e04\\u0e48\\u0e04\\u0e19\\u0e40\\u0e14\\u0e35\\u0e22\\u0e27\\u0e01\\u0e47\\u0e1e\\u0e2d\\u0e41\\u0e25\\u0e49\\u0e27&nbsp; \\u0e19\\u0e35\\u0e48 \\u0e2d\\u0e31\\u0e19\\u0e19\\u0e35\\u0e49\\u0e22\\u0e31\\u0e07\\u0e44\\u0e21\\u0e48\\u0e1e\\u0e39\\u0e14\\u0e16\\u0e36\\u0e07\\u0e15\\u0e48\\u0e2d&nbsp; \\u0e16\\u0e49\\u0e32\\u0e21\\u0e31\\u0e19\\u0e15\\u0e48\\u0e32\\u0e07\\u0e01\\u0e31\\u0e19\\u0e41\\u0e25\\u0e49\\u0e27&nbsp; \\u0e1c\\u0e31\\u0e27\\u0e40\\u0e21\\u0e35\\u0e22\\u0e21\\u0e32\\u0e2d\\u0e22\\u0e39\\u0e48\\u0e14\\u0e49\\u0e27\\u0e22\\u0e01\\u0e31\\u0e19&nbsp; \\u0e08\\u0e30\\u0e2d\\u0e22\\u0e39\\u0e48\\u0e22\\u0e31\\u0e07\\u0e44\\u0e07\\u0e17\\u0e35\\u0e48\\u0e17\\u0e31\\u0e49\\u0e07 \\u0e52 \\u0e1d\\u0e48\\u0e32\\u0e22\\u0e08\\u0e30\\u0e2d\\u0e22\\u0e39\\u0e48\\u0e14\\u0e49\\u0e27\\u0e22\\u0e04\\u0e27\\u0e32\\u0e21\\u0e2a\\u0e38\\u0e02&nbsp; \\u0e17\\u0e31\\u0e49\\u0e07 \\u0e52 \\u0e1d\\u0e48\\u0e32\\u0e22\\u0e08\\u0e30\\u0e15\\u0e49\\u0e2d\\u0e07\\u0e21\\u0e32\\u0e28\\u0e36\\u0e01\\u0e29\\u0e32\\u0e0b\\u0e36\\u0e48\\u0e07\\u0e01\\u0e31\\u0e19\\u0e41\\u0e25\\u0e30\\u0e01\\u0e31\\u0e19&nbsp;\\u0e08\\u0e30\\u0e15\\u0e49\\u0e2d\\u0e07\\u0e15\\u0e31\\u0e49\\u0e07\\u0e2d\\u0e22\\u0e39\\u0e48\\u0e1a\\u0e19\\u0e2a\\u0e15\\u0e34\\u0e1a\\u0e19\\u0e1b\\u0e31\\u0e0d\\u0e0d\\u0e32&nbsp;\\u0e1a\\u0e19\\u0e40\\u0e2b\\u0e15\\u0e38\\u0e1c\\u0e25\\u0e19\\u0e31\\u0e48\\u0e19\\u0e40\\u0e2d\\u0e07&nbsp; \\u0e43\\u0e19\\u0e01\\u0e34\\u0e08\\u0e01\\u0e32\\u0e23\\u0e07\\u0e32\\u0e19 \\u0e43\\u0e19\\u0e01\\u0e34\\u0e08\\u0e17\\u0e38\\u0e01\\u0e2d\\u0e22\\u0e48\\u0e32\\u0e07\\u0e17\\u0e35\\u0e48\\u0e23\\u0e48\\u0e27\\u0e21\\u0e01\\u0e31\\u0e19\\u0e19\\u0e31\\u0e49\\u0e19&nbsp;\\u0e15\\u0e49\\u0e2d\\u0e07\\u0e43\\u0e0a\\u0e49\\u0e2a\\u0e15\\u0e34\\u0e1b\\u0e31\\u0e0d\\u0e0d\\u0e32&nbsp;\\u0e40\\u0e1e\\u0e23\\u0e32\\u0e30\\u0e21\\u0e31\\u0e19\\u0e15\\u0e48\\u0e32\\u0e07\\u0e01\\u0e31\\u0e19\\u0e19\\u0e35\\u0e48&nbsp; \\u0e16\\u0e49\\u0e32\\u0e43\\u0e0a\\u0e49\\u0e04\\u0e27\\u0e32\\u0e21\\u0e04\\u0e34\\u0e14\\u0e04\\u0e27\\u0e32\\u0e21\\u0e40\\u0e2b\\u0e47\\u0e19\\u0e17\\u0e35\\u0e48\\u0e21\\u0e31\\u0e19\\u0e15\\u0e48\\u0e32\\u0e07\\u0e01\\u0e31\\u0e19\\u0e40\\u0e02\\u0e49\\u0e32\\u0e21\\u0e32\\u0e2a\\u0e39\\u0e48\\u0e01\\u0e31\\u0e19&nbsp; \\u0e21\\u0e31\\u0e19\\u0e23\\u0e31\\u0e01\\u0e01\\u0e31\\u0e19\\u0e22\\u0e31\\u0e07\\u0e44\\u0e07\\u0e27\\u0e31\\u0e19\\u0e2b\\u0e19\\u0e36\\u0e48\\u0e07\\u0e01\\u0e47\\u0e15\\u0e49\\u0e2d\\u0e07\\u0e41\\u0e15\\u0e01&nbsp; \\u0e40\\u0e1e\\u0e23\\u0e32\\u0e30\\u0e21\\u0e31\\u0e19\\u0e44\\u0e1b\\u0e14\\u0e49\\u0e27\\u0e22\\u0e01\\u0e31\\u0e19\\u0e44\\u0e21\\u0e48\\u0e44\\u0e14\\u0e49&nbsp; \\u0e16\\u0e49\\u0e32\\u0e08\\u0e30\\u0e43\\u0e2b\\u0e49\\u0e0a\\u0e35\\u0e27\\u0e34\\u0e15\\u0e04\\u0e39\\u0e48\\u0e21\\u0e31\\u0e19\\u0e44\\u0e1b\\u0e44\\u0e14\\u0e49&nbsp; \\u0e17\\u0e31\\u0e49\\u0e07 \\u0e52 \\u0e1d\\u0e48\\u0e32\\u0e22\\u0e01\\u0e47\\u0e15\\u0e49\\u0e2d\\u0e07\\u0e1b\\u0e23\\u0e31\\u0e1a\\u0e40\\u0e02\\u0e49\\u0e32\\u0e2b\\u0e32\\u0e01\\u0e31\\u0e19\\u0e19\\u0e48\\u0e30&nbsp; \\u0e1b\\u0e23\\u0e31\\u0e1a\\u0e14\\u0e49\\u0e27\\u0e22\\u0e40\\u0e2b\\u0e15\\u0e38\\u0e14\\u0e49\\u0e27\\u0e22\\u0e1c\\u0e25&nbsp; \\u0e44\\u0e21\\u0e48\\u0e40\\u0e2d\\u0e32\\u0e2d\\u0e32\\u0e23\\u0e21\\u0e13\\u0e4c\\u0e40\\u0e1b\\u0e47\\u0e19\\u0e43\\u0e2b\\u0e0d\\u0e48&nbsp; \\u0e16\\u0e49\\u0e32\\u0e40\\u0e2d\\u0e32\\u0e2d\\u0e32\\u0e23\\u0e21\\u0e13\\u0e4c\\u0e40\\u0e1b\\u0e47\\u0e19\\u0e43\\u0e2b\\u0e0d\\u0e48&nbsp; \\u0e21\\u0e31\\u0e19\\u0e23\\u0e31\\u0e01\\u0e01\\u0e31\\u0e19\\u0e22\\u0e31\\u0e07\\u0e44\\u0e07\\u0e27\\u0e31\\u0e19\\u0e2b\\u0e19\\u0e36\\u0e48\\u0e07\\u0e21\\u0e31\\u0e19\\u0e01\\u0e47\\u0e15\\u0e49\\u0e2d\\u0e07\\u0e41\\u0e22\\u0e01&nbsp; \\u0e41\\u0e25\\u0e49\\u0e27\\u0e01\\u0e32\\u0e23\\u0e2b\\u0e22\\u0e48\\u0e32\\u0e23\\u0e49\\u0e32\\u0e07 \\u0e01\\u0e32\\u0e23\\u0e06\\u0e48\\u0e32\\u0e1f\\u0e31\\u0e19 \\u0e01\\u0e32\\u0e23\\u0e17\\u0e33\\u0e23\\u0e49\\u0e32\\u0e22\\u0e01\\u0e31\\u0e19\\u0e01\\u0e47\\u0e08\\u0e30\\u0e40\\u0e01\\u0e34\\u0e14\\u0e02\\u0e36\\u0e49\\u0e19\\u0e15\\u0e32\\u0e21\\u0e02\\u0e48\\u0e32\\u0e27\\u0e17\\u0e35\\u0e48\\u0e40\\u0e23\\u0e32\\u0e40\\u0e2b\\u0e47\\u0e19\\u0e19\\u0e48\\u0e30&nbsp; \\u0e40\\u0e1e\\u0e23\\u0e32\\u0e30\\u0e09\\u0e30\\u0e19\\u0e31\\u0e49\\u0e19\\u0e16\\u0e49\\u0e32\\u0e0a\\u0e35\\u0e27\\u0e34\\u0e15\\u0e40\\u0e23\\u0e32\\u0e28\\u0e36\\u0e01\\u0e29\\u0e32\\u0e43\\u0e19\\u0e01\\u0e32\\u0e22\\u0e43\\u0e08\\u0e40\\u0e23\\u0e32\\u0e40\\u0e02\\u0e49\\u0e32\\u0e43\\u0e08\\u0e15\\u0e23\\u0e07\\u0e19\\u0e35\\u0e49\\u0e19\\u0e30&nbsp;\\u0e0a\\u0e35\\u0e27\\u0e34\\u0e15\\u0e04\\u0e39\\u0e48\\u0e40\\u0e23\\u0e32\\u0e01\\u0e47\\u0e08\\u0e30\\u0e23\\u0e39\\u0e49\\u0e27\\u0e48\\u0e32\\u0e40\\u0e23\\u0e32\\u0e08\\u0e30\\u0e14\\u0e33\\u0e40\\u0e19\\u0e34\\u0e19\\u0e22\\u0e31\\u0e07\\u0e44\\u0e07\\u0e14\\u0e49\\u0e27\\u0e22\\u0e04\\u0e27\\u0e32\\u0e21\\u0e1c\\u0e32\\u0e2a\\u0e38\\u0e01&nbsp; \\u0e41\\u0e15\\u0e48\\u0e15\\u0e49\\u0e2d\\u0e07\\u0e23\\u0e48\\u0e27\\u0e21\\u0e01\\u0e31\\u0e19 \\u0e52 \\u0e1d\\u0e48\\u0e32\\u0e22&nbsp; \\u0e2d\\u0e31\\u0e19\\u0e19\\u0e35\\u0e49\\u0e40\\u0e2b\\u0e21\\u0e37\\u0e2d\\u0e19\\u0e01\\u0e31\\u0e19&nbsp; \\u0e02\\u0e49\\u0e2d\\u0e17\\u0e35\\u0e48 \\u0e54 \\u0e04\\u0e37\\u0e2d\\u0e01\\u0e32\\u0e23\\u0e1e\\u0e39\\u0e14\\u0e1b\\u0e14&nbsp; \\u0e43\\u0e04\\u0e23\\u0e2b\\u0e25\\u0e2d\\u0e01\\u0e25\\u0e27\\u0e07\\u0e40\\u0e23\\u0e32\\u0e01\\u0e47\\u0e44\\u0e21\\u0e48\\u0e0a\\u0e2d\\u0e1a&nbsp; \\u0e40\\u0e02\\u0e32\\u0e2b\\u0e25\\u0e2d\\u0e01\\u0e25\\u0e27\\u0e07\\u0e40\\u0e23\\u0e32&nbsp;\\u0e40\\u0e23\\u0e32\\u0e0a\\u0e2d\\u0e1a\\u0e44\\u0e2b\\u0e21&nbsp;\\u0e41\\u0e25\\u0e49\\u0e27\\u0e40\\u0e23\\u0e32\\u0e44\\u0e1b\\u0e2b\\u0e25\\u0e2d\\u0e01\\u0e25\\u0e27\\u0e07\\u0e40\\u0e02\\u0e32&nbsp;\\u0e40\\u0e02\\u0e32\\u0e0a\\u0e2d\\u0e1a\\u0e44\\u0e2b\\u0e21&nbsp; \\u0e41\\u0e25\\u0e49\\u0e27\\u0e40\\u0e04\\u0e23\\u0e14\\u0e34\\u0e15\\u0e21\\u0e31\\u0e19\\u0e08\\u0e30\\u0e04\\u0e38\\u0e22\\u0e01\\u0e31\\u0e19\\u0e44\\u0e14\\u0e49\\u0e44\\u0e2b\\u0e21&nbsp; \\u0e22\\u0e34\\u0e48\\u0e07\\u0e40\\u0e23\\u0e32\\u0e04\\u0e49\\u0e32\\u0e02\\u0e32\\u0e22\\u0e19\\u0e35\\u0e48&nbsp; \\u0e16\\u0e49\\u0e32\\u0e1e\\u0e39\\u0e14\\u0e01\\u0e31\\u0e19\\u0e41\\u0e25\\u0e49\\u0e27&nbsp;\\u0e21\\u0e31\\u0e19\\u0e44\\u0e21\\u0e48\\u0e23\\u0e31\\u0e01\\u0e29\\u0e32\\u0e04\\u0e33\\u0e1e\\u0e39\\u0e14&nbsp;\\u0e40\\u0e04\\u0e23\\u0e14\\u0e34\\u0e15\\u0e21\\u0e31\\u0e19\\u0e44\\u0e21\\u0e48\\u0e21\\u0e35\\u0e15\\u0e48\\u0e2d\\u0e01\\u0e31\\u0e19\\u0e19\\u0e48\\u0e30&nbsp;\\u0e41\\u0e25\\u0e49\\u0e27\\u0e08\\u0e30\\u0e40\\u0e0a\\u0e37\\u0e48\\u0e2d\\u0e16\\u0e37\\u0e2d\\u0e27\\u0e32\\u0e08\\u0e32\\u0e01\\u0e31\\u0e19\\u0e44\\u0e14\\u0e49\\u0e44\\u0e2b\\u0e21&nbsp;\\u0e44\\u0e21\\u0e48\\u0e44\\u0e14\\u0e49&nbsp; \\u0e18\\u0e38\\u0e23\\u0e01\\u0e34\\u0e08\\u0e01\\u0e47\\u0e40\\u0e2a\\u0e35\\u0e22\\u0e44\\u0e07&nbsp; \\u0e08\\u0e23\\u0e34\\u0e07\\u0e44\\u0e2b\\u0e21&nbsp;\\u0e19\\u0e35\\u0e48 \\u0e40\\u0e1e\\u0e23\\u0e32\\u0e30\\u0e19\\u0e31\\u0e49\\u0e19\\u0e01\\u0e32\\u0e23\\u0e1e\\u0e39\\u0e14\\u0e04\\u0e33\\u0e2a\\u0e31\\u0e15\\u0e22\\u0e4c\\u0e04\\u0e33\\u0e08\\u0e23\\u0e34\\u0e07&nbsp; \\u0e21\\u0e31\\u0e19\\u0e40\\u0e1b\\u0e47\\u0e19\\u0e1b\\u0e23\\u0e30\\u0e42\\u0e22\\u0e0a\\u0e19\\u0e4c&nbsp; \\u0e16\\u0e49\\u0e32\\u0e42\\u0e01\\u0e2b\\u0e01\\u0e01\\u0e31\\u0e19\\u0e21\\u0e31\\u0e19\\u0e40\\u0e1b\\u0e47\\u0e19\\u0e42\\u0e17\\u0e29\\u0e44\\u0e07&nbsp; \\u0e17\\u0e33\\u0e43\\u0e2b\\u0e49\\u0e44\\u0e27\\u0e49\\u0e40\\u0e19\\u0e37\\u0e49\\u0e2d\\u0e40\\u0e0a\\u0e37\\u0e48\\u0e2d\\u0e43\\u0e08\\u0e01\\u0e31\\u0e19\\u0e44\\u0e21\\u0e48\\u0e44\\u0e14\\u0e49&nbsp; \\u0e17\\u0e35\\u0e19\\u0e35\\u0e49\\u0e1a\\u0e32\\u0e07\\u0e04\\u0e19\\u0e01\\u0e47\\u0e1a\\u0e2d\\u0e01&nbsp; \\u0e16\\u0e49\\u0e32\\u0e1e\\u0e39\\u0e14\\u0e08\\u0e23\\u0e34\\u0e07\\u0e44\\u0e1b\\u0e41\\u0e25\\u0e49\\u0e27\\u0e21\\u0e31\\u0e19\\u0e08\\u0e30\\u0e40\\u0e01\\u0e34\\u0e14\\u0e40\\u0e2a\\u0e35\\u0e22\\u0e2b\\u0e32\\u0e22&nbsp; \\u0e01\\u0e47\\u0e2d\\u0e30\\u0e44\\u0e23\\u0e17\\u0e35\\u0e48\\u0e21\\u0e31\\u0e19\\u0e08\\u0e30\\u0e40\\u0e2a\\u0e35\\u0e22\\u0e2b\\u0e32\\u0e22&nbsp; \\u0e21\\u0e31\\u0e19\\u0e40\\u0e1b\\u0e47\\u0e19\\u0e42\\u0e17\\u0e29&nbsp;\\u0e21\\u0e31\\u0e19\\u0e40\\u0e1b\\u0e47\\u0e19\\u0e04\\u0e27\\u0e32\\u0e21\\u0e08\\u0e23\\u0e34\\u0e07&nbsp; \\u0e01\\u0e47\\u0e2d\\u0e22\\u0e48\\u0e32\\u0e44\\u0e1b\\u0e1e\\u0e39\\u0e14\\u0e21\\u0e31\\u0e19\\u0e2a\\u0e34&nbsp; \\u0e40\\u0e2b\\u0e21\\u0e37\\u0e2d\\u0e19\\u0e1e\\u0e39\\u0e14\\u0e41\\u0e25\\u0e49\\u0e27\\u0e21\\u0e31\\u0e19\\u0e08\\u0e30\\u0e43\\u0e2b\\u0e49\\u0e40\\u0e02\\u0e32\\u0e17\\u0e30\\u0e40\\u0e25\\u0e32\\u0e30\\u0e01\\u0e31\\u0e19&nbsp; \\u0e01\\u0e47\\u0e40\\u0e2b\\u0e47\\u0e19\\u0e21\\u0e31\\u0e19\\u0e2d\\u0e22\\u0e39\\u0e48\\u0e21\\u0e31\\u0e19\\u0e08\\u0e23\\u0e34\\u0e07&nbsp; \\u0e41\\u0e15\\u0e48\\u0e21\\u0e31\\u0e19\\u0e17\\u0e30\\u0e40\\u0e25\\u0e32\\u0e30\\u0e01\\u0e31\\u0e19\\u0e21\\u0e31\\u0e19\\u0e44\\u0e21\\u0e48\\u0e21\\u0e35\\u0e1b\\u0e23\\u0e30\\u0e42\\u0e22\\u0e0a\\u0e19\\u0e4c&nbsp; \\u0e01\\u0e32\\u0e23\\u0e44\\u0e21\\u0e48\\u0e1e\\u0e39\\u0e14 \\u0e44\\u0e21\\u0e48\\u0e44\\u0e14\\u0e49\\u0e16\\u0e37\\u0e2d\\u0e27\\u0e48\\u0e32\\u0e40\\u0e23\\u0e32\\u0e1e\\u0e39\\u0e14\\u0e40\\u0e17\\u0e47\\u0e08&nbsp; \\u0e40\\u0e23\\u0e32\\u0e15\\u0e49\\u0e2d\\u0e07\\u0e43\\u0e0a\\u0e49\\u0e2a\\u0e15\\u0e34\\u0e1b\\u0e31\\u0e0d\\u0e0d\\u0e32\\u0e1e\\u0e39\\u0e14&nbsp; \\u0e44\\u0e21\\u0e48\\u0e43\\u0e0a\\u0e48\\u0e15\\u0e49\\u0e2d\\u0e07\\u0e1e\\u0e39\\u0e14\\u0e17\\u0e38\\u0e01\\u0e40\\u0e23\\u0e37\\u0e48\\u0e2d\\u0e07&nbsp; \\u0e1a\\u0e2d\\u0e01\\u0e27\\u0e48\\u0e32\\u0e09\\u0e31\\u0e19\\u0e1e\\u0e39\\u0e14\\u0e04\\u0e27\\u0e32\\u0e21\\u0e08\\u0e23\\u0e34\\u0e07&nbsp; \\u0e41\\u0e15\\u0e48\\u0e42\\u0e17\\u0e29\\u0e21\\u0e31\\u0e19\\u0e40\\u0e01\\u0e34\\u0e14&nbsp;\\u0e2d\\u0e31\\u0e19\\u0e19\\u0e35\\u0e49\\u0e40\\u0e23\\u0e35\\u0e22\\u0e01\\u0e27\\u0e48\\u0e32\\u0e04\\u0e19\\u0e44\\u0e21\\u0e48\\u0e21\\u0e35\\u0e2a\\u0e15\\u0e34\\u0e1b\\u0e31\\u0e0d\\u0e0d\\u0e32&nbsp;\\u0e2a\\u0e48\\u0e27\\u0e19\\u0e2a\\u0e38\\u0e23\\u0e32\\u0e19\\u0e31\\u0e49\\u0e19\\u0e19\\u0e48\\u0e30\\u0e21\\u0e31\\u0e19\\u0e21\\u0e2d\\u0e21\\u0e40\\u0e21\\u0e32&nbsp;\\u0e44\\u0e21\\u0e48\\u0e43\\u0e0a\\u0e48\\u0e40\\u0e09\\u0e1e\\u0e32\\u0e30\\u0e2a\\u0e38\\u0e23\\u0e32\\u0e19\\u0e30&nbsp;\\u0e22\\u0e32\\u0e40\\u0e2a\\u0e1e\\u0e15\\u0e34\\u0e14\\u0e17\\u0e38\\u0e01\\u0e2d\\u0e22\\u0e48\\u0e32\\u0e07\\u0e21\\u0e31\\u0e19\\u0e21\\u0e2d\\u0e21\\u0e40\\u0e21\\u0e32&nbsp;\\u0e17\\u0e33\\u0e43\\u0e2b\\u0e49\\u0e2a\\u0e15\\u0e34\\u0e21\\u0e31\\u0e19\\u0e40\\u0e2a\\u0e37\\u0e48\\u0e2d\\u0e21&nbsp;\\u0e2d\\u0e32\\u0e15\\u0e21\\u0e32\\u0e2a\\u0e21\\u0e31\\u0e22\\u0e40\\u0e1b\\u0e47\\u0e19\\u0e41\\u0e1e\\u0e17\\u0e22\\u0e4c\\u0e19\\u0e30&nbsp;\\u0e2d\\u0e22\\u0e39\\u0e48\\u0e2b\\u0e49\\u0e2d\\u0e07\\u0e09\\u0e38\\u0e01\\u0e40\\u0e09\\u0e34\\u0e19\\u0e19\\u0e30&nbsp; \\u0e04\\u0e19\\u0e44\\u0e02\\u0e49\\u0e17\\u0e35\\u0e48\\u0e21\\u0e32\\u0e2b\\u0e32\\u0e2b\\u0e49\\u0e2d\\u0e07\\u0e09\\u0e38\\u0e01\\u0e40\\u0e09\\u0e34\\u0e19\\u0e17\\u0e35\\u0e48\\u0e2d\\u0e38\\u0e1a\\u0e31\\u0e15\\u0e34\\u0e40\\u0e2b\\u0e15\\u0e38&nbsp; \\u0e40\\u0e01\\u0e37\\u0e2d\\u0e1a\\u0e23\\u0e49\\u0e2d\\u0e22\\u0e40\\u0e1b\\u0e2d\\u0e23\\u0e4c\\u0e40\\u0e0b\\u0e47\\u0e19\\u0e15\\u0e4c\\u0e01\\u0e25\\u0e34\\u0e48\\u0e19\\u0e40\\u0e2b\\u0e25\\u0e49\\u0e32\\u0e40\\u0e02\\u0e49\\u0e32\\u0e08\\u0e21\\u0e39\\u0e01&nbsp; \\u0e40\\u0e27\\u0e25\\u0e32\\u0e40\\u0e23\\u0e32\\u0e40\\u0e22\\u0e47\\u0e1a\\u0e04\\u0e19\\u0e44\\u0e02\\u0e49\\u0e19\\u0e30&nbsp; \\u0e44\\u0e1b\\u0e15\\u0e23\\u0e27\\u0e08\\u0e04\\u0e19\\u0e44\\u0e02\\u0e49\\u0e19\\u0e35\\u0e48&nbsp; \\u0e01\\u0e25\\u0e34\\u0e48\\u0e19\\u0e40\\u0e2b\\u0e25\\u0e49\\u0e32\\u0e21\\u0e31\\u0e19\\u0e08\\u0e30\\u0e40\\u0e02\\u0e49\\u0e32\\u0e08\\u0e21\\u0e39\\u0e01&nbsp; \\u0e08\\u0e36\\u0e07\\u0e23\\u0e39\\u0e49\\u0e44\\u0e07\\u0e27\\u0e48\\u0e32\\u0e2d\\u0e38\\u0e1a\\u0e31\\u0e15\\u0e34\\u0e40\\u0e2b\\u0e15\\u0e38\\u0e40\\u0e01\\u0e37\\u0e2d\\u0e1a\\u0e23\\u0e49\\u0e2d\\u0e22\\u0e17\\u0e31\\u0e49\\u0e07\\u0e23\\u0e49\\u0e2d\\u0e22\\u0e40\\u0e1e\\u0e23\\u0e32\\u0e30\\u0e14\\u0e37\\u0e48\\u0e21\\u0e2a\\u0e38\\u0e23\\u0e32&nbsp; \\u0e19\\u0e35\\u0e48 \\u0e17\\u0e35\\u0e48\\u0e40\\u0e23\\u0e32\\u0e40\\u0e1b\\u0e47\\u0e19\\u0e41\\u0e1e\\u0e17\\u0e22\\u0e4c&nbsp; \\u0e2a\\u0e21\\u0e31\\u0e22\\u0e01\\u0e48\\u0e2d\\u0e19\\u0e22\\u0e31\\u0e07\\u0e44\\u0e21\\u0e48\\u0e21\\u0e35\\u0e01\\u0e0e\\u0e2b\\u0e21\\u0e32\\u0e22\\u0e19\\u0e30&nbsp; \\u0e43\\u0e2b\\u0e49\\u0e2a\\u0e27\\u0e21\\u0e2b\\u0e21\\u0e27\\u0e01\\u0e01\\u0e31\\u0e19\\u0e19\\u0e47\\u0e2d\\u0e04&nbsp; \\u0e40\\u0e21\\u0e32\\u0e41\\u0e25\\u0e49\\u0e27\\u0e44\\u0e21\\u0e48\\u0e43\\u0e2b\\u0e49\\u0e02\\u0e31\\u0e1a&nbsp; \\u0e22\\u0e31\\u0e07\\u0e44\\u0e21\\u0e48\\u0e21\\u0e35&nbsp;\\u0e01\\u0e0e\\u0e2b\\u0e21\\u0e32\\u0e22\\u0e1e\\u0e27\\u0e01\\u0e19\\u0e35\\u0e49\\u0e40\\u0e01\\u0e34\\u0e14\\u0e08\\u0e32\\u0e01\\u0e41\\u0e1e\\u0e17\\u0e22\\u0e4c\\u0e44\\u0e14\\u0e49\\u0e40\\u0e2b\\u0e47\\u0e19\\u0e02\\u0e49\\u0e2d\\u0e21\\u0e39\\u0e25\\u0e15\\u0e23\\u0e07\\u0e19\\u0e35\\u0e49&nbsp; \\u0e17\\u0e38\\u0e01\\u0e41\\u0e2b\\u0e48\\u0e07\\u0e40\\u0e1b\\u0e47\\u0e19\\u0e2d\\u0e22\\u0e48\\u0e32\\u0e07\\u0e19\\u0e35\\u0e49&nbsp; \\u0e2d\\u0e38\\u0e1a\\u0e31\\u0e15\\u0e34\\u0e40\\u0e2b\\u0e15\\u0e38\\u0e40\\u0e01\\u0e37\\u0e2d\\u0e1a\\u0e23\\u0e49\\u0e2d\\u0e22\\u0e17\\u0e31\\u0e49\\u0e07\\u0e23\\u0e49\\u0e2d\\u0e22&nbsp; \\u0e04\\u0e19\\u0e02\\u0e31\\u0e1a\\u0e14\\u0e37\\u0e48\\u0e21\\u0e2a\\u0e38\\u0e23\\u0e32&nbsp;\\u0e40\\u0e23\\u0e32\\u0e44\\u0e21\\u0e48\\u0e15\\u0e49\\u0e2d\\u0e07\\u0e44\\u0e1b\\u0e27\\u0e31\\u0e14\\u0e40\\u0e04\\u0e23\\u0e37\\u0e48\\u0e2d\\u0e07\\u0e27\\u0e31\\u0e14\\u0e2a\\u0e38\\u0e23\\u0e32\\u0e19\\u0e30&nbsp;\\u0e08\\u0e21\\u0e39\\u0e01\\u0e27\\u0e31\\u0e14&nbsp; \\u0e40\\u0e27\\u0e25\\u0e32\\u0e40\\u0e02\\u0e49\\u0e32\\u0e43\\u0e01\\u0e25\\u0e49\\u0e19\\u0e35\\u0e48\\u0e21\\u0e31\\u0e19\\u0e09\\u0e38\\u0e19\\u0e01\\u0e36\\u0e01\\u0e40\\u0e25\\u0e22&nbsp; \\u0e19\\u0e35\\u0e48 \\u0e01\\u0e47\\u0e21\\u0e32\\u0e04\\u0e34\\u0e14\\u0e14\\u0e39&nbsp;\\u0e2a\\u0e21\\u0e31\\u0e22\\u0e40\\u0e1b\\u0e47\\u0e19\\u0e41\\u0e1e\\u0e17\\u0e22\\u0e4c\\u0e19\\u0e30&nbsp; \\u0e04\\u0e34\\u0e14\\u0e2d\\u0e22\\u0e39\\u0e48\\u0e27\\u0e48\\u0e32\\u0e17\\u0e33\\u0e2d\\u0e22\\u0e48\\u0e32\\u0e07\\u0e44\\u0e23\\u0e17\\u0e35\\u0e48\\u0e08\\u0e30\\u0e0a\\u0e48\\u0e27\\u0e22\\u0e1e\\u0e27\\u0e01\\u0e19\\u0e35\\u0e49\\u0e44\\u0e21\\u0e48\\u0e43\\u0e2b\\u0e49\\u0e40\\u0e01\\u0e34\\u0e14\\u0e2d\\u0e38\\u0e1a\\u0e31\\u0e15\\u0e34\\u0e40\\u0e2b\\u0e15\\u0e38&nbsp; \\u0e40\\u0e02\\u0e32\\u0e01\\u0e47\\u0e40\\u0e25\\u0e22\\u0e04\\u0e48\\u0e2d\\u0e22\\u0e2d\\u0e2d\\u0e01\\u0e01\\u0e0e\\u0e2b\\u0e21\\u0e32\\u0e22\\u0e21\\u0e32&nbsp; \\u0e40\\u0e1e\\u0e23\\u0e32\\u0e30\\u0e21\\u0e31\\u0e19\\u0e40\\u0e01\\u0e34\\u0e14\\u0e08\\u0e32\\u0e01\\u0e41\\u0e1e\\u0e17\\u0e22\\u0e4c\\u0e44\\u0e1b\\u0e40\\u0e2b\\u0e47\\u0e19\\u0e15\\u0e23\\u0e07\\u0e19\\u0e35\\u0e49&nbsp; \\u0e21\\u0e31\\u0e19\\u0e40\\u0e1b\\u0e47\\u0e19\\u0e02\\u0e49\\u0e2d\\u0e21\\u0e39\\u0e25&nbsp;\\u0e01\\u0e0e\\u0e2b\\u0e21\\u0e32\\u0e22\\u0e19\\u0e35\\u0e49\\u0e1a\\u0e31\\u0e0d\\u0e0d\\u0e31\\u0e15\\u0e34\\u0e40\\u0e1e\\u0e23\\u0e32\\u0e30\\u0e02\\u0e49\\u0e2d\\u0e40\\u0e17\\u0e47\\u0e08\\u0e08\\u0e23\\u0e34\\u0e07&nbsp;\\u0e2d\\u0e31\\u0e19\\u0e19\\u0e35\\u0e49\\u0e15\\u0e48\\u0e32\\u0e07\\u0e08\\u0e32\\u0e01\\u0e01\\u0e0e\\u0e2b\\u0e21\\u0e32\\u0e22\\u0e2d\\u0e37\\u0e48\\u0e19&nbsp;\\u0e17\\u0e35\\u0e48\\u0e40\\u0e23\\u0e37\\u0e48\\u0e2d\\u0e07\\u0e40\\u0e21\\u0e32\\u0e44\\u0e21\\u0e48\\u0e02\\u0e31\\u0e1a&nbsp;\\u0e40\\u0e23\\u0e37\\u0e48\\u0e2d\\u0e07\\u0e2b\\u0e21\\u0e27\\u0e01\\u0e01\\u0e31\\u0e19\\u0e19\\u0e47\\u0e2d\\u0e04&nbsp;\\u0e40\\u0e1e\\u0e23\\u0e32\\u0e30\\u0e02\\u0e49\\u0e2d\\u0e21\\u0e39\\u0e25\\u0e04\\u0e27\\u0e32\\u0e21\\u0e08\\u0e23\\u0e34\\u0e07\\u0e17\\u0e35\\u0e48\\u0e1b\\u0e23\\u0e30\\u0e2a\\u0e1a\\u0e17\\u0e38\\u0e01\\u0e27\\u0e31\\u0e19&nbsp;\\u0e1b\\u0e31\\u0e0d\\u0e2b\\u0e32\\u0e17\\u0e35\\u0e48\\u0e40\\u0e08\\u0e2d\\u0e17\\u0e38\\u0e01\\u0e27\\u0e31\\u0e19&nbsp;\\u0e40\\u0e02\\u0e32\\u0e01\\u0e47\\u0e15\\u0e49\\u0e2d\\u0e07\\u0e41\\u0e01\\u0e49\\u0e1b\\u0e31\\u0e0d\\u0e2b\\u0e32&nbsp; \\u0e41\\u0e1e\\u0e17\\u0e22\\u0e4c\\u0e08\\u0e36\\u0e07\\u0e15\\u0e49\\u0e2d\\u0e07\\u0e1c\\u0e25\\u0e31\\u0e01\\u0e14\\u0e31\\u0e19\\u0e01\\u0e0e\\u0e2b\\u0e21\\u0e32\\u0e22\\u0e1e\\u0e27\\u0e01\\u0e19\\u0e35\\u0e49\\u0e2d\\u0e2d\\u0e01\\u0e21\\u0e32&nbsp; \\u0e40\\u0e1e\\u0e37\\u0e48\\u0e2d\\u0e0a\\u0e48\\u0e27\\u0e22\\u0e0a\\u0e35\\u0e27\\u0e34\\u0e15\\u0e02\\u0e2d\\u0e07\\u0e21\\u0e19\\u0e38\\u0e29\\u0e22\\u0e4c&nbsp; \\u0e40\\u0e2b\\u0e15\\u0e38\\u0e19\\u0e31\\u0e49\\u0e19\\u0e16\\u0e49\\u0e32\\u0e40\\u0e23\\u0e32\\u0e40\\u0e02\\u0e49\\u0e32\\u0e43\\u0e08\\u0e15\\u0e23\\u0e07\\u0e19\\u0e35\\u0e49&nbsp; \\u0e43\\u0e2b\\u0e49\\u0e25\\u0e30\\u0e43\\u0e19\\u0e42\\u0e17\\u0e29 \\u0e55 \\u0e2d\\u0e22\\u0e48\\u0e32\\u0e07\\u0e19\\u0e30&nbsp; \\u0e43\\u0e2b\\u0e49\\u0e40\\u0e02\\u0e49\\u0e32\\u0e43\\u0e08\\u0e44\\u0e27\\u0e49&nbsp;\\u0e2d\\u0e31\\u0e19\\u0e19\\u0e35\\u0e49\\u0e40\\u0e23\\u0e37\\u0e48\\u0e2d\\u0e07\\u0e02\\u0e2d\\u0e07\\u0e28\\u0e35\\u0e25&nbsp; \\u0e17\\u0e35\\u0e19\\u0e35\\u0e49\\u0e40\\u0e23\\u0e37\\u0e48\\u0e2d\\u0e07\\u0e02\\u0e2d\\u0e07\\u0e2a\\u0e15\\u0e34&nbsp; \\u0e40\\u0e23\\u0e37\\u0e48\\u0e2d\\u0e07\\u0e02\\u0e2d\\u0e07\\u0e01\\u0e32\\u0e23\\u0e1b\\u0e0f\\u0e34\\u0e1a\\u0e31\\u0e15\\u0e34\\u0e18\\u0e23\\u0e23\\u0e21\\u0e04\\u0e37\\u0e2d\\u0e01\\u0e32\\u0e23\\u0e1d\\u0e36\\u0e01\\u0e2a\\u0e15\\u0e34\\u0e19\\u0e31\\u0e48\\u0e19\\u0e40\\u0e2d\\u0e07&nbsp; \\u0e43\\u0e2b\\u0e49\\u0e21\\u0e35\\u0e2a\\u0e15\\u0e34&nbsp;\\u0e08\\u0e30\\u0e40\\u0e14\\u0e34\\u0e19\\u0e08\\u0e30\\u0e40\\u0e2b\\u0e34\\u0e19 \\u0e08\\u0e30\\u0e04\\u0e39\\u0e49\\u0e08\\u0e30\\u0e40\\u0e2b\\u0e22\\u0e35\\u0e22\\u0e14 \\u0e08\\u0e30\\u0e19\\u0e38\\u0e48\\u0e07 \\u0e08\\u0e30\\u0e01\\u0e34\\u0e19\\u0e08\\u0e30\\u0e16\\u0e48\\u0e32\\u0e22 \\u0e08\\u0e30\\u0e43\\u0e2a\\u0e48\\u0e40\\u0e2a\\u0e37\\u0e49\\u0e2d\\u0e1c\\u0e49\\u0e32&nbsp; \\u0e43\\u0e2b\\u0e49\\u0e21\\u0e35\\u0e2a\\u0e15\\u0e34\\u0e15\\u0e32\\u0e21\\u0e23\\u0e30\\u0e25\\u0e36\\u0e01&nbsp; \\u0e23\\u0e30\\u0e25\\u0e36\\u0e01\\u0e2d\\u0e22\\u0e39\\u0e48\\u0e01\\u0e31\\u0e1a\\u0e15\\u0e31\\u0e27&nbsp; \\u0e08\\u0e30\\u0e02\\u0e31\\u0e1a\\u0e23\\u0e16\\u0e01\\u0e47\\u0e2d\\u0e22\\u0e39\\u0e48\\u0e17\\u0e35\\u0e48\\u0e02\\u0e31\\u0e1a\\u0e23\\u0e16&nbsp; \\u0e2d\\u0e22\\u0e48\\u0e32\\u0e1e\\u0e25\\u0e31\\u0e49\\u0e07\\u0e40\\u0e1c\\u0e25\\u0e2d&nbsp;\\u0e08\\u0e30\\u0e40\\u0e25\\u0e35\\u0e49\\u0e22\\u0e27\\u0e0b\\u0e49\\u0e32\\u0e22\\u0e40\\u0e25\\u0e35\\u0e49\\u0e22\\u0e27\\u0e02\\u0e27\\u0e32\\u0e43\\u0e2b\\u0e49\\u0e43\\u0e0a\\u0e49\\u0e2a\\u0e15\\u0e34\\u0e15\\u0e25\\u0e2d\\u0e14&nbsp;\\u0e43\\u0e2b\\u0e49\\u0e21\\u0e31\\u0e19\\u0e15\\u0e48\\u0e2d\\u0e40\\u0e19\\u0e37\\u0e48\\u0e2d\\u0e07&nbsp; \\u0e40\\u0e1c\\u0e25\\u0e2d\\u0e41\\u0e25\\u0e49\\u0e27\\u0e41\\u0e25\\u0e49\\u0e27\\u0e44\\u0e1b\\u0e19\\u0e30&nbsp; \\u0e08\\u0e33\\u0e44\\u0e27\\u0e49\\u0e19\\u0e30&nbsp;\\u0e40\\u0e1c\\u0e25\\u0e2d\\u0e41\\u0e25\\u0e49\\u0e27\\u0e41\\u0e25\\u0e49\\u0e27\\u0e44\\u0e1b&nbsp;\\u0e23\\u0e30\\u0e25\\u0e36\\u0e01\\u0e44\\u0e14\\u0e49\\u0e40\\u0e2d\\u0e32\\u0e43\\u0e2b\\u0e21\\u0e48\\u0e17\\u0e38\\u0e01\\u0e04\\u0e23\\u0e31\\u0e49\\u0e07&nbsp;\\u0e2d\\u0e22\\u0e48\\u0e32\\u0e44\\u0e1b\\u0e40\\u0e2a\\u0e35\\u0e22\\u0e43\\u0e08\\u0e01\\u0e31\\u0e1a\\u0e17\\u0e35\\u0e48\\u0e21\\u0e31\\u0e19\\u0e40\\u0e1c\\u0e25\\u0e2d&nbsp;\\u0e21\\u0e31\\u0e19\\u0e40\\u0e1c\\u0e25\\u0e2d\\u0e44\\u0e1b\\u0e41\\u0e25\\u0e49\\u0e27\\u0e43\\u0e2b\\u0e49\\u0e41\\u0e25\\u0e49\\u0e27\\u0e44\\u0e1b&nbsp;\\u0e2d\\u0e22\\u0e48\\u0e32\\u0e44\\u0e1b\\u0e43\\u0e2a\\u0e48\\u0e43\\u0e08&nbsp;\\u0e40\\u0e1e\\u0e23\\u0e32\\u0e30\\u0e2d\\u0e30\\u0e44\\u0e23\\u0e08\\u0e36\\u0e07\\u0e1e\\u0e39\\u0e14\\u0e40\\u0e0a\\u0e48\\u0e19\\u0e19\\u0e31\\u0e49\\u0e19&nbsp;\\u0e40\\u0e1e\\u0e23\\u0e32\\u0e30\\u0e02\\u0e13\\u0e30\\u0e17\\u0e35\\u0e48\\u0e21\\u0e31\\u0e19\\u0e40\\u0e1c\\u0e25\\u0e2d\\u0e44\\u0e1b\\u0e41\\u0e25\\u0e49\\u0e27&nbsp;\\u0e21\\u0e31\\u0e19\\u0e40\\u0e1b\\u0e47\\u0e19\\u0e2d\\u0e14\\u0e35\\u0e15\\u0e44\\u0e2b\\u0e21&nbsp;\\u0e2d\\u0e14\\u0e35\\u0e15\\u0e41\\u0e01\\u0e49\\u0e44\\u0e02\\u0e44\\u0e14\\u0e49\\u0e44\\u0e2b\\u0e21&nbsp; \\u0e44\\u0e21\\u0e48\\u0e44\\u0e14\\u0e49&nbsp; \\u0e41\\u0e15\\u0e48\\u0e40\\u0e23\\u0e32\\u0e41\\u0e01\\u0e49\\u0e17\\u0e35\\u0e48\\u0e1b\\u0e31\\u0e08\\u0e08\\u0e38\\u0e1a\\u0e31\\u0e19&nbsp; \\u0e40\\u0e21\\u0e37\\u0e48\\u0e2d\\u0e40\\u0e23\\u0e32\\u0e23\\u0e39\\u0e49\\u0e41\\u0e25\\u0e49\\u0e27\\u0e27\\u0e48\\u0e32\\u0e21\\u0e31\\u0e19\\u0e40\\u0e1c\\u0e25\\u0e2d\\u0e41\\u0e25\\u0e49\\u0e27&nbsp; \\u0e43\\u0e2b\\u0e49\\u0e15\\u0e31\\u0e49\\u0e07\\u0e2a\\u0e15\\u0e34\\u0e23\\u0e30\\u0e25\\u0e36\\u0e01\\u0e43\\u0e2b\\u0e21\\u0e48&nbsp; \\u0e40\\u0e02\\u0e49\\u0e32\\u0e43\\u0e08\\u0e44\\u0e2b\\u0e21&nbsp;\\u0e15\\u0e31\\u0e49\\u0e07\\u0e2a\\u0e15\\u0e34\\u0e23\\u0e30\\u0e25\\u0e36\\u0e01\\u0e2d\\u0e22\\u0e39\\u0e48\\u0e1b\\u0e31\\u0e08\\u0e08\\u0e38\\u0e1a\\u0e31\\u0e19&nbsp;\\u0e21\\u0e31\\u0e19\\u0e01\\u0e47\\u0e40\\u0e17\\u0e48\\u0e32\\u0e01\\u0e31\\u0e1a\\u0e40\\u0e23\\u0e32\\u0e04\\u0e48\\u0e2d\\u0e22\\u0e40\\u0e15\\u0e34\\u0e21\\u0e40\\u0e02\\u0e49\\u0e32\\u0e44\\u0e1b\\u0e08\\u0e19\\u0e21\\u0e31\\u0e19\\u0e40\\u0e15\\u0e47\\u0e21&nbsp;\\u0e43\\u0e2b\\u0e49\\u0e2a\\u0e15\\u0e34\\u0e21\\u0e31\\u0e19\\u0e41\\u0e01\\u0e48\\u0e23\\u0e2d\\u0e1a&nbsp;\\u0e04\\u0e19\\u0e2a\\u0e48\\u0e27\\u0e19\\u0e43\\u0e2b\\u0e0d\\u0e48\\u0e08\\u0e30\\u0e44\\u0e1b\\u0e04\\u0e23\\u0e38\\u0e48\\u0e19\\u0e04\\u0e34\\u0e14\\u0e2d\\u0e22\\u0e39\\u0e48\\u0e43\\u0e19\\u0e2d\\u0e14\\u0e35\\u0e15&nbsp;\\u0e44\\u0e1b\\u0e41\\u0e01\\u0e49\\u0e2d\\u0e14\\u0e35\\u0e15\\u0e44\\u0e07&nbsp;\\u0e41\\u0e25\\u0e49\\u0e27\\u0e1a\\u0e2d\\u0e01\\u0e27\\u0e48\\u0e32\\u0e40\\u0e23\\u0e32\\u0e08\\u0e30\\u0e44\\u0e14\\u0e49\\u0e17\\u0e33\\u0e04\\u0e27\\u0e32\\u0e21\\u0e14\\u0e35&nbsp;\\u0e41\\u0e15\\u0e48\\u0e08\\u0e23\\u0e34\\u0e07 \\u0e46 \\u0e44\\u0e21\\u0e48\\u0e43\\u0e0a\\u0e48&nbsp;\\u0e40\\u0e1e\\u0e23\\u0e32\\u0e30\\u0e21\\u0e31\\u0e19\\u0e41\\u0e01\\u0e49\\u0e2d\\u0e14\\u0e35\\u0e15\\u0e44\\u0e21\\u0e48\\u0e44\\u0e14\\u0e49&nbsp; \\u0e2a\\u0e34\\u0e48\\u0e07\\u0e43\\u0e14\\u0e17\\u0e35\\u0e48\\u0e21\\u0e31\\u0e19\\u0e1c\\u0e34\\u0e14\\u0e1e\\u0e25\\u0e32\\u0e14\\u0e44\\u0e1b&nbsp; \\u0e40\\u0e23\\u0e32\\u0e40\\u0e1c\\u0e25\\u0e2d\\u0e40\\u0e23\\u0e32\\u0e23\\u0e39\\u0e49\\u0e15\\u0e31\\u0e27\\u0e02\\u0e36\\u0e49\\u0e19\\u0e27\\u0e48\\u0e32\\u0e21\\u0e31\\u0e19\\u0e1c\\u0e34\\u0e14\\u0e1e\\u0e25\\u0e32\\u0e14\\u0e21\\u0e31\\u0e19\\u0e40\\u0e1c\\u0e25\\u0e2d&nbsp; \\u0e01\\u0e47\\u0e41\\u0e04\\u0e48\\u0e23\\u0e39\\u0e49\\u0e15\\u0e31\\u0e27\\u0e41\\u0e04\\u0e48\\u0e19\\u0e31\\u0e49\\u0e19&nbsp; \\u0e41\\u0e25\\u0e49\\u0e27\\u0e40\\u0e2d\\u0e32\\u0e15\\u0e23\\u0e07\\u0e19\\u0e31\\u0e49\\u0e19\\u0e19\\u0e31\\u0e48\\u0e19\\u0e25\\u0e48\\u0e30&nbsp; \\u0e40\\u0e1b\\u0e47\\u0e19\\u0e1a\\u0e17\\u0e40\\u0e23\\u0e35\\u0e22\\u0e19\\u0e40\\u0e15\\u0e37\\u0e2d\\u0e19\\u0e2a\\u0e15\\u0e34\\u0e40\\u0e23\\u0e32\\u0e43\\u0e2b\\u0e49\\u0e1b\\u0e31\\u0e08\\u0e08\\u0e38\\u0e1a\\u0e31\\u0e19\\u0e15\\u0e48\\u0e32\\u0e07\\u0e2b\\u0e32\\u0e01&nbsp; \\u0e40\\u0e08\\u0e23\\u0e34\\u0e0d\\u0e1b\\u0e31\\u0e08\\u0e08\\u0e38\\u0e1a\\u0e31\\u0e19\\u0e40\\u0e23\\u0e37\\u0e48\\u0e2d\\u0e22\\u0e44\\u0e1b&nbsp; \\u0e44\\u0e21\\u0e48\\u0e43\\u0e0a\\u0e48\\u0e44\\u0e1b\\u0e08\\u0e21\\u0e2d\\u0e22\\u0e39\\u0e48\\u0e43\\u0e19\\u0e2d\\u0e14\\u0e35\\u0e15&nbsp; \\u0e16\\u0e49\\u0e32\\u0e40\\u0e23\\u0e32\\u0e44\\u0e1b\\u0e08\\u0e21\\u0e2d\\u0e22\\u0e39\\u0e48\\u0e43\\u0e19\\u0e2d\\u0e14\\u0e35\\u0e15&nbsp; \\u0e2a\\u0e34\\u0e48\\u0e07\\u0e43\\u0e14\\u0e17\\u0e35\\u0e48\\u0e0a\\u0e2d\\u0e1a\\u0e43\\u0e08&nbsp; \\u0e21\\u0e31\\u0e19\\u0e08\\u0e30\\u0e04\\u0e23\\u0e38\\u0e48\\u0e19\\u0e04\\u0e34\\u0e14\\u0e2d\\u0e22\\u0e32\\u0e01\\u0e44\\u0e14\\u0e49\\u0e21\\u0e32&nbsp; \\u0e21\\u0e31\\u0e19\\u0e01\\u0e47\\u0e40\\u0e1b\\u0e47\\u0e19\\u0e42\\u0e25\\u0e20\\u0e30&nbsp;\\u0e2a\\u0e34\\u0e48\\u0e07\\u0e43\\u0e14\\u0e17\\u0e35\\u0e48\\u0e21\\u0e31\\u0e19\\u0e44\\u0e21\\u0e48\\u0e0a\\u0e2d\\u0e1a\\u0e43\\u0e08&nbsp;\\u0e40\\u0e21\\u0e37\\u0e48\\u0e2d\\u0e40\\u0e23\\u0e32\\u0e44\\u0e1b\\u0e04\\u0e23\\u0e38\\u0e48\\u0e19\\u0e04\\u0e34\\u0e14\\u0e01\\u0e31\\u0e1a\\u0e21\\u0e31\\u0e19&nbsp;\\u0e21\\u0e31\\u0e19\\u0e01\\u0e47\\u0e40\\u0e1b\\u0e47\\u0e19\\u0e42\\u0e17\\u0e2a\\u0e30&nbsp;\\u0e10\\u0e32\\u0e19\\u0e30\\u0e27\\u0e48\\u0e32\\u0e2a\\u0e34\\u0e48\\u0e07\\u0e19\\u0e31\\u0e49\\u0e19\\u0e21\\u0e31\\u0e19\\u0e44\\u0e21\\u0e48\\u0e21\\u0e35\\u0e41\\u0e25\\u0e49\\u0e27\\u0e08\\u0e23\\u0e34\\u0e07\\u0e44\\u0e2b\\u0e21&nbsp;\\u0e40\\u0e2d\\u0e32\\u0e07\\u0e48\\u0e32\\u0e22 \\u0e46 \\u0e2d\\u0e22\\u0e48\\u0e32\\u0e07\\u0e42\\u0e22\\u0e21\\u0e2d\\u0e22\\u0e39\\u0e48\\u0e17\\u0e35\\u0e48\\u0e1a\\u0e49\\u0e32\\u0e19\\u0e27\\u0e31\\u0e19\\u0e19\\u0e35\\u0e49&nbsp;\\u0e2d\\u0e32\\u0e08\\u0e08\\u0e30\\u0e21\\u0e35\\u0e1a\\u0e32\\u0e07\\u0e04\\u0e19\\u0e17\\u0e30\\u0e40\\u0e25\\u0e32\\u0e30\\u0e01\\u0e31\\u0e1a\\u0e43\\u0e19\\u0e1a\\u0e49\\u0e32\\u0e19\\u0e21\\u0e32&nbsp;\\u0e16\\u0e32\\u0e21\\u0e27\\u0e48\\u0e32\\u0e15\\u0e2d\\u0e19\\u0e19\\u0e35\\u0e49\\u0e21\\u0e32\\u0e19\\u0e31\\u0e48\\u0e07\\u0e2d\\u0e22\\u0e39\\u0e48\\u0e15\\u0e23\\u0e07\\u0e19\\u0e35\\u0e49\\u0e21\\u0e31\\u0e19\\u0e21\\u0e35\\u0e44\\u0e2b\\u0e21&nbsp;\\u0e44\\u0e21\\u0e48\\u0e21\\u0e35\\u0e43\\u0e0a\\u0e48\\u0e44\\u0e2b\\u0e21&nbsp;\\u0e44\\u0e21\\u0e48\\u0e21\\u0e35\\u0e19\\u0e31\\u0e49\\u0e19\\u0e25\\u0e48\\u0e30\\u0e21\\u0e31\\u0e19\\u0e27\\u0e48\\u0e32\\u0e07\\u0e41\\u0e25\\u0e49\\u0e27&nbsp; \\u0e21\\u0e31\\u0e19\\u0e27\\u0e48\\u0e32\\u0e07\\u0e41\\u0e25\\u0e49\\u0e27\\u0e19\\u0e30&nbsp; \\u0e27\\u0e48\\u0e32\\u0e07\\u0e08\\u0e32\\u0e01\\u0e17\\u0e35\\u0e48\\u0e17\\u0e30\\u0e40\\u0e25\\u0e32\\u0e30\\u0e44\\u0e2b\\u0e21&nbsp; \\u0e41\\u0e15\\u0e48\\u0e17\\u0e35\\u0e19\\u0e35\\u0e49\\u0e19\\u0e35\\u0e48\\u0e40\\u0e23\\u0e32\\u0e44\\u0e21\\u0e48\\u0e44\\u0e14\\u0e49\\u0e43\\u0e0a\\u0e49\\u0e2a\\u0e15\\u0e34\\u0e2d\\u0e22\\u0e39\\u0e48\\u0e43\\u0e19\\u0e1b\\u0e31\\u0e08\\u0e08\\u0e38\\u0e1a\\u0e31\\u0e19\\u0e44\\u0e07&nbsp; \\u0e21\\u0e31\\u0e19\\u0e44\\u0e1b\\u0e2d\\u0e22\\u0e39\\u0e48\\u0e43\\u0e19\\u0e40\\u0e23\\u0e37\\u0e48\\u0e2d\\u0e07\\u0e23\\u0e32\\u0e27\\u0e43\\u0e19\\u0e2d\\u0e14\\u0e35\\u0e15&nbsp; \\u0e17\\u0e35\\u0e48\\u0e40\\u0e23\\u0e32\\u0e23\\u0e39\\u0e49\\u0e40\\u0e23\\u0e37\\u0e48\\u0e2d\\u0e07\\u0e23\\u0e32\\u0e27\\u0e43\\u0e19\\u0e2d\\u0e14\\u0e35\\u0e15\\u0e40\\u0e1e\\u0e23\\u0e32\\u0e30\\u0e2d\\u0e30\\u0e44\\u0e23&nbsp; \\u0e40\\u0e1e\\u0e23\\u0e32\\u0e30\\u0e15\\u0e31\\u0e27\\u0e2a\\u0e31\\u0e0d\\u0e0d\\u0e32\\u0e04\\u0e27\\u0e32\\u0e21\\u0e08\\u0e33\\u0e19\\u0e48\\u0e30&nbsp; \\u0e04\\u0e27\\u0e32\\u0e21\\u0e08\\u0e33\\u0e21\\u0e31\\u0e19\\u0e01\\u0e47\\u0e40\\u0e01\\u0e34\\u0e14\\u0e14\\u0e31\\u0e1a\\u0e2d\\u0e35\\u0e01&nbsp; \\u0e21\\u0e31\\u0e19\\u0e01\\u0e47\\u0e27\\u0e48\\u0e32\\u0e07\\u0e2d\\u0e35\\u0e01&nbsp;\\u0e21\\u0e31\\u0e19\\u0e44\\u0e21\\u0e48\\u0e40\\u0e17\\u0e35\\u0e48\\u0e22\\u0e07&nbsp; \\u0e21\\u0e31\\u0e19\\u0e04\\u0e07\\u0e2d\\u0e22\\u0e39\\u0e48\\u0e44\\u0e21\\u0e48\\u0e44\\u0e14\\u0e49&nbsp; \\u0e41\\u0e25\\u0e49\\u0e27\\u0e21\\u0e31\\u0e19\\u0e01\\u0e47\\u0e08\\u0e30\\u0e40\\u0e1b\\u0e47\\u0e19\\u0e02\\u0e2d\\u0e07\\u0e40\\u0e23\\u0e32 \\u0e40\\u0e1b\\u0e47\\u0e19\\u0e15\\u0e31\\u0e27\\u0e40\\u0e23\\u0e32\\u0e22\\u0e31\\u0e07\\u0e44\\u0e07&nbsp; \\u0e16\\u0e49\\u0e32\\u0e40\\u0e23\\u0e32\\u0e40\\u0e2b\\u0e47\\u0e19\\u0e41\\u0e04\\u0e48\\u0e15\\u0e23\\u0e07\\u0e19\\u0e35\\u0e49&nbsp; \\u0e21\\u0e31\\u0e19\\u0e44\\u0e21\\u0e48\\u0e21\\u0e35&nbsp;\\u0e44\\u0e21\\u0e48\\u0e21\\u0e35\\u0e41\\u0e25\\u0e49\\u0e27\\u0e08\\u0e30\\u0e44\\u0e1b\\u0e14\\u0e35\\u0e43\\u0e08\\u0e40\\u0e2a\\u0e35\\u0e22\\u0e43\\u0e08\\u0e01\\u0e31\\u0e1a\\u0e40\\u0e21\\u0e37\\u0e48\\u0e2d\\u0e40\\u0e0a\\u0e49\\u0e32\\u0e17\\u0e33\\u0e44\\u0e21&nbsp;\\u0e16\\u0e39\\u0e01\\u0e44\\u0e2b\\u0e21&nbsp;\\u0e40\\u0e21\\u0e37\\u0e48\\u0e2d\\u0e44\\u0e21\\u0e48\\u0e14\\u0e35\\u0e43\\u0e08\\u0e40\\u0e2a\\u0e35\\u0e22\\u0e43\\u0e08\\u0e01\\u0e31\\u0e1a\\u0e40\\u0e21\\u0e37\\u0e48\\u0e2d\\u0e40\\u0e0a\\u0e49\\u0e32&nbsp;\\u0e08\\u0e34\\u0e15\\u0e21\\u0e31\\u0e19\\u0e08\\u0e30\\u0e40\\u0e1b\\u0e47\\u0e19\\u0e2d\\u0e34\\u0e2a\\u0e23\\u0e30&nbsp;\\u0e21\\u0e31\\u0e19\\u0e08\\u0e30\\u0e21\\u0e35\\u0e04\\u0e27\\u0e32\\u0e21\\u0e1e\\u0e23\\u0e49\\u0e2d\\u0e21\\u0e21\\u0e39\\u0e25\\u0e17\\u0e35\\u0e48\\u0e08\\u0e30\\u0e1b\\u0e0f\\u0e34\\u0e1a\\u0e31\\u0e15\\u0e34\\u0e2b\\u0e19\\u0e49\\u0e32\\u0e17\\u0e35\\u0e48\\u0e43\\u0e19\\u0e1b\\u0e31\\u0e08\\u0e08\\u0e38\\u0e1a\\u0e31\\u0e19&nbsp; \\u0e16\\u0e49\\u0e32\\u0e40\\u0e23\\u0e32\\u0e22\\u0e31\\u0e07\\u0e44\\u0e1b\\u0e04\\u0e23\\u0e38\\u0e48\\u0e19\\u0e04\\u0e34\\u0e14&nbsp; \\u0e2d\\u0e22\\u0e48\\u0e32\\u0e07\\u0e17\\u0e30\\u0e40\\u0e25\\u0e32\\u0e30\\u0e01\\u0e31\\u0e19\\u0e01\\u0e31\\u0e1a\\u0e17\\u0e35\\u0e48\\u0e1a\\u0e49\\u0e32\\u0e19\\u0e2d\\u0e22\\u0e39\\u0e48\\u0e40\\u0e21\\u0e37\\u0e48\\u0e2d\\u0e40\\u0e0a\\u0e49\\u0e32&nbsp; \\u0e21\\u0e31\\u0e19\\u0e01\\u0e47\\u0e08\\u0e30\\u0e2b\\u0e07\\u0e38\\u0e14\\u0e2b\\u0e07\\u0e34\\u0e14&nbsp; \\u0e16\\u0e39\\u0e01\\u0e44\\u0e2b\\u0e21&nbsp;\\u0e1e\\u0e2d\\u0e2b\\u0e07\\u0e38\\u0e14\\u0e2b\\u0e07\\u0e34\\u0e14&nbsp; \\u0e2a\\u0e15\\u0e34\\u0e21\\u0e31\\u0e19\\u0e08\\u0e30\\u0e02\\u0e32\\u0e14&nbsp; \\u0e1e\\u0e2d\\u0e02\\u0e32\\u0e14&nbsp;\\u0e1e\\u0e2d\\u0e17\\u0e33\\u0e07\\u0e32\\u0e19\\u0e15\\u0e23\\u0e07\\u0e19\\u0e31\\u0e49\\u0e19&nbsp;\\u0e21\\u0e31\\u0e19\\u0e2d\\u0e32\\u0e08\\u0e08\\u0e30\\u0e1c\\u0e34\\u0e14\\u0e1e\\u0e25\\u0e32\\u0e14&nbsp;\\u0e2d\\u0e22\\u0e48\\u0e32\\u0e07\\u0e04\\u0e19\\u0e17\\u0e33\\u0e2b\\u0e19\\u0e49\\u0e32\\u0e17\\u0e35\\u0e48\\u0e44\\u0e1b\\u0e15\\u0e34\\u0e14\\u0e15\\u0e48\\u0e2d\\u0e04\\u0e49\\u0e32\\u0e02\\u0e32\\u0e22&nbsp;\\u0e21\\u0e31\\u0e19\\u0e2b\\u0e07\\u0e38\\u0e14\\u0e2b\\u0e07\\u0e34\\u0e14&nbsp;\\u0e1e\\u0e39\\u0e14\\u0e01\\u0e31\\u0e19\\u0e14\\u0e49\\u0e27\\u0e22\\u0e04\\u0e27\\u0e32\\u0e21\\u0e2b\\u0e07\\u0e38\\u0e14\\u0e2b\\u0e07\\u0e34\\u0e14&nbsp; \\u0e44\\u0e2d\\u0e49\\u0e25\\u0e39\\u0e01\\u0e04\\u0e49\\u0e32\\u0e1f\\u0e31\\u0e07\\u0e41\\u0e25\\u0e49\\u0e27&nbsp; \\u0e21\\u0e31\\u0e19\\u0e44\\u0e21\\u0e48\\u0e0a\\u0e2d\\u0e1a\\u0e44\\u0e2b\\u0e21&nbsp;\\u0e2b\\u0e23\\u0e37\\u0e2d\\u0e40\\u0e02\\u0e32\\u0e0a\\u0e2d\\u0e1a\\u0e42\\u0e17\\u0e2a\\u0e30&nbsp; \\u0e40\\u0e02\\u0e32\\u0e01\\u0e47\\u0e44\\u0e21\\u0e48\\u0e0a\\u0e2d\\u0e1a&nbsp; \\u0e40\\u0e2d\\u0e4a\\u0e30 \\u0e17\\u0e33\\u0e44\\u0e21\\u0e21\\u0e32\\u0e1e\\u0e39\\u0e14\\u0e01\\u0e31\\u0e1a\\u0e40\\u0e23\\u0e32\\u0e01\\u0e23\\u0e30\\u0e42\\u0e0a\\u0e01\\u0e42\\u0e2e\\u0e01\\u0e2e\\u0e32\\u0e01&nbsp; \\u0e08\\u0e30\\u0e02\\u0e39\\u0e48\\u0e40\\u0e02\\u0e47\\u0e0d\\u0e40\\u0e23\\u0e32&nbsp;\\u0e02\\u0e31\\u0e14\\u0e40\\u0e04\\u0e37\\u0e2d\\u0e07\\u0e2d\\u0e30\\u0e44\\u0e23\\u0e40\\u0e23\\u0e32\\u0e01\\u0e47\\u0e44\\u0e21\\u0e48\\u0e44\\u0e14\\u0e49\\u0e17\\u0e33\\u0e2d\\u0e30\\u0e44\\u0e23\\u0e40\\u0e25\\u0e22&nbsp;\\u0e41\\u0e15\\u0e48\\u0e40\\u0e02\\u0e32\\u0e44\\u0e21\\u0e48\\u0e44\\u0e14\\u0e49\\u0e02\\u0e31\\u0e14\\u0e40\\u0e04\\u0e37\\u0e2d\\u0e07\\u0e40\\u0e23\\u0e32\\u0e2b\\u0e23\\u0e2d\\u0e01&nbsp;\\u0e40\\u0e02\\u0e32\\u0e02\\u0e31\\u0e14\\u0e40\\u0e04\\u0e37\\u0e2d\\u0e07\\u0e17\\u0e35\\u0e48\\u0e1a\\u0e49\\u0e32\\u0e19&nbsp;\\u0e1c\\u0e25\\u0e07\\u0e32\\u0e19\\u0e21\\u0e31\\u0e19\\u0e40\\u0e25\\u0e22&nbsp; \\u0e41\\u0e17\\u0e19\\u0e17\\u0e35\\u0e48\\u0e08\\u0e30\\u0e0b\\u0e37\\u0e49\\u0e2d&nbsp; \\u0e27\\u0e31\\u0e19\\u0e19\\u0e35\\u0e49\\u0e15\\u0e31\\u0e49\\u0e07\\u0e43\\u0e08\\u0e19\\u0e30\\u0e08\\u0e30\\u0e0b\\u0e37\\u0e49\\u0e2d\\u0e02\\u0e2d\\u0e07&nbsp; \\u0e40\\u0e2d\\u0e32\\u0e25\\u0e30\\u0e21\\u0e31\\u0e19\\u0e40\\u0e2d\\u0e32\\u0e22\\u0e01\\u0e25\\u0e47\\u0e2d\\u0e15\\u0e40\\u0e25\\u0e22&nbsp; \\u0e1e\\u0e2d\\u0e04\\u0e38\\u0e22\\u0e01\\u0e31\\u0e19\\u0e40\\u0e2a\\u0e23\\u0e47\\u0e08&nbsp;\\u0e01\\u0e25\\u0e31\\u0e1a\\u0e44\\u0e1b\\u0e0b\\u0e30\\u0e44\\u0e21\\u0e48\\u0e40\\u0e2d\\u0e32&nbsp; \\u0e40\\u0e1e\\u0e23\\u0e32\\u0e30\\u0e2d\\u0e30\\u0e44\\u0e23&nbsp; \\u0e40\\u0e1e\\u0e23\\u0e32\\u0e30\\u0e42\\u0e17\\u0e2a\\u0e30\\u0e21\\u0e31\\u0e19\\u0e17\\u0e33\\u0e25\\u0e32\\u0e22\\u0e40\\u0e2b\\u0e47\\u0e19\\u0e22\\u0e31\\u0e07&nbsp; \\u0e42\\u0e17\\u0e2a\\u0e30\\u0e40\\u0e1e\\u0e23\\u0e32\\u0e30\\u0e2d\\u0e30\\u0e44\\u0e23&nbsp;\\u0e40\\u0e1e\\u0e23\\u0e32\\u0e30\\u0e40\\u0e23\\u0e32\\u0e44\\u0e1b\\u0e2b\\u0e25\\u0e07\\u0e2d\\u0e22\\u0e39\\u0e48\\u0e43\\u0e19\\u0e2d\\u0e14\\u0e35\\u0e15&nbsp;\\u0e40\\u0e23\\u0e32\\u0e44\\u0e21\\u0e48\\u0e2d\\u0e22\\u0e39\\u0e48\\u0e1b\\u0e31\\u0e08\\u0e08\\u0e38\\u0e1a\\u0e31\\u0e19&nbsp; \\u0e08\\u0e23\\u0e34\\u0e07\\u0e44\\u0e2b\\u0e21&nbsp; \\u0e40\\u0e1e\\u0e23\\u0e32\\u0e30\\u0e2d\\u0e14\\u0e35\\u0e15\\u0e21\\u0e31\\u0e19\\u0e44\\u0e21\\u0e48\\u0e21\\u0e35&nbsp; \\u0e17\\u0e30\\u0e40\\u0e25\\u0e32\\u0e30\\u0e01\\u0e31\\u0e19\\u0e21\\u0e31\\u0e19\\u0e08\\u0e1a\\u0e44\\u0e1b\\u0e41\\u0e25\\u0e49\\u0e27&nbsp; \\u0e1b\\u0e31\\u0e08\\u0e08\\u0e38\\u0e1a\\u0e31\\u0e19\\u0e21\\u0e31\\u0e19\\u0e44\\u0e21\\u0e48\\u0e21\\u0e35&nbsp; \\u0e21\\u0e35\\u0e41\\u0e15\\u0e48\\u0e40\\u0e23\\u0e32\\u0e15\\u0e49\\u0e2d\\u0e07\\u0e04\\u0e38\\u0e22\\u0e01\\u0e31\\u0e1a\\u0e25\\u0e39\\u0e01\\u0e04\\u0e49\\u0e32&nbsp; \\u0e08\\u0e23\\u0e34\\u0e07\\u0e44\\u0e2b\\u0e21&nbsp;\\u0e19\\u0e35\\u0e48 \\u0e40\\u0e23\\u0e32\\u0e15\\u0e49\\u0e2d\\u0e07\\u0e40\\u0e2d\\u0e32\\u0e1b\\u0e31\\u0e08\\u0e08\\u0e38\\u0e1a\\u0e31\\u0e19&nbsp;\\u0e17\\u0e35\\u0e19\\u0e35\\u0e49\\u0e1a\\u0e32\\u0e07\\u0e04\\u0e19\\u0e21\\u0e31\\u0e19\\u0e04\\u0e23\\u0e38\\u0e48\\u0e19\\u0e04\\u0e34\\u0e14\\u0e2d\\u0e22\\u0e39\\u0e48\\u0e19\\u0e48\\u0e30&nbsp;\\u0e02\\u0e31\\u0e14\\u0e40\\u0e04\\u0e37\\u0e2d\\u0e07\\u0e2d\\u0e22\\u0e39\\u0e48&nbsp; \\u0e2a\\u0e15\\u0e34\\u0e21\\u0e31\\u0e19\\u0e02\\u0e32\\u0e14&nbsp; \\u0e21\\u0e31\\u0e19\\u0e44\\u0e1b\\u0e2b\\u0e21\\u0e01\\u0e21\\u0e38\\u0e48\\u0e19\\u0e2d\\u0e22\\u0e39\\u0e48\\u0e01\\u0e31\\u0e1a\\u0e43\\u0e19\\u0e04\\u0e27\\u0e32\\u0e21\\u0e04\\u0e34\\u0e14\\u0e19\\u0e31\\u0e49\\u0e19&nbsp; \\u0e40\\u0e27\\u0e25\\u0e32\\u0e02\\u0e31\\u0e1a\\u0e23\\u0e16\\u0e2d\\u0e2d\\u0e01\\u0e44\\u0e1b&nbsp; \\u0e21\\u0e31\\u0e19\\u0e44\\u0e21\\u0e48\\u0e14\\u0e39\\u0e2b\\u0e19\\u0e49\\u0e32\\u0e14\\u0e39\\u0e2b\\u0e25\\u0e31\\u0e07&nbsp; \\u0e44\\u0e1b\\u0e1a\\u0e27\\u0e01\\u0e01\\u0e31\\u0e19\\u0e15\\u0e32\\u0e22\\u0e01\\u0e47\\u0e21\\u0e35&nbsp; \\u0e42\\u0e17\\u0e29\\u0e40\\u0e01\\u0e34\\u0e14\\u0e2b\\u0e23\\u0e37\\u0e2d\\u0e1b\\u0e23\\u0e30\\u0e42\\u0e22\\u0e0a\\u0e19\\u0e4c\\u0e40\\u0e01\\u0e34\\u0e14\\u0e25\\u0e48\\u0e30&nbsp; \\u0e40\\u0e2b\\u0e15\\u0e38\\u0e19\\u0e31\\u0e49\\u0e19\\u0e19\\u0e35\\u0e48\\u0e18\\u0e23\\u0e23\\u0e21\\u0e30\\u0e21\\u0e31\\u0e19\\u0e21\\u0e35\\u0e1b\\u0e23\\u0e30\\u0e42\\u0e22\\u0e0a\\u0e19\\u0e4c\\u0e40\\u0e2b\\u0e47\\u0e19\\u0e22\\u0e31\\u0e07&nbsp; \\u0e16\\u0e49\\u0e32\\u0e40\\u0e23\\u0e32\\u0e21\\u0e35\\u0e2a\\u0e15\\u0e34&nbsp;\\u0e40\\u0e23\\u0e32\\u0e23\\u0e39\\u0e49\\u0e1b\\u0e31\\u0e08\\u0e08\\u0e38\\u0e1a\\u0e31\\u0e19\\u0e2d\\u0e22\\u0e48\\u0e32\\u0e07\\u0e19\\u0e35\\u0e49&nbsp;\\u0e40\\u0e23\\u0e32\\u0e2d\\u0e22\\u0e39\\u0e48\\u0e1b\\u0e31\\u0e08\\u0e08\\u0e38\\u0e1a\\u0e31\\u0e19\\u0e2d\\u0e22\\u0e48\\u0e32\\u0e07\\u0e19\\u0e35\\u0e49&nbsp; \\u0e21\\u0e31\\u0e19\\u0e08\\u0e1a\\u0e01\\u0e47\\u0e08\\u0e1a&nbsp;\\u0e1b\\u0e31\\u0e08\\u0e08\\u0e38\\u0e1a\\u0e31\\u0e19\\u0e40\\u0e23\\u0e32\\u0e01\\u0e47\\u0e17\\u0e33\\u0e2b\\u0e19\\u0e49\\u0e32\\u0e17\\u0e35\\u0e48\\u0e15\\u0e32\\u0e21\\u0e40\\u0e2b\\u0e15\\u0e38\\u0e1b\\u0e31\\u0e08\\u0e08\\u0e31\\u0e22\\u0e1b\\u0e31\\u0e08\\u0e08\\u0e38\\u0e1a\\u0e31\\u0e19\\u0e43\\u0e2b\\u0e49\\u0e16\\u0e36\\u0e07\\u0e1e\\u0e23\\u0e49\\u0e2d\\u0e21\\u0e14\\u0e49\\u0e27\\u0e22\\u0e2a\\u0e15\\u0e34\\u0e1b\\u0e31\\u0e0d\\u0e0d\\u0e32&nbsp; \\u0e14\\u0e49\\u0e27\\u0e22\\u0e04\\u0e27\\u0e32\\u0e21\\u0e44\\u0e21\\u0e48\\u0e1b\\u0e23\\u0e30\\u0e21\\u0e32\\u0e17\\u0e19\\u0e31\\u0e48\\u0e19\\u0e40\\u0e2d\\u0e07&nbsp; \\u0e07\\u0e32\\u0e19\\u0e01\\u0e32\\u0e23\\u0e14\\u0e35\\u0e44\\u0e2b\\u0e21&nbsp;\\u0e01\\u0e47\\u0e14\\u0e35\\u0e40\\u0e23\\u0e35\\u0e22\\u0e1a\\u0e23\\u0e49\\u0e2d\\u0e22&nbsp;\\u0e1e\\u0e2d\\u0e07\\u0e32\\u0e19\\u0e01\\u0e32\\u0e23\\u0e40\\u0e23\\u0e35\\u0e22\\u0e1a\\u0e23\\u0e49\\u0e2d\\u0e22&nbsp; \\u0e01\\u0e32\\u0e23\\u0e17\\u0e33\\u0e21\\u0e32\\u0e04\\u0e49\\u0e32\\u0e02\\u0e32\\u0e22\\u0e14\\u0e35&nbsp; \\u0e1a\\u0e23\\u0e34\\u0e29\\u0e31\\u0e17\\u0e01\\u0e47\\u0e2d\\u0e22\\u0e39\\u0e48\\u0e44\\u0e14\\u0e49\\u0e44\\u0e2b\\u0e21&nbsp; \\u0e2d\\u0e22\\u0e39\\u0e48\\u0e44\\u0e14\\u0e49&nbsp;\\u0e1a\\u0e23\\u0e34\\u0e29\\u0e31\\u0e17\\u0e2d\\u0e22\\u0e39\\u0e48\\u0e44\\u0e14\\u0e49\\u0e40\\u0e07\\u0e34\\u0e19\\u0e40\\u0e14\\u0e37\\u0e2d\\u0e19\\u0e01\\u0e47\\u0e21\\u0e35\\u0e08\\u0e48\\u0e32\\u0e22\\u0e19\\u0e48\\u0e30&nbsp;\\u0e2d\\u0e22\\u0e48\\u0e32\\u0e07\\u0e2d\\u0e22\\u0e38\\u0e18\\u0e22\\u0e32\\u0e40\\u0e2b\\u0e47\\u0e19\\u0e44\\u0e2b\\u0e21&nbsp;\\u0e19\\u0e49\\u0e33\\u0e17\\u0e48\\u0e27\\u0e21\\u0e1a\\u0e23\\u0e34\\u0e29\\u0e31\\u0e17\\u0e1b\\u0e34\\u0e14&nbsp;\\u0e40\\u0e02\\u0e32\\u0e01\\u0e47\\u0e15\\u0e49\\u0e2d\\u0e07\\u0e25\\u0e2d\\u0e22\\u0e41\\u0e1e\\u0e1e\\u0e19\\u0e31\\u0e01\\u0e07\\u0e32\\u0e19\\u0e44\\u0e2b\\u0e21&nbsp; \\u0e40\\u0e1e\\u0e23\\u0e32\\u0e30\\u0e40\\u0e02\\u0e32\\u0e01\\u0e47\\u0e40\\u0e2d\\u0e32\\u0e15\\u0e31\\u0e27\\u0e40\\u0e02\\u0e32\\u0e44\\u0e21\\u0e48\\u0e23\\u0e2d\\u0e14\\u0e19\\u0e48\\u0e30&nbsp; \\u0e44\\u0e21\\u0e48\\u0e43\\u0e0a\\u0e48\\u0e40\\u0e02\\u0e32\\u0e2d\\u0e22\\u0e32\\u0e01\\u0e25\\u0e2d\\u0e22\\u0e41\\u0e1e\\u0e1e\\u0e19\\u0e31\\u0e01\\u0e07\\u0e32\\u0e19&nbsp; \\u0e41\\u0e15\\u0e48\\u0e40\\u0e02\\u0e32\\u0e40\\u0e2d\\u0e32\\u0e15\\u0e31\\u0e27\\u0e40\\u0e02\\u0e32\\u0e44\\u0e21\\u0e48\\u0e23\\u0e2d\\u0e14&nbsp; \\u0e40\\u0e04\\u0e23\\u0e37\\u0e48\\u0e2d\\u0e07\\u0e08\\u0e31\\u0e01\\u0e23\\u0e40\\u0e02\\u0e32\\u0e40\\u0e2a\\u0e35\\u0e22\\u0e2b\\u0e32\\u0e22&nbsp; \\u0e40\\u0e07\\u0e34\\u0e19\\u0e17\\u0e38\\u0e19\\u0e40\\u0e02\\u0e32\\u0e44\\u0e21\\u0e48\\u0e21\\u0e35&nbsp; \\u0e21\\u0e31\\u0e19\\u0e01\\u0e47\\u0e2d\\u0e22\\u0e39\\u0e48\\u0e44\\u0e21\\u0e48\\u0e44\\u0e14\\u0e49&nbsp; \\u0e40\\u0e1e\\u0e23\\u0e32\\u0e30\\u0e21\\u0e31\\u0e19\\u0e1e\\u0e36\\u0e48\\u0e07\\u0e1e\\u0e32\\u0e0b\\u0e36\\u0e48\\u0e07\\u0e01\\u0e31\\u0e19\\u0e23\\u0e30\\u0e2b\\u0e27\\u0e48\\u0e32\\u0e07\\u0e1a\\u0e23\\u0e34\\u0e29\\u0e31\\u0e17\\u0e01\\u0e31\\u0e1a\\u0e1e\\u0e19\\u0e31\\u0e01\\u0e07\\u0e32\\u0e19&nbsp; \\u0e08\\u0e23\\u0e34\\u0e07\\u0e44\\u0e2b\\u0e21&nbsp;\\u0e19\\u0e35\\u0e48 \\u0e21\\u0e31\\u0e19\\u0e1e\\u0e36\\u0e48\\u0e07\\u0e1e\\u0e32\\u0e01\\u0e31\\u0e19&nbsp;\\u0e40\\u0e2b\\u0e15\\u0e38\\u0e1b\\u0e31\\u0e08\\u0e08\\u0e30\\u0e42\\u0e22\\u0e19\\u0e31\\u0e48\\u0e19\\u0e40\\u0e2d\\u0e07&nbsp;\\u0e16\\u0e49\\u0e32\\u0e20\\u0e32\\u0e29\\u0e32\\u0e1e\\u0e23\\u0e30\\u0e19\\u0e30&nbsp;\\u0e21\\u0e35\\u0e40\\u0e2b\\u0e15\\u0e38\\u0e1b\\u0e31\\u0e08\\u0e08\\u0e31\\u0e22\\u0e0b\\u0e36\\u0e48\\u0e07\\u0e01\\u0e31\\u0e19\\u0e41\\u0e25\\u0e30\\u0e01\\u0e31\\u0e19&nbsp; \\u0e2d\\u0e32\\u0e28\\u0e31\\u0e22\\u0e0b\\u0e36\\u0e48\\u0e07\\u0e01\\u0e31\\u0e19\\u0e41\\u0e25\\u0e30\\u0e01\\u0e31\\u0e19&nbsp; \\u0e19\\u0e35\\u0e48\\u0e04\\u0e37\\u0e2d\\u0e04\\u0e27\\u0e32\\u0e21\\u0e01\\u0e15\\u0e31\\u0e0d\\u0e0d\\u0e39\\u0e44\\u0e07&nbsp; \\u0e1e\\u0e19\\u0e31\\u0e01\\u0e07\\u0e32\\u0e19\\u0e01\\u0e47\\u0e23\\u0e39\\u0e49\\u0e27\\u0e48\\u0e32\\u0e2d\\u0e22\\u0e39\\u0e48\\u0e44\\u0e14\\u0e49\\u0e40\\u0e1e\\u0e23\\u0e32\\u0e30\\u0e1a\\u0e23\\u0e34\\u0e29\\u0e31\\u0e17&nbsp; \\u0e01\\u0e47\\u0e21\\u0e35\\u0e04\\u0e27\\u0e32\\u0e21\\u0e01\\u0e15\\u0e31\\u0e0d\\u0e0d\\u0e39\\u0e17\\u0e35\\u0e48\\u0e08\\u0e30\\u0e17\\u0e33\\u0e40\\u0e15\\u0e47\\u0e21\\u0e17\\u0e35\\u0e48\\u0e40\\u0e1e\\u0e37\\u0e48\\u0e2d\\u0e1a\\u0e23\\u0e34\\u0e29\\u0e31\\u0e17&nbsp; \\u0e1a\\u0e23\\u0e34\\u0e29\\u0e31\\u0e17\\u0e01\\u0e47\\u0e23\\u0e39\\u0e49\\u0e27\\u0e48\\u0e32\\u0e2d\\u0e22\\u0e39\\u0e48\\u0e44\\u0e14\\u0e49\\u0e40\\u0e1e\\u0e23\\u0e32\\u0e30\\u0e1e\\u0e19\\u0e31\\u0e01\\u0e07\\u0e32\\u0e19&nbsp;\\u0e01\\u0e47\\u0e08\\u0e30\\u0e17\\u0e33\\u0e40\\u0e15\\u0e47\\u0e21\\u0e17\\u0e35\\u0e48\\u0e40\\u0e1e\\u0e37\\u0e48\\u0e2d\\u0e1e\\u0e19\\u0e31\\u0e01\\u0e07\\u0e32\\u0e19\\u0e17\\u0e35\\u0e48\\u0e08\\u0e30\\u0e43\\u0e2b\\u0e49\\u0e2d\\u0e22\\u0e39\\u0e48\\u0e14\\u0e49\\u0e27\\u0e22\\u0e01\\u0e31\\u0e19\\u0e44\\u0e14\\u0e49\\u0e44\\u0e07&nbsp; \\u0e21\\u0e31\\u0e19\\u0e01\\u0e47\\u0e40\\u0e25\\u0e22\\u0e40\\u0e1b\\u0e47\\u0e19\\u0e01\\u0e15\\u0e31\\u0e0d\\u0e0d\\u0e39\\u0e01\\u0e15\\u0e40\\u0e27\\u0e17\\u0e34\\u0e15\\u0e32\\u0e04\\u0e38\\u0e13\\u0e0b\\u0e36\\u0e48\\u0e07\\u0e01\\u0e31\\u0e19\\u0e41\\u0e25\\u0e30\\u0e01\\u0e31\\u0e19&nbsp; \\u0e2d\\u0e31\\u0e19\\u0e19\\u0e35\\u0e49\\u0e40\\u0e25\\u0e22\\u0e2d\\u0e22\\u0e39\\u0e48\\u0e14\\u0e49\\u0e27\\u0e22\\u0e04\\u0e38\\u0e13\\u0e18\\u0e23\\u0e23\\u0e21\\u0e44\\u0e07&nbsp; \\u0e1a\\u0e23\\u0e34\\u0e29\\u0e31\\u0e17\\u0e19\\u0e35\\u0e49\\u0e2d\\u0e22\\u0e39\\u0e48\\u0e14\\u0e49\\u0e27\\u0e22\\u0e04\\u0e38\\u0e13\\u0e18\\u0e23\\u0e23\\u0e21\\u0e44\\u0e07&nbsp; \\u0e44\\u0e21\\u0e48\\u0e44\\u0e14\\u0e49\\u0e2d\\u0e22\\u0e39\\u0e48\\u0e14\\u0e49\\u0e27\\u0e22\\u0e19\\u0e32\\u0e22\\u0e08\\u0e49\\u0e32\\u0e07\\u0e01\\u0e31\\u0e1a\\u0e25\\u0e39\\u0e01\\u0e08\\u0e49\\u0e32\\u0e07&nbsp; \\u0e19\\u0e32\\u0e22\\u0e08\\u0e49\\u0e32\\u0e07\\u0e25\\u0e39\\u0e01\\u0e08\\u0e49\\u0e32\\u0e07\\u0e21\\u0e31\\u0e19\\u0e40\\u0e1b\\u0e47\\u0e19\\u0e41\\u0e04\\u0e48\\u0e2a\\u0e48\\u0e27\\u0e19\\u0e2b\\u0e19\\u0e36\\u0e48\\u0e07\\u0e02\\u0e2d\\u0e07\\u0e07\\u0e32\\u0e19&nbsp; \\u0e41\\u0e15\\u0e48\\u0e21\\u0e31\\u0e19\\u0e21\\u0e35\\u0e04\\u0e38\\u0e13\\u0e18\\u0e23\\u0e23\\u0e21\\u0e17\\u0e35\\u0e48\\u0e1c\\u0e39\\u0e01\\u0e01\\u0e31\\u0e19\\u0e2d\\u0e22\\u0e39\\u0e48\\u0e04\\u0e37\\u0e2d\\u0e04\\u0e27\\u0e32\\u0e21\\u0e01\\u0e15\\u0e31\\u0e0d\\u0e0d\\u0e39\\u0e01\\u0e15\\u0e40\\u0e27\\u0e17\\u0e34\\u0e15\\u0e32\\u0e04\\u0e38\\u0e13&nbsp; \\u0e23\\u0e39\\u0e49\\u0e04\\u0e38\\u0e13\\u0e0b\\u0e36\\u0e48\\u0e07\\u0e01\\u0e31\\u0e19\\u0e41\\u0e25\\u0e30\\u0e01\\u0e31\\u0e19\\u0e44\\u0e07&nbsp; \\u0e21\\u0e31\\u0e19\\u0e01\\u0e47\\u0e40\\u0e25\\u0e22\\u0e17\\u0e33\\u0e40\\u0e1e\\u0e37\\u0e48\\u0e2d\\u0e1b\\u0e23\\u0e30\\u0e42\\u0e22\\u0e0a\\u0e19\\u0e4c&nbsp;\\u0e40\\u0e1e\\u0e37\\u0e48\\u0e2d\\u0e2d\\u0e32\\u0e28\\u0e31\\u0e22\\u0e21\\u0e31\\u0e19\\u0e2d\\u0e22\\u0e39\\u0e48\\u0e43\\u0e19\\u0e01\\u0e32\\u0e23\\u0e14\\u0e33\\u0e23\\u0e07\\u0e0a\\u0e35\\u0e1e\\u0e43\\u0e19\\u0e04\\u0e23\\u0e2d\\u0e1a\\u0e04\\u0e23\\u0e31\\u0e27\\u0e02\\u0e2d\\u0e07\\u0e41\\u0e15\\u0e48\\u0e25\\u0e30\\u0e04\\u0e19\\u0e44\\u0e07&nbsp; \\u0e2d\\u0e31\\u0e19\\u0e19\\u0e35\\u0e49\\u0e01\\u0e47\\u0e40\\u0e25\\u0e22\\u0e40\\u0e1b\\u0e47\\u0e19\\u0e1b\\u0e0f\\u0e34\\u0e2a\\u0e31\\u0e21\\u0e1e\\u0e31\\u0e19\\u0e18\\u0e4c\\u0e43\\u0e19\\u0e2a\\u0e31\\u0e07\\u0e04\\u0e21\\u0e22\\u0e48\\u0e2d\\u0e22 \\u0e46 \\u0e2b\\u0e19\\u0e36\\u0e48\\u0e07\\u0e17\\u0e35\\u0e48\\u0e40\\u0e1b\\u0e47\\u0e19\\u0e2a\\u0e31\\u0e07\\u0e04\\u0e21\\u0e17\\u0e35\\u0e48\\u0e2d\\u0e22\\u0e39\\u0e48\\u0e14\\u0e49\\u0e27\\u0e22\\u0e04\\u0e38\\u0e13\\u0e18\\u0e23\\u0e23\\u0e21&nbsp; \\u0e19\\u0e35\\u0e48 \\u0e17\\u0e35\\u0e19\\u0e35\\u0e49\\u0e16\\u0e49\\u0e32\\u0e40\\u0e23\\u0e32\\u0e40\\u0e02\\u0e49\\u0e32\\u0e43\\u0e08\\u0e15\\u0e23\\u0e07\\u0e19\\u0e35\\u0e49&nbsp; \\u0e21\\u0e31\\u0e19\\u0e1b\\u0e23\\u0e30\\u0e42\\u0e22\\u0e0a\\u0e19\\u0e4c\\u0e08\\u0e36\\u0e07\\u0e40\\u0e01\\u0e34\\u0e14\\u0e44\\u0e07&nbsp;\\u0e40\\u0e1e\\u0e23\\u0e32\\u0e30\\u0e19\\u0e31\\u0e49\\u0e19\\u0e01\\u0e32\\u0e23\\u0e1b\\u0e0f\\u0e34\\u0e1a\\u0e31\\u0e15\\u0e34\\u0e18\\u0e23\\u0e23\\u0e21\\u0e04\\u0e37\\u0e2d\\u0e01\\u0e32\\u0e23\\u0e1d\\u0e36\\u0e01\\u0e2a\\u0e15\\u0e34\\u0e17\\u0e38\\u0e01\\u0e2d\\u0e34\\u0e23\\u0e34\\u0e22\\u0e32\\u0e1a\\u0e16 \\u0e08\\u0e30\\u0e40\\u0e14\\u0e34\\u0e19\\u0e08\\u0e30\\u0e40\\u0e2b\\u0e34\\u0e19 \\u0e08\\u0e30\\u0e04\\u0e39\\u0e49\\u0e08\\u0e30\\u0e40\\u0e2b\\u0e22\\u0e35\\u0e22\\u0e14 \\u0e08\\u0e30\\u0e02\\u0e31\\u0e1a\\u0e23\\u0e16\\u0e08\\u0e30\\u0e2d\\u0e30\\u0e44\\u0e23 \\u0e08\\u0e30\\u0e2d\\u0e48\\u0e32\\u0e19\\u0e2b\\u0e19\\u0e31\\u0e07\\u0e2a\\u0e37\\u0e2d \\u0e08\\u0e30\\u0e15\\u0e34\\u0e14\\u0e15\\u0e48\\u0e2d\\u0e08\\u0e30\\u0e42\\u0e17\\u0e23\\u0e28\\u0e31\\u0e1e\\u0e17\\u0e4c&nbsp; \\u0e01\\u0e47\\u0e15\\u0e49\\u0e2d\\u0e07\\u0e21\\u0e35\\u0e2a\\u0e15\\u0e34\\u0e2d\\u0e22\\u0e39\\u0e48\\u0e17\\u0e35\\u0e48\\u0e2b\\u0e39&nbsp; \\u0e1f\\u0e31\\u0e07\\u0e43\\u0e2b\\u0e49\\u0e23\\u0e39\\u0e49\\u0e40\\u0e23\\u0e37\\u0e48\\u0e2d\\u0e07\\u0e2b\\u0e21\\u0e14&nbsp; \\u0e41\\u0e25\\u0e49\\u0e27\\u0e17\\u0e35\\u0e19\\u0e35\\u0e49\\u0e16\\u0e49\\u0e32\\u0e21\\u0e31\\u0e19\\u0e17\\u0e38\\u0e01\\u0e02\\u0e4c\\u0e43\\u0e08&nbsp; \\u0e01\\u0e25\\u0e32\\u0e07\\u0e2d\\u0e01\\u0e40\\u0e2d\\u0e32\\u0e2a\\u0e15\\u0e34\\u0e21\\u0e32\\u0e14\\u0e39\\u0e21\\u0e31\\u0e19\\u0e19\\u0e48\\u0e30&nbsp; \\u0e21\\u0e35\\u0e04\\u0e19\\u0e16\\u0e32\\u0e21\\u0e40\\u0e23\\u0e32\\u0e17\\u0e35\\u0e48\\u0e18\\u0e23\\u0e23\\u0e21\\u0e28\\u0e32\\u0e2a\\u0e15\\u0e23\\u0e4c\\u0e19\\u0e30&nbsp; \\u0e44\\u0e1b\\u0e40\\u0e17\\u0e28\\u0e19\\u0e4c\\u0e21\\u0e32\\u0e40\\u0e21\\u0e37\\u0e48\\u0e2d\\u0e27\\u0e32\\u0e19\\u0e01\\u0e48\\u0e2d\\u0e19&nbsp; \\u0e21\\u0e31\\u0e19\\u0e17\\u0e38\\u0e01\\u0e02\\u0e4c\\u0e41\\u0e25\\u0e49\\u0e27\\u0e08\\u0e30\\u0e17\\u0e33\\u0e22\\u0e31\\u0e07\\u0e44\\u0e07&nbsp; \\u0e21\\u0e31\\u0e19\\u0e08\\u0e21\\u0e2d\\u0e22\\u0e39\\u0e48\\u0e41\\u0e15\\u0e48\\u0e01\\u0e31\\u0e1a\\u0e17\\u0e38\\u0e01\\u0e02\\u0e4c&nbsp; \\u0e08\\u0e30\\u0e17\\u0e33\\u0e22\\u0e31\\u0e07\\u0e44\\u0e07&nbsp;\\u0e01\\u0e47\\u0e2d\\u0e22\\u0e48\\u0e32\\u0e44\\u0e1b\\u0e08\\u0e21\\u0e01\\u0e31\\u0e1a\\u0e21\\u0e31\\u0e19\\u0e2a\\u0e34&nbsp;\\u0e17\\u0e35\\u0e48\\u0e40\\u0e23\\u0e32\\u0e1a\\u0e2d\\u0e01\\u0e27\\u0e48\\u0e32\\u0e40\\u0e23\\u0e32\\u0e17\\u0e38\\u0e01\\u0e02\\u0e4c&nbsp;\\u0e40\\u0e23\\u0e32\\u0e08\\u0e21\\u0e2d\\u0e22\\u0e39\\u0e48\\u0e43\\u0e19\\u0e17\\u0e38\\u0e01\\u0e02\\u0e4c&nbsp; \\u0e40\\u0e1e\\u0e23\\u0e32\\u0e30\\u0e2d\\u0e30\\u0e44\\u0e23&nbsp; \\u0e40\\u0e1e\\u0e23\\u0e32\\u0e30\\u0e2b\\u0e19\\u0e36\\u0e48\\u0e07\\u0e19\\u0e30 &nbsp;\\u0e17\\u0e38\\u0e01\\u0e02\\u0e4c\\u0e17\\u0e48\\u0e32\\u0e19\\u0e1a\\u0e2d\\u0e01\\u0e27\\u0e48\\u0e32\\u0e40\\u0e1b\\u0e47\\u0e19\\u0e02\\u0e2d\\u0e07\\u0e17\\u0e35\\u0e48\\u0e04\\u0e27\\u0e23\\u0e01\\u0e33\\u0e2b\\u0e19\\u0e14\\u0e19\\u0e30&nbsp; \\u0e1e\\u0e23\\u0e30\\u0e1e\\u0e38\\u0e17\\u0e18\\u0e40\\u0e08\\u0e49\\u0e32\\u0e15\\u0e23\\u0e31\\u0e2a\\u0e44\\u0e27\\u0e49&nbsp; \\u0e17\\u0e38\\u0e01\\u0e02\\u0e4c\\u0e40\\u0e1b\\u0e47\\u0e19\\u0e02\\u0e2d\\u0e07\\u0e17\\u0e35\\u0e48\\u0e04\\u0e27\\u0e23\\u0e01\\u0e33\\u0e2b\\u0e19\\u0e14 &nbsp;\\u0e23\\u0e39\\u0e49\\u0e40\\u0e09\\u0e22 \\u0e46 &nbsp;\\u0e2a\\u0e21\\u0e38\\u0e17\\u0e31\\u0e22\\u0e04\\u0e37\\u0e2d\\u0e2a\\u0e32\\u0e40\\u0e2b\\u0e15\\u0e38\\u0e41\\u0e2b\\u0e48\\u0e07\\u0e17\\u0e38\\u0e01\\u0e02\\u0e4c\\u0e43\\u0e08\\u0e19\\u0e31\\u0e49\\u0e19 \\u0e40\\u0e1b\\u0e47\\u0e19\\u0e2a\\u0e34\\u0e48\\u0e07\\u0e17\\u0e35\\u0e48\\u0e04\\u0e27\\u0e23\\u0e25\\u0e30&nbsp; \\u0e19\\u0e34\\u0e42\\u0e23\\u0e18\\u0e04\\u0e37\\u0e2d\\u0e04\\u0e27\\u0e32\\u0e21\\u0e14\\u0e31\\u0e1a\\u0e17\\u0e38\\u0e01\\u0e02\\u0e4c \\u0e40\\u0e1b\\u0e47\\u0e19\\u0e2a\\u0e34\\u0e48\\u0e07\\u0e17\\u0e35\\u0e48\\u0e04\\u0e27\\u0e23\\u0e17\\u0e33\\u0e43\\u0e2b\\u0e49\\u0e41\\u0e08\\u0e49\\u0e07&nbsp; \\u0e21\\u0e23\\u0e23\\u0e04\\u0e04\\u0e37\\u0e2d\\u0e02\\u0e49\\u0e2d\\u0e1b\\u0e0f\\u0e34\\u0e1a\\u0e31\\u0e15\\u0e34\\u0e43\\u0e2b\\u0e49\\u0e16\\u0e36\\u0e07\\u0e0b\\u0e36\\u0e48\\u0e07\\u0e04\\u0e27\\u0e32\\u0e21\\u0e14\\u0e31\\u0e1a\\u0e17\\u0e38\\u0e01\\u0e02\\u0e4c \\u0e43\\u0e2b\\u0e49\\u0e17\\u0e33\\u0e43\\u0e2b\\u0e49\\u0e21\\u0e32\\u0e01\\u0e44\\u0e07 &nbsp;\\u0e17\\u0e35\\u0e19\\u0e35\\u0e49\\u0e19\\u0e35\\u0e48\\u0e40\\u0e1b\\u0e47\\u0e19\\u0e20\\u0e32\\u0e29\\u0e32\\u0e2b\\u0e19\\u0e31\\u0e07\\u0e2a\\u0e37\\u0e2d&nbsp; \\u0e41\\u0e15\\u0e48\\u0e08\\u0e30\\u0e2d\\u0e18\\u0e34\\u0e1a\\u0e32\\u0e22\\u0e43\\u0e2b\\u0e49\\u0e1f\\u0e31\\u0e07&nbsp; \\u0e17\\u0e38\\u0e01\\u0e02\\u0e4c\\u0e19\\u0e35\\u0e48\\u0e40\\u0e02\\u0e32\\u0e1a\\u0e2d\\u0e01\\u0e01\\u0e33\\u0e2b\\u0e19\\u0e14&nbsp; \\u0e40\\u0e27\\u0e25\\u0e32\\u0e21\\u0e31\\u0e19\\u0e17\\u0e38\\u0e01\\u0e02\\u0e4c\\u0e43\\u0e08\\u0e19\\u0e30\\u0e01\\u0e47\\u0e40\\u0e2d\\u0e32\\u0e2a\\u0e15\\u0e34\\u0e14\\u0e39\\u0e21\\u0e31\\u0e19&nbsp; \\u0e17\\u0e38\\u0e01\\u0e02\\u0e4c\\u0e43\\u0e08&nbsp;\\u0e40\\u0e23\\u0e32\\u0e44\\u0e21\\u0e48\\u0e21\\u0e35\\u0e2b\\u0e19\\u0e49\\u0e32\\u0e17\\u0e35\\u0e48\\u0e17\\u0e35\\u0e48\\u0e08\\u0e30\\u0e44\\u0e1b\\u0e1b\\u0e31\\u0e14\\u0e43\\u0e2b\\u0e49\\u0e17\\u0e38\\u0e01\\u0e02\\u0e4c\\u0e21\\u0e31\\u0e19\\u0e2b\\u0e32\\u0e22&nbsp;\\u0e04\\u0e19\\u0e2a\\u0e48\\u0e27\\u0e19\\u0e43\\u0e2b\\u0e0d\\u0e48\\u0e40\\u0e27\\u0e25\\u0e32\\u0e17\\u0e38\\u0e01\\u0e02\\u0e4c\\u0e43\\u0e08\\u0e2d\\u0e22\\u0e32\\u0e01\\u0e2b\\u0e32\\u0e22\\u0e08\\u0e23\\u0e34\\u0e07\\u0e44\\u0e2b\\u0e21&nbsp;\\u0e08\\u0e23\\u0e34\\u0e07\\u0e44\\u0e2b\\u0e21&nbsp; \\u0e42\\u0e22\\u0e21\\u0e27\\u0e48\\u0e32\\u0e08\\u0e23\\u0e34\\u0e07\\u0e44\\u0e2b\\u0e21&nbsp; \\u0e17\\u0e38\\u0e01\\u0e04\\u0e19\\u0e43\\u0e19\\u0e42\\u0e25\\u0e01\\u0e19\\u0e35\\u0e49\\u0e40\\u0e27\\u0e25\\u0e32\\u0e17\\u0e38\\u0e01\\u0e02\\u0e4c\\u0e43\\u0e08\\u0e19\\u0e35\\u0e48 \\u0e2d\\u0e22\\u0e32\\u0e01\\u0e43\\u0e2b\\u0e49\\u0e17\\u0e38\\u0e01\\u0e02\\u0e4c\\u0e43\\u0e08\\u0e2b\\u0e32\\u0e22\\u0e43\\u0e0a\\u0e48\\u0e44\\u0e2b\\u0e21&nbsp; \\u0e17\\u0e35\\u0e19\\u0e35\\u0e49\\u0e04\\u0e19\\u0e2d\\u0e22\\u0e32\\u0e01\\u0e17\\u0e38\\u0e01\\u0e02\\u0e4c\\u0e43\\u0e08\\u0e2b\\u0e32\\u0e22\\u0e19\\u0e35\\u0e48\\u0e17\\u0e33\\u0e22\\u0e31\\u0e07\\u0e44\\u0e07&nbsp;\\u0e2d\\u0e22\\u0e48\\u0e32\\u0e07\\u0e2d\\u0e32\\u0e15\\u0e21\\u0e32\\u0e2a\\u0e21\\u0e31\\u0e22\\u0e01\\u0e48\\u0e2d\\u0e19\\u0e40\\u0e1b\\u0e47\\u0e19\\u0e19\\u0e31\\u0e01\\u0e28\\u0e36\\u0e01\\u0e29\\u0e32\\u0e41\\u0e1e\\u0e17\\u0e22\\u0e4c\\u0e40\\u0e23\\u0e34\\u0e48\\u0e21\\u0e1b\\u0e0f\\u0e34\\u0e1a\\u0e31\\u0e15\\u0e34&nbsp; \\u0e1a\\u0e32\\u0e07\\u0e17\\u0e35\\u0e19\\u0e35\\u0e48\\u0e21\\u0e31\\u0e19\\u0e17\\u0e38\\u0e01\\u0e02\\u0e4c\\u0e43\\u0e08\\u0e02\\u0e36\\u0e49\\u0e19&nbsp; \\u0e1e\\u0e27\\u0e01\\u0e40\\u0e1e\\u0e37\\u0e48\\u0e2d\\u0e19\\u0e21\\u0e31\\u0e19\\u0e17\\u0e38\\u0e01\\u0e02\\u0e4c\\u0e43\\u0e08\\u0e21\\u0e31\\u0e19\\u0e17\\u0e33\\u0e22\\u0e31\\u0e07\\u0e44\\u0e07&nbsp; \\u0e21\\u0e31\\u0e19\\u0e44\\u0e1b\\u0e1f\\u0e31\\u0e07\\u0e40\\u0e1e\\u0e25\\u0e07&nbsp;\\u0e21\\u0e31\\u0e19\\u0e44\\u0e1b\\u0e14\\u0e39\\u0e2b\\u0e19\\u0e31\\u0e07&nbsp; \\u0e21\\u0e31\\u0e19\\u0e44\\u0e1b\\u0e40\\u0e1b\\u0e25\\u0e35\\u0e48\\u0e22\\u0e19\\u0e2d\\u0e32\\u0e23\\u0e21\\u0e13\\u0e4c\\u0e44\\u0e07&nbsp; \\u0e2b\\u0e23\\u0e37\\u0e2d\\u0e44\\u0e1b\\u0e2a\\u0e23\\u0e27\\u0e25\\u0e40\\u0e2a\\u0e40\\u0e2e\\u0e2e\\u0e32&nbsp; \\u0e2a\\u0e1a\\u0e32\\u0e22\\u0e43\\u0e08\\u0e01\\u0e47\\u0e2b\\u0e32\\u0e22&nbsp;\\u0e43\\u0e0a\\u0e48\\u0e44\\u0e2b\\u0e21&nbsp; \\u0e2b\\u0e23\\u0e37\\u0e2d\\u0e1a\\u0e32\\u0e07\\u0e04\\u0e19\\u0e01\\u0e34\\u0e19\\u0e40\\u0e2b\\u0e25\\u0e49\\u0e32&nbsp; \\u0e01\\u0e34\\u0e19\\u0e40\\u0e02\\u0e49\\u0e32\\u0e44\\u0e1b\\u0e40\\u0e17\\u0e48\\u0e32\\u0e44\\u0e2b\\u0e23\\u0e48&nbsp; \\u0e2a\\u0e38\\u0e14\\u0e17\\u0e49\\u0e32\\u0e22\\u0e21\\u0e31\\u0e19\\u0e41\\u0e01\\u0e49\\u0e17\\u0e38\\u0e01\\u0e02\\u0e4c\\u0e44\\u0e14\\u0e49\\u0e44\\u0e2b\\u0e21&nbsp; \\u0e1e\\u0e2d\\u0e15\\u0e37\\u0e48\\u0e19\\u0e2b\\u0e32\\u0e22\\u0e40\\u0e21\\u0e32\\u0e02\\u0e36\\u0e49\\u0e19\\u0e21\\u0e32&nbsp; \\u0e21\\u0e31\\u0e19\\u0e01\\u0e47\\u0e22\\u0e31\\u0e07\\u0e17\\u0e38\\u0e01\\u0e02\\u0e4c\\u0e43\\u0e08\\u0e40\\u0e1e\\u0e23\\u0e32\\u0e30\\u0e21\\u0e31\\u0e19\\u0e41\\u0e01\\u0e49\\u0e44\\u0e21\\u0e48\\u0e44\\u0e14\\u0e49&nbsp; \\u0e41\\u0e15\\u0e48\\u0e2d\\u0e32\\u0e15\\u0e21\\u0e32\\u0e40\\u0e27\\u0e25\\u0e32\\u0e21\\u0e31\\u0e19\\u0e17\\u0e38\\u0e01\\u0e02\\u0e4c\\u0e43\\u0e08&nbsp; \\u0e2d\\u0e32\\u0e15\\u0e21\\u0e32\\u0e44\\u0e21\\u0e48\\u0e44\\u0e1b\\u0e17\\u0e33\\u0e40\\u0e25\\u0e22\\u0e01\\u0e34\\u0e08\\u0e01\\u0e23\\u0e23\\u0e21\\u0e1e\\u0e27\\u0e01\\u0e19\\u0e35\\u0e49&nbsp; \\u0e2d\\u0e32\\u0e15\\u0e21\\u0e32\\u0e19\\u0e31\\u0e48\\u0e07\\u0e40\\u0e09\\u0e22 \\u0e46&nbsp; \\u0e15\\u0e2d\\u0e19\\u0e40\\u0e1b\\u0e47\\u0e19\\u0e19\\u0e31\\u0e01\\u0e28\\u0e36\\u0e01\\u0e29\\u0e32\\u0e41\\u0e1e\\u0e17\\u0e22\\u0e4c\\u0e19\\u0e30&nbsp; \\u0e40\\u0e27\\u0e25\\u0e32\\u0e21\\u0e31\\u0e19\\u0e17\\u0e38\\u0e01\\u0e02\\u0e4c\\u0e43\\u0e08\\u0e2d\\u0e32\\u0e15\\u0e21\\u0e32\\u0e44\\u0e21\\u0e48\\u0e44\\u0e14\\u0e49\\u0e17\\u0e33\\u0e01\\u0e34\\u0e08\\u0e01\\u0e23\\u0e23\\u0e21\\u0e1e\\u0e27\\u0e01\\u0e19\\u0e35\\u0e49&nbsp; \\u0e2d\\u0e32\\u0e15\\u0e21\\u0e32\\u0e19\\u0e31\\u0e48\\u0e07\\u0e14\\u0e39\\u0e21\\u0e31\\u0e19\\u0e40\\u0e09\\u0e22 \\u0e46&nbsp; \\u0e19\\u0e31\\u0e48\\u0e07\\u0e14\\u0e39\\u0e04\\u0e27\\u0e32\\u0e21\\u0e17\\u0e38\\u0e01\\u0e02\\u0e4c\\u0e21\\u0e31\\u0e19\\u0e40\\u0e09\\u0e22 \\u0e46&nbsp; \\u0e21\\u0e31\\u0e19\\u0e08\\u0e30\\u0e2b\\u0e32\\u0e22\\u0e01\\u0e47\\u0e0a\\u0e48\\u0e32\\u0e07 \\u0e44\\u0e21\\u0e48\\u0e2b\\u0e32\\u0e22\\u0e01\\u0e47\\u0e0a\\u0e48\\u0e32\\u0e07&nbsp; \\u0e21\\u0e31\\u0e19\\u0e44\\u0e21\\u0e48\\u0e43\\u0e0a\\u0e48\\u0e02\\u0e2d\\u0e07\\u0e40\\u0e23\\u0e32&nbsp; \\u0e41\\u0e25\\u0e49\\u0e27\\u0e01\\u0e47\\u0e14\\u0e39\\u0e40\\u0e2b\\u0e15\\u0e38\\u0e21\\u0e31\\u0e19\\u0e2d\\u0e30\\u0e44\\u0e23 &nbsp;\\u0e41\\u0e04\\u0e48\\u0e19\\u0e31\\u0e49\\u0e19\\u0e19\\u0e48\\u0e30&nbsp;\\u0e41\\u0e25\\u0e49\\u0e27\\u0e21\\u0e31\\u0e19\\u0e01\\u0e47\\u0e2b\\u0e32\\u0e22&nbsp;\\u0e17\\u0e35\\u0e19\\u0e35\\u0e49\\u0e27\\u0e31\\u0e19\\u0e19\\u0e35\\u0e49\\u0e08\\u0e30\\u0e21\\u0e32\\u0e1e\\u0e39\\u0e14\\u0e43\\u0e2b\\u0e49\\u0e1f\\u0e31\\u0e07&nbsp;\\u0e27\\u0e34\\u0e18\\u0e35\\u0e41\\u0e01\\u0e49\\u0e17\\u0e38\\u0e01\\u0e02\\u0e4c\\u0e43\\u0e08\\u0e19\\u0e30&nbsp;\\u0e40\\u0e27\\u0e25\\u0e32\\u0e17\\u0e38\\u0e01\\u0e02\\u0e4c\\u0e43\\u0e08\\u0e02\\u0e36\\u0e49\\u0e19\\u0e21\\u0e32&nbsp; \\u0e40\\u0e02\\u0e32\\u0e1a\\u0e2d\\u0e01\\u0e43\\u0e2b\\u0e49\\u0e01\\u0e33\\u0e2b\\u0e19\\u0e14&nbsp; \\u0e44\\u0e21\\u0e48\\u0e43\\u0e0a\\u0e48\\u0e2d\\u0e22\\u0e32\\u0e01\\u0e43\\u0e2b\\u0e49\\u0e21\\u0e31\\u0e19\\u0e2b\\u0e32\\u0e22&nbsp; \\u0e41\\u0e15\\u0e48\\u0e2a\\u0e21\\u0e38\\u0e17\\u0e31\\u0e22\\u0e04\\u0e37\\u0e2d\\u0e2a\\u0e32\\u0e40\\u0e2b\\u0e15\\u0e38\\u0e43\\u0e2b\\u0e49\\u0e17\\u0e38\\u0e01\\u0e02\\u0e4c\\u0e43\\u0e08\\u0e19\\u0e48\\u0e30&nbsp; \\u0e40\\u0e02\\u0e32\\u0e1a\\u0e2d\\u0e01\\u0e27\\u0e48\\u0e32\\u0e43\\u0e2b\\u0e49\\u0e25\\u0e30&nbsp; \\u0e08\\u0e23\\u0e34\\u0e07\\u0e44\\u0e2b\\u0e21&nbsp;\\u0e02\\u0e49\\u0e2d\\u0e17\\u0e35\\u0e48 \\u0e51 \\u0e19\\u0e30&nbsp; \\u0e40\\u0e27\\u0e25\\u0e32\\u0e21\\u0e31\\u0e19\\u0e17\\u0e38\\u0e01\\u0e02\\u0e4c\\u0e43\\u0e08&nbsp; \\u0e40\\u0e23\\u0e32\\u0e2a\\u0e31\\u0e07\\u0e40\\u0e01\\u0e15\\u0e43\\u0e2b\\u0e49\\u0e14\\u0e35&nbsp; \\u0e21\\u0e31\\u0e19\\u0e2d\\u0e22\\u0e32\\u0e01\\u0e2b\\u0e32\\u0e22\\u0e17\\u0e38\\u0e01\\u0e02\\u0e4c\\u0e43\\u0e08\\u0e43\\u0e0a\\u0e48\\u0e44\\u0e2b\\u0e21&nbsp; \\u0e44\\u0e2d\\u0e49\\u0e17\\u0e35\\u0e48\\u0e2d\\u0e22\\u0e32\\u0e01\\u0e2b\\u0e32\\u0e22\\u0e17\\u0e38\\u0e01\\u0e02\\u0e4c\\u0e43\\u0e08\\u0e19\\u0e31\\u0e48\\u0e19\\u0e25\\u0e48\\u0e30&nbsp; \\u0e40\\u0e02\\u0e32\\u0e40\\u0e23\\u0e35\\u0e22\\u0e01\\u0e27\\u0e48\\u0e32\\u0e2a\\u0e21\\u0e38\\u0e17\\u0e31\\u0e22&nbsp; \\u0e43\\u0e2b\\u0e49\\u0e25\\u0e30\\u0e15\\u0e31\\u0e27\\u0e2d\\u0e22\\u0e32\\u0e01\\u0e2b\\u0e32\\u0e22\\u0e17\\u0e38\\u0e01\\u0e02\\u0e4c\\u0e43\\u0e08\\u0e0b\\u0e30&nbsp; \\u0e25\\u0e30\\u0e15\\u0e31\\u0e27\\u0e2d\\u0e22\\u0e32\\u0e01\\u0e2b\\u0e32\\u0e22\\u0e17\\u0e38\\u0e01\\u0e02\\u0e4c\\u0e43\\u0e08\\u0e19\\u0e48\\u0e30&nbsp; \\u0e1e\\u0e2d\\u0e25\\u0e30\\u0e21\\u0e31\\u0e19\\u0e01\\u0e47\\u0e44\\u0e21\\u0e48\\u0e21\\u0e35\\u0e40\\u0e2b\\u0e15\\u0e38\\u0e15\\u0e48\\u0e2d\\u0e17\\u0e35\\u0e48\\u0e08\\u0e30\\u0e43\\u0e2b\\u0e49\\u0e17\\u0e38\\u0e01\\u0e02\\u0e4c\\u0e43\\u0e08\\u0e2d\\u0e22\\u0e39\\u0e48\\u0e44\\u0e14\\u0e49&nbsp; \\u0e17\\u0e38\\u0e01\\u0e02\\u0e4c\\u0e43\\u0e08\\u0e01\\u0e47\\u0e14\\u0e31\\u0e1a&nbsp;\\u0e17\\u0e35\\u0e19\\u0e35\\u0e49\\u0e40\\u0e23\\u0e32\\u0e44\\u0e1b\\u0e2a\\u0e23\\u0e49\\u0e32\\u0e07\\u0e40\\u0e2b\\u0e15\\u0e38\\u0e15\\u0e48\\u0e2d\\u0e21\\u0e31\\u0e19\\u0e44\\u0e07&nbsp; \\u0e40\\u0e27\\u0e25\\u0e32\\u0e17\\u0e38\\u0e01\\u0e02\\u0e4c\\u0e43\\u0e08\\u0e2d\\u0e22\\u0e32\\u0e01\\u0e2b\\u0e32\\u0e22\\u0e44\\u0e07&nbsp; \\u0e1e\\u0e2d\\u0e2d\\u0e22\\u0e32\\u0e01\\u0e2b\\u0e32\\u0e22&nbsp;\\u0e1a\\u0e32\\u0e07\\u0e04\\u0e19\\u0e01\\u0e47\\u0e44\\u0e1b\\u0e01\\u0e34\\u0e19\\u0e40\\u0e2b\\u0e25\\u0e49\\u0e32&nbsp;\\u0e01\\u0e34\\u0e19\\u0e40\\u0e2b\\u0e25\\u0e49\\u0e32\\u0e40\\u0e1b\\u0e47\\u0e19\\u0e40\\u0e2b\\u0e15\\u0e38\\u0e15\\u0e48\\u0e2d\\u0e19\\u0e30&nbsp;\\u0e17\\u0e33\\u0e43\\u0e2b\\u0e49\\u0e2a\\u0e15\\u0e34\\u0e1b\\u0e31\\u0e0d\\u0e0d\\u0e32\\u0e40\\u0e2a\\u0e37\\u0e48\\u0e2d\\u0e21&nbsp; \\u0e1a\\u0e32\\u0e07\\u0e17\\u0e35\\u0e40\\u0e01\\u0e34\\u0e14\\u0e2d\\u0e38\\u0e1a\\u0e31\\u0e15\\u0e34\\u0e40\\u0e2b\\u0e15\\u0e38\\u0e01\\u0e47\\u0e40\\u0e1b\\u0e47\\u0e19\\u0e17\\u0e38\\u0e01\\u0e02\\u0e4c\\u0e15\\u0e48\\u0e2d\\u0e2d\\u0e35\\u0e01&nbsp; \\u0e40\\u0e23\\u0e37\\u0e48\\u0e2d\\u0e07\\u0e43\\u0e2b\\u0e21\\u0e48\\u0e15\\u0e48\\u0e2d&nbsp;\\u0e19\\u0e35\\u0e48 \\u0e21\\u0e31\\u0e19\\u0e41\\u0e01\\u0e49\\u0e17\\u0e38\\u0e01\\u0e02\\u0e4c\\u0e44\\u0e21\\u0e48\\u0e44\\u0e14\\u0e49&nbsp;\\u0e40\\u0e27\\u0e25\\u0e32\\u0e17\\u0e38\\u0e01\\u0e02\\u0e4c\\u0e43\\u0e08\\u0e19\\u0e30 \\u0e2d\\u0e22\\u0e48\\u0e32\\u0e44\\u0e1b\\u0e2d\\u0e22\\u0e32\\u0e01\\u0e43\\u0e2b\\u0e49\\u0e21\\u0e31\\u0e19\\u0e2b\\u0e32\\u0e22&nbsp;\\u0e43\\u0e2b\\u0e49\\u0e23\\u0e39\\u0e49\\u0e17\\u0e31\\u0e19\\u0e21\\u0e31\\u0e19\\u0e27\\u0e48\\u0e32\\u0e17\\u0e38\\u0e01\\u0e02\\u0e4c\\u0e21\\u0e31\\u0e19\\u0e44\\u0e21\\u0e48\\u0e43\\u0e0a\\u0e48\\u0e02\\u0e2d\\u0e07\\u0e40\\u0e23\\u0e32&nbsp;\\u0e21\\u0e31\\u0e19\\u0e44\\u0e21\\u0e48\\u0e43\\u0e0a\\u0e48\\u0e15\\u0e31\\u0e27\\u0e40\\u0e23\\u0e32&nbsp;\\u0e41\\u0e25\\u0e49\\u0e27\\u0e01\\u0e47\\u0e15\\u0e31\\u0e49\\u0e07\\u0e2a\\u0e15\\u0e34\\u0e17\\u0e33\\u0e2b\\u0e19\\u0e49\\u0e32\\u0e17\\u0e35\\u0e48\\u0e43\\u0e19\\u0e1b\\u0e31\\u0e08\\u0e08\\u0e38\\u0e1a\\u0e31\\u0e19&nbsp; \\u0e08\\u0e30\\u0e40\\u0e14\\u0e34\\u0e19\\u0e01\\u0e47\\u0e2d\\u0e22\\u0e39\\u0e48\\u0e40\\u0e17\\u0e49\\u0e32&nbsp; \\u0e08\\u0e30\\u0e22\\u0e37\\u0e19\\u0e01\\u0e47\\u0e2d\\u0e22\\u0e39\\u0e48\\u0e19\\u0e31\\u0e48\\u0e19&nbsp; \\u0e40\\u0e2d\\u0e32\\u0e2a\\u0e15\\u0e34\\u0e43\\u0e2b\\u0e49\\u0e21\\u0e31\\u0e19\\u0e15\\u0e48\\u0e2d\\u0e40\\u0e19\\u0e37\\u0e48\\u0e2d\\u0e07\\u0e08\\u0e19\\u0e1b\\u0e31\\u0e08\\u0e08\\u0e38\\u0e1a\\u0e31\\u0e19\\u0e44\\u0e1b&nbsp; \\u0e40\\u0e21\\u0e37\\u0e48\\u0e2d\\u0e2a\\u0e15\\u0e34\\u0e21\\u0e31\\u0e19\\u0e21\\u0e35\\u0e1e\\u0e25\\u0e31\\u0e07&nbsp; \\u0e2a\\u0e21\\u0e32\\u0e18\\u0e34\\u0e21\\u0e31\\u0e19\\u0e21\\u0e35\\u0e1e\\u0e25\\u0e31\\u0e07&nbsp; \\u0e17\\u0e38\\u0e01\\u0e02\\u0e4c\\u0e43\\u0e08\\u0e19\\u0e35\\u0e49\\u0e21\\u0e31\\u0e19\\u0e14\\u0e31\\u0e1a&nbsp; \\u0e02\\u0e49\\u0e2d\\u0e17\\u0e35\\u0e48 \\u0e52 \\u0e15\\u0e49\\u0e2d\\u0e07\\u0e2b\\u0e32\\u0e40\\u0e2b\\u0e15\\u0e38\\u0e2d\\u0e35\\u0e01&nbsp; \\u0e17\\u0e38\\u0e01\\u0e02\\u0e4c\\u0e43\\u0e08\\u0e40\\u0e1e\\u0e23\\u0e32\\u0e30\\u0e2d\\u0e30\\u0e44\\u0e23&nbsp; \\u0e40\\u0e1e\\u0e23\\u0e32\\u0e30\\u0e27\\u0e48\\u0e32\\u0e17\\u0e30\\u0e40\\u0e25\\u0e32\\u0e30\\u0e01\\u0e31\\u0e1a\\u0e40\\u0e21\\u0e35\\u0e22&nbsp; \\u0e17\\u0e30\\u0e40\\u0e25\\u0e32\\u0e30\\u0e01\\u0e31\\u0e1a\\u0e40\\u0e21\\u0e35\\u0e22\\u0e40\\u0e1e\\u0e23\\u0e32\\u0e30\\u0e2d\\u0e30\\u0e44\\u0e23&nbsp; \\u0e1e\\u0e2d\\u0e40\\u0e21\\u0e35\\u0e22\\u0e1e\\u0e39\\u0e14\\u0e02\\u0e36\\u0e49\\u0e19\\u0e21\\u0e32\\u0e2b\\u0e19\\u0e48\\u0e2d\\u0e22\\u0e01\\u0e47\\u0e42\\u0e01\\u0e23\\u0e18\\u0e40\\u0e21\\u0e35\\u0e22&nbsp; \\u0e2d\\u0e31\\u0e19\\u0e19\\u0e35\\u0e49\\u0e08\\u0e30\\u0e41\\u0e01\\u0e49\\u0e22\\u0e31\\u0e07\\u0e44\\u0e07&nbsp; \\u0e41\\u0e01\\u0e49\\u0e15\\u0e2d\\u0e19\\u0e17\\u0e38\\u0e01\\u0e02\\u0e4c\\u0e02\\u0e13\\u0e30\\u0e19\\u0e35\\u0e49\\u0e41\\u0e25\\u0e49\\u0e27\\u0e2b\\u0e19\\u0e36\\u0e48\\u0e07\\u0e19\\u0e30&nbsp; \\u0e2d\\u0e31\\u0e19\\u0e17\\u0e35\\u0e48\\u0e2a\\u0e2d\\u0e07\\u0e15\\u0e48\\u0e2d\\u0e44\\u0e1b\\u0e01\\u0e47\\u0e2d\\u0e22\\u0e48\\u0e32\\u0e44\\u0e1b\\u0e17\\u0e30\\u0e40\\u0e25\\u0e32\\u0e30\\u0e01\\u0e31\\u0e1a\\u0e40\\u0e21\\u0e35\\u0e22\\u0e2a\\u0e34&nbsp; (\\u0e42\\u0e22\\u0e21&nbsp;:&nbsp;\\u0e40\\u0e25\\u0e34\\u0e01\\u0e40\\u0e25\\u0e22)&nbsp; \\u0e40\\u0e25\\u0e34\\u0e01 &nbsp;\\u0e21\\u0e31\\u0e19\\u0e21\\u0e35\\u0e1b\\u0e31\\u0e0d\\u0e2b\\u0e32\\u0e40\\u0e23\\u0e37\\u0e48\\u0e2d\\u0e07\\u0e25\\u0e39\\u0e01\\u0e44\\u0e07&nbsp; \\u0e40\\u0e02\\u0e49\\u0e32\\u0e43\\u0e08\\u0e22\\u0e31\\u0e07&nbsp;\\u0e01\\u0e47\\u0e2d\\u0e22\\u0e48\\u0e32\\u0e44\\u0e1b\\u0e17\\u0e30\\u0e40\\u0e25\\u0e32\\u0e30\\u0e2a\\u0e34&nbsp; \\u0e40\\u0e27\\u0e25\\u0e32\\u0e21\\u0e31\\u0e19\\u0e01\\u0e34\\u0e19\\u0e02\\u0e49\\u0e32\\u0e27\\u0e2d\\u0e30\\u0e44\\u0e23&nbsp; \\u0e01\\u0e47\\u0e15\\u0e31\\u0e49\\u0e07\\u0e2a\\u0e15\\u0e34\\u0e1e\\u0e39\\u0e14\\u0e01\\u0e31\\u0e19\\u0e2a\\u0e34&nbsp; \\u0e1e\\u0e39\\u0e14\\u0e01\\u0e31\\u0e19\\u0e14\\u0e49\\u0e27\\u0e22\\u0e20\\u0e32\\u0e29\\u0e32\\u0e14\\u0e2d\\u0e01\\u0e44\\u0e21\\u0e49&nbsp; \\u0e14\\u0e49\\u0e27\\u0e22\\u0e20\\u0e32\\u0e29\\u0e32\\u0e2a\\u0e15\\u0e34&nbsp;\\u0e2d\\u0e22\\u0e48\\u0e32\\u0e1e\\u0e39\\u0e14\\u0e01\\u0e31\\u0e19\\u0e14\\u0e49\\u0e27\\u0e22\\u0e20\\u0e32\\u0e29\\u0e32\\u0e17\\u0e35\\u0e48\\u0e40\\u0e23\\u0e32\\u0e1e\\u0e2d\\u0e43\\u0e08\\u0e2b\\u0e23\\u0e37\\u0e2d\\u0e44\\u0e21\\u0e48\\u0e1e\\u0e2d\\u0e43\\u0e08&nbsp;\\u0e16\\u0e49\\u0e32\\u0e40\\u0e23\\u0e32\\u0e15\\u0e31\\u0e49\\u0e07\\u0e1e\\u0e39\\u0e14\\u0e01\\u0e31\\u0e19\\u0e14\\u0e49\\u0e27\\u0e22\\u0e20\\u0e32\\u0e29\\u0e32\\u0e27\\u0e48\\u0e32\\u0e2d\\u0e31\\u0e19\\u0e19\\u0e35\\u0e49\\u0e09\\u0e31\\u0e19\\u0e0a\\u0e2d\\u0e1a&nbsp;\\u0e2d\\u0e31\\u0e19\\u0e19\\u0e35\\u0e49\\u0e09\\u0e31\\u0e19\\u0e44\\u0e21\\u0e48\\u0e0a\\u0e2d\\u0e1a&nbsp;\\u0e23\\u0e31\\u0e1a\\u0e23\\u0e2d\\u0e07\\u0e42\\u0e22\\u0e21\\u0e15\\u0e49\\u0e2d\\u0e07\\u0e21\\u0e35\\u0e17\\u0e30\\u0e40\\u0e25\\u0e32\\u0e30\\u0e01\\u0e31\\u0e19\\u0e41\\u0e19\\u0e48&nbsp;\\u0e44\\u0e21\\u0e48\\u0e21\\u0e32\\u0e01\\u0e01\\u0e47\\u0e19\\u0e49\\u0e2d\\u0e22&nbsp; \\u0e40\\u0e23\\u0e32\\u0e01\\u0e47\\u0e15\\u0e31\\u0e49\\u0e07\\u0e20\\u0e32\\u0e29\\u0e32\\u0e17\\u0e35\\u0e48\\u0e40\\u0e23\\u0e32\\u0e08\\u0e30\\u0e04\\u0e38\\u0e22\\u0e01\\u0e31\\u0e19\\u0e2a\\u0e34&nbsp; \\u0e40\\u0e23\\u0e32\\u0e15\\u0e31\\u0e49\\u0e07\\u0e43\\u0e08\\u0e40\\u0e23\\u0e32\\u0e27\\u0e48\\u0e32\\u0e08\\u0e30\\u0e1e\\u0e39\\u0e14\\u0e04\\u0e38\\u0e22\\u0e01\\u0e31\\u0e19\\u0e14\\u0e49\\u0e27\\u0e22\\u0e20\\u0e32\\u0e29\\u0e32\\u0e14\\u0e2d\\u0e01\\u0e44\\u0e21\\u0e49&nbsp; \\u0e14\\u0e49\\u0e27\\u0e22\\u0e2a\\u0e15\\u0e34&nbsp;\\u0e14\\u0e49\\u0e27\\u0e22\\u0e40\\u0e2b\\u0e15\\u0e38\\u0e1c\\u0e25&nbsp; \\u0e40\\u0e27\\u0e25\\u0e32\\u0e40\\u0e02\\u0e32\\u0e23\\u0e49\\u0e2d\\u0e19\\u0e21\\u0e32\\u0e01\\u0e47\\u0e1a\\u0e2d\\u0e01 \\u0e19\\u0e49\\u0e2d\\u0e07\\u0e2d\\u0e22\\u0e48\\u0e32\\u0e40\\u0e1e\\u0e34\\u0e48\\u0e07\\u0e43\\u0e08\\u0e23\\u0e49\\u0e2d\\u0e19&nbsp; \\u0e04\\u0e48\\u0e2d\\u0e22 \\u0e46 \\u0e1e\\u0e39\\u0e14\\u0e01\\u0e47\\u0e44\\u0e14\\u0e49&nbsp; \\u0e1e\\u0e39\\u0e14\\u0e41\\u0e23\\u0e07\\u0e21\\u0e32\\u0e01\\u0e40\\u0e14\\u0e35\\u0e4b\\u0e22\\u0e27\\u0e1e\\u0e35\\u0e48\\u0e15\\u0e01\\u0e43\\u0e08&nbsp; (\\u0e2b\\u0e31\\u0e27\\u0e40\\u0e23\\u0e32\\u0e30)&nbsp;\\u0e15\\u0e49\\u0e2d\\u0e07\\u0e1a\\u0e2d\\u0e01&nbsp;\\u0e04\\u0e37\\u0e2d\\u0e40\\u0e02\\u0e32\\u0e23\\u0e49\\u0e2d\\u0e19\\u0e40\\u0e23\\u0e32\\u0e01\\u0e47\\u0e15\\u0e49\\u0e2d\\u0e07\\u0e40\\u0e2d\\u0e32\\u0e19\\u0e49\\u0e33\\u0e40\\u0e22\\u0e47\\u0e19\\u0e25\\u0e39\\u0e1a\\u0e2b\\u0e19\\u0e48\\u0e2d\\u0e22&nbsp;(\\u0e42\\u0e22\\u0e21 : \\u0e40\\u0e02\\u0e32\\u0e44\\u0e21\\u0e48\\u0e43\\u0e2b\\u0e49\\u0e42\\u0e2d\\u0e01\\u0e32\\u0e2a\\u0e1e\\u0e39\\u0e14&nbsp;\\u0e1e\\u0e39\\u0e14\\u0e04\\u0e19\\u0e40\\u0e14\\u0e35\\u0e22\\u0e27)&nbsp;\\u0e40\\u0e02\\u0e32\\u0e1e\\u0e39\\u0e14\\u0e1c\\u0e39\\u0e49\\u0e40\\u0e14\\u0e35\\u0e22\\u0e27\\u0e43\\u0e0a\\u0e48\\u0e44\\u0e2b\\u0e21&nbsp;\\u0e40\\u0e02\\u0e32\\u0e44\\u0e21\\u0e48\\u0e43\\u0e2b\\u0e49\\u0e42\\u0e2d\\u0e01\\u0e32\\u0e2a\\u0e1e\\u0e39\\u0e14&nbsp;\\u0e43\\u0e2b\\u0e49\\u0e21\\u0e31\\u0e19\\u0e1e\\u0e39\\u0e14\\u0e44\\u0e1b\\u0e40\\u0e25\\u0e22\\u0e2d\\u0e22\\u0e48\\u0e32\\u0e07\\u0e19\\u0e31\\u0e49\\u0e19&nbsp;\\u0e40\\u0e23\\u0e32\\u0e2a\\u0e1a\\u0e32\\u0e22\\u0e40\\u0e25\\u0e22&nbsp; \\u0e44\\u0e21\\u0e48\\u0e15\\u0e49\\u0e2d\\u0e07\\u0e1e\\u0e39\\u0e14&nbsp; \\u0e1b\\u0e25\\u0e48\\u0e2d\\u0e22\\u0e43\\u0e2b\\u0e49\\u0e21\\u0e31\\u0e19\\u0e1e\\u0e39\\u0e14\\u0e44\\u0e1b\\u0e40\\u0e25\\u0e22&nbsp; \\u0e21\\u0e31\\u0e19\\u0e08\\u0e30\\u0e1e\\u0e39\\u0e14\\u0e2d\\u0e30\\u0e44\\u0e23&nbsp;\\u0e01\\u0e35\\u0e48\\u0e08\\u0e1a&nbsp; \\u0e1e\\u0e39\\u0e14\\u0e08\\u0e1a\\u0e41\\u0e25\\u0e49\\u0e27\\u0e01\\u0e47&nbsp; \\u0e1e\\u0e2d\\u0e40\\u0e02\\u0e32\\u0e2d\\u0e32\\u0e23\\u0e21\\u0e13\\u0e4c\\u0e40\\u0e22\\u0e47\\u0e19\\u0e02\\u0e36\\u0e49\\u0e19\\u0e01\\u0e47\\u0e44\\u0e1b\\u0e04\\u0e38\\u0e22\\u0e01\\u0e31\\u0e1a\\u0e40\\u0e02\\u0e32\\u0e43\\u0e2b\\u0e21\\u0e48&nbsp; \\u0e19\\u0e49\\u0e2d\\u0e07 \\u0e1e\\u0e39\\u0e14\\u0e44\\u0e1b\\u0e17\\u0e31\\u0e49\\u0e07\\u0e2b\\u0e21\\u0e14\\u0e19\\u0e48\\u0e30&nbsp; \\u0e40\\u0e2b\\u0e19\\u0e37\\u0e48\\u0e2d\\u0e22\\u0e44\\u0e2b\\u0e21&nbsp;\\u0e1e\\u0e2d\\u0e40\\u0e02\\u0e32\\u0e40\\u0e22\\u0e47\\u0e19\\u0e41\\u0e25\\u0e49\\u0e27\\u0e19\\u0e30&nbsp;\\u0e01\\u0e47\\u0e40\\u0e27\\u0e25\\u0e32\\u0e21\\u0e35\\u0e42\\u0e2d\\u0e01\\u0e32\\u0e2a\\u0e16\\u0e36\\u0e07\\u0e08\\u0e30\\u0e41\\u0e19\\u0e30\\u0e19\\u0e33\\u0e40\\u0e02\\u0e32\\u0e19\\u0e30&nbsp;\\u0e1e\\u0e2d\\u0e40\\u0e02\\u0e32\\u0e40\\u0e22\\u0e47\\u0e19\\u0e40\\u0e23\\u0e35\\u0e22\\u0e1a\\u0e23\\u0e49\\u0e2d\\u0e22\\u0e01\\u0e47\\u0e1e\\u0e39\\u0e14&nbsp; \\u0e19\\u0e49\\u0e2d\\u0e07 \\u0e40\\u0e21\\u0e37\\u0e48\\u0e2d\\u0e27\\u0e32\\u0e19\\u0e19\\u0e35\\u0e49\\u0e1e\\u0e39\\u0e14\\u0e19\\u0e32\\u0e19\\u0e44\\u0e2b\\u0e21&nbsp; \\u0e40\\u0e14\\u0e35\\u0e4b\\u0e22\\u0e27\\u0e40\\u0e02\\u0e32\\u0e1a\\u0e2d\\u0e01\\u0e01\\u0e47\\u0e19\\u0e32\\u0e19\\u0e19\\u0e48\\u0e30&nbsp; \\u0e09\\u0e31\\u0e19\\u0e1e\\u0e39\\u0e14\\u0e15\\u0e31\\u0e49\\u0e07\\u0e17\\u0e31\\u0e49\\u0e07\\u0e27\\u0e31\\u0e19&nbsp; \\u0e41\\u0e25\\u0e49\\u0e27\\u0e40\\u0e2b\\u0e19\\u0e37\\u0e48\\u0e2d\\u0e22\\u0e44\\u0e2b\\u0e21&nbsp; \\u0e19\\u0e35\\u0e48 \\u0e17\\u0e35\\u0e2b\\u0e25\\u0e31\\u0e07\\u0e01\\u0e47\\u0e2d\\u0e22\\u0e48\\u0e32\\u0e1e\\u0e39\\u0e14\\u0e21\\u0e32\\u0e01\\u0e19\\u0e30&nbsp; \\u0e1e\\u0e39\\u0e14\\u0e19\\u0e32\\u0e19\\u0e40\\u0e14\\u0e35\\u0e4b\\u0e22\\u0e27\\u0e40\\u0e2b\\u0e19\\u0e37\\u0e48\\u0e2d\\u0e22&nbsp; \\u0e40\\u0e1b\\u0e47\\u0e19\\u0e2b\\u0e48\\u0e27\\u0e07\\u0e2a\\u0e38\\u0e02\\u0e20\\u0e32\\u0e1e&nbsp; (\\u0e2b\\u0e31\\u0e27\\u0e40\\u0e23\\u0e32\\u0e30)&nbsp;\\u0e43\\u0e0a\\u0e49\\u0e2a\\u0e15\\u0e34\\u0e43\\u0e0a\\u0e49\\u0e1b\\u0e31\\u0e0d\\u0e0d\\u0e32\\u0e1e\\u0e39\\u0e14&nbsp;\\u0e21\\u0e31\\u0e19\\u0e01\\u0e47\\u0e40\\u0e25\\u0e22\\u0e2d\\u0e22\\u0e39\\u0e48\\u0e14\\u0e49\\u0e27\\u0e22\\u0e01\\u0e31\\u0e19&nbsp;\\u0e40\\u0e02\\u0e32\\u0e23\\u0e49\\u0e2d\\u0e19\\u0e40\\u0e23\\u0e32\\u0e01\\u0e47\\u0e15\\u0e49\\u0e2d\\u0e07\\u0e40\\u0e2d\\u0e32\\u0e19\\u0e49\\u0e33\\u0e40\\u0e22\\u0e47\\u0e19\\u0e40\\u0e02\\u0e49\\u0e32\\u0e25\\u0e39\\u0e1a&nbsp;\\u0e1e\\u0e2d\\u0e40\\u0e02\\u0e32\\u0e40\\u0e22\\u0e47\\u0e19\\u0e41\\u0e25\\u0e49\\u0e27\\u0e19\\u0e30&nbsp;\\u0e40\\u0e23\\u0e32\\u0e44\\u0e14\\u0e49\\u0e08\\u0e31\\u0e07\\u0e2b\\u0e27\\u0e30\\u0e40\\u0e23\\u0e32\\u0e01\\u0e47\\u0e15\\u0e1a\\u0e40\\u0e02\\u0e49\\u0e32\\u0e17\\u0e35\\u0e48\\u0e2b\\u0e19\\u0e48\\u0e2d\\u0e22&nbsp; \\u0e40\\u0e02\\u0e49\\u0e32\\u0e43\\u0e08\\u0e22\\u0e31\\u0e07\\u0e25\\u0e48\\u0e30&nbsp; \\u0e44\\u0e21\\u0e48\\u0e43\\u0e0a\\u0e48\\u0e40\\u0e2d\\u0e32\\u0e21\\u0e37\\u0e2d\\u0e44\\u0e1b\\u0e15\\u0e1a\\u0e19\\u0e30&nbsp; \\u0e40\\u0e14\\u0e35\\u0e4b\\u0e22\\u0e27\\u0e40\\u0e02\\u0e32&nbsp;\\u0e04\\u0e37\\u0e2d\\u0e43\\u0e2b\\u0e49\\u0e2a\\u0e15\\u0e34\\u0e1b\\u0e31\\u0e0d\\u0e0d\\u0e32\\u0e40\\u0e02\\u0e32&nbsp;\\u0e40\\u0e1e\\u0e23\\u0e32\\u0e30\\u0e22\\u0e31\\u0e07\\u0e44\\u0e07\\u0e40\\u0e23\\u0e32\\u0e01\\u0e31\\u0e1a\\u0e40\\u0e02\\u0e32&nbsp;\\u0e2d\\u0e22\\u0e48\\u0e32\\u0e07\\u0e19\\u0e49\\u0e2d\\u0e22\\u0e40\\u0e23\\u0e32\\u0e01\\u0e47\\u0e15\\u0e49\\u0e2d\\u0e07\\u0e04\\u0e34\\u0e14&nbsp;\\u0e1c\\u0e39\\u0e49\\u0e2b\\u0e0d\\u0e34\\u0e07\\u0e01\\u0e47\\u0e15\\u0e49\\u0e2d\\u0e07\\u0e04\\u0e34\\u0e14\\u0e27\\u0e48\\u0e32\\u0e19\\u0e35\\u0e48\\u0e21\\u0e31\\u0e19\\u0e1e\\u0e48\\u0e2d\\u0e02\\u0e2d\\u0e07\\u0e25\\u0e39\\u0e01\\u0e19\\u0e48\\u0e30&nbsp;\\u0e16\\u0e39\\u0e01\\u0e44\\u0e2b\\u0e21&nbsp; \\u0e1c\\u0e39\\u0e49\\u0e0a\\u0e32\\u0e22\\u0e01\\u0e47\\u0e15\\u0e49\\u0e2d\\u0e07\\u0e04\\u0e34\\u0e14\\u0e19\\u0e35\\u0e48\\u0e21\\u0e31\\u0e19\\u0e41\\u0e21\\u0e48\\u0e02\\u0e2d\\u0e07\\u0e25\\u0e39\\u0e01\\u0e19\\u0e48\\u0e30&nbsp; \\u0e16\\u0e39\\u0e01\\u0e44\\u0e2b\\u0e21\\u0e25\\u0e48\\u0e30&nbsp;\\u0e17\\u0e33\\u0e2d\\u0e30\\u0e44\\u0e23\\u0e21\\u0e31\\u0e19\\u0e2b\\u0e22\\u0e34\\u0e01\\u0e21\\u0e31\\u0e19\\u0e22\\u0e31\\u0e07\\u0e44\\u0e07\\u0e01\\u0e47\\u0e15\\u0e49\\u0e2d\\u0e07\\u0e40\\u0e08\\u0e47\\u0e1a\\u0e15\\u0e31\\u0e27\\u0e40\\u0e2d\\u0e07\\u0e14\\u0e49\\u0e27\\u0e22\\u0e19\\u0e48\\u0e30&nbsp; \\u0e01\\u0e47\\u0e40\\u0e25\\u0e22\\u0e04\\u0e48\\u0e2d\\u0e22 \\u0e46 \\u0e1e\\u0e39\\u0e14 \\u0e04\\u0e48\\u0e2d\\u0e22 \\u0e46 \\u0e08\\u0e32 &nbsp;\\u0e21\\u0e31\\u0e19\\u0e01\\u0e47\\u0e40\\u0e25\\u0e22\\u0e40\\u0e1b\\u0e47\\u0e19\\u0e1b\\u0e23\\u0e30\\u0e42\\u0e22\\u0e0a\\u0e19\\u0e4c\\u0e44\\u0e07&nbsp; \\u0e43\\u0e0a\\u0e49\\u0e2a\\u0e15\\u0e34\\u0e43\\u0e0a\\u0e49\\u0e1b\\u0e31\\u0e0d\\u0e0d\\u0e32\\u0e43\\u0e19\\u0e01\\u0e32\\u0e23\\u0e14\\u0e33\\u0e23\\u0e07\\u0e0a\\u0e35\\u0e27\\u0e34\\u0e15\\u0e40\\u0e23\\u0e32\\u0e44\\u0e07&nbsp; \\u0e19\\u0e35\\u0e49\\u0e04\\u0e37\\u0e2d\\u0e15\\u0e31\\u0e27\\u0e18\\u0e23\\u0e23\\u0e21\\u0e30\\u0e2b\\u0e21\\u0e14\\u0e19\\u0e48\\u0e30&nbsp; \\u0e19\\u0e31\\u0e49\\u0e19\\u0e1b\\u0e23\\u0e30\\u0e42\\u0e22\\u0e0a\\u0e19\\u0e4c\\u0e02\\u0e2d\\u0e07\\u0e18\\u0e23\\u0e23\\u0e21\\u0e30\\u0e08\\u0e36\\u0e07\\u0e43\\u0e0a\\u0e49\\u0e44\\u0e14\\u0e49\\u0e17\\u0e38\\u0e01\\u0e02\\u0e13\\u0e30\\u0e44\\u0e07&nbsp; \\u0e2d\\u0e31\\u0e19\\u0e19\\u0e35\\u0e49\\u0e01\\u0e47\\u0e41\\u0e04\\u0e48\\u0e19\\u0e35\\u0e49\\u0e19\\u0e30&nbsp; \\u0e17\\u0e35\\u0e19\\u0e35\\u0e49\\u0e1e\\u0e2d\\u0e2a\\u0e15\\u0e34\\u0e21\\u0e31\\u0e19\\u0e21\\u0e35\\u0e1e\\u0e25\\u0e31\\u0e07\\u0e40\\u0e02\\u0e49\\u0e32&nbsp; \\u0e16\\u0e49\\u0e32\\u0e40\\u0e23\\u0e32\\u0e1d\\u0e36\\u0e01\\u0e2d\\u0e22\\u0e48\\u0e32\\u0e07\\u0e19\\u0e35\\u0e49\\u0e17\\u0e38\\u0e01\\u0e27\\u0e31\\u0e19\\u0e17\\u0e38\\u0e01\\u0e04\\u0e37\\u0e19 \\u0e17\\u0e38\\u0e01\\u0e27\\u0e31\\u0e19 \\u0e46&nbsp; \\u0e40\\u0e1c\\u0e25\\u0e2d\\u0e41\\u0e25\\u0e49\\u0e27\\u0e41\\u0e25\\u0e49\\u0e27\\u0e44\\u0e1b\\u0e19\\u0e30\\u0e17\\u0e35\\u0e48\\u0e1a\\u0e2d\\u0e01\\u0e41\\u0e25\\u0e49\\u0e27&nbsp; \\u0e40\\u0e1e\\u0e23\\u0e32\\u0e30\\u0e40\\u0e1c\\u0e25\\u0e2d\\u0e40\\u0e1b\\u0e47\\u0e19\\u0e2d\\u0e14\\u0e35\\u0e15\\u0e41\\u0e25\\u0e49\\u0e27&nbsp; \\u0e43\\u0e2b\\u0e49\\u0e23\\u0e30\\u0e25\\u0e36\\u0e01\\u0e17\\u0e33\\u0e44\\u0e1b\\u0e40\\u0e23\\u0e37\\u0e48\\u0e2d\\u0e22&nbsp; \\u0e21\\u0e31\\u0e19\\u0e08\\u0e30\\u0e21\\u0e35\\u0e1e\\u0e25\\u0e31\\u0e07&nbsp;\\u0e40\\u0e21\\u0e37\\u0e48\\u0e2d\\u0e21\\u0e31\\u0e19\\u0e21\\u0e35\\u0e1e\\u0e25\\u0e31\\u0e07\\u0e40\\u0e02\\u0e49\\u0e32 \\u0e1e\\u0e25\\u0e31\\u0e07\\u0e40\\u0e02\\u0e49\\u0e32&nbsp;\\u0e21\\u0e31\\u0e19\\u0e21\\u0e32\\u0e2d\\u0e22\\u0e39\\u0e48\\u0e01\\u0e32\\u0e22&nbsp; \\u0e21\\u0e31\\u0e19\\u0e08\\u0e30\\u0e40\\u0e02\\u0e49\\u0e32\\u0e2a\\u0e39\\u0e48\\u0e43\\u0e08\\u0e40\\u0e2d\\u0e07&nbsp; \\u0e40\\u0e21\\u0e37\\u0e48\\u0e2d\\u0e2a\\u0e15\\u0e34\\u0e21\\u0e31\\u0e19\\u0e21\\u0e35\\u0e1e\\u0e25\\u0e31\\u0e07\\u0e40\\u0e02\\u0e49\\u0e32&nbsp; \\u0e21\\u0e31\\u0e19\\u0e08\\u0e30\\u0e40\\u0e02\\u0e49\\u0e32\\u0e2a\\u0e39\\u0e48\\u0e43\\u0e08&nbsp; \\u0e21\\u0e31\\u0e19\\u0e04\\u0e34\\u0e14\\u0e19\\u0e36\\u0e01\\u0e2d\\u0e30\\u0e44\\u0e23\\u0e1b\\u0e31\\u0e4a\\u0e1a\\u0e21\\u0e31\\u0e19\\u0e08\\u0e30\\u0e23\\u0e39\\u0e49\\u0e15\\u0e31\\u0e27&nbsp; \\u0e1e\\u0e2d\\u0e23\\u0e39\\u0e49\\u0e15\\u0e31\\u0e27 \\u0e15\\u0e48\\u0e2d\\u0e44\\u0e1b\\u0e19\\u0e30\\u0e21\\u0e31\\u0e19\\u0e08\\u0e30\\u0e27\\u0e34\\u0e08\\u0e31\\u0e22\\u0e44\\u0e07&nbsp; \\u0e44\\u0e2d\\u0e49\\u0e17\\u0e35\\u0e48\\u0e04\\u0e34\\u0e14\\u0e44\\u0e1b\\u0e21\\u0e31\\u0e19\\u0e16\\u0e39\\u0e01\\u0e40\\u0e2b\\u0e15\\u0e38\\u0e16\\u0e39\\u0e01\\u0e1c\\u0e25&nbsp; \\u0e15\\u0e23\\u0e07\\u0e15\\u0e48\\u0e2d\\u0e2a\\u0e31\\u0e08\\u0e18\\u0e23\\u0e23\\u0e21\\u0e04\\u0e27\\u0e32\\u0e21\\u0e08\\u0e23\\u0e34\\u0e07\\u0e44\\u0e2b\\u0e21&nbsp; \\u0e19\\u0e35\\u0e48\\u0e21\\u0e31\\u0e19\\u0e08\\u0e30\\u0e40\\u0e23\\u0e34\\u0e48\\u0e21\\u0e27\\u0e34\\u0e08\\u0e31\\u0e22\\u0e08\\u0e34\\u0e15\\u0e41\\u0e25\\u0e49\\u0e27\\u0e19\\u0e30&nbsp; \\u0e19\\u0e35\\u0e48\\u0e21\\u0e31\\u0e19\\u0e08\\u0e30\\u0e40\\u0e23\\u0e34\\u0e48\\u0e21\\u0e27\\u0e34\\u0e08\\u0e31\\u0e22\\u0e41\\u0e25\\u0e49\\u0e27\\u0e19\\u0e30&nbsp; \\u0e16\\u0e49\\u0e32\\u0e21\\u0e31\\u0e19\\u0e44\\u0e21\\u0e48\\u0e15\\u0e23\\u0e07\\u0e15\\u0e48\\u0e2d\\u0e2a\\u0e31\\u0e08\\u0e18\\u0e23\\u0e23\\u0e21\\u0e04\\u0e27\\u0e32\\u0e21\\u0e08\\u0e23\\u0e34\\u0e07&nbsp; \\u0e21\\u0e31\\u0e19\\u0e40\\u0e1b\\u0e47\\u0e19\\u0e44\\u0e1b\\u0e40\\u0e1e\\u0e37\\u0e48\\u0e2d\\u0e42\\u0e17\\u0e29\\u0e01\\u0e47\\u0e44\\u0e21\\u0e48\\u0e15\\u0e32\\u0e21\\u0e21\\u0e31\\u0e19&nbsp; \\u0e16\\u0e49\\u0e32\\u0e21\\u0e31\\u0e19\\u0e40\\u0e1b\\u0e47\\u0e19\\u0e44\\u0e1b\\u0e40\\u0e1e\\u0e37\\u0e48\\u0e2d\\u0e1b\\u0e23\\u0e30\\u0e42\\u0e22\\u0e0a\\u0e19\\u0e4c\\u0e01\\u0e47\\u0e2d\\u0e32\\u0e28\\u0e31\\u0e22\\u0e21\\u0e31\\u0e19\\u0e17\\u0e33&nbsp; \\u0e44\\u0e21\\u0e48\\u0e44\\u0e14\\u0e49\\u0e22\\u0e36\\u0e14\\u0e19\\u0e30&nbsp;\\u0e44\\u0e21\\u0e48\\u0e44\\u0e14\\u0e49\\u0e22\\u0e36\\u0e14\\u0e04\\u0e27\\u0e32\\u0e21\\u0e04\\u0e34\\u0e14\\u0e19\\u0e30&nbsp;\\u0e2d\\u0e32\\u0e28\\u0e31\\u0e22\\u0e04\\u0e27\\u0e32\\u0e21\\u0e04\\u0e34\\u0e14\\u0e17\\u0e35\\u0e48\\u0e21\\u0e31\\u0e19\\u0e40\\u0e1b\\u0e47\\u0e19\\u0e1b\\u0e23\\u0e30\\u0e42\\u0e22\\u0e0a\\u0e19\\u0e4c\\u0e17\\u0e33\\u0e07\\u0e32\\u0e19&nbsp;\\u0e04\\u0e27\\u0e32\\u0e21\\u0e04\\u0e34\\u0e14\\u0e17\\u0e35\\u0e48\\u0e21\\u0e31\\u0e19\\u0e44\\u0e21\\u0e48\\u0e40\\u0e1b\\u0e47\\u0e19\\u0e1b\\u0e23\\u0e30\\u0e42\\u0e22\\u0e0a\\u0e19\\u0e4c\\u0e01\\u0e47\\u0e44\\u0e21\\u0e48\\u0e17\\u0e33\\u0e15\\u0e32\\u0e21\\u0e21\\u0e31\\u0e19&nbsp; \\u0e40\\u0e21\\u0e37\\u0e48\\u0e2d\\u0e2a\\u0e15\\u0e34\\u0e21\\u0e31\\u0e19\\u0e17\\u0e31\\u0e19\\u0e40\\u0e02\\u0e49\\u0e32 \\u0e17\\u0e31\\u0e19\\u0e40\\u0e02\\u0e49\\u0e32&nbsp; \\u0e21\\u0e31\\u0e19\\u0e08\\u0e30\\u0e40\\u0e2b\\u0e47\\u0e19\\u0e41\\u0e21\\u0e49\\u0e41\\u0e15\\u0e48\\u0e04\\u0e27\\u0e32\\u0e21\\u0e04\\u0e34\\u0e14&nbsp; \\u0e04\\u0e34\\u0e14\\u0e44\\u0e1b\\u0e14\\u0e31\\u0e1a\\u0e44\\u0e1b&nbsp;\\u0e40\\u0e0a\\u0e37\\u0e48\\u0e2d\\u0e44\\u0e2b\\u0e21&nbsp; \\u0e42\\u0e22\\u0e21\\u0e14\\u0e39\\u0e01\\u0e47\\u0e44\\u0e14\\u0e49&nbsp; \\u0e42\\u0e22\\u0e21\\u0e04\\u0e34\\u0e14\\u0e44\\u0e1b\\u0e19\\u0e48\\u0e30\\u0e40\\u0e21\\u0e37\\u0e48\\u0e2d\\u0e27\\u0e32\\u0e19\\u0e19\\u0e35\\u0e49\\u0e21\\u0e32\\u0e21\\u0e31\\u0e19\\u0e14\\u0e31\\u0e1a\\u0e44\\u0e1b\\u0e2b\\u0e21\\u0e14\\u0e22\\u0e31\\u0e07&nbsp; \\u0e21\\u0e31\\u0e19\\u0e04\\u0e34\\u0e14\\u0e44\\u0e1b\\u0e21\\u0e31\\u0e19\\u0e14\\u0e31\\u0e1a\\u0e17\\u0e38\\u0e01\\u0e02\\u0e13\\u0e30\\u0e40\\u0e25\\u0e22&nbsp; \\u0e16\\u0e49\\u0e32\\u0e2a\\u0e15\\u0e34\\u0e21\\u0e31\\u0e19\\u0e21\\u0e32\\u0e01\\u0e40\\u0e02\\u0e49\\u0e32&nbsp; \\u0e21\\u0e31\\u0e19\\u0e17\\u0e31\\u0e19\\u0e1b\\u0e31\\u0e08\\u0e08\\u0e38\\u0e1a\\u0e31\\u0e19&nbsp; \\u0e21\\u0e31\\u0e19\\u0e08\\u0e30\\u0e40\\u0e2b\\u0e47\\u0e19\\u0e04\\u0e27\\u0e32\\u0e21\\u0e40\\u0e01\\u0e34\\u0e14\\u0e14\\u0e31\\u0e1a\\u0e02\\u0e2d\\u0e07\\u0e04\\u0e27\\u0e32\\u0e21\\u0e04\\u0e34\\u0e14\\u0e43\\u0e19\\u0e43\\u0e08\\u0e44\\u0e07&nbsp; \\u0e40\\u0e21\\u0e37\\u0e48\\u0e2d\\u0e40\\u0e2b\\u0e47\\u0e19\\u0e04\\u0e27\\u0e32\\u0e21\\u0e40\\u0e01\\u0e34\\u0e14\\u0e14\\u0e31\\u0e1a\\u0e1a\\u0e48\\u0e2d\\u0e22\\u0e40\\u0e02\\u0e49\\u0e32 \\u0e46&nbsp; \\u0e21\\u0e31\\u0e19\\u0e08\\u0e30\\u0e40\\u0e1b\\u0e47\\u0e19\\u0e02\\u0e2d\\u0e07\\u0e40\\u0e23\\u0e32\\u0e15\\u0e23\\u0e07\\u0e44\\u0e2b\\u0e19\\u0e25\\u0e48\\u0e30&nbsp;\\u0e17\\u0e35\\u0e19\\u0e35\\u0e49\\u0e40\\u0e23\\u0e37\\u0e48\\u0e2d\\u0e07\\u0e23\\u0e32\\u0e27\\u0e17\\u0e35\\u0e48\\u0e04\\u0e34\\u0e14\\u0e17\\u0e35\\u0e48\\u0e40\\u0e1b\\u0e47\\u0e19\\u0e1b\\u0e23\\u0e30\\u0e42\\u0e22\\u0e0a\\u0e19\\u0e4c\\u0e43\\u0e19\\u0e01\\u0e32\\u0e23\\u0e14\\u0e33\\u0e23\\u0e07\\u0e0a\\u0e35\\u0e1e\\u0e43\\u0e19\\u0e07\\u0e32\\u0e19&nbsp; \\u0e01\\u0e47\\u0e2d\\u0e32\\u0e28\\u0e31\\u0e22\\u0e21\\u0e31\\u0e19\\u0e17\\u0e33 &nbsp;\\u0e44\\u0e21\\u0e48\\u0e44\\u0e14\\u0e49\\u0e22\\u0e36\\u0e14\\u0e19\\u0e30&nbsp;\\u0e17\\u0e33\\u0e40\\u0e2b\\u0e21\\u0e37\\u0e2d\\u0e19\\u0e01\\u0e31\\u0e19\\u0e41\\u0e15\\u0e48\\u0e44\\u0e21\\u0e48\\u0e22\\u0e36\\u0e14&nbsp; \\u0e2d\\u0e32\\u0e28\\u0e31\\u0e22\\u0e40\\u0e09\\u0e22 \\u0e46&nbsp; \\u0e40\\u0e23\\u0e37\\u0e48\\u0e2d\\u0e07\\u0e17\\u0e35\\u0e48\\u0e44\\u0e21\\u0e48\\u0e40\\u0e1b\\u0e47\\u0e19\\u0e1b\\u0e23\\u0e30\\u0e42\\u0e22\\u0e0a\\u0e19\\u0e4c\\u0e01\\u0e47\\u0e25\\u0e30\\u0e21\\u0e31\\u0e19&nbsp; \\u0e40\\u0e1e\\u0e23\\u0e32\\u0e30\\u0e40\\u0e23\\u0e32\\u0e44\\u0e21\\u0e48\\u0e44\\u0e14\\u0e49\\u0e22\\u0e36\\u0e14\\u0e17\\u0e31\\u0e49\\u0e07\\u0e2a\\u0e2d\\u0e07\\u0e40\\u0e23\\u0e37\\u0e48\\u0e2d\\u0e07&nbsp; \\u0e17\\u0e35\\u0e48\\u0e15\\u0e49\\u0e2d\\u0e07\\u0e17\\u0e33\\u0e1b\\u0e23\\u0e30\\u0e42\\u0e22\\u0e0a\\u0e19\\u0e4c&nbsp;\\u0e40\\u0e1e\\u0e23\\u0e32\\u0e30\\u0e0a\\u0e35\\u0e27\\u0e34\\u0e15\\u0e40\\u0e23\\u0e32\\u0e22\\u0e31\\u0e07\\u0e15\\u0e49\\u0e2d\\u0e07\\u0e2d\\u0e32\\u0e28\\u0e31\\u0e22\\u0e1b\\u0e23\\u0e30\\u0e42\\u0e22\\u0e0a\\u0e19\\u0e4c\\u0e07\\u0e32\\u0e19\\u0e01\\u0e32\\u0e23\\u0e19\\u0e31\\u0e49\\u0e19\\u0e2d\\u0e22\\u0e39\\u0e48\\u0e43\\u0e0a\\u0e48\\u0e44\\u0e2b\\u0e21&nbsp; \\u0e40\\u0e1e\\u0e23\\u0e32\\u0e30\\u0e17\\u0e49\\u0e2d\\u0e07\\u0e21\\u0e31\\u0e19\\u0e2b\\u0e34\\u0e27\\u0e19\\u0e48\\u0e30&nbsp; \\u0e40\\u0e25\\u0e35\\u0e49\\u0e22\\u0e07\\u0e0a\\u0e35\\u0e1e &nbsp;\\u0e01\\u0e47\\u0e2d\\u0e32\\u0e28\\u0e31\\u0e22\\u0e21\\u0e31\\u0e19\\u0e2d\\u0e22\\u0e39\\u0e48\\u0e40\\u0e09\\u0e22 \\u0e46&nbsp; \\u0e16\\u0e49\\u0e32\\u0e2d\\u0e30\\u0e44\\u0e23\\u0e17\\u0e35\\u0e48\\u0e21\\u0e31\\u0e19\\u0e44\\u0e21\\u0e48\\u0e40\\u0e1b\\u0e47\\u0e19\\u0e1b\\u0e23\\u0e30\\u0e42\\u0e22\\u0e0a\\u0e19\\u0e4c\\u0e01\\u0e47\\u0e25\\u0e30&nbsp; \\u0e44\\u0e21\\u0e48\\u0e15\\u0e32\\u0e21\\u0e21\\u0e31\\u0e19\\u0e44\\u0e1b&nbsp;\\u0e40\\u0e1e\\u0e23\\u0e32\\u0e30\\u0e40\\u0e23\\u0e32\\u0e2d\\u0e32\\u0e28\\u0e31\\u0e22\\u0e21\\u0e31\\u0e19&nbsp;\\u0e21\\u0e31\\u0e19\\u0e44\\u0e21\\u0e48\\u0e43\\u0e0a\\u0e48\\u0e02\\u0e2d\\u0e07\\u0e40\\u0e23\\u0e32&nbsp; \\u0e19\\u0e35\\u0e48 \\u0e2a\\u0e15\\u0e34\\u0e40\\u0e21\\u0e37\\u0e48\\u0e2d\\u0e21\\u0e31\\u0e19\\u0e21\\u0e32\\u0e01\\u0e40\\u0e02\\u0e49\\u0e32\\u0e17\\u0e31\\u0e19\\u0e40\\u0e02\\u0e49\\u0e32&nbsp;\\u0e21\\u0e31\\u0e19\\u0e08\\u0e30\\u0e40\\u0e02\\u0e49\\u0e32\\u0e44\\u0e1b\\u0e2d\\u0e22\\u0e39\\u0e48\\u0e43\\u0e19\\u0e08\\u0e34\\u0e15\\u0e44\\u0e07&nbsp;\\u0e21\\u0e31\\u0e19\\u0e08\\u0e30\\u0e40\\u0e2b\\u0e47\\u0e19\\u0e40\\u0e2b\\u0e15\\u0e38\\u0e40\\u0e2b\\u0e47\\u0e19\\u0e1c\\u0e25\\u0e43\\u0e19\\u0e08\\u0e34\\u0e15 &nbsp;\\u0e21\\u0e31\\u0e19\\u0e08\\u0e30\\u0e40\\u0e2b\\u0e47\\u0e19\\u0e04\\u0e33\\u0e27\\u0e48\\u0e32\\u0e04\\u0e27\\u0e32\\u0e21\\u0e04\\u0e34\\u0e14\\u0e19\\u0e31\\u0e49\\u0e19\\u0e44\\u0e21\\u0e48\\u0e40\\u0e17\\u0e35\\u0e48\\u0e22\\u0e07&nbsp; \\u0e04\\u0e27\\u0e32\\u0e21\\u0e04\\u0e34\\u0e14\\u0e19\\u0e31\\u0e49\\u0e19\\u0e44\\u0e21\\u0e48\\u0e43\\u0e0a\\u0e48\\u0e02\\u0e2d\\u0e07\\u0e40\\u0e23\\u0e32\\u0e44\\u0e07&nbsp; \\u0e21\\u0e31\\u0e19\\u0e40\\u0e1b\\u0e47\\u0e19\\u0e02\\u0e2d\\u0e07\\u0e21\\u0e31\\u0e19\\u0e40\\u0e2d\\u0e07&nbsp; \\u0e41\\u0e15\\u0e48\\u0e17\\u0e35\\u0e48\\u0e40\\u0e23\\u0e32\\u0e44\\u0e1b\\u0e2a\\u0e27\\u0e14\\u0e21\\u0e19\\u0e15\\u0e4c\\u0e19\\u0e35\\u0e48\\u0e21\\u0e31\\u0e19\\u0e17\\u0e48\\u0e2d\\u0e07\\u0e21\\u0e31\\u0e19\\u0e08\\u0e33&nbsp; \\u0e41\\u0e15\\u0e48\\u0e21\\u0e31\\u0e19\\u0e44\\u0e21\\u0e48\\u0e40\\u0e2b\\u0e47\\u0e19\\u0e15\\u0e31\\u0e27\\u0e08\\u0e33\\u0e44\\u0e21\\u0e48\\u0e40\\u0e17\\u0e35\\u0e48\\u0e22\\u0e07&nbsp; \\u0e15\\u0e31\\u0e27\\u0e08\\u0e33\\u0e44\\u0e21\\u0e48\\u0e43\\u0e0a\\u0e48\\u0e02\\u0e2d\\u0e07\\u0e40\\u0e23\\u0e32&nbsp; \\u0e41\\u0e15\\u0e48\\u0e21\\u0e31\\u0e19\\u0e08\\u0e33\\u0e44\\u0e14\\u0e49\\u0e27\\u0e48\\u0e32\\u0e04\\u0e27\\u0e32\\u0e21\\u0e08\\u0e33\\u0e44\\u0e21\\u0e48\\u0e40\\u0e17\\u0e35\\u0e48\\u0e22\\u0e07&nbsp; \\u0e04\\u0e27\\u0e32\\u0e21\\u0e08\\u0e33\\u0e44\\u0e21\\u0e48\\u0e43\\u0e0a\\u0e48\\u0e02\\u0e2d\\u0e07\\u0e40\\u0e23\\u0e32&nbsp; \\u0e41\\u0e15\\u0e48\\u0e21\\u0e31\\u0e19\\u0e44\\u0e21\\u0e48\\u0e40\\u0e2b\\u0e47\\u0e19\\u0e15\\u0e31\\u0e27\\u0e08\\u0e33\\u0e19\\u0e31\\u0e49\\u0e19\\u0e27\\u0e48\\u0e32\\u0e21\\u0e31\\u0e19\\u0e44\\u0e21\\u0e48\\u0e40\\u0e17\\u0e35\\u0e48\\u0e22\\u0e07&nbsp; \\u0e21\\u0e31\\u0e19\\u0e44\\u0e21\\u0e48\\u0e43\\u0e0a\\u0e48\\u0e02\\u0e2d\\u0e07\\u0e40\\u0e23\\u0e32&nbsp; \\u0e40\\u0e1e\\u0e23\\u0e32\\u0e30\\u0e2a\\u0e15\\u0e34\\u0e1b\\u0e31\\u0e0d\\u0e0d\\u0e32\\u0e21\\u0e31\\u0e19\\u0e22\\u0e31\\u0e07\\u0e44\\u0e21\\u0e48\\u0e41\\u0e2b\\u0e25\\u0e21\\u0e04\\u0e21&nbsp; \\u0e40\\u0e21\\u0e37\\u0e48\\u0e2d\\u0e21\\u0e31\\u0e19\\u0e1d\\u0e36\\u0e01\\u0e21\\u0e32\\u0e01\\u0e40\\u0e02\\u0e49\\u0e32 \\u0e21\\u0e32\\u0e01\\u0e40\\u0e02\\u0e49\\u0e32&nbsp; \\u0e21\\u0e31\\u0e19\\u0e08\\u0e30\\u0e40\\u0e02\\u0e49\\u0e32\\u0e44\\u0e1b\\u0e40\\u0e2b\\u0e47\\u0e19&nbsp; \\u0e21\\u0e31\\u0e19\\u0e40\\u0e2b\\u0e47\\u0e19\\u0e41\\u0e25\\u0e49\\u0e27\\u0e21\\u0e31\\u0e19\\u0e08\\u0e30\\u0e04\\u0e48\\u0e2d\\u0e22 \\u0e46 \\u0e40\\u0e2b\\u0e47\\u0e19&nbsp; \\u0e41\\u0e25\\u0e49\\u0e27\\u0e42\\u0e22\\u0e21\\u0e08\\u0e30\\u0e40\\u0e2b\\u0e47\\u0e19\\u0e04\\u0e38\\u0e13\\u0e04\\u0e48\\u0e32\\u0e02\\u0e2d\\u0e07\\u0e18\\u0e23\\u0e23\\u0e21\\u0e30&nbsp; \\u0e27\\u0e48\\u0e32\\u0e21\\u0e31\\u0e19\\u0e17\\u0e33\\u0e43\\u0e2b\\u0e49\\u0e0a\\u0e35\\u0e27\\u0e34\\u0e15\\u0e40\\u0e23\\u0e32\\u0e14\\u0e33\\u0e40\\u0e19\\u0e34\\u0e19\\u0e14\\u0e49\\u0e27\\u0e22\\u0e04\\u0e27\\u0e32\\u0e21\\u0e23\\u0e32\\u0e1a\\u0e23\\u0e37\\u0e48\\u0e19 &nbsp;\\u0e14\\u0e49\\u0e27\\u0e22\\u0e04\\u0e27\\u0e32\\u0e21\\u0e1c\\u0e32\\u0e2a\\u0e38\\u0e01\\u0e15\\u0e32\\u0e21\\u0e2d\\u0e31\\u0e15\\u0e20\\u0e32\\u0e1e&nbsp;\\u0e04\\u0e27\\u0e32\\u0e21\\u0e2a\\u0e38\\u0e02\\u0e15\\u0e23\\u0e07\\u0e19\\u0e35\\u0e49\\u0e44\\u0e21\\u0e48\\u0e43\\u0e0a\\u0e48\\u0e40\\u0e23\\u0e32\\u0e21\\u0e35\\u0e40\\u0e07\\u0e34\\u0e19\\u0e23\\u0e49\\u0e2d\\u0e22\\u0e41\\u0e2a\\u0e19\\u0e25\\u0e49\\u0e32\\u0e19\\u0e19\\u0e30&nbsp; \\u0e16\\u0e39\\u0e01\\u0e44\\u0e2b\\u0e21&nbsp;\\u0e04\\u0e19\\u0e21\\u0e35\\u0e40\\u0e07\\u0e34\\u0e19\\u0e23\\u0e49\\u0e2d\\u0e22\\u0e41\\u0e2a\\u0e19\\u0e25\\u0e49\\u0e32\\u0e19\\u0e01\\u0e47\\u0e44\\u0e21\\u0e48\\u0e21\\u0e35\\u0e04\\u0e27\\u0e32\\u0e21\\u0e2a\\u0e38\\u0e02\\u0e19\\u0e30&nbsp;\\u0e40\\u0e0a\\u0e37\\u0e48\\u0e2d\\u0e44\\u0e2b\\u0e21&nbsp;\\u0e04\\u0e27\\u0e32\\u0e21\\u0e2a\\u0e38\\u0e02\\u0e19\\u0e35\\u0e49\\u0e2d\\u0e22\\u0e39\\u0e48\\u0e17\\u0e35\\u0e48\\u0e01\\u0e32\\u0e23\\u0e17\\u0e35\\u0e48\\u0e40\\u0e23\\u0e32\\u0e1b\\u0e23\\u0e30\\u0e1e\\u0e24\\u0e15\\u0e34\\u0e01\\u0e32\\u0e22 \\u0e1b\\u0e23\\u0e30\\u0e1e\\u0e24\\u0e15\\u0e34\\u0e27\\u0e32\\u0e08\\u0e32 \\u0e1b\\u0e23\\u0e30\\u0e1e\\u0e24\\u0e15\\u0e34\\u0e43\\u0e08\\u0e40\\u0e23\\u0e32\\u0e14\\u0e49\\u0e27\\u0e22\\u0e04\\u0e27\\u0e32\\u0e21\\u0e16\\u0e39\\u0e01\\u0e15\\u0e49\\u0e2d\\u0e07&nbsp;\\u0e15\\u0e23\\u0e07\\u0e15\\u0e48\\u0e2d\\u0e04\\u0e27\\u0e32\\u0e21\\u0e40\\u0e1b\\u0e47\\u0e19\\u0e08\\u0e23\\u0e34\\u0e07\\u0e02\\u0e2d\\u0e07\\u0e2a\\u0e31\\u0e08\\u0e18\\u0e23\\u0e23\\u0e21\\u0e19\\u0e31\\u0e48\\u0e19\\u0e40\\u0e2d\\u0e07&nbsp;\\u0e21\\u0e31\\u0e19\\u0e08\\u0e36\\u0e07\\u0e40\\u0e1b\\u0e47\\u0e19\\u0e04\\u0e27\\u0e32\\u0e21\\u0e2a\\u0e38\\u0e02\\u0e15\\u0e32\\u0e21\\u0e2d\\u0e31\\u0e15\\u0e20\\u0e32\\u0e1e&nbsp;\\u0e40\\u0e1b\\u0e47\\u0e19\\u0e04\\u0e27\\u0e32\\u0e21\\u0e2a\\u0e38\\u0e02\\u0e04\\u0e27\\u0e32\\u0e21\\u0e1e\\u0e2d\\u0e43\\u0e08\\u0e40\\u0e23\\u0e32&nbsp;\\u0e43\\u0e04\\u0e23\\u0e08\\u0e30\\u0e23\\u0e27\\u0e22\\u0e01\\u0e47\\u0e2d\\u0e19\\u0e38\\u0e42\\u0e21\\u0e17\\u0e19\\u0e32\\u0e40\\u0e02\\u0e32&nbsp;\\u0e43\\u0e04\\u0e23\\u0e08\\u0e30\\u0e08\\u0e19\\u0e01\\u0e47\\u0e2d\\u0e38\\u0e40\\u0e1a\\u0e01\\u0e02\\u0e32&nbsp;\\u0e40\\u0e23\\u0e37\\u0e48\\u0e2d\\u0e07\\u0e02\\u0e2d\\u0e07\\u0e01\\u0e23\\u0e23\\u0e21\\u0e40\\u0e2b\\u0e25\\u0e48\\u0e32\\u0e2a\\u0e31\\u0e15\\u0e27\\u0e4c&nbsp; \\u0e40\\u0e23\\u0e32\\u0e2d\\u0e22\\u0e39\\u0e48\\u0e02\\u0e2d\\u0e07\\u0e40\\u0e23\\u0e32&nbsp; \\u0e40\\u0e23\\u0e32\\u0e21\\u0e35\\u0e41\\u0e04\\u0e48\\u0e19\\u0e35\\u0e49\\u0e40\\u0e23\\u0e32\\u0e2d\\u0e22\\u0e39\\u0e48\\u0e44\\u0e14\\u0e49\\u0e15\\u0e32\\u0e21\\u0e2d\\u0e31\\u0e15\\u0e20\\u0e32\\u0e1e\\u0e40\\u0e23\\u0e32&nbsp; \\u0e40\\u0e23\\u0e32\\u0e01\\u0e47\\u0e21\\u0e35\\u0e04\\u0e27\\u0e32\\u0e21\\u0e2a\\u0e38\\u0e02\\u0e43\\u0e19\\u0e0a\\u0e35\\u0e27\\u0e34\\u0e15\\u0e02\\u0e2d\\u0e07\\u0e40\\u0e23\\u0e32&nbsp; \\u0e40\\u0e23\\u0e32\\u0e01\\u0e47\\u0e42\\u0e2d\\u0e40\\u0e04&nbsp;\\u0e44\\u0e2d\\u0e49\\u0e21\\u0e31\\u0e19\\u0e23\\u0e27\\u0e22\\u0e21\\u0e32\\u0e01\\u0e01\\u0e27\\u0e48\\u0e32\\u0e40\\u0e23\\u0e32&nbsp;\\u0e21\\u0e31\\u0e19\\u0e44\\u0e21\\u0e48\\u0e21\\u0e35\\u0e04\\u0e27\\u0e32\\u0e21\\u0e2a\\u0e38\\u0e02\\u0e19\\u0e48\\u0e30&nbsp;\\u0e40\\u0e1e\\u0e23\\u0e32\\u0e30\\u0e2a\\u0e38\\u0e02\\u0e43\\u0e08\\u0e21\\u0e31\\u0e19\\u0e0b\\u0e37\\u0e49\\u0e2d\\u0e44\\u0e21\\u0e48\\u0e44\\u0e14\\u0e49&nbsp;\\u0e08\\u0e23\\u0e34\\u0e07\\u0e44\\u0e2b\\u0e21&nbsp;\\u0e16\\u0e49\\u0e32\\u0e0b\\u0e37\\u0e49\\u0e2d\\u0e44\\u0e14\\u0e49\\u0e19\\u0e35\\u0e48\\u0e40\\u0e28\\u0e23\\u0e29\\u0e10\\u0e35\\u0e2a\\u0e1a\\u0e32\\u0e22\\u0e40\\u0e25\\u0e22&nbsp;\\u0e19\\u0e35\\u0e48\\u0e21\\u0e31\\u0e19\\u0e0b\\u0e37\\u0e49\\u0e2d\\u0e44\\u0e21\\u0e48\\u0e44\\u0e14\\u0e49&nbsp;\\u0e21\\u0e31\\u0e19\\u0e15\\u0e49\\u0e2d\\u0e07\\u0e2d\\u0e32\\u0e28\\u0e31\\u0e22\\u0e04\\u0e27\\u0e32\\u0e21\\u0e23\\u0e39\\u0e49\\u0e04\\u0e27\\u0e32\\u0e21\\u0e40\\u0e2b\\u0e47\\u0e19&nbsp;\\u0e01\\u0e32\\u0e23\\u0e1b\\u0e23\\u0e30\\u0e1e\\u0e24\\u0e15\\u0e34\\u0e1b\\u0e0f\\u0e34\\u0e1a\\u0e31\\u0e15\\u0e34\\u0e18\\u0e23\\u0e23\\u0e21\\u0e19\\u0e35\\u0e49\\u0e25\\u0e48\\u0e30&nbsp;\\u0e17\\u0e35\\u0e48\\u0e40\\u0e02\\u0e49\\u0e32\\u0e43\\u0e08\\u0e04\\u0e27\\u0e32\\u0e21\\u0e08\\u0e23\\u0e34\\u0e07\\u0e43\\u0e19\\u0e0a\\u0e35\\u0e27\\u0e34\\u0e15\\u0e02\\u0e2d\\u0e07\\u0e40\\u0e23\\u0e32&nbsp;\\u0e40\\u0e02\\u0e49\\u0e32\\u0e43\\u0e08\\u0e2b\\u0e31\\u0e27\\u0e08\\u0e14\\u0e40\\u0e17\\u0e49\\u0e32&nbsp; \\u0e40\\u0e02\\u0e49\\u0e32\\u0e43\\u0e08\\u0e15\\u0e31\\u0e49\\u0e07\\u0e41\\u0e15\\u0e48\\u0e40\\u0e23\\u0e37\\u0e48\\u0e2d\\u0e07\\u0e23\\u0e39\\u0e1b \\u0e40\\u0e23\\u0e37\\u0e48\\u0e2d\\u0e07\\u0e40\\u0e27\\u0e17\\u0e19\\u0e32 \\u0e40\\u0e23\\u0e37\\u0e48\\u0e2d\\u0e07\\u0e04\\u0e27\\u0e32\\u0e21\\u0e04\\u0e34\\u0e14 \\u0e40\\u0e23\\u0e37\\u0e48\\u0e2d\\u0e07\\u0e04\\u0e27\\u0e32\\u0e21\\u0e08\\u0e33 \\u0e40\\u0e23\\u0e37\\u0e48\\u0e2d\\u0e07\\u0e04\\u0e27\\u0e32\\u0e21\\u0e23\\u0e39\\u0e49\\u0e43\\u0e19\\u0e15\\u0e31\\u0e27\\u0e40\\u0e23\\u0e32\\u0e19\\u0e35\\u0e48\\u0e25\\u0e48\\u0e30&nbsp; \\u0e23\\u0e39\\u0e49\\u0e08\\u0e31\\u0e01\\u0e1b\\u0e0f\\u0e34\\u0e1a\\u0e31\\u0e15\\u0e34\\u0e01\\u0e31\\u0e1a\\u0e21\\u0e31\\u0e19\\u0e22\\u0e31\\u0e07\\u0e44\\u0e07&nbsp; \\u0e21\\u0e31\\u0e19\\u0e01\\u0e47\\u0e21\\u0e35\\u0e04\\u0e27\\u0e32\\u0e21\\u0e2a\\u0e38\\u0e02\\u0e15\\u0e32\\u0e21\\u0e2d\\u0e31\\u0e15\\u0e20\\u0e32\\u0e1e\\u0e43\\u0e0a\\u0e48\\u0e44\\u0e2b\\u0e21&nbsp; \\u0e19\\u0e35\\u0e48 \\u0e15\\u0e31\\u0e27\\u0e19\\u0e35\\u0e49\\u0e08\\u0e36\\u0e07\\u0e40\\u0e1b\\u0e47\\u0e19\\u0e04\\u0e38\\u0e13\\u0e04\\u0e48\\u0e32\\u0e44\\u0e07&nbsp;\\u0e16\\u0e49\\u0e32\\u0e04\\u0e19\\u0e1b\\u0e0f\\u0e34\\u0e1a\\u0e31\\u0e15\\u0e34\\u0e08\\u0e19\\u0e16\\u0e36\\u0e07\\u0e15\\u0e23\\u0e07\\u0e19\\u0e35\\u0e49\\u0e41\\u0e25\\u0e49\\u0e27\\u0e08\\u0e30\\u0e40\\u0e2b\\u0e47\\u0e19\\u0e04\\u0e38\\u0e13\\u0e04\\u0e48\\u0e32\\u0e02\\u0e2d\\u0e07\\u0e18\\u0e23\\u0e23\\u0e21\\u0e30&nbsp; \\u0e1a\\u0e2d\\u0e01\\u0e43\\u0e2b\\u0e49\\u0e40\\u0e25\\u0e34\\u0e01\\u0e1b\\u0e0f\\u0e34\\u0e1a\\u0e31\\u0e15\\u0e34\\u0e01\\u0e47\\u0e44\\u0e21\\u0e48\\u0e40\\u0e25\\u0e34\\u0e01\\u0e2b\\u0e23\\u0e2d\\u0e01&nbsp; \\u0e40\\u0e1e\\u0e23\\u0e32\\u0e30\\u0e2d\\u0e30\\u0e44\\u0e23&nbsp;\\u0e40\\u0e1e\\u0e23\\u0e32\\u0e30\\u0e21\\u0e31\\u0e19\\u0e40\\u0e2b\\u0e47\\u0e19\\u0e04\\u0e38\\u0e13\\u0e04\\u0e48\\u0e32\\u0e43\\u0e19\\u0e43\\u0e08&nbsp;\\u0e40\\u0e23\\u0e32\\u0e44\\u0e21\\u0e48\\u0e44\\u0e14\\u0e49\\u0e40\\u0e0a\\u0e37\\u0e48\\u0e2d\\u0e08\\u0e32\\u0e01\\u0e04\\u0e19\\u0e2d\\u0e37\\u0e48\\u0e19&nbsp;\\u0e40\\u0e23\\u0e32\\u0e40\\u0e0a\\u0e37\\u0e48\\u0e2d\\u0e40\\u0e1e\\u0e23\\u0e32\\u0e30\\u0e01\\u0e32\\u0e23\\u0e1b\\u0e23\\u0e30\\u0e1e\\u0e24\\u0e15\\u0e34\\u0e1b\\u0e0f\\u0e34\\u0e1a\\u0e31\\u0e15\\u0e34\\u0e19\\u0e31\\u0e49\\u0e19\\u0e21\\u0e31\\u0e19\\u0e1b\\u0e23\\u0e30\\u0e08\\u0e31\\u0e01\\u0e29\\u0e4c\\u0e43\\u0e19\\u0e43\\u0e08\\u0e40\\u0e23\\u0e32\\u0e40\\u0e2d\\u0e07&nbsp; \\u0e16\\u0e39\\u0e01\\u0e44\\u0e2b\\u0e21&nbsp;\\u0e19\\u0e35\\u0e49\\u0e01\\u0e47\\u0e40\\u0e25\\u0e22\\u0e40\\u0e23\\u0e35\\u0e22\\u0e01\\u0e27\\u0e48\\u0e32\\u0e40\\u0e0a\\u0e37\\u0e48\\u0e2d\\u0e15\\u0e31\\u0e27\\u0e40\\u0e2d\\u0e07\\u0e44\\u0e14\\u0e49&nbsp;\\u0e1e\\u0e36\\u0e48\\u0e07\\u0e15\\u0e31\\u0e27\\u0e40\\u0e2d\\u0e07\\u0e44\\u0e14\\u0e49&nbsp;\\u0e40\\u0e1e\\u0e23\\u0e32\\u0e30\\u0e08\\u0e32\\u0e01\\u0e01\\u0e32\\u0e23\\u0e1b\\u0e23\\u0e30\\u0e1e\\u0e24\\u0e15\\u0e34\\u0e1b\\u0e0f\\u0e34\\u0e1a\\u0e31\\u0e15\\u0e34\\u0e17\\u0e35\\u0e48\\u0e16\\u0e35\\u0e48\\u0e16\\u0e49\\u0e27\\u0e19&nbsp;\\u0e25\\u0e30\\u0e40\\u0e2d\\u0e35\\u0e22\\u0e14\\u0e23\\u0e2d\\u0e1a\\u0e04\\u0e2d\\u0e1a\\u0e40\\u0e02\\u0e49\\u0e32\\u0e44\\u0e1b\\u0e40\\u0e23\\u0e37\\u0e48\\u0e2d\\u0e22 \\u0e46 \\u0e08\\u0e19\\u0e21\\u0e31\\u0e19\\u0e41\\u0e01\\u0e48\\u0e23\\u0e2d\\u0e1a\\u0e19\\u0e31\\u0e48\\u0e19\\u0e40\\u0e2d\\u0e07&nbsp; \\u0e19\\u0e35\\u0e48 \\u0e43\\u0e2b\\u0e49\\u0e40\\u0e02\\u0e49\\u0e32\\u0e43\\u0e08\\u0e40\\u0e2d\\u0e32\\u0e44\\u0e27\\u0e49\\u0e19\\u0e30&nbsp; \\u0e27\\u0e31\\u0e19\\u0e19\\u0e35\\u0e49\\u0e08\\u0e36\\u0e07\\u0e21\\u0e32\\u0e41\\u0e19\\u0e30\\u0e19\\u0e33&nbsp; \\u0e17\\u0e35\\u0e19\\u0e35\\u0e49\\u0e08\\u0e30\\u0e21\\u0e35\\u0e1b\\u0e31\\u0e0d\\u0e2b\\u0e32\\u0e16\\u0e32\\u0e21\\u0e27\\u0e48\\u0e32&nbsp; \\u0e18\\u0e23\\u0e23\\u0e21\\u0e30\\u0e16\\u0e49\\u0e32\\u0e1e\\u0e39\\u0e14\\u0e16\\u0e36\\u0e07\\u0e01\\u0e32\\u0e23\\u0e1a\\u0e23\\u0e23\\u0e25\\u0e38\\u0e18\\u0e23\\u0e23\\u0e21&nbsp; \\u0e18\\u0e23\\u0e23\\u0e21\\u0e30\\u0e19\\u0e31\\u0e49\\u0e19\\u0e1a\\u0e23\\u0e23\\u0e25\\u0e38\\u0e18\\u0e23\\u0e23\\u0e21\\u0e40\\u0e09\\u0e1e\\u0e32\\u0e30\\u0e1e\\u0e23\\u0e30\\u0e0a\\u0e35\\u0e2b\\u0e23\\u0e37\\u0e2d&nbsp; \\u0e44\\u0e21\\u0e48\\u0e43\\u0e0a\\u0e48&nbsp;\\u0e40\\u0e1e\\u0e23\\u0e32\\u0e30\\u0e2d\\u0e30\\u0e44\\u0e23&nbsp;\\u0e0d\\u0e32\\u0e15\\u0e34\\u0e42\\u0e22\\u0e21\\u0e01\\u0e47\\u0e21\\u0e35\\u0e01\\u0e32\\u0e22\\u0e43\\u0e08\\u0e44\\u0e2b\\u0e21&nbsp;\\u0e1e\\u0e23\\u0e30\\u0e0a\\u0e35\\u0e21\\u0e35\\u0e01\\u0e32\\u0e22\\u0e43\\u0e08\\u0e44\\u0e2b\\u0e21&nbsp; \\u0e40\\u0e2b\\u0e21\\u0e37\\u0e2d\\u0e19\\u0e01\\u0e31\\u0e19\\u0e2b\\u0e21\\u0e14&nbsp; \\u0e2a\\u0e15\\u0e34\\u0e01\\u0e47\\u0e21\\u0e35\\u0e40\\u0e2b\\u0e21\\u0e37\\u0e2d\\u0e19\\u0e01\\u0e31\\u0e19&nbsp; \\u0e2a\\u0e21\\u0e32\\u0e18\\u0e34\\u0e21\\u0e35\\u0e40\\u0e2b\\u0e21\\u0e37\\u0e2d\\u0e19\\u0e01\\u0e31\\u0e19&nbsp; \\u0e40\\u0e1e\\u0e35\\u0e22\\u0e07\\u0e41\\u0e15\\u0e48\\u0e04\\u0e19\\u0e19\\u0e31\\u0e49\\u0e19\\u0e2a\\u0e19\\u0e43\\u0e08\\u0e08\\u0e30\\u0e40\\u0e08\\u0e23\\u0e34\\u0e0d\\u0e2a\\u0e15\\u0e34\\u0e43\\u0e19\\u0e0a\\u0e35\\u0e27\\u0e34\\u0e15\\u0e15\\u0e31\\u0e27\\u0e40\\u0e2d\\u0e07\\u0e44\\u0e2b\\u0e21&nbsp; \\u0e2a\\u0e19\\u0e43\\u0e08\\u0e08\\u0e30\\u0e28\\u0e36\\u0e01\\u0e29\\u0e32\\u0e15\\u0e31\\u0e27\\u0e40\\u0e2d\\u0e07\\u0e44\\u0e2b\\u0e21&nbsp; \\u0e16\\u0e49\\u0e32\\u0e2a\\u0e19\\u0e43\\u0e08\\u0e15\\u0e23\\u0e07\\u0e19\\u0e35\\u0e49&nbsp;\\u0e01\\u0e32\\u0e23\\u0e1a\\u0e23\\u0e23\\u0e25\\u0e38\\u0e18\\u0e23\\u0e23\\u0e21\\u0e21\\u0e31\\u0e19\\u0e01\\u0e47\\u0e44\\u0e14\\u0e49\\u0e17\\u0e31\\u0e49\\u0e07\\u0e06\\u0e23\\u0e32\\u0e27\\u0e32\\u0e2a \\u0e44\\u0e14\\u0e49\\u0e17\\u0e31\\u0e49\\u0e07\\u0e1e\\u0e23\\u0e30&nbsp; \\u0e40\\u0e2a\\u0e21\\u0e2d\\u0e01\\u0e31\\u0e19\\u0e2b\\u0e21\\u0e14&nbsp;\\u0e19\\u0e35\\u0e48\\u0e04\\u0e37\\u0e2d\\u0e04\\u0e27\\u0e32\\u0e21\\u0e40\\u0e1b\\u0e47\\u0e19\\u0e18\\u0e23\\u0e23\\u0e21&nbsp;\\u0e04\\u0e27\\u0e32\\u0e21\\u0e22\\u0e38\\u0e15\\u0e34\\u0e18\\u0e23\\u0e23\\u0e21&nbsp; \\u0e44\\u0e21\\u0e48\\u0e44\\u0e14\\u0e49\\u0e40\\u0e25\\u0e37\\u0e2d\\u0e01\\u0e2b\\u0e0d\\u0e34\\u0e07\\u0e0a\\u0e32\\u0e22 \\u0e44\\u0e21\\u0e48\\u0e44\\u0e14\\u0e49\\u0e40\\u0e25\\u0e37\\u0e2d\\u0e01\\u0e19\\u0e31\\u0e01\\u0e1a\\u0e27\\u0e0a \\u0e44\\u0e21\\u0e48\\u0e44\\u0e14\\u0e49\\u0e40\\u0e25\\u0e37\\u0e2d\\u0e01\\u0e06\\u0e23\\u0e32\\u0e27\\u0e32\\u0e2a&nbsp;\\u0e1c\\u0e39\\u0e49\\u0e43\\u0e14\\u0e1b\\u0e0f\\u0e34\\u0e1a\\u0e31\\u0e15\\u0e34\\u0e18\\u0e23\\u0e23\\u0e21\\u0e2a\\u0e21\\u0e04\\u0e27\\u0e23\\u0e41\\u0e01\\u0e48\\u0e18\\u0e23\\u0e23\\u0e21&nbsp;\\u0e01\\u0e47\\u0e1a\\u0e23\\u0e23\\u0e25\\u0e38\\u0e18\\u0e23\\u0e23\\u0e21\\u0e40\\u0e1b\\u0e47\\u0e19\\u0e1e\\u0e23\\u0e30\\u0e42\\u0e2a\\u0e14\\u0e32\\u0e2f \\u0e1e\\u0e23\\u0e30\\u0e2a\\u0e01\\u0e34\\u0e17\\u0e32\\u0e04\\u0e32\\u0e2f \\u0e2d\\u0e19\\u0e32\\u0e04\\u0e32\\u0e2f \\u0e2d\\u0e23\\u0e2b\\u0e31\\u0e19\\u0e15\\u0e4c \\u0e40\\u0e2b\\u0e21\\u0e37\\u0e2d\\u0e19\\u0e01\\u0e31\\u0e19\\u0e2b\\u0e21\\u0e14&nbsp;\\u0e43\\u0e19\\u0e2a\\u0e21\\u0e31\\u0e22\\u0e1e\\u0e38\\u0e17\\u0e18\\u0e01\\u0e32\\u0e25\\u0e1e\\u0e23\\u0e30\\u0e1e\\u0e38\\u0e17\\u0e18\\u0e40\\u0e08\\u0e49\\u0e32\\u0e08\\u0e36\\u0e07\\u0e1e\\u0e22\\u0e32\\u0e01\\u0e23\\u0e13\\u0e4c\\u0e06\\u0e23\\u0e32\\u0e27\\u0e32\\u0e2a\\u0e17\\u0e35\\u0e48\\u0e2a\\u0e33\\u0e40\\u0e23\\u0e47\\u0e08\\u0e1e\\u0e23\\u0e30\\u0e42\\u0e2a\\u0e14\\u0e32\\u0e2f \\u0e1e\\u0e23\\u0e30\\u0e2a\\u0e01\\u0e34\\u0e17\\u0e32\\u0e04\\u0e32\\u0e2f \\u0e2d\\u0e19\\u0e32\\u0e04\\u0e32\\u0e2f \\u0e2d\\u0e23\\u0e2b\\u0e31\\u0e19\\u0e15\\u0e4c \\u0e40\\u0e22\\u0e2d\\u0e30\\u0e41\\u0e22\\u0e30\\u0e44\\u0e1b\\u0e2b\\u0e21\\u0e14&nbsp;\\u0e2a\\u0e21\\u0e31\\u0e22\\u0e22\\u0e38\\u0e04\\u0e1b\\u0e31\\u0e08\\u0e08\\u0e38\\u0e1a\\u0e31\\u0e19\\u0e01\\u0e47\\u0e21\\u0e35&nbsp;\\u0e44\\u0e21\\u0e48\\u0e43\\u0e0a\\u0e48\\u0e44\\u0e21\\u0e48\\u0e21\\u0e35&nbsp;\\u0e40\\u0e1e\\u0e35\\u0e22\\u0e07\\u0e41\\u0e15\\u0e48\\u0e44\\u0e21\\u0e48\\u0e21\\u0e35\\u0e04\\u0e19\\u0e21\\u0e32\\u0e1e\\u0e22\\u0e32\\u0e01\\u0e23\\u0e13\\u0e4c\\u0e15\\u0e35\\u0e15\\u0e23\\u0e32\\u0e43\\u0e2b\\u0e49&nbsp;\\u0e08\\u0e36\\u0e07\\u0e44\\u0e21\\u0e48\\u0e23\\u0e39\\u0e49\\u0e27\\u0e48\\u0e32\\u0e40\\u0e1b\\u0e47\\u0e19\\u0e43\\u0e04\\u0e23\\u0e44\\u0e07&nbsp;\\u0e41\\u0e15\\u0e48\\u0e40\\u0e08\\u0e49\\u0e32\\u0e15\\u0e31\\u0e27\\u0e40\\u0e02\\u0e32\\u0e23\\u0e39\\u0e49\\u0e40\\u0e02\\u0e32\\u0e2d\\u0e22\\u0e39\\u0e48&nbsp;\\u0e21\\u0e31\\u0e19\\u0e21\\u0e35\\u0e2d\\u0e22\\u0e39\\u0e48\\u0e19\\u0e30&nbsp;\\u0e40\\u0e1e\\u0e23\\u0e32\\u0e30\\u0e09\\u0e30\\u0e19\\u0e31\\u0e49\\u0e19\\u0e27\\u0e31\\u0e19\\u0e19\\u0e35\\u0e49\\u0e08\\u0e36\\u0e07\\u0e21\\u0e32\\u0e1e\\u0e39\\u0e14\\u0e43\\u0e2b\\u0e49\\u0e1f\\u0e31\\u0e07&nbsp;\\u0e40\\u0e23\\u0e32\\u0e40\\u0e01\\u0e34\\u0e14\\u0e21\\u0e32\\u0e40\\u0e1b\\u0e47\\u0e19\\u0e21\\u0e19\\u0e38\\u0e29\\u0e22\\u0e4c&nbsp;\\u0e1e\\u0e23\\u0e30\\u0e1e\\u0e38\\u0e17\\u0e18\\u0e40\\u0e08\\u0e49\\u0e32\\u0e15\\u0e23\\u0e31\\u0e2a\\u0e44\\u0e27\\u0e49&nbsp; \\u0e40\\u0e23\\u0e35\\u0e22\\u0e01\\u0e27\\u0e48\\u0e32\\u0e21\\u0e19\\u0e38\\u0e29\\u0e22\\u0e4c\\u0e2a\\u0e21\\u0e1a\\u0e31\\u0e15\\u0e34&nbsp; \\u0e2d\\u0e32\\u0e01\\u0e32\\u0e23 \\u0e53\\u0e52 \\u0e17\\u0e35\\u0e48\\u0e40\\u0e23\\u0e32\\u0e44\\u0e14\\u0e49\\u0e04\\u0e23\\u0e1a\\u0e16\\u0e49\\u0e27\\u0e19&nbsp; \\u0e21\\u0e35\\u0e40\\u0e1b\\u0e47\\u0e19\\u0e21\\u0e19\\u0e38\\u0e29\\u0e22\\u0e4c\\u0e2d\\u0e22\\u0e39\\u0e48&nbsp; \\u0e17\\u0e33\\u0e2b\\u0e19\\u0e49\\u0e32\\u0e17\\u0e35\\u0e48\\u0e40\\u0e23\\u0e32\\u0e2a\\u0e21\\u0e1a\\u0e39\\u0e23\\u0e13\\u0e4c\\u0e2d\\u0e22\\u0e39\\u0e48\\u0e15\\u0e23\\u0e07\\u0e19\\u0e35\\u0e49&nbsp; \\u0e19\\u0e31\\u0e49\\u0e19\\u0e40\\u0e02\\u0e32\\u0e40\\u0e23\\u0e35\\u0e22\\u0e01\\u0e27\\u0e48\\u0e32\\u0e21\\u0e19\\u0e38\\u0e29\\u0e22\\u0e4c\\u0e2a\\u0e21\\u0e1a\\u0e31\\u0e15\\u0e34&nbsp; \\u0e40\\u0e1b\\u0e47\\u0e19\\u0e25\\u0e32\\u0e20\\u0e2d\\u0e31\\u0e19\\u0e1b\\u0e23\\u0e30\\u0e40\\u0e2a\\u0e23\\u0e34\\u0e10&nbsp; \\u0e40\\u0e1b\\u0e47\\u0e19\\u0e2a\\u0e34\\u0e48\\u0e07\\u0e17\\u0e35\\u0e48\\u0e2b\\u0e32\\u0e44\\u0e14\\u0e49\\u0e22\\u0e32\\u0e01&nbsp; \\u0e1e\\u0e23\\u0e30\\u0e1e\\u0e38\\u0e17\\u0e18\\u0e40\\u0e08\\u0e49\\u0e32\\u0e15\\u0e23\\u0e31\\u0e2a\\u0e44\\u0e27\\u0e49&nbsp; \\u0e1a\\u0e32\\u0e07\\u0e04\\u0e19\\u0e08\\u0e30\\u0e41\\u0e22\\u0e49\\u0e07\\u0e2d\\u0e32\\u0e15\\u0e21\\u0e32&nbsp; \\u0e08\\u0e30\\u0e22\\u0e32\\u0e01\\u0e2d\\u0e30\\u0e44\\u0e23&nbsp;\\u0e1e\\u0e48\\u0e2d\\u0e01\\u0e39\\u0e40\\u0e22\\u0e47\\u0e14\\u0e01\\u0e31\\u0e1a\\u0e41\\u0e21\\u0e48\\u0e01\\u0e39 \\u0e01\\u0e47\\u0e40\\u0e1b\\u0e47\\u0e19\\u0e15\\u0e31\\u0e27\\u0e01\\u0e39\\u0e2d\\u0e2d\\u0e01&nbsp;\\u0e07\\u0e48\\u0e32\\u0e22\\u0e08\\u0e30\\u0e15\\u0e32\\u0e22&nbsp; \\u0e2d\\u0e31\\u0e19\\u0e19\\u0e35\\u0e49\\u0e43\\u0e0a\\u0e48\\u0e44\\u0e2b\\u0e21&nbsp; \\u0e1a\\u0e32\\u0e07\\u0e04\\u0e19\\u0e08\\u0e30\\u0e27\\u0e48\\u0e32\\u0e2d\\u0e22\\u0e48\\u0e32\\u0e07\\u0e19\\u0e31\\u0e49\\u0e19&nbsp; \\u0e1e\\u0e39\\u0e14\\u0e41\\u0e1a\\u0e1a\\u0e2a\\u0e21\\u0e21\\u0e15\\u0e34\\u0e27\\u0e48\\u0e32\\u0e2b\\u0e22\\u0e32\\u0e1a \\u0e46&nbsp; \\u0e43\\u0e0a\\u0e48\\u0e44\\u0e2b\\u0e21&nbsp;\\u0e41\\u0e15\\u0e48\\u0e21\\u0e31\\u0e19\\u0e08\\u0e23\\u0e34\\u0e07\\u0e40\\u0e09\\u0e1e\\u0e32\\u0e30\\u0e40\\u0e23\\u0e37\\u0e48\\u0e2d\\u0e07\\u0e02\\u0e2d\\u0e07\\u0e23\\u0e39\\u0e1b\\u0e44\\u0e07&nbsp;\\u0e44\\u0e02\\u0e48\\u0e01\\u0e31\\u0e1a\\u0e2d\\u0e2a\\u0e38\\u0e08\\u0e34\\u0e1c\\u0e2a\\u0e21\\u0e01\\u0e31\\u0e19\\u0e40\\u0e01\\u0e34\\u0e14\\u0e40\\u0e1b\\u0e47\\u0e19\\u0e21\\u0e19\\u0e38\\u0e29\\u0e22\\u0e4c\\u0e02\\u0e36\\u0e49\\u0e19&nbsp;\\u0e41\\u0e15\\u0e48\\u0e21\\u0e31\\u0e19\\u0e44\\u0e21\\u0e48\\u0e43\\u0e0a\\u0e48\\u0e41\\u0e04\\u0e48\\u0e19\\u0e31\\u0e49\\u0e19&nbsp; \\u0e08\\u0e34\\u0e15\\u0e27\\u0e34\\u0e0d\\u0e0d\\u0e32\\u0e13\\u0e21\\u0e31\\u0e19\\u0e08\\u0e30\\u0e21\\u0e32\\u0e1b\\u0e0f\\u0e34\\u0e2a\\u0e19\\u0e18\\u0e34\\u0e01\\u0e31\\u0e1a\\u0e18\\u0e32\\u0e15\\u0e38\\u0e19\\u0e31\\u0e49\\u0e19\\u0e2d\\u0e35\\u0e01&nbsp; \\u0e21\\u0e32\\u0e40\\u0e01\\u0e34\\u0e14\\u0e44\\u0e07&nbsp;\\u0e17\\u0e35\\u0e19\\u0e35\\u0e49\\u0e08\\u0e34\\u0e15\\u0e27\\u0e34\\u0e0d\\u0e0d\\u0e32\\u0e13\\u0e17\\u0e35\\u0e48\\u0e08\\u0e30\\u0e21\\u0e32\\u0e40\\u0e01\\u0e34\\u0e14&nbsp;\\u0e21\\u0e31\\u0e19\\u0e21\\u0e32\\u0e40\\u0e01\\u0e34\\u0e14\\u0e14\\u0e49\\u0e27\\u0e22\\u0e2d\\u0e30\\u0e44\\u0e23&nbsp;\\u0e01\\u0e47\\u0e14\\u0e49\\u0e27\\u0e22\\u0e27\\u0e34\\u0e16\\u0e35\\u0e01\\u0e23\\u0e23\\u0e21\\u0e17\\u0e35\\u0e48\\u0e40\\u0e23\\u0e32\\u0e2a\\u0e23\\u0e49\\u0e32\\u0e07\\u0e1a\\u0e38\\u0e0d\\u0e2b\\u0e23\\u0e37\\u0e2d\\u0e1a\\u0e32\\u0e1b\\u0e44\\u0e07&nbsp;\\u0e40\\u0e23\\u0e32\\u0e2a\\u0e23\\u0e49\\u0e32\\u0e07\\u0e1a\\u0e38\\u0e0d\\u0e21\\u0e32&nbsp; \\u0e21\\u0e31\\u0e19\\u0e01\\u0e47\\u0e40\\u0e25\\u0e22\\u0e44\\u0e14\\u0e49\\u0e21\\u0e32\\u0e40\\u0e01\\u0e34\\u0e14\\u0e40\\u0e1b\\u0e47\\u0e19\\u0e21\\u0e19\\u0e38\\u0e29\\u0e22\\u0e4c\\u0e44\\u0e07&nbsp; \\u0e19\\u0e35\\u0e48\\u0e15\\u0e31\\u0e27\\u0e19\\u0e35\\u0e49\\u0e15\\u0e48\\u0e32\\u0e07\\u0e2b\\u0e32\\u0e01\\u0e17\\u0e35\\u0e48\\u0e21\\u0e31\\u0e19\\u0e22\\u0e32\\u0e01\\u0e15\\u0e23\\u0e07\\u0e19\\u0e35\\u0e49&nbsp; \\u0e40\\u0e1e\\u0e23\\u0e32\\u0e30\\u0e19\\u0e31\\u0e49\\u0e19\\u0e2a\\u0e31\\u0e15\\u0e27\\u0e4c\\u0e40\\u0e22\\u0e2d\\u0e30\\u0e41\\u0e22\\u0e30\\u0e2b\\u0e21\\u0e14&nbsp; \\u0e17\\u0e33\\u0e44\\u0e21\\u0e44\\u0e21\\u0e48\\u0e40\\u0e01\\u0e34\\u0e14\\u0e40\\u0e1b\\u0e47\\u0e19\\u0e21\\u0e19\\u0e38\\u0e29\\u0e22\\u0e4c\\u0e2b\\u0e21\\u0e14\\u0e25\\u0e48\\u0e30&nbsp; \\u0e21\\u0e31\\u0e19\\u0e44\\u0e21\\u0e48\\u0e21\\u0e35\\u0e40\\u0e2b\\u0e15\\u0e38\\u0e1b\\u0e31\\u0e08\\u0e08\\u0e31\\u0e22\\u0e04\\u0e37\\u0e2d\\u0e01\\u0e23\\u0e23\\u0e21\\u0e15\\u0e31\\u0e27\\u0e19\\u0e35\\u0e49&nbsp; \\u0e04\\u0e37\\u0e2d\\u0e1a\\u0e38\\u0e0d\\u0e19\\u0e31\\u0e48\\u0e19\\u0e40\\u0e2d\\u0e07&nbsp;\\u0e19\\u0e35\\u0e48\\u0e40\\u0e21\\u0e37\\u0e48\\u0e2d\\u0e40\\u0e23\\u0e32\\u0e44\\u0e14\\u0e49\\u0e2d\\u0e31\\u0e15\\u0e20\\u0e32\\u0e1e\\u0e21\\u0e19\\u0e38\\u0e29\\u0e22\\u0e4c&nbsp;\\u0e40\\u0e1b\\u0e47\\u0e19\\u0e2a\\u0e34\\u0e48\\u0e07\\u0e17\\u0e35\\u0e48\\u0e1b\\u0e23\\u0e30\\u0e40\\u0e2a\\u0e23\\u0e34\\u0e10\\u0e44\\u0e07&nbsp; \\u0e19\\u0e35\\u0e48\\u0e02\\u0e49\\u0e2d \\u0e51 \\u0e19\\u0e30&nbsp; \\u0e40\\u0e1b\\u0e47\\u0e19\\u0e02\\u0e2d\\u0e07\\u0e17\\u0e35\\u0e48\\u0e2b\\u0e32\\u0e44\\u0e14\\u0e49\\u0e22\\u0e32\\u0e01&nbsp; \\u0e1e\\u0e23\\u0e30\\u0e1e\\u0e38\\u0e17\\u0e18\\u0e40\\u0e08\\u0e49\\u0e32\\u0e1e\\u0e39\\u0e14\\u0e1b\\u0e23\\u0e30\\u0e42\\u0e22\\u0e04\\u0e19\\u0e35\\u0e49\\u0e40\\u0e1e\\u0e37\\u0e48\\u0e2d\\u0e40\\u0e15\\u0e37\\u0e2d\\u0e19\\u0e21\\u0e19\\u0e38\\u0e29\\u0e22\\u0e4c&nbsp; \\u0e2d\\u0e22\\u0e48\\u0e32\\u0e1b\\u0e23\\u0e30\\u0e21\\u0e32\\u0e17\\u0e44\\u0e07&nbsp;\\u0e40\\u0e23\\u0e32\\u0e44\\u0e14\\u0e49\\u0e02\\u0e2d\\u0e07\\u0e2b\\u0e32\\u0e22\\u0e32\\u0e01\\u0e41\\u0e25\\u0e49\\u0e27\\u0e2d\\u0e22\\u0e48\\u0e32\\u0e17\\u0e34\\u0e49\\u0e07&nbsp;\\u0e40\\u0e2b\\u0e21\\u0e37\\u0e2d\\u0e19\\u0e40\\u0e23\\u0e32\\u0e44\\u0e14\\u0e49\\u0e40\\u0e1e\\u0e0a\\u0e23\\u0e44\\u0e14\\u0e49\\u0e1e\\u0e25\\u0e2d\\u0e22\\u0e15\\u0e49\\u0e2d\\u0e07\\u0e23\\u0e31\\u0e01\\u0e29\\u0e32&nbsp;\\u0e19\\u0e35\\u0e48\\u0e02\\u0e49\\u0e2d\\u0e17\\u0e35\\u0e48 \\u0e51&nbsp; \\u0e02\\u0e49\\u0e2d\\u0e17\\u0e35\\u0e48 \\u0e52 \\u0e1e\\u0e23\\u0e30\\u0e2a\\u0e31\\u0e17\\u0e18\\u0e23\\u0e23\\u0e21\\u0e04\\u0e33\\u0e2a\\u0e31\\u0e48\\u0e07\\u0e2a\\u0e2d\\u0e19\\u0e02\\u0e2d\\u0e07\\u0e1e\\u0e23\\u0e30\\u0e1e\\u0e38\\u0e17\\u0e18\\u0e40\\u0e08\\u0e49\\u0e32\\u0e40\\u0e1b\\u0e47\\u0e19\\u0e2a\\u0e34\\u0e48\\u0e07\\u0e17\\u0e35\\u0e48\\u0e2b\\u0e32\\u0e44\\u0e14\\u0e49\\u0e22\\u0e32\\u0e01&nbsp; \\u0e19\\u0e35\\u0e48\\u0e19\\u0e30\\u0e1e\\u0e23\\u0e30\\u0e1e\\u0e38\\u0e17\\u0e18\\u0e40\\u0e08\\u0e49\\u0e32\\u0e15\\u0e23\\u0e31\\u0e2a\\u0e44\\u0e27\\u0e49&nbsp; \\u0e40\\u0e1e\\u0e23\\u0e32\\u0e30\\u0e2d\\u0e30\\u0e44\\u0e23&nbsp;\\u0e40\\u0e1e\\u0e23\\u0e32\\u0e30\\u0e18\\u0e23\\u0e23\\u0e21\\u0e30\\u0e17\\u0e35\\u0e48\\u0e40\\u0e23\\u0e32\\u0e08\\u0e30\\u0e21\\u0e32\\u0e23\\u0e39\\u0e49&nbsp; \\u0e21\\u0e32\\u0e41\\u0e19\\u0e30\\u0e19\\u0e33\\u0e19\\u0e35\\u0e48\\u0e40\\u0e2b\\u0e21\\u0e37\\u0e2d\\u0e19\\u0e07\\u0e48\\u0e32\\u0e22 \\u0e46 \\u0e19\\u0e30&nbsp;\\u0e41\\u0e15\\u0e48\\u0e15\\u0e49\\u0e2d\\u0e07\\u0e2d\\u0e32\\u0e28\\u0e31\\u0e22\\u0e1e\\u0e23\\u0e30\\u0e1e\\u0e38\\u0e17\\u0e18\\u0e40\\u0e08\\u0e49\\u0e32\\u0e2a\\u0e23\\u0e49\\u0e32\\u0e07\\u0e1a\\u0e32\\u0e23\\u0e21\\u0e35\\u0e16\\u0e36\\u0e07 \\u0e52\\u0e50 \\u0e2d\\u0e2a\\u0e07\\u0e44\\u0e02\\u0e22\\u0e41\\u0e2a\\u0e19\\u0e21\\u0e2b\\u0e32\\u0e01\\u0e31\\u0e1b&nbsp; \\u0e41\\u0e04\\u0e48\\u0e01\\u0e31\\u0e1b\\u0e40\\u0e14\\u0e35\\u0e22\\u0e27\\u0e19\\u0e35\\u0e48\\u0e19\\u0e30\\u0e42\\u0e25\\u0e01\\u0e41\\u0e15\\u0e01\\u0e2b\\u0e19\\u0e36\\u0e48\\u0e07\\u0e23\\u0e2d\\u0e1a&nbsp; \\u0e41\\u0e2a\\u0e19\\u0e01\\u0e31\\u0e1b\\u0e01\\u0e47\\u0e41\\u0e15\\u0e01\\u0e41\\u0e2a\\u0e19\\u0e04\\u0e23\\u0e31\\u0e49\\u0e07&nbsp; \\u0e41\\u0e25\\u0e49\\u0e27\\u0e2d\\u0e2a\\u0e07\\u0e44\\u0e02\\u0e22\\u0e44\\u0e21\\u0e48\\u0e23\\u0e39\\u0e49\\u0e01\\u0e35\\u0e48\\u0e01\\u0e31\\u0e1b\\u0e2d\\u0e35\\u0e01&nbsp; \\u0e22\\u0e32\\u0e27\\u0e19\\u0e32\\u0e19\\u0e02\\u0e19\\u0e32\\u0e14\\u0e44\\u0e2b\\u0e19\\u0e2a\\u0e23\\u0e49\\u0e32\\u0e07\\u0e1a\\u0e32\\u0e23\\u0e21\\u0e35&nbsp; \\u0e01\\u0e27\\u0e48\\u0e32\\u0e18\\u0e23\\u0e23\\u0e21\\u0e30\\u0e08\\u0e30\\u0e02\\u0e36\\u0e49\\u0e19\\u0e21\\u0e32&nbsp; \\u0e21\\u0e32\\u0e2a\\u0e2d\\u0e19\\u0e1e\\u0e27\\u0e01\\u0e40\\u0e23\\u0e32\\u0e08\\u0e19\\u0e16\\u0e36\\u0e07\\u0e1b\\u0e31\\u0e08\\u0e08\\u0e38\\u0e1a\\u0e31\\u0e19\\u0e19\\u0e35\\u0e49&nbsp; \\u0e15\\u0e49\\u0e2d\\u0e07\\u0e43\\u0e0a\\u0e49\\u0e1a\\u0e32\\u0e23\\u0e21\\u0e35\\u0e17\\u0e35\\u0e48\\u0e2a\\u0e31\\u0e48\\u0e07\\u0e2a\\u0e21\\u0e21\\u0e32\\u0e16\\u0e36\\u0e07 \\u0e52\\u0e50 \\u0e2d\\u0e2a\\u0e07\\u0e44\\u0e02\\u0e22\\u0e41\\u0e2a\\u0e19\\u0e21\\u0e2b\\u0e32\\u0e01\\u0e31\\u0e1b&nbsp; \\u0e22\\u0e32\\u0e27\\u0e44\\u0e01\\u0e25\\u0e21\\u0e32\\u0e01&nbsp; \\u0e40\\u0e1e\\u0e23\\u0e32\\u0e30\\u0e09\\u0e30\\u0e19\\u0e31\\u0e49\\u0e19\\u0e40\\u0e23\\u0e32\\u0e44\\u0e14\\u0e49\\u0e22\\u0e34\\u0e19\\u0e44\\u0e14\\u0e49\\u0e1f\\u0e31\\u0e07&nbsp; \\u0e2d\\u0e22\\u0e48\\u0e32\\u0e1b\\u0e23\\u0e30\\u0e21\\u0e32\\u0e17&nbsp;\\u0e43\\u0e2b\\u0e49\\u0e19\\u0e33\\u0e44\\u0e1b\\u0e1b\\u0e23\\u0e30\\u0e1e\\u0e24\\u0e15\\u0e34\\u0e1b\\u0e0f\\u0e34\\u0e1a\\u0e31\\u0e15\\u0e34&nbsp;\\u0e40\\u0e1e\\u0e37\\u0e48\\u0e2d\\u0e1b\\u0e23\\u0e30\\u0e42\\u0e22\\u0e0a\\u0e19\\u0e4c\\u0e40\\u0e23\\u0e32\\u0e19\\u0e31\\u0e48\\u0e19\\u0e40\\u0e2d\\u0e07&nbsp;\\u0e40\\u0e23\\u0e32\\u0e44\\u0e14\\u0e49\\u0e2a\\u0e34\\u0e48\\u0e07\\u0e17\\u0e35\\u0e48\\u0e2b\\u0e32\\u0e22\\u0e32\\u0e01\\u0e04\\u0e37\\u0e2d\\u0e21\\u0e19\\u0e38\\u0e29\\u0e22\\u0e4c\\u0e2a\\u0e21\\u0e1a\\u0e31\\u0e15\\u0e34&nbsp;\\u0e44\\u0e14\\u0e49\\u0e21\\u0e32\\u0e40\\u0e08\\u0e2d\\u0e04\\u0e33\\u0e2a\\u0e2d\\u0e19\\u0e02\\u0e2d\\u0e07\\u0e1e\\u0e23\\u0e30\\u0e1e\\u0e38\\u0e17\\u0e18\\u0e40\\u0e08\\u0e49\\u0e32\\u0e17\\u0e35\\u0e48\\u0e40\\u0e1b\\u0e47\\u0e19\\u0e2a\\u0e34\\u0e48\\u0e07\\u0e17\\u0e35\\u0e48\\u0e2b\\u0e32\\u0e44\\u0e14\\u0e49\\u0e22\\u0e32\\u0e01&nbsp; \\u0e2d\\u0e22\\u0e48\\u0e32\\u0e17\\u0e34\\u0e49\\u0e07&nbsp;\\u0e43\\u0e2b\\u0e49\\u0e19\\u0e33\\u0e21\\u0e32\\u0e1b\\u0e23\\u0e30\\u0e1e\\u0e24\\u0e15\\u0e34\\u0e1b\\u0e0f\\u0e34\\u0e1a\\u0e31\\u0e15\\u0e34&nbsp; \\u0e41\\u0e25\\u0e49\\u0e27\\u0e02\\u0e49\\u0e2d\\u0e17\\u0e35\\u0e48 \\u0e53 \\u0e1e\\u0e23\\u0e30\\u0e1e\\u0e38\\u0e17\\u0e18\\u0e40\\u0e08\\u0e49\\u0e32\\u0e22\\u0e31\\u0e07\\u0e15\\u0e23\\u0e31\\u0e2a\\u0e2d\\u0e35\\u0e01&nbsp;\\u0e40\\u0e21\\u0e37\\u0e48\\u0e2d\\u0e44\\u0e1f\\u0e08\\u0e30\\u0e44\\u0e2b\\u0e21\\u0e49\\u0e1a\\u0e49\\u0e32\\u0e19\\u0e43\\u0e2b\\u0e49\\u0e23\\u0e35\\u0e1a\\u0e02\\u0e19\\u0e2a\\u0e21\\u0e1a\\u0e31\\u0e15\\u0e34\\u0e2d\\u0e2d\\u0e01\\u0e08\\u0e32\\u0e01\\u0e1a\\u0e49\\u0e32\\u0e19&nbsp; \\u0e1a\\u0e49\\u0e32\\u0e19\\u0e04\\u0e37\\u0e2d\\u0e2d\\u0e30\\u0e44\\u0e23&nbsp;\\u0e1a\\u0e49\\u0e32\\u0e19\\u0e01\\u0e47\\u0e04\\u0e37\\u0e2d\\u0e01\\u0e32\\u0e22\\u0e19\\u0e35\\u0e49\\u0e44\\u0e07&nbsp;\\u0e44\\u0e1f\\u0e44\\u0e2b\\u0e21\\u0e49\\u0e1a\\u0e49\\u0e32\\u0e19\\u0e04\\u0e37\\u0e2d\\u0e25\\u0e21\\u0e14\\u0e31\\u0e1a&nbsp; \\u0e1a\\u0e49\\u0e32\\u0e19\\u0e01\\u0e47\\u0e16\\u0e39\\u0e01\\u0e40\\u0e1c\\u0e32\\u0e40\\u0e1b\\u0e47\\u0e19\\u0e40\\u0e16\\u0e49\\u0e32\\u0e16\\u0e48\\u0e32\\u0e19\\u0e08\\u0e23\\u0e34\\u0e07\\u0e44\\u0e2b\\u0e21&nbsp; \\u0e44\\u0e1b\\u0e14\\u0e39\\u0e15\\u0e32\\u0e21\\u0e40\\u0e21\\u0e23\\u0e38\\u0e44\\u0e14\\u0e49&nbsp; \\u0e1e\\u0e2d\\u0e40\\u0e1c\\u0e32\\u0e40\\u0e2a\\u0e23\\u0e47\\u0e08\\u0e41\\u0e25\\u0e49\\u0e27\\u0e43\\u0e19\\u0e40\\u0e21\\u0e23\\u0e38\\u0e2d\\u0e2d\\u0e01\\u0e21\\u0e32\\u0e40\\u0e1b\\u0e47\\u0e19\\u0e2d\\u0e30\\u0e44\\u0e23&nbsp; \\u0e40\\u0e16\\u0e49\\u0e32\\u0e16\\u0e48\\u0e32\\u0e19\\u0e44\\u0e2b\\u0e21&nbsp;\\u0e40\\u0e02\\u0e32\\u0e40\\u0e23\\u0e35\\u0e22\\u0e01\\u0e01\\u0e23\\u0e30\\u0e14\\u0e39\\u0e01\\u0e19\\u0e31\\u0e48\\u0e19\\u0e40\\u0e2d\\u0e07&nbsp; \\u0e19\\u0e35\\u0e48 \\u0e2d\\u0e22\\u0e48\\u0e32\\u0e07\\u0e19\\u0e35\\u0e49\\u0e19\\u0e35\\u0e48&nbsp; \\u0e40\\u0e1e\\u0e23\\u0e32\\u0e30\\u0e09\\u0e30\\u0e19\\u0e31\\u0e49\\u0e19\\u0e21\\u0e31\\u0e19\\u0e44\\u0e14\\u0e49\\u0e2d\\u0e30\\u0e44\\u0e23\\u0e44\\u0e1b&nbsp; \\u0e21\\u0e19\\u0e38\\u0e29\\u0e22\\u0e4c\\u0e2a\\u0e21\\u0e1a\\u0e31\\u0e15\\u0e34\\u0e2a\\u0e39\\u0e0d\\u0e44\\u0e2b\\u0e21&nbsp; \\u0e2a\\u0e39\\u0e0d&nbsp;\\u0e17\\u0e23\\u0e31\\u0e1e\\u0e22\\u0e4c\\u0e2a\\u0e21\\u0e1a\\u0e31\\u0e15\\u0e34\\u0e25\\u0e48\\u0e30&nbsp;\\u0e42\\u0e22\\u0e21\\u0e2b\\u0e32\\u0e21\\u0e32\\u0e44\\u0e14\\u0e49\\u0e40\\u0e17\\u0e48\\u0e32\\u0e44\\u0e2b\\u0e23\\u0e48&nbsp;\\u0e42\\u0e22\\u0e21\\u0e40\\u0e2d\\u0e32\\u0e44\\u0e1b\\u0e44\\u0e14\\u0e49\\u0e14\\u0e49\\u0e27\\u0e22\\u0e44\\u0e2b\\u0e21&nbsp;\\u0e17\\u0e34\\u0e49\\u0e07\\u0e43\\u0e2b\\u0e49\\u0e04\\u0e19\\u0e23\\u0e38\\u0e48\\u0e19\\u0e2b\\u0e25\\u0e31\\u0e07\\u0e44\\u0e07&nbsp; \\u0e43\\u0e2b\\u0e49\\u0e25\\u0e39\\u0e01&nbsp; \\u0e25\\u0e39\\u0e01\\u0e1a\\u0e32\\u0e07\\u0e04\\u0e19\\u0e2b\\u0e25\\u0e32\\u0e22\\u0e04\\u0e19\\u0e21\\u0e31\\u0e19\\u0e41\\u0e22\\u0e48\\u0e07\\u0e01\\u0e31\\u0e19\\u0e40\\u0e2b\\u0e47\\u0e19\\u0e44\\u0e2b\\u0e21&nbsp; \\u0e14\\u0e39\\u0e0b\\u0e34&nbsp;\\u0e17\\u0e35\\u0e48\\u0e21\\u0e31\\u0e19\\u0e22\\u0e34\\u0e07\\u0e01\\u0e31\\u0e19\\u0e15\\u0e32\\u0e22\\u0e06\\u0e48\\u0e32\\u0e01\\u0e31\\u0e19\\u0e15\\u0e32\\u0e22&nbsp; \\u0e21\\u0e31\\u0e19\\u0e41\\u0e22\\u0e48\\u0e07\\u0e01\\u0e31\\u0e19\\u0e2d\\u0e22\\u0e39\\u0e48\\u0e19\\u0e31\\u0e48\\u0e19\\u0e19\\u0e48\\u0e30\\u0e2a\\u0e21\\u0e1a\\u0e31\\u0e15\\u0e34\\u0e19\\u0e48\\u0e30&nbsp; \\u0e41\\u0e25\\u0e49\\u0e27\\u0e1b\\u0e23\\u0e30\\u0e42\\u0e22\\u0e0a\\u0e19\\u0e4c\\u0e21\\u0e31\\u0e19\\u0e40\\u0e01\\u0e34\\u0e14\\u0e15\\u0e23\\u0e07\\u0e44\\u0e2b\\u0e19\\u0e40\\u0e2d\\u0e49\\u0e32 &nbsp;\\u0e16\\u0e39\\u0e01\\u0e44\\u0e2b\\u0e21&nbsp;\\u0e43\\u0e2b\\u0e49\\u0e04\\u0e19\\u0e2d\\u0e37\\u0e48\\u0e19\\u0e2b\\u0e21\\u0e14\\u0e15\\u0e31\\u0e27\\u0e40\\u0e2d\\u0e07\\u0e44\\u0e21\\u0e48\\u0e44\\u0e14\\u0e49&nbsp;\\u0e16\\u0e39\\u0e01\\u0e44\\u0e2b\\u0e21&nbsp; \\u0e21\\u0e19\\u0e38\\u0e29\\u0e22\\u0e4c\\u0e2a\\u0e21\\u0e1a\\u0e31\\u0e15\\u0e34\\u0e01\\u0e47\\u0e2a\\u0e39\\u0e0d&nbsp; \\u0e17\\u0e23\\u0e31\\u0e1e\\u0e22\\u0e4c\\u0e2a\\u0e21\\u0e1a\\u0e31\\u0e15\\u0e34\\u0e01\\u0e47\\u0e2a\\u0e39\\u0e0d\\u0e40\\u0e2b\\u0e47\\u0e19\\u0e22\\u0e31\\u0e07&nbsp; \\u0e40\\u0e2d\\u0e32\\u0e44\\u0e1b\\u0e44\\u0e21\\u0e48\\u0e44\\u0e14\\u0e49&nbsp;\\u0e17\\u0e35\\u0e19\\u0e35\\u0e49\\u0e08\\u0e34\\u0e15\\u0e27\\u0e34\\u0e0d\\u0e0d\\u0e32\\u0e13\\u0e14\\u0e27\\u0e07\\u0e19\\u0e31\\u0e49\\u0e19\\u0e21\\u0e31\\u0e19\\u0e08\\u0e30\\u0e44\\u0e1b\\u0e17\\u0e35\\u0e48\\u0e44\\u0e2b\\u0e19&nbsp;\\u0e21\\u0e31\\u0e19\\u0e01\\u0e47\\u0e44\\u0e1b\\u0e40\\u0e01\\u0e34\\u0e14\\u0e15\\u0e32\\u0e21\\u0e01\\u0e23\\u0e23\\u0e21\\u0e04\\u0e37\\u0e2d\\u0e1a\\u0e38\\u0e0d\\u0e41\\u0e25\\u0e30\\u0e1a\\u0e32\\u0e1b\\u0e19\\u0e31\\u0e48\\u0e19\\u0e40\\u0e2d\\u0e07&nbsp;\\u0e40\\u0e23\\u0e32\\u0e17\\u0e33\\u0e1a\\u0e38\\u0e0d\\u0e2b\\u0e23\\u0e37\\u0e2d\\u0e1a\\u0e32\\u0e1b&nbsp;\\u0e21\\u0e31\\u0e19\\u0e01\\u0e47\\u0e44\\u0e1b\\u0e40\\u0e01\\u0e34\\u0e14\\u0e15\\u0e32\\u0e21\\u0e15\\u0e23\\u0e07\\u0e19\\u0e31\\u0e49\\u0e19\\u0e40\\u0e2d\\u0e07&nbsp;\\u0e44\\u0e2d\\u0e49\\u0e19\\u0e35\\u0e49\\u0e25\\u0e48\\u0e30\\u0e17\\u0e35\\u0e48\\u0e40\\u0e23\\u0e32\\u0e44\\u0e14\\u0e49&nbsp;\\u0e44\\u0e14\\u0e49\\u0e1a\\u0e38\\u0e0d\\u0e2b\\u0e23\\u0e37\\u0e2d\\u0e44\\u0e14\\u0e49\\u0e1a\\u0e32\\u0e1b\\u0e44\\u0e1b\\u0e40\\u0e01\\u0e34\\u0e14\\u0e44\\u0e07&nbsp;\\u0e2a\\u0e48\\u0e27\\u0e19\\u0e17\\u0e23\\u0e31\\u0e1e\\u0e22\\u0e4c\\u0e2a\\u0e21\\u0e1a\\u0e31\\u0e15\\u0e34\\u0e21\\u0e19\\u0e38\\u0e29\\u0e22\\u0e4c\\u0e2a\\u0e21\\u0e1a\\u0e31\\u0e15\\u0e34\\u0e44\\u0e21\\u0e48\\u0e44\\u0e14\\u0e49&nbsp;\\u0e17\\u0e34\\u0e49\\u0e07\\u0e43\\u0e19\\u0e1b\\u0e10\\u0e1e\\u0e35\\u0e2b\\u0e21\\u0e14&nbsp; \\u0e04\\u0e37\\u0e2d\\u0e41\\u0e1c\\u0e48\\u0e19\\u0e14\\u0e34\\u0e19\\u0e19\\u0e31\\u0e48\\u0e19\\u0e40\\u0e2d\\u0e07&nbsp; \\u0e19\\u0e35\\u0e48\\u0e1e\\u0e23\\u0e30\\u0e1e\\u0e38\\u0e17\\u0e18\\u0e40\\u0e08\\u0e49\\u0e32\\u0e15\\u0e23\\u0e31\\u0e2a\\u0e44\\u0e27\\u0e49 \\u0e40\\u0e21\\u0e37\\u0e48\\u0e2d\\u0e44\\u0e1f\\u0e08\\u0e30\\u0e44\\u0e2b\\u0e21\\u0e49\\u0e1a\\u0e49\\u0e32\\u0e19\\u0e43\\u0e2b\\u0e49\\u0e23\\u0e35\\u0e1a\\u0e02\\u0e19\\u0e2a\\u0e21\\u0e1a\\u0e31\\u0e15\\u0e34\\u0e2d\\u0e2d\\u0e01\\u0e08\\u0e32\\u0e01\\u0e1a\\u0e49\\u0e32\\u0e19&nbsp;\\u0e17\\u0e35\\u0e19\\u0e35\\u0e49\\u0e02\\u0e19\\u0e2a\\u0e21\\u0e1a\\u0e31\\u0e15\\u0e34\\u0e22\\u0e31\\u0e07\\u0e44\\u0e07&nbsp; \\u0e01\\u0e47 \\u0e51 \\u0e40\\u0e2d\\u0e32\\u0e21\\u0e19\\u0e38\\u0e29\\u0e22\\u0e4c\\u0e2a\\u0e21\\u0e1a\\u0e31\\u0e15\\u0e34\\u0e19\\u0e31\\u0e49\\u0e19\\u0e25\\u0e48\\u0e30\\u0e21\\u0e32\\u0e17\\u0e32\\u0e19\\u0e44\\u0e07&nbsp;\\u0e17\\u0e32\\u0e19\\u0e01\\u0e47\\u0e21\\u0e35\\u0e17\\u0e23\\u0e31\\u0e1e\\u0e22\\u0e4c\\u0e2a\\u0e21\\u0e1a\\u0e31\\u0e15\\u0e34\\u0e20\\u0e32\\u0e22\\u0e19\\u0e2d\\u0e01\\u0e17\\u0e35\\u0e48\\u0e40\\u0e23\\u0e32\\u0e2b\\u0e32\\u0e14\\u0e49\\u0e27\\u0e22\\u0e2b\\u0e22\\u0e32\\u0e14\\u0e40\\u0e2b\\u0e07\\u0e37\\u0e48\\u0e2d\\u0e41\\u0e23\\u0e07\\u0e01\\u0e32\\u0e22&nbsp; \\u0e41\\u0e25\\u0e49\\u0e27\\u0e01\\u0e47\\u0e01\\u0e33\\u0e25\\u0e31\\u0e07\\u0e01\\u0e32\\u0e22\\u0e40\\u0e23\\u0e32\\u0e40\\u0e1b\\u0e47\\u0e19\\u0e17\\u0e32\\u0e19\\u0e44\\u0e07&nbsp; \\u0e19\\u0e35\\u0e48 \\u0e1e\\u0e23\\u0e30\\u0e0a\\u0e35\\u0e17\\u0e35\\u0e48\\u0e27\\u0e31\\u0e14\\u0e40\\u0e2b\\u0e21\\u0e37\\u0e2d\\u0e19\\u0e01\\u0e31\\u0e19&nbsp; \\u0e41\\u0e21\\u0e49\\u0e41\\u0e15\\u0e48\\u0e04\\u0e38\\u0e13\\u0e19\\u0e32\\u0e16\\u0e44\\u0e1b\\u0e27\\u0e31\\u0e19\\u0e19\\u0e31\\u0e49\\u0e19&nbsp; \\u0e01\\u0e47\\u0e1e\\u0e32\\u0e44\\u0e1b\\u0e19\\u0e39\\u0e48\\u0e19\\u0e19\\u0e48\\u0e30\\u0e40\\u0e2b\\u0e22\\u0e35\\u0e22\\u0e1a\\u0e42\\u0e04\\u0e25\\u0e19\\u0e19\\u0e48\\u0e30&nbsp; \\u0e23\\u0e39\\u0e1b\\u0e16\\u0e48\\u0e32\\u0e22\\u0e41\\u0e01\\u0e44\\u0e21\\u0e48\\u0e44\\u0e14\\u0e49\\u0e40\\u0e2d\\u0e32\\u0e21\\u0e32\\u0e43\\u0e2b\\u0e49\\u0e14\\u0e39&nbsp; \\u0e2b\\u0e21\\u0e48\\u0e32\\u0e19\\u0e49\\u0e33\\u0e19\\u0e48\\u0e30&nbsp;\\u0e14\\u0e34\\u0e19\\u0e40\\u0e2b\\u0e19\\u0e35\\u0e22\\u0e27\\u0e19\\u0e48\\u0e30\\u0e43\\u0e2b\\u0e49\\u0e21\\u0e31\\u0e19\\u0e17\\u0e23\\u0e38\\u0e14\\u0e15\\u0e31\\u0e27\\u0e25\\u0e07&nbsp; \\u0e40\\u0e2d\\u0e32\\u0e19\\u0e49\\u0e33\\u0e21\\u0e32\\u0e2b\\u0e21\\u0e48\\u0e32&nbsp; \\u0e41\\u0e01\\u0e25\\u0e07\\u0e44\\u0e1b\\u0e40\\u0e2b\\u0e22\\u0e35\\u0e22\\u0e1a\\u0e01\\u0e31\\u0e1a\\u0e40\\u0e02\\u0e32\\u0e2b\\u0e21\\u0e14&nbsp; \\u0e19\\u0e35\\u0e48\\u0e2a\\u0e25\\u0e30\\u0e41\\u0e23\\u0e07\\u0e01\\u0e32\\u0e22\\u0e44\\u0e07&nbsp; \\u0e40\\u0e1b\\u0e47\\u0e19\\u0e17\\u0e32\\u0e19\\u0e44\\u0e07&nbsp;\\u0e16\\u0e39\\u0e01\\u0e44\\u0e2b\\u0e21&nbsp;\\u0e40\\u0e2d\\u0e32\\u0e21\\u0e19\\u0e38\\u0e29\\u0e22\\u0e4c\\u0e2a\\u0e21\\u0e1a\\u0e31\\u0e15\\u0e34\\u0e21\\u0e32\\u0e40\\u0e08\\u0e23\\u0e34\\u0e0d\\u0e28\\u0e35\\u0e25&nbsp;\\u0e28\\u0e35\\u0e25\\u0e40\\u0e2d\\u0e32\\u0e41\\u0e04\\u0e48\\u0e28\\u0e35\\u0e25 \\u0e55 \\u0e44\\u0e21\\u0e48\\u0e15\\u0e49\\u0e2d\\u0e07\\u0e40\\u0e2d\\u0e32\\u0e21\\u0e32\\u0e01&nbsp;\\u0e40\\u0e2d\\u0e32\\u0e41\\u0e04\\u0e48 \\u0e55 \\u0e02\\u0e49\\u0e2d \\u0e2d\\u0e22\\u0e48\\u0e32\\u0e44\\u0e1b\\u0e40\\u0e2d\\u0e32\\u0e21\\u0e32\\u0e01&nbsp;\\u0e40\\u0e2d\\u0e32\\u0e21\\u0e32\\u0e01\\u0e21\\u0e31\\u0e19\\u0e40\\u0e1d\\u0e37\\u0e2d&nbsp; \\u0e19\\u0e35\\u0e48 \\u0e17\\u0e35\\u0e48\\u0e1e\\u0e39\\u0e14\\u0e43\\u0e2b\\u0e49\\u0e1f\\u0e31\\u0e07&nbsp;\\u0e20\\u0e32\\u0e27\\u0e19\\u0e32\\u0e04\\u0e37\\u0e2d\\u0e21\\u0e32\\u0e40\\u0e08\\u0e23\\u0e34\\u0e0d\\u0e2a\\u0e15\\u0e34\\u0e2a\\u0e21\\u0e32\\u0e18\\u0e34\\u0e1b\\u0e31\\u0e0d\\u0e0d\\u0e32\\u0e43\\u0e2b\\u0e49\\u0e23\\u0e39\\u0e49\\u0e41\\u0e08\\u0e49\\u0e07\\u0e01\\u0e32\\u0e22\\u0e43\\u0e08\\u0e15\\u0e31\\u0e27\\u0e40\\u0e2d\\u0e07\\u0e19\\u0e31\\u0e49\\u0e19\\u0e40\\u0e2d\\u0e07&nbsp; \\u0e19\\u0e35\\u0e48\\u0e40\\u0e23\\u0e35\\u0e22\\u0e01\\u0e27\\u0e48\\u0e32\\u0e20\\u0e32\\u0e27\\u0e19\\u0e32&nbsp; \\u0e40\\u0e21\\u0e37\\u0e48\\u0e2d\\u0e08\\u0e34\\u0e15\\u0e21\\u0e31\\u0e19\\u0e23\\u0e39\\u0e49\\u0e41\\u0e08\\u0e49\\u0e07&nbsp; \\u0e15\\u0e23\\u0e07\\u0e19\\u0e35\\u0e49\\u0e21\\u0e31\\u0e19\\u0e40\\u0e1b\\u0e47\\u0e19\\u0e1a\\u0e38\\u0e0d&nbsp; \\u0e21\\u0e31\\u0e19\\u0e2d\\u0e32\\u0e28\\u0e31\\u0e22\\u0e15\\u0e23\\u0e07\\u0e19\\u0e35\\u0e49\\u0e44\\u0e1b\\u0e40\\u0e01\\u0e34\\u0e14\\u0e43\\u0e19\\u0e20\\u0e1e\\u0e20\\u0e39\\u0e21\\u0e34\\u0e17\\u0e35\\u0e48\\u0e14\\u0e35\\u0e44\\u0e07&nbsp; \\u0e19\\u0e35\\u0e48\\u0e40\\u0e02\\u0e32\\u0e40\\u0e23\\u0e35\\u0e22\\u0e01\\u0e2d\\u0e23\\u0e34\\u0e22\\u0e17\\u0e23\\u0e31\\u0e1e\\u0e22\\u0e4c\\u0e44\\u0e07&nbsp; \\u0e17\\u0e32\\u0e19\\u0e28\\u0e35\\u0e25\\u0e20\\u0e32\\u0e27\\u0e19\\u0e32\\u0e19\\u0e35\\u0e49\\u0e40\\u0e1b\\u0e47\\u0e19\\u0e2d\\u0e23\\u0e34\\u0e22\\u0e17\\u0e23\\u0e31\\u0e1e\\u0e22\\u0e4c&nbsp; \\u0e17\\u0e35\\u0e19\\u0e35\\u0e49\\u0e17\\u0e32\\u0e19\\u0e19\\u0e35\\u0e48&nbsp;\\u0e1e\\u0e27\\u0e01\\u0e42\\u0e22\\u0e21\\u0e1a\\u0e2d\\u0e01\\u0e27\\u0e48\\u0e32\\u0e09\\u0e31\\u0e19\\u0e44\\u0e21\\u0e48\\u0e21\\u0e35\\u0e40\\u0e07\\u0e34\\u0e19\\u0e21\\u0e32\\u0e01\\u0e19\\u0e48\\u0e30\\u0e08\\u0e30\\u0e17\\u0e33\\u0e22\\u0e31\\u0e07\\u0e44\\u0e07&nbsp;\\u0e17\\u0e33\\u0e2d\\u0e22\\u0e48\\u0e32\\u0e43\\u0e2b\\u0e49\\u0e40\\u0e14\\u0e37\\u0e2d\\u0e14\\u0e23\\u0e49\\u0e2d\\u0e19&nbsp;\\u0e2d\\u0e22\\u0e48\\u0e32\\u0e1a\\u0e49\\u0e32\\u0e1a\\u0e38\\u0e0d&nbsp; \\u0e17\\u0e33\\u0e15\\u0e32\\u0e21\\u0e2d\\u0e31\\u0e15\\u0e20\\u0e32\\u0e1e&nbsp; \\u0e15\\u0e32\\u0e21\\u0e01\\u0e33\\u0e25\\u0e31\\u0e07\\u0e15\\u0e31\\u0e27\\u0e40\\u0e2d\\u0e07\\u0e17\\u0e35\\u0e48\\u0e21\\u0e35&nbsp; \\u0e40\\u0e02\\u0e49\\u0e32\\u0e43\\u0e08\\u0e44\\u0e2b\\u0e21\\u0e25\\u0e48\\u0e30&nbsp;\\u0e40\\u0e23\\u0e32\\u0e21\\u0e35\\u0e19\\u0e49\\u0e2d\\u0e22&nbsp; \\u0e40\\u0e23\\u0e32\\u0e01\\u0e47\\u0e17\\u0e33\\u0e19\\u0e49\\u0e2d\\u0e22&nbsp; \\u0e40\\u0e23\\u0e32\\u0e21\\u0e35\\u0e21\\u0e32\\u0e01\\u0e01\\u0e47\\u0e17\\u0e33\\u0e21\\u0e32\\u0e01&nbsp; \\u0e41\\u0e25\\u0e49\\u0e27\\u0e41\\u0e15\\u0e48\\u0e40\\u0e2b\\u0e15\\u0e38\\u0e1b\\u0e31\\u0e08\\u0e08\\u0e31\\u0e22&nbsp; \\u0e2d\\u0e22\\u0e48\\u0e32\\u0e43\\u0e2b\\u0e49\\u0e40\\u0e14\\u0e37\\u0e2d\\u0e14\\u0e23\\u0e49\\u0e2d\\u0e19 &nbsp;\\u0e28\\u0e35\\u0e25\\u0e40\\u0e23\\u0e32\\u0e1b\\u0e0f\\u0e34\\u0e1a\\u0e31\\u0e15\\u0e34\\u0e44\\u0e14\\u0e49&nbsp; \\u0e44\\u0e21\\u0e48\\u0e21\\u0e35\\u0e43\\u0e04\\u0e23\\u0e1a\\u0e31\\u0e07\\u0e04\\u0e31\\u0e1a&nbsp; \\u0e20\\u0e32\\u0e27\\u0e19\\u0e32\\u0e40\\u0e23\\u0e32\\u0e17\\u0e33\\u0e44\\u0e14\\u0e49&nbsp;\\u0e44\\u0e21\\u0e48\\u0e21\\u0e35\\u0e43\\u0e04\\u0e23\\u0e1a\\u0e31\\u0e07\\u0e04\\u0e31\\u0e1a&nbsp; \\u0e16\\u0e39\\u0e01\\u0e44\\u0e2b\\u0e21&nbsp; \\u0e2d\\u0e31\\u0e19\\u0e19\\u0e35\\u0e49\\u0e40\\u0e1b\\u0e47\\u0e19\\u0e2a\\u0e34\\u0e17\\u0e18\\u0e34\\u0e4c\\u0e42\\u0e14\\u0e22\\u0e0a\\u0e2d\\u0e1a\\u0e18\\u0e23\\u0e23\\u0e21\\u0e02\\u0e2d\\u0e07\\u0e40\\u0e23\\u0e32&nbsp; \\u0e40\\u0e23\\u0e32\\u0e08\\u0e30\\u0e44\\u0e14\\u0e49\\u0e21\\u0e32\\u0e01\\u0e44\\u0e14\\u0e49\\u0e19\\u0e49\\u0e2d\\u0e22\\u0e41\\u0e25\\u0e49\\u0e27\\u0e41\\u0e15\\u0e48\\u0e40\\u0e23\\u0e32&nbsp; \\u0e04\\u0e37\\u0e2d\\u0e01\\u0e23\\u0e23\\u0e21\\u0e19\\u0e31\\u0e48\\u0e19\\u0e40\\u0e2d\\u0e07&nbsp; \\u0e40\\u0e2b\\u0e21\\u0e37\\u0e2d\\u0e19\\u0e42\\u0e22\\u0e21\\u0e19\\u0e48\\u0e30&nbsp;\\u0e16\\u0e49\\u0e32\\u0e42\\u0e22\\u0e21\\u0e19\\u0e2d\\u0e19\\u0e40\\u0e09\\u0e22 \\u0e46&nbsp; \\u0e08\\u0e30\\u0e21\\u0e35\\u0e43\\u0e04\\u0e23\\u0e44\\u0e14\\u0e49\\u0e01\\u0e34\\u0e19\\u0e44\\u0e2b\\u0e21&nbsp; (\\u0e44\\u0e21\\u0e48\\u0e44\\u0e14\\u0e49)&nbsp;\\u0e44\\u0e21\\u0e48\\u0e44\\u0e14\\u0e49\\u0e01\\u0e47\\u0e15\\u0e49\\u0e2d\\u0e07\\u0e2b\\u0e32\\u0e2d\\u0e35\\u0e01&nbsp; \\u0e40\\u0e2b\\u0e47\\u0e19\\u0e44\\u0e2b\\u0e21&nbsp; \\u0e19\\u0e35\\u0e48\\u0e04\\u0e37\\u0e2d\\u0e01\\u0e23\\u0e23\\u0e21\\u0e44\\u0e2b\\u0e21&nbsp;(\\u0e01\\u0e23\\u0e23\\u0e21)&nbsp; \\u0e19\\u0e35\\u0e48\\u0e04\\u0e37\\u0e2d\\u0e01\\u0e23\\u0e23\\u0e21&nbsp; \\u0e40\\u0e1e\\u0e23\\u0e32\\u0e30\\u0e19\\u0e31\\u0e49\\u0e19\\u0e43\\u0e2b\\u0e49\\u0e40\\u0e02\\u0e49\\u0e32\\u0e43\\u0e08&nbsp; \\u0e40\\u0e23\\u0e32\\u0e01\\u0e47\\u0e2d\\u0e32\\u0e28\\u0e31\\u0e22\\u0e21\\u0e37\\u0e2d\\u0e2d\\u0e32\\u0e28\\u0e31\\u0e22\\u0e40\\u0e17\\u0e49\\u0e32\\u0e19\\u0e31\\u0e48\\u0e19\\u0e25\\u0e48\\u0e30&nbsp; \\u0e40\\u0e23\\u0e35\\u0e22\\u0e01\\u0e27\\u0e48\\u0e32\\u0e01\\u0e32\\u0e22\\u0e01\\u0e23\\u0e23\\u0e21\\u0e43\\u0e0a\\u0e48\\u0e44\\u0e2b\\u0e21\\u0e22&nbsp; \\u0e2d\\u0e32\\u0e28\\u0e31\\u0e22\\u0e04\\u0e33\\u0e1e\\u0e39\\u0e14\\u0e44\\u0e1b\\u0e40\\u0e08\\u0e23\\u0e08\\u0e32\\u0e04\\u0e49\\u0e32\\u0e02\\u0e32\\u0e22&nbsp; \\u0e19\\u0e35\\u0e48\\u0e40\\u0e23\\u0e35\\u0e22\\u0e01\\u0e27\\u0e08\\u0e35\\u0e01\\u0e23\\u0e23\\u0e21\\u0e43\\u0e0a\\u0e48\\u0e44\\u0e2b\\u0e21&nbsp; \\u0e2d\\u0e32\\u0e28\\u0e31\\u0e22\\u0e04\\u0e27\\u0e32\\u0e21\\u0e04\\u0e34\\u0e14\\u0e19\\u0e36\\u0e01\\u0e1e\\u0e34\\u0e08\\u0e32\\u0e23\\u0e13\\u0e32\\u0e40\\u0e2b\\u0e15\\u0e38\\u0e1c\\u0e25&nbsp; \\u0e40\\u0e2b\\u0e15\\u0e38\\u0e1c\\u0e25\\u0e43\\u0e19\\u0e07\\u0e32\\u0e19\\u0e08\\u0e30\\u0e17\\u0e33\\u0e22\\u0e31\\u0e07\\u0e44\\u0e07&nbsp; \\u0e19\\u0e31\\u0e49\\u0e19\\u0e04\\u0e37\\u0e2d\\u0e21\\u0e42\\u0e19\\u0e01\\u0e23\\u0e23\\u0e21\\u0e44\\u0e2b\\u0e21&nbsp; \\u0e19\\u0e35\\u0e48 \\u0e40\\u0e23\\u0e32\\u0e2d\\u0e32\\u0e28\\u0e31\\u0e22\\u0e01\\u0e23\\u0e23\\u0e21\\u0e17\\u0e31\\u0e49\\u0e07\\u0e19\\u0e31\\u0e49\\u0e19&nbsp; \\u0e43\\u0e2b\\u0e49\\u0e40\\u0e0a\\u0e37\\u0e48\\u0e2d\\u0e01\\u0e23\\u0e23\\u0e21\\u0e43\\u0e2b\\u0e49\\u0e40\\u0e04\\u0e32\\u0e23\\u0e1e\\u0e01\\u0e23\\u0e23\\u0e21&nbsp; \\u0e17\\u0e33\\u0e01\\u0e23\\u0e23\\u0e21\\u0e17\\u0e35\\u0e48\\u0e40\\u0e1b\\u0e47\\u0e19\\u0e01\\u0e38\\u0e28\\u0e25&nbsp; \\u0e25\\u0e30\\u0e01\\u0e23\\u0e23\\u0e21\\u0e17\\u0e35\\u0e48\\u0e40\\u0e1b\\u0e47\\u0e19\\u0e2d\\u0e01\\u0e38\\u0e28\\u0e25&nbsp;\\u0e40\\u0e23\\u0e32\\u0e01\\u0e47\\u0e08\\u0e30\\u0e44\\u0e14\\u0e49\\u0e2d\\u0e32\\u0e28\\u0e31\\u0e22\\u0e01\\u0e23\\u0e23\\u0e21\\u0e17\\u0e31\\u0e49\\u0e07\\u0e1b\\u0e31\\u0e08\\u0e08\\u0e38\\u0e1a\\u0e31\\u0e19\\u0e41\\u0e25\\u0e30\\u0e40\\u0e1a\\u0e37\\u0e49\\u0e2d\\u0e07\\u0e2b\\u0e19\\u0e49\\u0e32\\u0e40\\u0e21\\u0e37\\u0e48\\u0e2d\\u0e25\\u0e21\\u0e14\\u0e31\\u0e1a&nbsp; \\u0e15\\u0e32\\u0e22\\u0e44\\u0e21\\u0e48\\u0e2a\\u0e39\\u0e0d\\u0e19\\u0e30&nbsp;\\u0e2d\\u0e22\\u0e48\\u0e32\\u0e40\\u0e02\\u0e49\\u0e32\\u0e43\\u0e08\\u0e1c\\u0e34\\u0e14\\u0e27\\u0e48\\u0e32\\u0e15\\u0e32\\u0e22\\u0e2a\\u0e39\\u0e0d\\u0e19\\u0e30&nbsp; \\u0e22\\u0e31\\u0e07\\u0e15\\u0e49\\u0e2d\\u0e07\\u0e44\\u0e1b\\u0e40\\u0e01\\u0e34\\u0e14&nbsp; \\u0e19\\u0e35\\u0e48\\u0e40\\u0e23\\u0e32\\u0e21\\u0e35\\u0e23\\u0e39\\u0e1b\\u0e1e\\u0e23\\u0e30\\u0e1b\\u0e31\\u0e08\\u0e40\\u0e08\\u0e01\\u0e1e\\u0e38\\u0e17\\u0e18\\u0e40\\u0e08\\u0e49\\u0e32&nbsp; \\u0e2d\\u0e32\\u0e19\\u0e38\\u0e20\\u0e32\\u0e1e\\u0e1e\\u0e23\\u0e30\\u0e1e\\u0e38\\u0e17\\u0e18\\u0e40\\u0e08\\u0e49\\u0e32\\u0e21\\u0e32&nbsp; \\u0e40\\u0e17\\u0e27\\u0e14\\u0e32\\u0e40\\u0e15\\u0e47\\u0e21&nbsp;\\u0e2d\\u0e22\\u0e48\\u0e32\\u0e07\\u0e44\\u0e1b\\u0e40\\u0e17\\u0e28\\u0e19\\u0e4c\\u0e17\\u0e35\\u0e48\\u0e18\\u0e23\\u0e23\\u0e21\\u0e28\\u0e32\\u0e2a\\u0e15\\u0e23\\u0e4c\\u0e40\\u0e21\\u0e37\\u0e48\\u0e2d\\u0e27\\u0e32\\u0e19&nbsp;\\u0e27\\u0e31\\u0e19\\u0e17\\u0e35\\u0e48 \\u0e51\\u0e50, \\u0e51\\u0e51, \\u0e51\\u0e52 \\u0e19\\u0e48\\u0e30 &nbsp;\\u0e27\\u0e31\\u0e19\\u0e17\\u0e35\\u0e48 \\u0e51\\u0e51 \\u0e15\\u0e2d\\u0e19\\u0e40\\u0e22\\u0e47\\u0e19 \\u0e16\\u0e48\\u0e32\\u0e22\\u0e2d\\u0e2d\\u0e01\\u0e21\\u0e32\\u0e40\\u0e17\\u0e27\\u0e14\\u0e32\\u0e40\\u0e15\\u0e47\\u0e21\\u0e44\\u0e1b\\u0e2b\\u0e21\\u0e14&nbsp;\\u0e17\\u0e35\\u0e48\\u0e2b\\u0e2d\\u0e1e\\u0e23\\u0e30\\u0e19\\u0e31\\u0e49\\u0e19\\u0e40\\u0e15\\u0e47\\u0e21\\u0e44\\u0e1b\\u0e2b\\u0e21\\u0e14\\u0e40\\u0e25\\u0e22&nbsp;\\u0e21\\u0e2b\\u0e32\\u0e28\\u0e32\\u0e25\\u0e40\\u0e25\\u0e22\\u0e19\\u0e30 &nbsp;\\u0e1e\\u0e27\\u0e01\\u0e42\\u0e22\\u0e21\\u0e19\\u0e30&nbsp; \\u0e1a\\u0e23\\u0e34\\u0e29\\u0e31\\u0e17\\u0e42\\u0e22\\u0e21\\u0e2d\\u0e35\\u0e01\\u0e1e\\u0e31\\u0e19\\u0e1a\\u0e23\\u0e34\\u0e29\\u0e31\\u0e17\\u0e01\\u0e47\\u0e22\\u0e31\\u0e07\\u0e19\\u0e49\\u0e2d\\u0e22\\u0e01\\u0e27\\u0e48\\u0e32\\u0e40\\u0e17\\u0e27\\u0e14\\u0e32\\u0e17\\u0e35\\u0e48\\u0e44\\u0e1b\\u0e27\\u0e31\\u0e19\\u0e19\\u0e31\\u0e49\\u0e19&nbsp; \\u0e40\\u0e2d\\u0e32\\u0e08\\u0e33\\u0e19\\u0e27\\u0e19\\u0e1e\\u0e19\\u0e31\\u0e01\\u0e07\\u0e32\\u0e19\\u0e17\\u0e35\\u0e48\\u0e19\\u0e35\\u0e48\\u0e19\\u0e30\\u0e04\\u0e39\\u0e13\\u0e1e\\u0e31\\u0e19\\u0e40\\u0e02\\u0e49\\u0e32\\u0e44\\u0e1b&nbsp; \\u0e22\\u0e31\\u0e07\\u0e19\\u0e49\\u0e2d\\u0e22\\u0e01\\u0e27\\u0e48\\u0e32\\u0e17\\u0e35\\u0e48\\u0e44\\u0e1b\\u0e27\\u0e31\\u0e19\\u0e19\\u0e31\\u0e49\\u0e19&nbsp; \\u0e40\\u0e17\\u0e27\\u0e14\\u0e32\\u0e44\\u0e1b\\u0e15\\u0e23\\u0e07\\u0e19\\u0e31\\u0e49\\u0e19\\u0e21\\u0e32\\u0e01&nbsp; \\u0e22\\u0e31\\u0e07\\u0e44\\u0e21\\u0e48\\u0e44\\u0e14\\u0e49\\u0e02\\u0e35\\u0e49\\u0e40\\u0e25\\u0e47\\u0e1a\\u0e15\\u0e23\\u0e07\\u0e19\\u0e31\\u0e49\\u0e19&nbsp; \\u0e40\\u0e17\\u0e35\\u0e22\\u0e1a\\u0e43\\u0e2b\\u0e49\\u0e1f\\u0e31\\u0e07&nbsp;\\u0e40\\u0e02\\u0e32\\u0e44\\u0e1b\\u0e17\\u0e33\\u0e2d\\u0e30\\u0e44\\u0e23&nbsp;\\u0e1e\\u0e38\\u0e48\\u0e07\\u0e21\\u0e32\\u0e40\\u0e2b\\u0e21\\u0e37\\u0e2d\\u0e19\\u0e14\\u0e32\\u0e27\\u0e15\\u0e01\\u0e40\\u0e25\\u0e22\\u0e19\\u0e30&nbsp;\\u0e43\\u0e19\\u0e23\\u0e39\\u0e1b\\u0e19\\u0e48\\u0e30&nbsp; \\u0e40\\u0e02\\u0e32\\u0e44\\u0e1b\\u0e17\\u0e33\\u0e2d\\u0e30\\u0e44\\u0e23&nbsp; \\u0e19\\u0e35\\u0e49\\u0e25\\u0e48\\u0e30\\u0e43\\u0e2b\\u0e49\\u0e40\\u0e2b\\u0e47\\u0e19\\u0e19\\u0e48\\u0e30&nbsp; \\u0e17\\u0e35\\u0e48\\u0e1e\\u0e39\\u0e14\\u0e43\\u0e2b\\u0e49\\u0e1f\\u0e31\\u0e07 &nbsp;\\u0e40\\u0e1e\\u0e37\\u0e48\\u0e2d\\u0e43\\u0e2b\\u0e49\\u0e23\\u0e39\\u0e49\\u0e27\\u0e48\\u0e32\\u0e21\\u0e31\\u0e19\\u0e21\\u0e35\\u0e08\\u0e23\\u0e34\\u0e07&nbsp; \\u0e20\\u0e1e\\u0e20\\u0e39\\u0e21\\u0e34\\u0e21\\u0e31\\u0e19\\u0e21\\u0e35\\u0e08\\u0e23\\u0e34\\u0e07&nbsp; \\u0e21\\u0e31\\u0e19\\u0e44\\u0e21\\u0e48\\u0e43\\u0e0a\\u0e48\\u0e15\\u0e32\\u0e22\\u0e41\\u0e25\\u0e49\\u0e27\\u0e2a\\u0e39\\u0e0d&nbsp; \\u0e2d\\u0e22\\u0e48\\u0e32\\u0e1b\\u0e23\\u0e30\\u0e21\\u0e32\\u0e17&nbsp;\\u0e43\\u0e2b\\u0e49\\u0e02\\u0e27\\u0e19\\u0e02\\u0e27\\u0e32\\u0e22\\u0e2d\\u0e30\\u0e44\\u0e23\\u0e17\\u0e35\\u0e48\\u0e0a\\u0e2d\\u0e1a\\u0e18\\u0e23\\u0e23\\u0e21\\u0e40\\u0e1b\\u0e47\\u0e19\\u0e18\\u0e23\\u0e23\\u0e21&nbsp;\\u0e43\\u0e2b\\u0e49\\u0e02\\u0e27\\u0e19\\u0e02\\u0e27\\u0e32\\u0e22\\u0e40\\u0e02\\u0e49\\u0e32\\u0e2a\\u0e39\\u0e48\\u0e43\\u0e08\\u0e40\\u0e23\\u0e32&nbsp;\\u0e2d\\u0e30\\u0e44\\u0e23\\u0e17\\u0e35\\u0e48\\u0e21\\u0e31\\u0e19\\u0e44\\u0e21\\u0e48\\u0e16\\u0e39\\u0e01\\u0e15\\u0e49\\u0e2d\\u0e07&nbsp;\\u0e43\\u0e2b\\u0e49\\u0e23\\u0e35\\u0e1a\\u0e02\\u0e27\\u0e19\\u0e02\\u0e27\\u0e32\\u0e22\\u0e2d\\u0e2d\\u0e01\\u0e08\\u0e32\\u0e01\\u0e43\\u0e08\\u0e40\\u0e23\\u0e32&nbsp;\\u0e2d\\u0e22\\u0e48\\u0e32\\u0e15\\u0e32\\u0e21\\u0e21\\u0e31\\u0e19&nbsp; \\u0e2d\\u0e22\\u0e48\\u0e32\\u0e17\\u0e33\\u0e15\\u0e32\\u0e21\\u0e21\\u0e31\\u0e19&nbsp; \\u0e40\\u0e1e\\u0e23\\u0e32\\u0e30\\u0e42\\u0e25\\u0e01\\u0e19\\u0e35\\u0e49\\u0e21\\u0e31\\u0e19\\u0e42\\u0e25\\u0e01\\u0e2d\\u0e27\\u0e34\\u0e0a\\u0e0a\\u0e32&nbsp; \\u0e42\\u0e25\\u0e01\\u0e1e\\u0e32\\u0e25\\u0e19\\u0e30&nbsp;\\u0e21\\u0e31\\u0e19\\u0e2a\\u0e34\\u0e07\\u0e2a\\u0e39\\u0e48\\u0e01\\u0e31\\u0e19\\u0e44\\u0e14\\u0e49\\u0e2d\\u0e22\\u0e39\\u0e48&nbsp;\\u0e21\\u0e31\\u0e19\\u0e08\\u0e30\\u0e2a\\u0e34\\u0e07\\u0e43\\u0e19\\u0e08\\u0e34\\u0e15\\u0e43\\u0e08\\u0e40\\u0e23\\u0e32\\u0e44\\u0e14\\u0e49&nbsp; \\u0e40\\u0e02\\u0e49\\u0e32\\u0e43\\u0e08\\u0e44\\u0e2b\\u0e21&nbsp; \\u0e16\\u0e49\\u0e32\\u0e40\\u0e23\\u0e32\\u0e44\\u0e21\\u0e48\\u0e21\\u0e35\\u0e2a\\u0e15\\u0e34\\u0e2a\\u0e21\\u0e32\\u0e18\\u0e34\\u0e1b\\u0e31\\u0e0d\\u0e0d\\u0e32\\u0e2d\\u0e1a\\u0e23\\u0e21\\u0e23\\u0e31\\u0e01\\u0e29\\u0e32\\u0e08\\u0e34\\u0e15\\u0e15\\u0e31\\u0e27\\u0e40\\u0e2d\\u0e07\\u0e2d\\u0e22\\u0e48\\u0e32\\u0e07\\u0e17\\u0e35\\u0e48\\u0e41\\u0e19\\u0e30\\u0e19\\u0e33\\u0e19\\u0e35\\u0e48&nbsp; \\u0e21\\u0e31\\u0e19\\u0e08\\u0e30\\u0e2b\\u0e25\\u0e07\\u0e27\\u0e48\\u0e32\\u0e40\\u0e1b\\u0e47\\u0e19\\u0e40\\u0e23\\u0e32\\u0e04\\u0e34\\u0e14\\u0e40\\u0e23\\u0e32\\u0e40\\u0e1b\\u0e47\\u0e19\\u0e44\\u0e07&nbsp; \\u0e1a\\u0e32\\u0e07\\u0e04\\u0e23\\u0e31\\u0e49\\u0e07\\u0e04\\u0e27\\u0e32\\u0e21\\u0e04\\u0e34\\u0e14\\u0e15\\u0e23\\u0e07\\u0e19\\u0e35\\u0e49\\u0e21\\u0e31\\u0e19\\u0e44\\u0e21\\u0e48\\u0e43\\u0e0a\\u0e48\\u0e08\\u0e32\\u0e01\\u0e40\\u0e23\\u0e32\\u0e19\\u0e30&nbsp; \\u0e21\\u0e31\\u0e19\\u0e16\\u0e48\\u0e32\\u0e22\\u0e08\\u0e32\\u0e01\\u0e02\\u0e49\\u0e32\\u0e07\\u0e19\\u0e2d\\u0e01\\u0e44\\u0e14\\u0e49&nbsp; \\u0e40\\u0e1b\\u0e47\\u0e19\\u0e40\\u0e2b\\u0e21\\u0e37\\u0e2d\\u0e19\\u0e40\\u0e23\\u0e32\\u0e04\\u0e34\\u0e14&nbsp; \\u0e41\\u0e15\\u0e48\\u0e04\\u0e27\\u0e32\\u0e21\\u0e04\\u0e34\\u0e14\\u0e2d\\u0e32\\u0e23\\u0e21\\u0e13\\u0e4c\\u0e15\\u0e31\\u0e27\\u0e19\\u0e35\\u0e49\\u0e21\\u0e31\\u0e19\\u0e44\\u0e21\\u0e48\\u0e43\\u0e0a\\u0e48\\u0e40\\u0e23\\u0e32\\u0e04\\u0e34\\u0e14&nbsp; \\u0e16\\u0e49\\u0e32\\u0e1a\\u0e32\\u0e07\\u0e04\\u0e19\\u0e40\\u0e04\\u0e22\\u0e2a\\u0e31\\u0e07\\u0e40\\u0e01\\u0e15\\u0e44\\u0e2b\\u0e21&nbsp; \\u0e15\\u0e31\\u0e49\\u0e07\\u0e41\\u0e15\\u0e48\\u0e40\\u0e01\\u0e34\\u0e14\\u0e21\\u0e32\\u0e44\\u0e21\\u0e48\\u0e40\\u0e04\\u0e22\\u0e21\\u0e35\\u0e04\\u0e27\\u0e32\\u0e21\\u0e04\\u0e34\\u0e14\\u0e40\\u0e23\\u0e37\\u0e48\\u0e2d\\u0e07\\u0e19\\u0e35\\u0e49\\u0e40\\u0e25\\u0e22&nbsp; \\u0e2d\\u0e22\\u0e39\\u0e48\\u0e14\\u0e35\\u0e27\\u0e31\\u0e19\\u0e14\\u0e35\\u0e04\\u0e37\\u0e19\\u0e14\\u0e35\\u0e21\\u0e35\\u0e19\\u0e48\\u0e30&nbsp; \\u0e40\\u0e04\\u0e22\\u0e21\\u0e35\\u0e44\\u0e2b\\u0e21&nbsp;\\u0e40\\u0e1e\\u0e23\\u0e32\\u0e30\\u0e2d\\u0e30\\u0e44\\u0e23&nbsp;\\u0e40\\u0e1e\\u0e23\\u0e32\\u0e30\\u0e44\\u0e2d\\u0e49\\u0e04\\u0e27\\u0e32\\u0e21\\u0e04\\u0e34\\u0e14\\u0e15\\u0e23\\u0e07\\u0e19\\u0e35\\u0e49\\u0e21\\u0e31\\u0e19\\u0e40\\u0e01\\u0e34\\u0e14\\u0e08\\u0e32\\u0e01\\u0e20\\u0e32\\u0e22\\u0e19\\u0e2d\\u0e01\\u0e17\\u0e35\\u0e48\\u0e21\\u0e31\\u0e19\\u0e41\\u0e17\\u0e23\\u0e01\\u0e40\\u0e02\\u0e49\\u0e32\\u0e21\\u0e32&nbsp; \\u0e40\\u0e1e\\u0e23\\u0e32\\u0e30\\u0e08\\u0e34\\u0e15\\u0e21\\u0e31\\u0e19\\u0e21\\u0e35\\u0e2b\\u0e19\\u0e49\\u0e32\\u0e17\\u0e35\\u0e48\\u0e23\\u0e39\\u0e49\\u0e44\\u0e07&nbsp; \\u0e40\\u0e21\\u0e37\\u0e48\\u0e2d\\u0e21\\u0e31\\u0e19\\u0e21\\u0e35\\u0e01\\u0e23\\u0e30\\u0e41\\u0e2a\\u0e17\\u0e35\\u0e48\\u0e21\\u0e31\\u0e19\\u0e08\\u0e23\\u0e40\\u0e02\\u0e49\\u0e32\\u0e21\\u0e32&nbsp; \\u0e21\\u0e31\\u0e19\\u0e01\\u0e47\\u0e23\\u0e39\\u0e49\\u0e44\\u0e14\\u0e49&nbsp;\\u0e21\\u0e31\\u0e19\\u0e23\\u0e39\\u0e49 &nbsp;\\u0e41\\u0e15\\u0e48\\u0e17\\u0e35\\u0e19\\u0e35\\u0e49\\u0e21\\u0e31\\u0e19\\u0e44\\u0e21\\u0e48\\u0e23\\u0e39\\u0e49\\u0e40\\u0e17\\u0e48\\u0e32\\u0e17\\u0e31\\u0e19\\u0e01\\u0e23\\u0e30\\u0e41\\u0e2a\\u0e15\\u0e31\\u0e27\\u0e19\\u0e35\\u0e49&nbsp; \\u0e40\\u0e1e\\u0e23\\u0e32\\u0e30\\u0e21\\u0e31\\u0e19\\u0e04\\u0e34\\u0e14\\u0e43\\u0e19\\u0e15\\u0e31\\u0e27\\u0e40\\u0e2d\\u0e07\\u0e01\\u0e47\\u0e19\\u0e36\\u0e01\\u0e27\\u0e48\\u0e32\\u0e01\\u0e39\\u0e04\\u0e34\\u0e14\\u0e44\\u0e07&nbsp; \\u0e01\\u0e47\\u0e40\\u0e25\\u0e22\\u0e19\\u0e36\\u0e01\\u0e27\\u0e48\\u0e32\\u0e01\\u0e39\\u0e40\\u0e1b\\u0e47\\u0e19\\u0e2d\\u0e22\\u0e48\\u0e32\\u0e07\\u0e19\\u0e35\\u0e49\\u0e44\\u0e07&nbsp; \\u0e41\\u0e15\\u0e48\\u0e08\\u0e23\\u0e34\\u0e07 \\u0e46 \\u0e40\\u0e23\\u0e32\\u0e44\\u0e21\\u0e48\\u0e44\\u0e14\\u0e49\\u0e40\\u0e1b\\u0e47\\u0e19&nbsp; \\u0e41\\u0e15\\u0e48\\u0e21\\u0e31\\u0e19\\u0e40\\u0e01\\u0e34\\u0e14\\u0e08\\u0e32\\u0e01\\u0e01\\u0e23\\u0e30\\u0e41\\u0e2a\\u0e42\\u0e25\\u0e20\\u0e42\\u0e01\\u0e23\\u0e18\\u0e2b\\u0e25\\u0e07\\u0e20\\u0e32\\u0e22\\u0e19\\u0e2d\\u0e01\\u0e21\\u0e31\\u0e19\\u0e21\\u0e32\\u0e04\\u0e23\\u0e2d\\u0e1a\\u0e07\\u0e33\\u0e08\\u0e34\\u0e15\\u0e40\\u0e23\\u0e32&nbsp; \\u0e2d\\u0e31\\u0e19\\u0e19\\u0e35\\u0e49\\u0e25\\u0e30\\u0e40\\u0e2d\\u0e35\\u0e22\\u0e14&nbsp;\\u0e16\\u0e49\\u0e32\\u0e42\\u0e22\\u0e21\\u0e2d\\u0e22\\u0e32\\u0e01\\u0e23\\u0e39\\u0e49\\u0e08\\u0e38\\u0e14\\u0e19\\u0e35\\u0e49\\u0e15\\u0e49\\u0e2d\\u0e07\\u0e20\\u0e32\\u0e27\\u0e19\\u0e32\\u0e40\\u0e22\\u0e2d\\u0e30 \\u0e46&nbsp;\\u0e15\\u0e49\\u0e2d\\u0e07\\u0e1d\\u0e36\\u0e01\\u0e2a\\u0e15\\u0e34\\u0e2a\\u0e21\\u0e32\\u0e18\\u0e34\\u0e2d\\u0e22\\u0e48\\u0e32\\u0e07\\u0e17\\u0e35\\u0e48\\u0e40\\u0e23\\u0e32\\u0e1a\\u0e2d\\u0e01\\u0e43\\u0e2b\\u0e49\\u0e21\\u0e32\\u0e01&nbsp;\\u0e41\\u0e25\\u0e49\\u0e27\\u0e08\\u0e30\\u0e40\\u0e02\\u0e49\\u0e32\\u0e43\\u0e08&nbsp; \\u0e40\\u0e1e\\u0e23\\u0e32\\u0e30\\u0e09\\u0e30\\u0e19\\u0e31\\u0e49\\u0e19\\u0e42\\u0e25\\u0e01\\u0e15\\u0e23\\u0e07\\u0e19\\u0e35\\u0e49&nbsp; \\u0e17\\u0e35\\u0e48\\u0e1e\\u0e39\\u0e14\\u0e43\\u0e2b\\u0e49\\u0e1f\\u0e31\\u0e07\\u0e19\\u0e35\\u0e49&nbsp; \\u0e40\\u0e1e\\u0e23\\u0e32\\u0e30\\u0e21\\u0e31\\u0e19\\u0e2d\\u0e31\\u0e19\\u0e15\\u0e23\\u0e32\\u0e22\\u0e44\\u0e07&nbsp; \\u0e21\\u0e31\\u0e19\\u0e04\\u0e23\\u0e2d\\u0e1a\\u0e07\\u0e33\\u0e42\\u0e14\\u0e22\\u0e40\\u0e23\\u0e32\\u0e44\\u0e21\\u0e48\\u0e23\\u0e39\\u0e49\\u0e15\\u0e31\\u0e27\\u0e40\\u0e22\\u0e2d\\u0e30\\u0e44\\u0e07&nbsp; \\u0e2d\\u0e31\\u0e19\\u0e19\\u0e35\\u0e49\\u0e1e\\u0e39\\u0e14\\u0e43\\u0e2b\\u0e49\\u0e1f\\u0e31\\u0e07&nbsp; \\u0e27\\u0e31\\u0e19\\u0e19\\u0e35\\u0e49\\u0e01\\u0e47\\u0e02\\u0e2d\\u0e41\\u0e19\\u0e30\\u0e19\\u0e33\\u0e04\\u0e23\\u0e48\\u0e32\\u0e27 \\u0e46 \\u0e40\\u0e17\\u0e48\\u0e32\\u0e19\\u0e35\\u0e49\\u0e19\\u0e30&nbsp; \\u0e43\\u0e04\\u0e23\\u0e08\\u0e31\\u0e1a\\u0e44\\u0e14\\u0e49\\u0e01\\u0e47\\u0e19\\u0e33\\u0e44\\u0e1b\\u0e1b\\u0e23\\u0e30\\u0e1e\\u0e24\\u0e15\\u0e34\\u0e1b\\u0e0f\\u0e34\\u0e1a\\u0e31\\u0e15\\u0e34\\u0e19\\u0e30&nbsp; \\u0e43\\u0e2b\\u0e49\\u0e40\\u0e1b\\u0e47\\u0e19\\u0e1b\\u0e23\\u0e30\\u0e42\\u0e22\\u0e0a\\u0e19\\u0e4c\\u0e15\\u0e48\\u0e2d\\u0e15\\u0e19\\u0e40\\u0e2d\\u0e07&nbsp; \\u0e43\\u0e2b\\u0e49\\u0e40\\u0e1b\\u0e47\\u0e19\\u0e1b\\u0e23\\u0e30\\u0e42\\u0e22\\u0e0a\\u0e19\\u0e4c\\u0e15\\u0e48\\u0e2d\\u0e04\\u0e23\\u0e2d\\u0e1a\\u0e04\\u0e23\\u0e31\\u0e27&nbsp; \\u0e43\\u0e2b\\u0e49\\u0e40\\u0e1b\\u0e47\\u0e19\\u0e1b\\u0e23\\u0e30\\u0e42\\u0e22\\u0e0a\\u0e19\\u0e4c\\u0e15\\u0e48\\u0e2d\\u0e0d\\u0e32\\u0e15\\u0e34\\u0e21\\u0e34\\u0e15\\u0e23\\u0e1e\\u0e48\\u0e2d\\u0e41\\u0e21\\u0e48\\u0e1e\\u0e35\\u0e48\\u0e19\\u0e49\\u0e2d\\u0e07\\u0e17\\u0e31\\u0e49\\u0e07\\u0e2b\\u0e21\\u0e14\\u0e19\\u0e30&nbsp; \\u0e43\\u0e2b\\u0e49\\u0e40\\u0e1b\\u0e47\\u0e19\\u0e1b\\u0e23\\u0e30\\u0e42\\u0e22\\u0e0a\\u0e19\\u0e4c\\u0e15\\u0e48\\u0e2d\\u0e1a\\u0e23\\u0e34\\u0e29\\u0e31\\u0e17&nbsp; \\u0e43\\u0e2b\\u0e49\\u0e40\\u0e1b\\u0e47\\u0e19\\u0e1b\\u0e23\\u0e30\\u0e42\\u0e22\\u0e0a\\u0e19\\u0e4c\\u0e15\\u0e48\\u0e2d\\u0e1b\\u0e23\\u0e30\\u0e40\\u0e17\\u0e28&nbsp; \\u0e41\\u0e25\\u0e49\\u0e27\\u0e2a\\u0e34\\u0e48\\u0e07\\u0e17\\u0e35\\u0e48\\u0e40\\u0e23\\u0e32\\u0e17\\u0e33\\u0e40\\u0e1b\\u0e47\\u0e19\\u0e1b\\u0e23\\u0e30\\u0e42\\u0e22\\u0e0a\\u0e19\\u0e4c&nbsp; \\u0e2d\\u0e32\\u0e19\\u0e34\\u0e2a\\u0e07\\u0e2a\\u0e4c\\u0e01\\u0e47\\u0e04\\u0e37\\u0e2d\\u0e17\\u0e33\\u0e43\\u0e2b\\u0e49\\u0e2a\\u0e31\\u0e07\\u0e04\\u0e21\\u0e40\\u0e23\\u0e32&nbsp; \\u0e17\\u0e33\\u0e43\\u0e2b\\u0e49\\u0e15\\u0e31\\u0e27\\u0e40\\u0e23\\u0e32 &nbsp;\\u0e17\\u0e33\\u0e43\\u0e2b\\u0e49\\u0e04\\u0e23\\u0e2d\\u0e1a\\u0e04\\u0e23\\u0e31\\u0e27\\u0e40\\u0e23\\u0e32\\u0e21\\u0e35\\u0e04\\u0e27\\u0e32\\u0e21\\u0e2a\\u0e38\\u0e02\\u0e15\\u0e32\\u0e21\\u0e2d\\u0e31\\u0e15\\u0e20\\u0e32\\u0e1e&nbsp; \\u0e01\\u0e47\\u0e02\\u0e2d\\u0e22\\u0e38\\u0e15\\u0e34\\u0e41\\u0e15\\u0e48\\u0e40\\u0e1e\\u0e35\\u0e22\\u0e07\\u0e40\\u0e17\\u0e48\\u0e32\\u0e19\\u0e35\\u0e49<\\/p><p style=\\\"text-align:justify;\\\" class=\\\"indent-a\\\">\\u0e22\\u0e30\\u0e16\\u0e32 \\u0e27\\u0e32\\u0e23\\u0e34\\u0e27\\u0e30\\u0e2b\\u0e32 \\u0e2f<\\/p><p style=\\\"text-align:justify;\\\" class=\\\"indent-a\\\">\\u0e40\\u0e2d\\u0e32\\u0e2b\\u0e19\\u0e31\\u0e07\\u0e2a\\u0e37\\u0e2d\\u0e23\\u0e39\\u0e1b\\u0e41\\u0e08\\u0e01\\u0e43\\u0e2b\\u0e49\\u0e44\\u0e1b\\u0e2d\\u0e48\\u0e32\\u0e19\\u0e44\\u0e1b\\u0e28\\u0e36\\u0e01\\u0e29\\u0e32\\u0e19\\u0e30&nbsp; \\u0e21\\u0e32\\u0e43\\u0e2b\\u0e49\\u0e40\\u0e01\\u0e34\\u0e14\\u0e1b\\u0e23\\u0e30\\u0e42\\u0e22\\u0e0a\\u0e19\\u0e4c\\u0e19\\u0e30&nbsp; \\u0e43\\u0e2b\\u0e49\\u0e23\\u0e31\\u0e01\\u0e15\\u0e19\\u0e40\\u0e2d\\u0e07\\u0e19\\u0e30&nbsp;\\u0e2d\\u0e22\\u0e48\\u0e32\\u0e44\\u0e1b\\u0e23\\u0e31\\u0e01\\u0e1c\\u0e39\\u0e49\\u0e2d\\u0e37\\u0e48\\u0e19&nbsp; \\u0e43\\u0e2b\\u0e49\\u0e23\\u0e31\\u0e01\\u0e15\\u0e31\\u0e27\\u0e40\\u0e2d\\u0e07\\u0e01\\u0e48\\u0e2d\\u0e19&nbsp; \\u0e2d\\u0e30\\u0e44\\u0e23\\u0e40\\u0e1b\\u0e47\\u0e19\\u0e1b\\u0e23\\u0e30\\u0e42\\u0e22\\u0e0a\\u0e19\\u0e4c\\u0e01\\u0e47\\u0e02\\u0e27\\u0e19\\u0e02\\u0e27\\u0e32\\u0e22\\u0e40\\u0e02\\u0e49\\u0e32\\u0e2a\\u0e39\\u0e48\\u0e15\\u0e31\\u0e27\\u0e40\\u0e2d\\u0e07&nbsp; \\u0e19\\u0e35\\u0e48\\u0e40\\u0e23\\u0e35\\u0e22\\u0e01\\u0e27\\u0e48\\u0e32\\u0e23\\u0e31\\u0e01\\u0e15\\u0e31\\u0e27\\u0e40\\u0e2d\\u0e07&nbsp; \\u0e2d\\u0e30\\u0e44\\u0e23\\u0e40\\u0e1b\\u0e47\\u0e19\\u0e42\\u0e17\\u0e29\\u0e01\\u0e47\\u0e23\\u0e35\\u0e1a\\u0e02\\u0e19\\u0e2d\\u0e2d\\u0e01\\u0e08\\u0e32\\u0e01\\u0e43\\u0e08\\u0e15\\u0e31\\u0e27\\u0e40\\u0e2d\\u0e07&nbsp; \\u0e19\\u0e35\\u0e48\\u0e40\\u0e23\\u0e35\\u0e22\\u0e01\\u0e27\\u0e48\\u0e32\\u0e23\\u0e31\\u0e01\\u0e15\\u0e31\\u0e27\\u0e40\\u0e2d\\u0e07.<\\/p>\",\"novelId\":2485901,\"novelTitle\":\"\\u0e18\\u0e23\\u0e23\\u0e21\\u0e40\\u0e17\\u0e28\\u0e19\\u0e32 \\u0e1e\\u0e23\\u0e30\\u0e2d\\u0e32\\u0e08\\u0e32\\u0e23\\u0e22\\u0e4c\\u0e27\\u0e34\\u0e0a\\u0e31\\u0e22 \\u0e01\\u0e31\\u0e21\\u0e21\\u0e2a\\u0e38\\u0e17\\u0e42\\u0e18\",\"owners\":[{\"id\":9788364,\"username\":\"Wiweksikkaram\",\"alias\":\"Wiweksikkaram\",\"role\":\"owner\",\"followed\":false}],\"category\":{\"main\":2,\"sub\":2,\"mainTitle\":\"\\u0e21\\u0e35\\u0e2a\\u0e32\\u0e23\\u0e30\",\"subTitle\":\"\\u0e04\\u0e27\\u0e32\\u0e21\\u0e23\\u0e39\\u0e49\\u0e40\\u0e1e\\u0e37\\u0e48\\u0e2d\\u0e14\\u0e33\\u0e40\\u0e19\\u0e34\\u0e19\\u0e0a\\u0e35\\u0e27\\u0e34\\u0e15\",\"mainTitleEn\":\"Informative\",\"subTitleEn\":\"Life\",\"groupTitle\":null,\"groupTitleEn\":null},\"setting\":{\"allowComment\":true,\"allowCommentType\":\"all\"},\"gift\":{\"state\":\"none\"}}')
+        window.isFavNovel = +''
+        window.isAccessChapter = 'normal'
+    </script>
+
+            <!-- Criteo Loader -->
+<!-- <script async="async" type="text/javascript" src="https://static.criteo.net/js/ld/publishertag.js"></script>
+<script>
+    window.Criteo = window.Criteo || {};
+    window.Criteo.events = window.Criteo.events || [];
+</script> -->
+
+<!-- Criteo placement mapping -->
+<!-- <script>
+    var adUnits = {
+        "placements": [{
+            /* Dek-D - TH - CDB - SA - 728x90 - ATF - 728x90 */
+            "slotid": "C1",
+            "zoneid": 808115
+        }, {
+            /* Dek-D - TH - CDB - SA - 728x90 - BTF - 728x90 */
+            "slotid": "CM_viewlong",
+            "zoneid": 1265887
+        }]
+    };
+</script> -->
+
+<!-- Criteo cdb & Adserver setup -->
+<!-- <script>
+    var launchAdServer = function () {
+        googletag.cmd.push(function () {
+            /* Perform key-value targeting for your ad server */
+            Criteo.SetDFPKeyValueTargeting();
+
+            /* Trigger the ad server */
+            googletag.pubads().refresh(); // This will trigger the adserver call
+
+        });
+    };
+</script>
+<script>
+    Criteo.events.push(function () {
+        // Define the price band range - inline with the one implemented in the adserver
+        Criteo.SetLineItemRanges("0..30,0.01");
+
+        // Call Criteo and execute the callback function for a given timeout
+        Criteo.RequestBids(adUnits, launchAdServer, 1500);
+    });
+</script> -->
+
+<script type='text/javascript'>
+    googletag.cmd.push(function () {
+        // if one day no more Criteo & Innity HB then remove the line disableInitialLoad().
+        googletag.pubads().disableInitialLoad();
+                googletag.defineSlot('/8408698/C1', [728, 90], 'C1').addService(googletag.pubads()).setTargeting('NovelID', 2485901);
+        // googletag.defineSlot('/8408698/CM_viewlong', [728, 90], 'CM_viewlong').addService(googletag.pubads());
+                // googletag.defineSlot('/8408698/Writer_viewlong', [970, 90], 'div-gpt-ad-1673171734476-0').addService(googletag.pubads()).setTargeting('NovelID', 2485901);
+        googletag.pubads().setTargeting('ref-url', ['writer-view']);
+        googletag.pubads().enableSingleRequest();
+        googletag.pubads().enableLazyLoad({
+            fetchMarginPercent: 500,  // Fetch slots within 5 viewports.
+            renderMarginPercent: 200,  // Render slots within 2 viewports.
+            mobileScaling: 2.0  // Double the above values on mobile.
+
+        });
+        googletag.enableServices();
+    });
+</script>    
+    <!-- Innity HB -->
+            <script type="text/javascript" async="async" src="https://media.innity.net/lib/innityPrebidHB.js"></script>        <script type="text/javascript" async="async" src="https://media.innity.net/adnetwork/hb_prebid/12/hbconfig_prebid63.js"></script>    
+    <link rel="image_src" href="https://image.dek-d.com/27/0978/8364/133546232" />
+
+    <link rel="stylesheet" href="https://www0.dek-d.com/assets/writer/css/swiper_6.4.1.min.css?v=364"><link rel="stylesheet" href="https://www0.dek-d.com/assets/writer/css/driver.min.css?v=364"><link rel="stylesheet" href="https://www0.dek-d.com/assets/toolbar/css/toolbar_desktop_2015.min.css?v=364"><link rel="stylesheet" href="https://www0.dek-d.com/assets/toolbar/css/toolbar_desktop_writer.min.css?v=364"><script   src="https://www0.dek-d.com/assets/writer/js/goToTopButton.js?v=364"></script><link rel="stylesheet" href="https://www0.dek-d.com/assets/writer/css/goToTopButton.css?v=364"><link rel="stylesheet" href="https://myc.dek-d.com/a/writer/comment2014.css?v=364"><link rel="stylesheet" href="https://myc.dek-d.com/a/writer/view2014.css?v=364"><link rel="stylesheet" href="https://myc.dek-d.com/a/resource/css/lightbox.css?v=364"><link rel="stylesheet" href="https://myc.dek-d.com/a/writer/nightmode_viewlongc.css?v=364"><link rel="stylesheet" href="https://myc.dek-d.com/a/resource/css/floatwriter.css?v=364"><link rel="stylesheet" href="https://myc.dek-d.com/a/resource/css/recommender.css?v=364"><link rel="stylesheet" href="https://myc.dek-d.com/a/control/writer4/resources/js/cover/public/build/ReviewSection.css?v=364"><link rel="stylesheet" href="https://myc.dek-d.com/a/control/writer4/resources/js/cover/public/donation/build/donation.css?v=364"><link rel="stylesheet" href="https://myc.dek-d.com/a/control/writer4/resources/js/cover/public/build/promotionTopupPopup.css?v=364"><link rel="stylesheet" href="https://myc.dek-d.com/a/control/writer4/resources/js/cover/public/build/promotionTopupBanner.css?v=364"><link rel="stylesheet" href="https://myc.dek-d.com/a/control/writer4/resources/js/cover/public/build/promotionTopupModal.css?v=364"><link rel="stylesheet" href="https://myc.dek-d.com/a/control/writer4/resources/js/cover/public/build/showComments.css?v=364"><link rel="stylesheet" href="https://myc.dek-d.com/a/control/writer4/resources/js/cover/public/report/build/ReportProblem.css?v=364"><link rel="stylesheet" href="https://myc.dek-d.com/a/control/writer4/resources/js/cover/public/novel/build/NovelShare.css?v=364"><link rel="stylesheet" href="https://myc.dek-d.com/a/control/writer4/resources/js/cover/public/novel/build/ListOfContents.css?v=364"><link rel="stylesheet" href="https://myc.dek-d.com/a/control/writer4/resources/js/cover/public/modalChapter/modalChapter.css?v=364"><link rel="stylesheet" href="https://myc.dek-d.com/a/control/writer4/resources/js/cover/public/modalStoryCampaign/style.css?v=364"><link rel="stylesheet" href="https://myc.dek-d.com/a/control/writer4/resources/js/cover/public/comment/showMiniComments.css?v=364"><link rel="stylesheet" href="https://myc.dek-d.com/a/control/writer4/resources/js/cover/public/global.css?v=364">    <!-------------- buying  ------------------>
+            <link rel="stylesheet" href="https://www0.dek-d.com/assets/writer/css/writer-swiper.css?v=364">    <link rel="stylesheet" href="https://www0.dek-d.com/assets/writer/css/writer-view2015.min.css?v=364">    <link rel="stylesheet" href="https://www0.dek-d.com/assets/writer/css/writer-comment.min.css?v=364">    <link rel="stylesheet" href="https://www0.dek-d.com/assets/writer/css/chapter-compliment.css?v=364">    <link rel="stylesheet" href="https://www0.dek-d.com/assets/writer/css/story-suggestion-box.min.css?v=364">    <link rel="stylesheet" href="https://www0.dek-d.com/assets/writer/css/ebook-manager.css?v=364">    <link rel="stylesheet" href="https://www0.dek-d.com/assets/writer/css/firstop_popup.css?v=364">    <link rel="stylesheet" href="https://www0.dek-d.com/assets/writer/css/favorite_popup.css?v=364">    <link rel="stylesheet" href="https://www0.dek-d.com/assets/writer/css/viewlong-pack.css?v=364">    <link rel="stylesheet" href="https://www0.dek-d.com/assets/writer/css/followWriter.min.css?v=364">    <link rel="stylesheet" href="https://www0.dek-d.com/assets/writer/css/ebookList.min.css?v=364">            <link rel="stylesheet" href="https://www0.dek-d.com/assets/writer/css/ck_editor_v5.min.css?v=364">    
+    <!------------------------------------------------------------>
+
+            <script type="text/javascript">
+            // <!--
+            // document.oncontextmenu = function (e) {
+            //   return false;
+            // }
+            // document.onmousedown = disableclick;
+
+            // function disableclick(event) {
+            //   if (event.button == 2) {
+            //     return false;
+            //   }
+            // }
+            // -->
+        </script>
+    
+    <style type="text/css">
+    .head1 {
+        background-color: #FFCC00;
+    }
+    .head2 {
+        background-color: #FFEA00;
+    }
+    table.story {
+        border-color: #FFEA00;
+    }
+    span.desc_head {
+        font-weight: bold;
+        color: #FFEA00;
+    }
+    span.small_title {
+        color: black;
+    }
+</style>
+
+    <script>
+        (function(i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r;
+            i[r] = i[r] || function() {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date();
+            a = s.createElement(o),
+                m = s.getElementsByTagName(o)[0];
+            a.async = 1;
+            a.src = g;
+            m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-1726177-1', 'auto');
+        ga('require', 'displayfeatures');
+        ga('set', 'contentGroup1', '[My.iD] Writer');
+            </script>
+    
+    <!-- DFP Pixel Tag -->
+    <script type='text/javascript'>
+        var axel = Math.random() + '';
+        var a = axel * 10000000000000;
+        document.write('<img src="https://pubads.g.doubleclick.net/activity;dc_iu=/8408698/DFPAudiencePixel;ord=' + a + ';dc_seg=450673285?" width=1 height=1 border=0 style="position: absolute;" />');
+    </script>
+    <noscript>
+        <img src="https://pubads.g.doubleclick.net/activity;dc_iu=/8408698/DFPAudiencePixel;ord=1;dc_seg=450673285?" width=1 height=1 border=0 />
+    </noscript>
+    <!-- Coin Flash Sale Badge -->
+    <!-- <script defer src="https://myc.dek-d.com/a/control/writer4/resources/js/cover/public/build/promotionTopupPopup.js?v=promotionTopupPopup:364"></script> -->
+
+    <!-- <script defer src="https://myc.dek-d.com/a/control/writer4/resources/js/cover/public/build/ReviewSection.js?v=review:364"></script> -->
+    <!-- <script defer src="https://myc.dek-d.com/a/control/writer4/resources/js/cover/public/donation/build/donation.js?v=donation:364"></script> -->
+    <!-- <script defer src="https://myc.dek-d.com/a/control/writer4/resources/js/cover/public/affiliate/build/affiliateNaiinBanner.js?v=affiliate:364"></script> -->
+    <!-- <script defer src="https://myc.dek-d.com/a/control/writer4/resources/js/cover/public/build/showComments.js?v=comemnt:364"></script> -->
+    <!-- <script defer src="https://myc.dek-d.com/a/control/writer4/resources/js/cover//public/report/build/ReportProblem.js?v=comemnt:364"></script> -->
+    <!-- <script defer src="https://myc.dek-d.com/a/control/writer4/resources/js/cover/public/novel/build/NovelShare.js?v=novel:364"></script> -->
+    <!-- <script defer src="https://myc.dek-d.com/a/control/writer4/resources/js/cover/public/novel/build/ListOfContents.js?v=novel:364"></script> -->
+    <!-- <script defer src="https://myc.dek-d.com/a/control/writer4/resources/js/cover/public/modalChapter/modalChapter.js?v=chapter:364"></script> -->
+    <!-- <script defer src="https://myc.dek-d.com/a/control/writer4/resources/js/cover/public/comment/showMiniComments.js?v=mini-comment:364"></script> -->
+</head>
+
+<body data-allow-comment="1" data-topic-type="writer" data-isMobile="" data-allow-guest-comment="1" data-story-id="2485901" data-chapter-id="125" data-main-cat="2" data-sub-cat="2" oncontextmenu="return false" class="">
+    <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PMXT86T"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->    <script language='javascript' src='https://myc.dek-d.com/a/modules/xmlhttp.inc.js'></script>
+    <script language="JavaScript" src="https://myc.dek-d.com/a/script/insert_poll.js?v=364"></script>
+    <script language="JavaScript" src="https://myc.dek-d.com/a/script/play_sound.js"></script>
+    <script   src="https://myc.dek-d.com/a/script/scripts_utf.js?v=364"></script><script   src="https://www0.dek-d.com/assets/writer/js/swiper_6.4.1.min.js?v=364"></script><script   src="https://www0.dek-d.com/assets/global/js/jquery-latest.min.js?v=364"></script><script   src="https://www0.dek-d.com/resource/js/paging_utf8.source.js?v=364"></script><script   src="https://www0.dek-d.com/assets/writer/js/devtools-prevent.min.js?v=364"></script><script   src="https://myc.dek-d.com/a/resource/js/writer3/helper.js?v=364"></script><script   src="https://myc.dek-d.com/a/script/textsizer.js?v=364"></script><script   src="https://myc.dek-d.com/a/script/writerchapter.js?v=364"></script><script   src="https://myc.dek-d.com/a/script/writerindex.js?v=364"></script><script   src="https://myc.dek-d.com/a/script/darkmode_story.js?v=364"></script><script  defer src="https://myc.dek-d.com/a/control/writer4/resources/js/cover/public/build/ReviewSection.js?v=364"></script><script  defer src="https://myc.dek-d.com/a/control/writer4/resources/js/cover/public/build/promotionTopupPopup.js?v=364"></script><script  defer src="https://myc.dek-d.com/a/control/writer4/resources/js/cover/public/build/promotionTopupBanner.js?v=364"></script><script  defer src="https://myc.dek-d.com/a/control/writer4/resources/js/cover/public/build/promotionTopupModal.js?v=364"></script><script  defer src="https://myc.dek-d.com/a/control/writer4/resources/js/cover/public/donation/build/donation.js?v=364"></script><script  defer src="https://myc.dek-d.com/a/control/writer4/resources/js/cover/public/build/showComments.js?v=364"></script><script  defer src="https://myc.dek-d.com/a/control/writer4/resources/js/cover//public/report/build/ReportProblem.js?v=364"></script><script  defer src="https://myc.dek-d.com/a/control/writer4/resources/js/cover/public/novel/build/NovelShare.js?v=364"></script><script  defer src="https://myc.dek-d.com/a/control/writer4/resources/js/cover/public/novel/build/ListOfContents.js?v=364"></script><script  defer src="https://myc.dek-d.com/a/control/writer4/resources/js/cover/public/modalChapter/modalChapter.js?v=364"></script><script  defer src="https://myc.dek-d.com/a/control/writer4/resources/js/cover/public/modalStoryCampaign/script.js?v=364"></script><script  defer src="https://myc.dek-d.com/a/control/writer4/resources/js/cover/public/comment/showMiniComments.js?v=364"></script><script   src="https://www0.dek-d.com/assets/writer/js/analytics/writer-view-main.js?v=364"></script><script   src="https://www0.dek-d.com/assets/writer/js/helpers/writer-comment.min.js?v=364"></script><script   src="https://www0.dek-d.com/assets/writer/js/autoScrolling.min.js?v=364"></script><script   src="https://www0.dek-d.com/assets/writer/js/driver.min.js?v=364"></script><script   src="https://www0.dek-d.com/assets/writer/js/followWriter.min.js?v=364"></script>
+    <div id="viewport" class="">
+
+        <link rel="stylesheet" type="text/css" href="https://www0.dek-d.com/assets/writer/css/banner_recommend.css?v=364">
+        <div class="toolbar-banner-openapp">
+            <style>
+    #banner-openapp {
+        height: 45pt;
+        border-top: 1px solid #E5E5E5;
+        background: #ffffff;
+        padding: 8px 16px;
+        transition: all 0.3s ease-in-out;
+        box-sizing: border-box;
+        border-radius: 10px 10px 0 0;
+        align-items: center;
+        display: none;
+    }
+
+    #banner-openapp #close-niyay-dekd-app-btn {
+        font-size: 14px;
+        color: #D9D9D9;
+        display: flex;
+        align-items: center;
+        margin-right: 10px;
+    }
+
+    #banner-openapp .dekd-logo {
+        margin-right: 10px;
+        height: 100%;
+        padding: 4px;
+    }
+
+    #banner-openapp .detail-wrapper .title {
+        font-family: 'KalatexaDisplay', Thonburi, serif;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 14px;
+        line-height: 18px;
+        color: #636363;
+        display: block;
+    }
+
+    #banner-openapp .detail-wrapper .subtitle {
+        font-family: 'thongterm', Thonburi, serif;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 11px;
+        line-height: 18px;
+        color: #878787;
+        display: block;
+        display: -webkit-box;
+        -webkit-line-clamp: 2;
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+        margin-right: 10px;
+    }
+
+    #banner-openapp #open-niyay-dekd-app-btn {
+        font-family: 'KalatexaDisplay', Thonburi, serif;
+        padding: 8px 16px;
+        font-size: 12px;
+        height: 32px;
+        box-sizing: border-box;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background: #F37A01;
+        border-radius: 35px;
+        margin: auto 0 auto auto;
+        color: #ffffff;
+        text-align: center;
+        white-space: nowrap;
+    }
+
+    @media screen and (min-width: 500px) {
+        #banner-openapp {
+            display: none;
+        }
+    }
+
+    @media (orientation: landscape) {
+        #banner-openapp {
+            height: 35pt;
+            padding: 4px 16px;
+        }
+    }
+</style>
+
+<div id="banner-openapp">
+    <button id="close-niyay-dekd-app-btn" style="display: none !important;">
+        <i class="fa fa-times" aria-hidden="true"></i>
+    </button>
+    <img id="dekd-writer-logo" class="dekd-logo" src="https://image.dek-d.com/contentimg/2020/writer/assets/logo/logo_niyaydekdbook.png" alt="logo_niyaydekdbook">
+    <div class="detail-wrapper">
+        <span class="title">นิยาย Dek-D</span>
+        <span class="subtitle">อ่านแบบไม่มีโฆษณาที่แอปนิยาย Dek-D</span>
+    </div>
+    <button id="open-niyay-dekd-app-btn">อ่านเลย</button>
+</div>
+<script>
+    (function() {
+        function ready(fn) {
+            if (document.readyState != 'loading') {
+                fn();
+            } else {
+                document.addEventListener('DOMContentLoaded', fn);
+            }
+        }
+        ready(function() {            
+            const deeplinkUrl = `${window.chapterId > 0 ? `dekd.novel://page/novel/${window.novelId}/chapter/${window.chapterId}` : `dekd.novel://page/novel/${window.novelId}` }`
+            const storeURL = 'https://www.dek-d.com/writer/appstore?app=novel&redirect=1';
+            const metaTag = document.querySelector('meta[name="apple-itunes-app"]');
+            if (metaTag) {
+                let content = metaTag.getAttribute('content');
+                if (!content.includes('app-argument=')) {
+                    content += `, app-argument=${deeplinkUrl}`;
+                    metaTag.setAttribute('content', content);
+                }
+            } else {
+                let meta = document.createElement("meta");
+                meta.name = "apple-itunes-app";
+                meta.content = `app-id=581184059, app-argument=${deeplinkUrl}`;
+                document.head.appendChild(meta);
+            }
+
+            const bannerOpenApp = document.querySelector('#banner-openapp')
+            const cookiePolicy = document.querySelector('#cookiePolicyDialog')
+            const openAppButton = document.querySelector('#open-niyay-dekd-app-btn')
+            const dekdWriterLogoLink = document.querySelector('#dekd-writer-logo')
+            const closeDialogButton = document.querySelector('#close-niyay-dekd-app-btn')
+            const novelContent = document.querySelector("#story-content")
+            const webtoonContent = document.querySelector("#page-webtoon-cover-content")
+            const backToTop = document.querySelector(".scroll-to-top-btn")
+
+            // Open dialog function
+            function isBannerOpenAppVisible() {
+                const contentEndPosition = novelContent.offsetTop + novelContent.offsetHeight
+                const windowEndPosition = window.pageYOffset + window.innerHeight
+                const isMobile = !!(document.querySelector('body')?.dataset?.ismobile) ?? false
+                const isBannerVisible = windowEndPosition >= contentEndPosition && isMobile
+                if (isBannerVisible) {
+                    bannerOpenApp.style.display = 'flex'
+                    if (!!cookiePolicy) cookiePolicy.style.transform = "translate(0, -100px)"
+                } else {
+                    bannerOpenApp.style.display = 'none'
+                    if (!!cookiePolicy) cookiePolicy.style.transform = "translate(0, 0)"
+                }
+            }
+
+            function isMobileSafari() {
+                const ua = navigator.userAgent;
+                const isIOSDevice = /iPad|iPhone|iPod/.test(ua) && !window.MSStream;
+                const isSafari = /Safari/.test(ua);
+                const isNotChrome = !/Chrome/.test(ua);
+                const isNotOtherBrowsers = !/OPiOS|FxiOS|CriOS|EdgiOS|Edg\/|Edge\//.test(ua);
+                const isNotMacOS = !/Macintosh/.test(ua) || (('ontouchend' in document) && isIOSDevice);
+
+                return isIOSDevice && isSafari && isNotChrome && isNotOtherBrowsers && isNotMacOS;
+            }
+
+            function isBannerOpenApp() {
+                const isMobile = !!(document.querySelector('body')?.dataset?.ismobile) ?? false
+                if (isMobile) {
+                    bannerOpenApp.style.display = 'flex'
+                    if (!!cookiePolicy) cookiePolicy.style.transform = "translate(0, -100px)"
+                }
+            }
+
+
+            function onClickOpenNiyayDekDApp() {
+                if (!!firebase && window.analyticsPageName) {
+                    firebase.analytics().logEvent('select_banner_download_app', {
+                        page: window.analyticsPageName
+                    })
+                }
+                // Try opening the app
+                window.location = deeplinkUrl;
+                let now = new Date().getTime();
+                // Redirect to the app store after a delay if unsuccessful
+                setTimeout(function() {
+                    if (new Date().getTime() - now < 1500) {
+                        window.location = storeURL;
+                    }
+                }, 1000);
+                // error to install
+                // if (!!firebase) {
+                //     firebase.analytics().logEvent('select_banner_download_app', {
+                //         is_login: '<//?= $isLogin ? 'login' : 'not-login' ?>',
+                //         page_destination: 'install-app'
+                //     })
+                // }
+            }
+
+            function onClickOpenNovelWeb() {
+                window.open('https://novel.dek-d.com/', '_blank');
+            }
+
+            // Listen on page scrolling
+            function onScrolling() {
+                if (!!window && !!screen && !!novelContent) isBannerOpenAppVisible()
+            }
+
+            function onClickCloseBannerOpenAppDialog() {
+                // Clear event listener
+                document.removeEventListener('scroll', onScrolling)
+                closeDialogButton.removeEventListener('click', onClickCloseBannerOpenAppDialog)
+                openAppButton.removeEventListener('click', onClickOpenNiyayDekDApp)
+                // Remove banner
+                bannerOpenApp.remove()
+                setCookie('show_banner_open_app', 'false', 1)
+            }
+
+            function setCookie(cname, cvalue, exdays) {
+                if (exdays === 0) {
+                    const expires = new Date();
+                    expires.setHours(23);
+                    expires.setMinutes(59);
+                    expires.setSeconds(59);
+                    const exp = "expires=" + expires.toUTCString();
+                    document.cookie = cname + "=" + cvalue + ";" + exp + "; path=/; domain=dek-d.com;";
+                } else {
+                    const d = new Date();
+                    d.setTime(d.getTime() + (exdays * 24 * 60 * 60 * 1000));
+                    const expires = "expires=" + d.toUTCString();
+                    document.cookie = cname + "=" + cvalue + ";" + expires + "; path=/; domain=dek-d.com;";
+                }
+            }
+            
+
+            function getCookie(cname) {
+                let name = cname + "=";
+                let decodedCookie = decodeURIComponent(document.cookie);
+                let ca = decodedCookie.split(';');
+                for (let i = 0; i < ca.length; i++) {
+                    let c = ca[i];
+                    while (c.charAt(0) == ' ') {
+                        c = c.substring(1);
+                    }
+                    if (c.indexOf(name) == 0) {
+                        return c.substring(name.length, c.length);
+                    }
+                }
+                return "";
+            }
+
+            // Set listener
+            closeDialogButton.addEventListener('click', onClickCloseBannerOpenAppDialog)
+            openAppButton.addEventListener('click', onClickOpenNiyayDekDApp)
+            dekdWriterLogoLink.addEventListener('click', onClickOpenNovelWeb)
+            if (!getCookie('show_banner_open_app')) {
+                if (!!window && !!screen && (!!novelContent || !!webtoonContent)) isBannerOpenApp()
+                // document.addEventListener('scroll', onScrolling)
+            }
+        })
+    })()
+</script>        </div>
+        <div id="menu">
+            <link rel="stylesheet" href="https://www0.dek-d.com/assets/writer/css/dek_d_coin.min.css?v=toolbar-writer-desktop:1.0.4"><link rel="stylesheet" href="https://www0.dek-d.com/assets/toolbar/css/set_password_modal.min.css?v=toolbar-writer-desktop:1.0.4"><script>
+  var setPasswordCtrl = {
+    createCookie: function createCookie(name, value, days) {
+      if (days) {
+        var date = new Date()
+        date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000))
+        var expires = '; expires=' + date.toGMTString()
+      } else {
+        var expires = ''
+      }
+      document.cookie = name + '=' + value + expires + '; path=/'
+    },
+
+    readCookie: function readCookie(name) {
+      var nameEQ = name + '='
+      var ca = document.cookie.split(';')
+      for (var i = 0; i < ca.length; i++) {
+        var c = ca[i]
+        while (c.charAt(0) == ' ') c = c.substring(1, c.length)
+        if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length, c.length)
+      }
+      return null
+    },
+
+    eraseCookie: function eraseCookie(name) {
+      createCookie(name, '', -1)
+    },
+
+    showUsernameAndPasswordContent: function showUsernameAndPasswordContent() {
+      const wrapper = document.querySelector('#non-password-modal')
+      const passwordModal = document.querySelector('#non-password-modal .js-non-password-modal')
+      const usernameAndPasswordModal = document.querySelector('#non-password-modal .js-username-and-password-modal')
+      passwordModal.style.display = 'none'
+      usernameAndPasswordModal.style.display = 'block'
+      wrapper.classList.add('-long')
+    },
+
+    showOnlyPasswordContent: function showOnlyPasswordContent() {
+      const wrapper = document.querySelector('#non-password-modal')
+      const passwordModal = document.querySelector('#non-password-modal .js-non-password-modal')
+      const usernameAndPasswordModal = document.querySelector('#non-password-modal .js-username-and-password-modal')
+      passwordModal.style.display = 'block'
+      usernameAndPasswordModal.style.display = 'none'
+      wrapper.classList.remove('-long')
+    },
+  }
+</script>
+<!-- MODAL WRAPPER-->
+<div id="non-password-modal" style="display: none;" class="modal-wrapper -confirmbox">
+	<div class="modal-box js-non-password-modal">
+		<button class="modalclosebtn"><i class="fa fa-times"></i></button>
+		<div class="modal-header">
+			<span  class="title">ตั้งรหัสผ่าน</span>
+<!--			<div class="subheader">การตั้งรหัสผ่าน</div>-->
+		</div>
+		<div class="modal-body">
+			<p>คุณยังไม่ได้ตั้งรหัสผ่านในบัญชีของคุณ</p>
+			<p>ตั้งรหัสผ่านตอนนี้เพื่อให้สามารถเข้าสู่ระบบด้วยรหัสผ่านได้</p>
+		</div>
+		<div class="modal-footer">
+            <button class="cancelbutton dekdbutton -gray  -outline">ไว้ภายหลัง</button>
+            <a class="dekdbutton" target="_self" href="https://www.dek-d.com/member/password/set_password">ตั้งรหัสผ่าน</a>
+		</div>
+	</div>
+  <div class="modal-box js-username-and-password-modal" style="display: none;">
+		<button class="modalclosebtn"><i class="fa fa-times"></i></button>
+		<div class="modal-header">
+			<span  class="title">กำหนด Username และ Password</span>
+		</div>
+		<div class="modal-body">
+			<p>คุณยังไม่ได้ตั้ง Username และ Password บัญชีของคุณ </p>
+			<p>สามารถทำได้ที่ “หน้าแก้ไขโพรไฟล์”</p>
+		</div>
+		<div class="modal-footer">
+            <button class="cancelbutton dekdbutton -gray  -outline">ไว้ภายหลัง</button>
+            <a class="dekdbutton" target="_self" href="https://www.dek-d.com/member/profile/info">แก้ไขโพรไฟล์</a>
+		</div>
+	</div>
+</div>
+<script src="https://accounts.google.com/gsi/client"></script>
+<script type="text/javascript">
+    (function($) {
+        const isLogin = !!'';
+        if (!isLogin) {
+            window.google.accounts.id.initialize({
+                client_id: '897471588109.apps.googleusercontent.com',
+                callback: (res) => {
+                    if (!res?.credential) return
+                    const googleCallbackUrl = `https://www.dek-d.com/member/login/callback/google?idToken=${res?.credential}&refer=${window.location.href}`
+                    window.location.href = googleCallbackUrl
+                },
+                context: 'signin',
+                use_fedcm_for_prompt: true,
+            })
+            window.google.accounts.id.prompt()
+        }
+    })(jQuery);
+</script>
+<nav id="toolbar">
+    <div class="toolbar">
+        <div class="toolbar-container" style="justify-content: space-between;">
+            <ul>
+	<li class="toolbar-menu-item menu-home">
+		<a href="https://www.dek-d.com/" target="_blank" title="หน้าแรก" class="tb-logo"></a>
+	</li>
+
+	<li class="toolbar-menu-item">
+		<a class="tb-menulink" title="นิยาย">นิยาย <i class="icon-fa-angle-down"></i></a>
+		<div id="toolbar-menu-novel" class="toolbar-submenu-column-wrapper dropdown-left">
+			<div class="tb-submenu-column">
+				<div class="novel-submenu-topcol" style="height: auto;">
+					<a class="tb-submenu-col-header" title="มุมนักอ่าน">มุมนักอ่าน</a>
+					<ul>
+						<li class="toolbar-submenu-item">
+							<a href="https://novel.dek-d.com/" target="_blank" title="หน้าหลัก">
+								<i class="icon-fa-circle tb-icon-submenu"></i>
+								<span>หน้าหลัก</span>
+							</a>
+						</li>
+
+						<li class="toolbar-submenu-item">
+							<a href="https://novel.dek-d.com/list/top/" target="_blank" title="ติดท็อป">
+								<i class="icon-fa-circle tb-icon-submenu"></i>
+								<span>ติดท็อป</span>
+							</a>
+						</li>
+
+						<li class="toolbar-submenu-item">
+							<a href="https://novel.dek-d.com/onboarding/" target="_blank" title="ฮิตตลอดกาล">
+								<i class="icon-fa-circle tb-icon-submenu"></i>
+								<span>ฮิตตลอดกาล</span>
+							</a>
+						</li>
+
+						<li class="toolbar-submenu-item">
+							<a href="https://novel.dek-d.com/featured/" target="_blank" title="แนะนำ">
+								<i class="icon-fa-circle tb-icon-submenu"></i>
+								<span>แนะนำ</span>
+							</a>
+						</li>
+
+						<li class="toolbar-submenu-item">
+							<a href="https://novel.dek-d.com/store/" target="_blank" title="ร้านค้านิยาย">
+								<i class="icon-fa-circle tb-icon-submenu"></i>
+								<span>ร้านค้านิยาย</span>
+							</a>
+						</li>
+
+						<li class="toolbar-submenu-item">
+							<a href="https://novel.dek-d.com/review/" target="_blank" title="รีวิวนิยาย">
+								<i class="icon-fa-circle tb-icon-submenu"></i>
+								<span>รีวิวนิยาย</span>
+							</a>
+						</li>
+
+						<li class="toolbar-submenu-item">
+							<a href="https://novel.dek-d.com/collection/" target="_blank" title="คอลเล็กชันนิยาย">
+								<i class="icon-fa-circle tb-icon-submenu"></i>
+								<span>คอลเล็กชันนิยาย</span>
+							</a>
+						</li>
+
+						<li class="toolbar-submenu-item">
+							<a href="https://novel.dek-d.com/list/" target="_blank" title="นิยายทั้งหมด">
+								<i class="icon-fa-circle tb-icon-submenu"></i>
+								<span>นิยายทั้งหมด</span>
+							</a>
+						</li>
+
+						<li class="toolbar-submenu-item">
+							<a href="https://www.dek-d.com/visualnovel/" target="_blank" title="Visual Novel">
+								<i class="icon-fa-circle tb-icon-submenu"></i>
+								<span>Visual Novel</span>
+							</a>
+						</li>
+					</ul>
+				</div>
+			</div><!-- end div tb-submenu-column -->
+
+			<div class="tb-submenu-column">
+				<a title="มุมนักเขียน" class="tb-submenu-col-header">มุมนักเขียน</a>
+				<ul>
+					<li class="toolbar-submenu-item">
+						<a href="https://writer.dek-d.com/dekdee/control/writer3/?create_story" target="_blank" title="แต่งนิยาย">
+							<i class="icon-fire  tb-fire"></i>
+							<span>แต่งนิยาย</span>
+						</a>
+					</li>
+
+					<li class="toolbar-submenu-item">
+						<a href="https://novel.dek-d.com/writer/academy/" target="_blank" title="เริ่มต้นแต่งนิยาย">
+							<i class="icon-fa-circle tb-icon-submenu"></i>
+							<span>เริ่มต้นแต่งนิยาย</span>
+							<span class="new-sp">ใหม่</span>
+						</a>
+					</li>
+
+					<li class="toolbar-submenu-item">
+						<a href="https://www.dek-d.com/board/writer/" target="_blank"
+							title="บอร์ดนักเขียน">
+							<i class="icon-fa-circle tb-icon-submenu"></i>
+							<span>บอร์ดนักเขียน</span>
+						</a>
+					</li>
+				</ul>
+			</div><!-- end div tb-submenu-column -->
+		</div>
+	</li>
+
+	<li class="toolbar-menu-item">
+		<a class="tb-menulink" title="เว็บตูน">เว็บตูน <i class="icon-fa-angle-down"></i></a>
+		<div id="toolbar-menu-novel" class="toolbar-submenu-column-wrapper dropdown-left">
+			<div class="tb-submenu-column">
+				<div class="novel-submenu-topcol" style="height: auto;">
+					<a class="tb-submenu-col-header" title="มุมนักอ่าน">มุมนักอ่าน</a>
+					<ul>
+						<li class="toolbar-submenu-item">
+							<a href="https://webtoon.dek-d.com/" target="_blank" title="หน้าหลัก">
+								<i class="icon-fa-circle tb-icon-submenu"></i>
+								<span>หน้าหลัก</span>
+							</a>
+						</li>
+
+						<li class="toolbar-submenu-item">
+							<a href="https://webtoon.dek-d.com/list/top/" target="_blank" title="ติดท็อป">
+								<i class="icon-fa-circle tb-icon-submenu"></i>
+								<span>ติดท็อป</span>
+							</a>
+						</li>
+
+						<li class="toolbar-submenu-item">
+							<a href="https://webtoon.dek-d.com/store/" target="_blank" title="ร้านค้าเว็บตูน">
+								<i class="icon-fa-circle tb-icon-submenu"></i>
+								<span>ร้านค้าเว็บตูน</span>
+							</a>
+						</li>
+
+						<li class="toolbar-submenu-item">
+							<a href="https://webtoon.dek-d.com/list/" target="_blank" title="เว็บตูนทั้งหมด">
+								<i class="icon-fa-circle tb-icon-submenu"></i>
+								<span>เว็บตูนทั้งหมด</span>
+							</a>
+						</li>
+					</ul>
+				</div>
+			</div><!-- end div tb-submenu-column -->
+
+			<div class="tb-submenu-column">
+				<a title="มุมมองนักวาด" class="tb-submenu-col-header"> มุมมองนักวาด</a>
+				<ul>
+					<li class="toolbar-submenu-item">
+						<a href="https://writer.dek-d.com/dekdee/control/writer3/?create_story" target="_blank" title="สร้างเว็บตูน">
+							<i class="icon-fire  tb-fire"></i>
+							<span>สร้างเว็บตูน</span>
+						</a>
+					</li>
+					<li class="toolbar-submenu-item">
+						<a href="https://novel.dek-d.com/help/manual/writer/webtoon/publish/publish/" target="_blank" title="เริ่มต้นสร้างเว็บตูน">
+							<i class="icon-fa-circle tb-icon-submenu"></i>
+							<span>เริ่มต้นสร้างเว็บตูน</span>
+							<span class="new-sp">ใหม่</span>
+						</a>
+					</li>
+
+					<li class="toolbar-submenu-item">
+						<a href="https://www.dek-d.com/board/writer/" target="_blank" title="บอร์ดนักวาด">
+							<i class="icon-fa-circle tb-icon-submenu"></i>
+							<span>บอร์ดนักวาด</span>
+						</a>
+					</li>
+				</ul>
+			</div><!-- end div tb-submenu-column -->
+		</div>
+	</li>
+
+	<li class="toolbar-menu-item">
+		<a href="https://novel.dek-d.com/store/ebook/" target="_blank" class="tb-menulink" title="อีบุ๊ก">อีบุ๊ก</a>
+	</li>
+
+	<li class="toolbar-menu-item">
+		<a href="https://novel.dek-d.com/writer/" target="_blank" class="tb-menulink" title="มุมนักเขียน">มุมนักเขียน</a>
+	</li>
+</ul>
+
+<!-- TOOLBAR USER (RIGHT SIDE) -->
+
+<ul class="toolbar-user-menu" data-state="normal">
+	<li class="toolbar-menu-item -fluid" data-menu-type="create-story">
+		<a href="https://writer.dek-d.com/dekdee/control/writer3/?create_story" target="_blank" class="tb-menulink " title="สร้างผลงาน">
+			<i class="icon-fa-pencil tb-icon-mainmenu"></i>
+			สร้างผลงาน
+		</a>
+	</li>
+
+	<!-- Search -->
+	<li class="toolbar-menu-item" data-menu-type="search">
+		<a href="https://novel.dek-d.com/search/" class="tb-menulink " title="ค้นหา">
+			<i class="icon-fa-search tb-icon-mainmenu"></i>
+		</a>
+	</li>
+
+	<li class="toolbar-login-loading">
+		<div class="loading-img"></div>
+	</li>
+
+	<li class="toolbar-menu-item user-panel " data-menu-type="bookshelf">
+		<a href="https://novel.dek-d.com/bookshelf/follow/" class="tb-menulink " title="ค้นหา" style="width: 100%; height: 100%;">
+			<i class="icon-bookshelf tb-icon-mainmenu tb-icon-mainmenu-login" id="toolbar-menu-item-bookshelf"></i>
+		</a>
+	</li>
+
+	<!--  Guest  -->
+	<li class="toolbar-menu-item tb-login user-panel enable" data-menu-type="login" id="toolbar-menu-item-sign-in">
+		<a href="https://www.dek-d.com/member/login?refer=https://writer.dek-d.com/dekdee/writer/viewlongc.php?id=2485901&chapter=125" target="_self" class="tb-menulink" title="เข้าสู่ระบบ">
+			<i class="icon-fa-user tb-icon-mainmenu tb-icon-mainmenu-login" ></i> เข้าสู่ระบบ
+		</a>
+	</li>
+
+    <!-- Allow only God members to access the direct message feature -->
+	<!-- Direct Message -->
+	
+
+	<!-- Notification -->
+	<li class="toolbar-menu-item js-user-control user-panel " data-menu-type="noti">
+		<a href="#" class="tb-menulink" title="notification">
+			<i class="icon-fa-bell tb-icon-mainmenu"></i>
+			<i class="tb-badge-style tb-badge-menu sumnoti-bubble"></i>
+		</a>
+		<div class="tb-noti-wrapper">
+			<div class="toolbar-option-wrapper">
+				<div class="toolbar-option-header">
+					<span class="js-option-header" data-setting-on="ตั้งค่าการแจ้งเตือน"
+						data-setting-off="การแจ้งเตือน" data-article="บทความแนะนำ">การแจ้งเตือน</span>
+					<a href="#" class="tb-option-btnright  js-setting-btn" title="ตั้งค่าการแจ้งเตือน"
+						data-btn-setting="ตั้งค่า" data-btn-save="บันทึก">ตั้งค่า</a>
+					<button type="button" class="tb-option-btnleft js-noti-module-back"
+						title="กลับไปหน้าการแจ้งเตือน"><i class="icon-fa-arrow-left"></i></button>
+				</div>
+				<div class="js-noti-wrapper" data-has-noti="">
+					<ul class="toolbar-container-noti">
+
+					</ul>
+					<a href="https://www.dek-d.com/board/user//#stat-notify" target="_blank" class="tb-viewall" title="ดูการแจ้งเตือนทั้งหมด">ดูทั้งหมด
+						<i class="icon-fa-chevron-right ic-viewall"></i></a>
+
+					<div class="js-empty-postboard empty-state" style="display:none;">
+						<img class="img-empty-state noti"
+							src="https://www0.dek-d.com/assets/toolbar/images/jeejee_noti.png">
+						<p class="empty-header">ตอนนี้ยังไม่มีการแจ้งเตือน</p>
+						<p class="empty-detail">เล่าเรื่องราวของคุณหรือสิ่งที่สนใจผ่านการตั้งกระทู้
+							<br>ถ้ามีเพื่อนๆ มาตอบจะได้รับการแจ้งเตือนด้วยนะ
+						</p>
+						<a href="https://www.dek-d.com/board/post/" target="_blank"
+							class="tb-btn-style tb-btn-orange" title="ตั้งกระทู้"><i
+								class="icon-fa-plus"></i> ตั้งกระทู้</a>
+					</div>
+
+					<div class="empty-state empty-random-2 empty-random-1" style="display:none;">
+						<img class="img-empty-state noti"
+							src="https://www0.dek-d.com/assets/toolbar/images/bombom_noti.png">
+						<p class="empty-header">ตอนนี้ยังไม่มีการแจ้งเตือน</p>
+						<p class="empty-detail">เพียงแค่ 3 ขั้นตอนง่ายๆ เพื่อรับแจ้งเตือน<br>บทความมาใหม่ในหมวดที่คุณสนใจ
+						</p>
+						<a href="https://goo.gl/CfwsMj" class="tb-btn-style tb-btn-orange"
+							title="อ่านรายละเอียดเพิ่มเติม">อ่านรายละเอียดเพิ่มเติม</a>
+					</div>
+
+					<div class="js-empty-subscibe empty-state" style="display:none;">
+						<img class="img-empty-state"
+							src="https://www0.dek-d.com/assets/toolbar/images/bombom_noti_ok.png">
+						<p class="empty-header">ตอนนี้ได้ติดตามบทความเรียบร้อย</p>
+						<p class="empty-detail">เมื่อบทความที่ติดตามอัปเดตจะแจ้งเตือนทันที
+							<br>ขอให้สนุกกับการอ่านบทความนะครับ
+						</p>
+					</div>
+
+
+				</div>
+
+				<div class="js-settingnoti-wrapper"></div>
+			</div>
+		</div>
+	</li>
+
+	<!-- User -->
+	<li class="toolbar-menu-item js-user-control user-panel " data-menu-type="user">
+		<a href="#" class="tb-menulink tb-menu-user" title="member">
+			<img class="tb-user-thumb" src="">
+			<i class="tb-badge-style tb-badge-menu sumself-bubble"></i>
+		</a>
+
+		<div class="tb-user-wrapper">
+			<div class="toolbar-container-profile toolbar-option-wrapper">
+				<div class="toolbar-option-header">
+					<button type="button" class="tb-option-btnleft js-user-module-back" title="กลับไปหน้าข้อมูลส่วนตัว">
+						<i class="icon-fa-arrow-left"></i>
+					</button>
+					<span class="js-option-header" data-profilesub-on="?" data-profile-off="ข้อมูลส่วนตัว">ข้อมูลส่วนตัว</span>
+				</div>
+
+				<div class="js-profilemenu-wrapper">
+					<div class="toolbar-user-item clearfix">
+						<a href="https://my.dek-d.com//" class="toolbar-big-profile" title="ไป myid ของฉัน" target="_blank">
+							<div style="position: relative;"><img class="tb-user-img" src=""></div>
+							<p class="tb-username profile"></p>
+							<p class="tb-myid">@</p>
+						</a>
+						<a href="https://www.dek-d.com/member/profile" target="_blank" title="แก้ไขโพรไฟล์" class="profile-edit" data-shadow_member="0">แก้ไข</a>
+					</div>
+					<ul>
+						<li class="toolbar-submenu-item toolbar-submenu-item-coin" data-profile-sub="coin" data-shadow_member="0">
+							<a href="https://www.dek-d.com/wallet/" target="_blank" style="align-items:center; display:flex" title="Coin ของฉัน">
+								<i class="reader-coin"></i>
+								<span class="js-profile-title">Coin ของฉัน</span>
+							</a>
+						</li>
+						<li class="toolbar-submenu-item js-profile-menu tb-secret" data-profile-sub="message" data-shadow_member="0">
+							<a href="#" title="ข้อความลับ">
+								<i class="fa fa-envelope tb-icon-submenu"></i>
+								<span class="js-profile-title">ข้อความลับ</span>
+								<i class="tb-badge-style tb-badge-noti"></i>
+								<i class="icon-fa-chevron-right tb-icon-next"></i>
+							</a>
+						</li>
+                		<!-- Allow only God members to access the direct message feature -->
+												<li class="toolbar-submenu-item toolbar-submenu-item-update-story" data-profile-sub="update-story" data-shadow_member="0">
+							<a href="https://novel.dek-d.com/notification/update/" target="_blank" title="แจ้งเตือนเรื่องอัปเดต">
+								<i class="icon-fa-bell tb-icon-submenu"></i>
+								<span>แจ้งเตือนเรื่องอัปเดต</span>
+								<i class="tb-badge-style tb-badge-noti sub"></i>
+							</a>
+						</li>
+						<li class="toolbar-submenu-item toolbar-submenu-item-booshelf" data-profile-sub="bookshelf" data-shadow_member="0">
+							<a href="https://novel.dek-d.com/bookshelf/" target="_blank" title="ชั้นหนังสือ">
+								<i class="icon-bookshelf tb-icon-submenu tb-icon-bookshelf-orange"></i>
+								<span class="js-profile-title">ชั้นหนังสือ</span>
+							</a>
+						</li>
+						<li class="toolbar-submenu-item toolbar-submenu-item-create-story" data-profile-sub="create-story" data-shadow_member="0">
+							<a href="https://writer.dek-d.com/dekdee/control/writer3/?create_story" target="_blank" title="สร้างผลงาน">
+								<i class="icon-fa-pencil-square-o tb-icon-submenu"></i>
+								<span>สร้างผลงาน</span>
+							</a>
+						</li>
+						<li class="toolbar-submenu-item logout">
+							<a href="#" title="ออกจากระบบ">
+								<i class="icon-fa-power-off tb-icon-submenu"></i>
+								<span>ออกจากระบบ</span>
+							</a>
+						</li>
+					</ul>
+				</div>
+
+				<div class="js-profilesub-wrapper">
+					<div class="tb-profilesub-message">
+						<ul class="toolbar-container-profile request">
+							<li class="toolbar-user-item clearfix dummy">
+								<a href="#" class="user-item-detail" title="เปิดข้อความลับ"
+									target="_blank">
+									<img class="tb-user-img" src="">
+									<p class="tb-username">dummyaliasname</p>
+									<p class="tb-myid">@dummyusername</p>
+									<p class="tb-message">dummymsg</p>
+								</a>
+							</li>
+						</ul>
+						<a href="#" target="_blank" class="tb-viewall" title="ดูข้อความลับทั้งหมด">ดูทั้งหมด
+							<i class="icon-fa-chevron-right ic-viewall"></i></a>
+
+						<div class="empty-state" style="display:none;">
+							<img class="img-empty-state friends"
+								src="https://www0.dek-d.com/assets/toolbar/images/bombom_state.png">
+							<p class="empty-header">ตอนนี้ยังไม่มีข้อความลับ</p>
+						</div>
+					</div>
+
+				</div>
+			</div>
+		</div>
+	</li>
+</ul>
+
+<!-- END OF TOOLBAR USER (RIGHT SIDE) -->        </div>
+    </div>
+</nav>
+
+<script>
+    window.__AUTHENTICATE_DATA = {
+        age: 0,
+        aliasname: '',
+        aliasname_attr: '',
+        appleconnection: 0,
+        countstory: 0,
+        display: '',
+        editUsername: false,
+        email: "",
+        fbconnection: 0,
+        friend: [],
+        friend_request: 0,
+        gplusconnection: 0,
+        huaweiconnection: 0,
+        last_login: "",
+        n: 0,
+        password: false,
+        priv_class: "",
+        province: "",
+        score: 0,
+        secret_message: 0,
+        sex: "O",
+        twconnection: 0,
+        user_id: +'0',
+        username: '',
+    }
+</script>
+
+<script   src="https://www0.dek-d.com/assets/vendor/jquery-transform/jquery.transform2d.min.js?v=toolbar-writer-desktop:1.0.4"></script><script   src="https://www0.dek-d.com/resource/js/fb.min.js?v=toolbar-writer-desktop:1.0.4"></script><script   src="https://www0.dek-d.com/assets/notify/js/jquery.timesince.js?v=toolbar-writer-desktop:1.0.4"></script><script   src="https://www0.dek-d.com/assets/vendor/faceless/faceless.js?v=toolbar-writer-desktop:1.0.4"></script><script   src="https://www0.dek-d.com/assets/vendor/googleless/googleless.min.js?v=toolbar-writer-desktop:1.0.4"></script><script   src="https://www0.dek-d.com/assets/vendor/dekd-foundation-2.2/js/helper.min.js?v=toolbar-writer-desktop:1.0.4"></script><script   src="https://www0.dek-d.com/assets/vendor/dekd-foundation-2.2/js/modalbox.min.js?v=toolbar-writer-desktop:1.0.4"></script><script   src="https://www0.dek-d.com/assets/toolbar/js/toolbar_desktop_writer.min.js?v=toolbar-writer-desktop:1.0.4"></script><script   src="https://www0.dek-d.com/assets/toolbar/js/toolbar_announcement_writer.min.js?v=toolbar-writer-desktop:1.0.4"></script><script src="https://www0.dek-d.com/captless/v3.js.php?v=toolbar-writer-desktop:1.0.4" type="text/javascript"></script>        </div>
+        <script>
+            var menuClone = $('#menu').clone();
+            var toolbarClone = $('#toolbar').clone();
+        </script>
+
+                        <div id="main-center" class="" style="margin-top: 0;">
+            <div id="main" class="clear tool-header-main" lock="lock-css" data-novel-id="2485901" data-chapter-id="125" data-host="my" data-host-www="www" data-host-asset="www0">
+    <div id="head" class="stickable" >
+        <div id="head1">
+                            <!-- <a id="writer-logo" class="short-logo" href="https://novel.dek-d.com/" target="_blank" title="ไปหน้าหลัก Writer">
+                    <img src="https://image.dek-d.com/contentimg/2020/writer/assets/logo/logo_niyaydekdbook.png" alt="Dek-D's Writer" class="writer3logo">
+                </a> -->
+                <div id="action-chapter-list">
+                    <button class="action-overflow -list-of-contents" title="สารบัญตอน"><i class="fa fa-list" aria-hidden="true"></i></button>
+                </div>
+                <div class="header-story-name">
+                    ลำดับตอนที่ #125                </div>
+                <div class="box-icon-header box-right">
+                    <a id="chapter-bookmark-button" class="tippy-ip chapter-action-button-header" data-tippy-placement="bottom" data-tippy-content="บุ๊กมาร์ก" href="javascript:void(0)" target="_self" data-novel-id="2485901" data-main-cat="2" data-sub-cat="2">
+                        <span>
+                            <img src="https://www0.dek-d.com/assets/writer/icon/bookmark/bookmark.svg?v=1" id="icon-bookmark" alt="bookmark">
+                        </span>
+                    </a>
+                </div>
+                <div class="box-icon-header-font" id="font-size-popup">
+                    <a href="javascript:void(0)" class="tippy-ip chapter-action-button-header" data-tippy-placement="bottom" data-tippy-content="ตั้งค่าอ่าน" target="_self" id="font-size-text" style="width:60px">
+                        <span>
+                            <img src="https://www0.dek-d.com/assets/writer/icon/fontsize/FontSize.svg?v=1" id="icon-font" alt="font-size">
+                        </span>
+                    </a>
+                </div>
+                <!-- <div class="box-icon-header" style="width: 80px;">
+                    <a id="chapter-fav-button" class="chapter-action-button-header" href="javascript:void(0)" target="_self">
+                        <span>
+                            <img src="https://www0.dek-d.com/assets/writer/icon/favorite/normal.svg" id="icon-fav" alt="favorite">
+                            <br>
+                            <div class="chapter-text" id="favorite-text">ติดตามนิยาย</div>
+                        </span>
+                    </a>
+                </div> -->
+                                    <!-- <div class="box-icon-header-icon">
+                        <a class="chapter-action-button-header" href="viewlongc.php?id=2485901&chapter=124" title="ตอนก่อนหน้า" target="_self">
+                            <span>
+                                <i class="fa fa fa-angle-left icontext" aria-hidden="true" id="icon-prev"></i>
+                                <br>
+                                <div class="chapter-text-icon">ตอนก่อนหน้า</div>
+                            </span>
+                        </a>
+                    </div> -->
+                                                    <!-- <div class="box-icon-header-icon">
+                        <a class="chapter-action-button-header" href="viewlongc.php?id=2485901&chapter=126" title="ตอนถัดไป" target="_self">
+                            <span>
+                                <i class="fa fa-angle-right icontext" aria-hidden="true" id="icon-next"></i>
+                                <br>
+                                <div class="chapter-text-icon">ตอนถัดไป</div>
+                            </span>
+                        </a>
+                    </div> -->
+                                <div class="action-overflow-box-desktop" id="action-activity-novel">
+                    <button class="action-overflow -reader"><i class="fa fa-ellipsis-v" aria-hidden="true"></i></button>
+                    <ul class="list__action" id="list-activity-novel"></ul>
+                </div>
+                                </div>
+            </div>
+</div>
+<div class="reader-setting-show">
+    <div class="reader-setting__header">
+        <div class="reader-setting__head">ตั้งค่าการอ่าน</div>
+        <p id="js-reset-panel-control">ค่าเริ่มต้น</p>
+    </div>
+    <ul class="lineheight-setting__wrapper">
+        <li><a id="toggle-min" href="javascript:void(0)" target="_blank" class="lineHeight active" data-height="min">
+                <svg class="icon-line-height" xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18" fill="none">
+                    <path d="M0.75 12.9375C0.75 13.4553 1.16973 13.875 1.6875 13.875H16.3125C16.8303 13.875 17.25 13.4553 17.25 12.9375C17.25 12.4197 16.8303 12 16.3125 12H1.6875C1.16973 12 0.75 12.4197 0.75 12.9375ZM0.75 9.37499C0.75 9.89276 1.16973 10.3125 1.6875 10.3125H16.3125C16.8303 10.3125 17.25 9.89276 17.25 9.37499C17.25 8.85723 16.8303 8.43749 16.3125 8.43749H1.6875C1.16973 8.43749 0.75 8.85723 0.75 9.37499ZM1.6875 4.87499C1.16973 4.87499 0.75 5.29473 0.75 5.81249C0.75 6.33026 1.16973 6.74999 1.6875 6.74999H16.3125C16.8303 6.74999 17.25 6.33026 17.25 5.81249C17.25 5.29473 16.8303 4.87499 16.3125 4.87499H1.6875Z" fill="#A8A8A8" style="stroke: unset;" />
+                    <path d="M1.6875 13.0312C1.63572 13.0312 1.59375 12.9893 1.59375 12.9375C1.59375 12.8857 1.63572 12.8437 1.6875 12.8437H16.3125C16.3643 12.8437 16.4062 12.8857 16.4062 12.9375C16.4062 12.9893 16.3643 13.0312 16.3125 13.0312H1.6875ZM1.6875 9.46874C1.63572 9.46874 1.59375 9.42677 1.59375 9.37499C1.59375 9.32322 1.63572 9.28124 1.6875 9.28124H16.3125C16.3643 9.28124 16.4062 9.32322 16.4062 9.37499C16.4062 9.42677 16.3643 9.46874 16.3125 9.46874H1.6875ZM1.59375 5.81249C1.59375 5.76072 1.63572 5.71874 1.6875 5.71874H16.3125C16.3643 5.71874 16.4062 5.76072 16.4062 5.81249C16.4062 5.86427 16.3643 5.90624 16.3125 5.90624H1.6875C1.63572 5.90624 1.59375 5.86427 1.59375 5.81249Z" stroke="#A8A8A8" stroke-width="1.6875" style="stroke: unset;" />
+                </svg>
+            </a></li>
+        <li><a id="toggle-medium" href="javascript:void(0)" target="_blank" class="lineHeight " data-height="medium">
+                <svg class="icon-line-height" xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18" fill="none">
+                    <path d="M1.6875 13.7812C1.63572 13.7812 1.59375 13.7393 1.59375 13.6875C1.59375 13.6357 1.63572 13.5937 1.6875 13.5937H16.3125C16.3643 13.5937 16.4062 13.6357 16.4062 13.6875C16.4062 13.7393 16.3643 13.7812 16.3125 13.7812H1.6875ZM1.6875 9.46875C1.63572 9.46875 1.59375 9.42678 1.59375 9.375C1.59375 9.32322 1.63572 9.28125 1.6875 9.28125H16.3125C16.3643 9.28125 16.4062 9.32322 16.4062 9.375C16.4062 9.42678 16.3643 9.46875 16.3125 9.46875H1.6875ZM1.59375 5.0625C1.59375 5.01072 1.63572 4.96875 1.6875 4.96875H16.3125C16.3643 4.96875 16.4062 5.01072 16.4062 5.0625C16.4062 5.11428 16.3643 5.15625 16.3125 5.15625H1.6875C1.63572 5.15625 1.59375 5.11428 1.59375 5.0625Z" fill="#A8A8A8" stroke="#A8A8A8" stroke-width="1.6875" />
+                </svg>
+            </a></li>
+        <li><a id="toggle-max" href="javascript:void(0)" target="_blank" class="lineHeight " data-height="max">
+                <svg class="icon-line-height" xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18" fill="none">
+                    <path d="M1.6875 14.5312C1.63572 14.5312 1.59375 14.4893 1.59375 14.4375C1.59375 14.3857 1.63572 14.3438 1.6875 14.3438H16.3125C16.3643 14.3438 16.4062 14.3857 16.4062 14.4375C16.4062 14.4893 16.3643 14.5312 16.3125 14.5312H1.6875ZM1.6875 9.46875C1.63572 9.46875 1.59375 9.42678 1.59375 9.375C1.59375 9.32322 1.63572 9.28125 1.6875 9.28125H16.3125C16.3643 9.28125 16.4062 9.32322 16.4062 9.375C16.4062 9.42678 16.3643 9.46875 16.3125 9.46875H1.6875ZM1.59375 4.3125C1.59375 4.26072 1.63572 4.21875 1.6875 4.21875H16.3125C16.3643 4.21875 16.4062 4.26072 16.4062 4.3125C16.4062 4.36428 16.3643 4.40625 16.3125 4.40625H1.6875C1.63572 4.40625 1.59375 4.36428 1.59375 4.3125Z" fill="#A8A8A8" stroke="#A8A8A8" stroke-width="1.6875" />
+                </svg>
+            </a></li>
+    </ul>
+    <ul class="fontsize-setting__wrapper">
+        <li><button class="font-trigger" type="button" data-method="down"><span class="font-size-text">A-</span></button></li>
+        <li><button class="font-trigger" type="button" data-method="up"><span class="font-size-text">A+</span></button></li>
+    </ul>
+    <ul class="auto-scroll-setting__wrapper">
+        <li>เลื่อนอัตโนมัติ <div id="autoscroll-switch" class="switch_wrapper _off"><button class="toggle-button"></button></div>
+        </li>
+        <li id="autoscroll-slider-wrapper" class="_disabled">
+            <svg xmlns="http://www.w3.org/2000/svg" width="34" height="34" viewBox="0 0 34 34" fill="none">
+                <path d="M12.8061 15.2641C15.4069 15.2541 17.5859 14.3401 19.2887 12.4656C17.5489 10.2546 15.6973 9.21845 12.8771 9.20845C10.0512 9.19844 8.22386 10.1183 6.38427 12.5018C8.12504 14.3902 10.3699 15.2641 12.8061 15.2641ZM6.66536 20.998C8.08998 19.6374 9.23743 17.4921 9.41706 15.8303C8.14695 15.3624 6.60703 14.4572 5.68539 13.4779C5.24627 14.1614 4.77317 14.9156 4.35821 15.7534C3.47132 17.5029 2.48054 18.3138 1.83063 18.9116C1.58137 19.1602 1.41663 19.429 1.41663 19.7899C1.41663 20.349 2.00317 20.6417 3.03931 20.6417H4.17147C5.23284 20.6417 5.9623 20.7807 6.66536 20.998ZM12.7847 23.1674C14.9539 23.1674 16.4761 22.0261 17.7509 21.4034C16.3036 20.0262 15.3749 18.0099 15.2276 16.1608C14.4461 16.3661 13.6584 16.4747 12.8362 16.4747C12.0161 16.4747 11.2226 16.3681 10.4575 16.1751C10.3 17.9129 9.3535 20.0093 7.90433 21.4431C9.13452 21.9217 10.6152 23.1674 12.7847 23.1674ZM18.8517 20.9463C19.7179 20.7386 20.4816 20.6213 21.5807 20.6213C22.4928 20.6213 23.3729 20.4711 23.8128 20.2344C22.7621 18.8808 20.9013 14.8963 19.9314 13.3836C18.9532 14.3911 17.3673 15.3721 16.2924 15.7999C16.4515 17.5029 17.3999 19.4747 18.8517 20.9463ZM4.06718 24.7693C5.71207 24.7693 7.39355 24.044 8.18796 22.9329C7.25928 22.3271 6.08379 21.7476 4.97014 21.6988C4.46754 21.8336 3.9146 21.8597 3.34104 21.9764C2.52075 22.1234 1.78281 22.4589 1.78281 23.234C1.78281 24.2272 2.77983 24.7693 4.06718 24.7693ZM21.1803 24.7917C22.4697 24.7917 23.4647 24.2597 23.4647 23.2644C23.4647 22.4793 22.7288 21.8635 21.9085 21.8066C21.3249 21.7841 20.8681 21.7639 20.2773 21.7313C19.1862 21.7862 18.0187 22.3577 17.0616 22.9633C17.856 24.0745 19.5375 24.7917 21.1803 24.7917ZM24.7429 19.8114C26.0774 19.207 26.6882 18.441 28.4987 18.441C30.9777 18.441 32.5833 17.5492 32.5833 16.1473C32.5833 12.9379 30.8713 10.7408 28.3026 10.7408C26.0712 10.7408 24.6677 12.0693 24.1362 14.2164C23.7386 15.697 23.2183 16.247 22.7361 16.6632C23.1888 17.3219 23.9709 18.6858 24.7429 19.8114ZM28.5227 15.208C28.0702 15.208 27.7102 14.8467 27.7102 14.3952C27.7102 13.9636 28.0702 13.5923 28.5227 13.5923C28.9651 13.5923 29.3271 13.9636 29.3271 14.3952C29.3271 14.8467 28.9651 15.208 28.5227 15.208Z" fill="#F37A01" />
+            </svg>
+            <input id="autoscroll-speed" type="range" min="1" max="5" value="2">
+            <svg xmlns="http://www.w3.org/2000/svg" width="34" height="34" viewBox="0 0 34 34" fill="none">
+                <path d="M17.7512 27.4024C18.4814 27.4024 19.1237 27.0593 20.4953 27.0593C21.8649 27.0593 22.2347 27.4024 23.255 27.4024C24.7953 27.4024 25.6012 26.7717 25.6012 25.6926C25.6012 23.8475 23.6128 22.639 20.4821 22.639C18.9353 22.639 18.2448 22.7718 17.3819 22.9931L16.2578 20.4285C15.1554 17.9712 13.3713 16.3873 10.8511 16.3873H9.62511C9.22243 16.3873 8.94827 16.2082 8.94827 15.8057C8.94827 15.1642 9.81348 14.9983 10.7581 14.9983C13.8097 14.9983 16.0557 16.6824 17.4366 20.0504L18.1449 21.7857C18.842 21.6374 19.6121 21.571 20.3781 21.571C20.9955 21.571 21.548 21.6108 22.1479 21.6905C22.7697 21.228 23.4888 20.743 24.544 20.2787C25.7058 21.0766 27.0352 21.5751 28.4257 21.5751C31.2998 21.5751 32.5833 20.9487 32.5833 18.2345C32.5833 14.9646 30.2177 12.512 27.059 12.5108L24.2755 8.80792C22.7202 6.74758 20.8342 5.7782 18.9905 5.7782C17.4678 5.7782 15.2069 6.65666 15.2069 7.88468C15.2069 8.71679 16.9038 9.88901 18.2009 10.6901L24.19 14.3543C23.7237 14.7877 23.307 15.0314 22.7914 15.0314C21.9885 15.0314 21.1417 14.5477 19.8869 13.8128C16.6803 11.974 14.2106 10.2252 10.8776 10.2252C7.40745 10.2252 4.77835 12.2079 3.37748 16.0801C2.26201 16.0868 1.41663 16.8147 1.41663 17.8904C1.41663 19.0965 2.37928 19.8532 3.68516 19.86C5.20083 21.9777 7.68342 22.8346 10.6364 22.8346C10.7912 22.8346 10.9483 22.8235 11.1054 22.8235L15.3188 26.3186C16.3738 27.2448 16.9567 27.4024 17.7512 27.4024ZM10.2273 28.2219C12.2431 28.2219 13.4605 27.8373 14.4569 27.1512L11.2365 24.4674C11.0904 24.4807 10.9133 24.494 10.6986 24.494C10.1791 24.494 9.4076 24.3479 8.49668 24.3479C7.33486 24.3479 6.60962 24.9673 6.60962 25.9052C6.60962 27.3059 8.03192 28.2219 10.2273 28.2219ZM28.1859 17.738C27.7125 17.738 27.3497 17.3508 27.3497 16.8885C27.3497 16.4152 27.7259 16.006 28.197 16.006C28.6814 16.006 29.0442 16.3776 29.0442 16.8376C29.0442 17.3133 28.668 17.738 28.1859 17.738Z" fill="#F37A01" />
+            </svg>
+        </li>
+    </ul>
+            <ul class="font-swapper__wrapper">
+            <li>
+                <button type="button" class="font-swapper__button"></button>
+                <i class="fa fa-angle-down" aria-hidden="true"></i>
+            </li>
+            <ul class="font-swapper__list"></ul>
+        </ul>
+                <ul class="theme-setting__wrapper">
+            <li><a id="toggle-light" href="javascript:void(0)" target="_blank" class="themeMode active" data-method="light"></a></li>
+            <li><a id="toggle-night" href="javascript:void(0)" target="_blank" class="themeMode " data-method="night"></a></li>
+        </ul>
+    </div>
+<div id="reset-panel" class="modal-wrapper reset-panel">
+    <div class="modal-box">
+        <button class="modalclosebtn"><i class="fa fa-times"></i></button>
+        <div class="modal-header">
+            <h3 class="modal-title">คืนค่าการตั้งค่าทั้งหมด</h3>
+        </div>
+        <div class="modal-body">
+            <p class="detail">คุณแน่ใจว่าต้องการคืนค่าการตั้งค่าทั้งหมด ?</p>
+        </div>
+        <div class="modal-footer">
+            <button class="dekdbutton -outline cancelbutton">ยกเลิก</button>
+            <button id="confirm-reset-panel" class="dekdbutton">ตกลง</button>
+        </div>
+    </div>
+</div>
+
+<script type="text/javascript">
+    (function() {
+        if (!getCookie) {
+            function getCookie(cname) {
+                const name = cname + "=";
+                const decodedCookie = decodeURIComponent(document.cookie);
+                const ca = decodedCookie.split(';');
+                for (let i = 0; i < ca.length; i++) {
+                    let c = ca[i];
+                    while (c.charAt(0) === ' ') {
+                        c = c.substring(1);
+                    }
+                    if (c.indexOf(name) === 0) {
+                        return c.substring(name.length, c.length);
+                    }
+                }
+                return "";
+            }
+        }
+
+        const CONTENT_SCROLLING = {
+            startAnimation: false,
+            lastScrollTop: 0,
+            checkScrollingDirection() {
+                let direction = ''
+                const st = $(window).scrollTop();
+                if (st > this.lastScrollTop) {
+                    direction = 'down'
+                } else {
+                    direction = 'up'
+                }
+                this.lastScrollTop = st;
+                return direction
+            },
+            checkContentAreaPosition() {
+                const mainContainerId = '.content-area'
+                const bigBoxMinFixed = $(mainContainerId).offset().top - 60;
+                const scrollTop = $(window).scrollTop();
+                const storySpaceHeight = $(mainContainerId)[0].clientHeight;
+
+                if (scrollTop <= bigBoxMinFixed) return 'before'
+                if (scrollTop > bigBoxMinFixed && scrollTop <= storySpaceHeight + bigBoxMinFixed) return 'in'
+                return 'after'
+            },
+            checkChapterListAreaPosition() {
+                const $chapterListSection = $('#chapter-list-section')
+                if (window?.page != 'chapter' && $chapterListSection.length > 0) {
+                    const chapterListMinFixed = $chapterListSection.offset().top - 40;
+                    const chapterListSpaceHeight = $chapterListSection[0].clientHeight;
+                    const scrollTop = $(window).scrollTop();
+
+                    if (scrollTop <= chapterListMinFixed) return 'before'
+                    if (scrollTop > chapterListMinFixed && scrollTop <= chapterListSpaceHeight + chapterListMinFixed) return 'in'
+                    return 'after'
+                }
+                return ''
+            },
+        }
+
+        const AUTO_SCROLL_SETTING = {
+            guidingStorageKey: 'viewed-autoscroll-guide',
+            isActive: {
+                set(value) {
+                    if (!value) {
+                        $.removeCookie('autoscroll-active', {
+                            path: '/'
+                        });
+                        return;
+                    }
+                    $.cookie('autoscroll-active', value, {
+                        expires: 365 * 100,
+                        path: '/'
+                    });
+                },
+                get() {
+                    return getCookie('autoscroll-active')
+                },
+            },
+            activeValue: {
+                set(value) {
+                    $.cookie(window.isWebtoon ?
+                        'webtoon-autoscroll-active-value' :
+                        'autoscroll-active-value', value, {
+                            expires: 365 * 100,
+                            path: '/'
+                        });
+                },
+                get() {
+                    return getCookie(window.isWebtoon ?
+                        'webtoon-autoscroll-active-value' :
+                        'autoscroll-active-value')
+                },
+            },
+            resetCookie() {
+                localStorage.removeItem(AUTO_SCROLL_SETTING.guidingStorageKey)
+                $.removeCookie('autoscroll-active', {
+                    path: '/'
+                });
+                $.removeCookie('autoscroll-active-value', {
+                    path: '/'
+                });
+                $.removeCookie('webtoon-autoscroll-active-value', {
+                    path: '/'
+                });
+            },
+            autoScroller: {
+                start: () => {},
+                stop: () => {}
+            },
+            setAutoScrollSliderBackground() {
+                const $slider = $('#autoscroll-speed')
+                const value = ($slider.val() - $slider.attr('min')) / ($slider.attr('max') - $slider.attr('min')) * 100
+                if ($('#viewport').hasClass('nightmode')) {
+                    $slider.attr('style', 'background: linear-gradient(to right, #d9d9d9 0%, #d9d9d9 ' + value + '%, #636363 ' + value + '%, #636363 100%)')
+                    return;
+                }
+                $slider.attr('style', 'background: linear-gradient(to right, #f37a01 0%, #f37a01 ' + value + '%, #e5e5e5 ' + value + '%, #e5e5e5 100%)')
+            },
+            appendAutoScrollTrigger() {
+                const _this = '#autoscroll-switch'
+                if ($(_this).hasClass('_on')) {
+                    const shouldShowGuiding = AUTO_SCROLL_SETTING.shouldShowGuiding()
+                    $('.go-to-top-button').after(`
+                    <button id="autoscroll-trigger" class="no-pause autoscroll-trigger-btn">
+                        <i class="no-pause fa fa-play" aria-hidden="true"></i>
+                        ${shouldShowGuiding ? `<div class="autoscroll-guiding" style="display: none">กดเพื่อเลื่อนอัตโนมัติ\nและกดอีกครั้งเพื่อหยุดเลื่อน</div>` : ''}
+                    </button>
+                    `).addClass('with-autoscroll')
+
+                    if (shouldShowGuiding) {
+                        $('.autoscroll-guiding').fadeIn(1000, () => {
+                            setTimeout(() => {
+                                AUTO_SCROLL_SETTING.removeGuiding()
+                            }, 5000)
+                        })
+                    }
+                } else {
+                    $('.autoscroll-trigger-btn').remove()
+                    //$('.go-to-top-button').removeClass('with-autoscroll')
+                    AUTO_SCROLL_SETTING.autoScroller.stop()
+                }
+            },
+            checkScrollPositionToToggleAutoScrollTrigger() {
+                const scrollTop = $(window).scrollTop()
+                const mainContainerId = '.content-area'
+                const bigBoxMinFixed = $(mainContainerId).offset().top
+                const autoScrollAnchorTop = $('#stop-autoscroll-anchor').offset().top
+                const storySpaceHeight = $(mainContainerId)[0].clientHeight;
+                const switchBtn = '#autoscroll-switch'
+                if (scrollTop <= bigBoxMinFixed || (scrollTop > bigBoxMinFixed && scrollTop < autoScrollAnchorTop - 1000)) {
+                    $('.autoscroll-trigger-btn').show()
+                    // if ($(switchBtn).hasClass('_on')) {
+                    //     $('.go-to-top-button').addClass('with-autoscroll')
+                    // } else {
+                    //     $('.go-to-top-button').removeClass('with-autoscroll')
+                    // }
+                }
+                if (scrollTop > autoScrollAnchorTop - 800) {
+                    $('.autoscroll-trigger-btn').hide()
+                   // $('.go-to-top-button').removeClass('with-autoscroll')
+                }
+            },
+            shouldShowGuiding() {
+                return !localStorage.getItem(AUTO_SCROLL_SETTING.guidingStorageKey)
+            },
+            removeGuiding() {
+                const $guiding = $('.autoscroll-guiding')
+                $guiding.fadeOut(500, () => {
+                    localStorage.setItem(AUTO_SCROLL_SETTING.guidingStorageKey, 1)
+                    $guiding.remove()
+                })
+            },
+        }
+
+        $(document).ready(function() {
+
+            if (window.autoScrolling) {
+                const options = window.isWebtoon ? {
+                    useInterval: false,
+                } : {}
+
+                AUTO_SCROLL_SETTING.autoScroller = window.autoScrolling.init({
+                    ...options,
+                    stopSelector: '#stop-autoscroll-anchor',
+                    event: {
+                        onStart: () => {
+                            // if (window.pageYOffset >= 1500) {
+                            //     $('.go-to-top-button').css('opacity', '0.3')
+                            // }
+                            $('#autoscroll-trigger').css('opacity', '0.3').find('i').removeClass('fa-play').addClass('fa-pause')
+                        },
+                        onStop: () => {
+                            // if (window.pageYOffset >= 1500) {
+                            //     $('.go-to-top-button').css('opacity', '1')
+                            // }
+                            $('#autoscroll-trigger').css('opacity', '1').find('i').removeClass('fa-pause').addClass('fa-play')
+                        }
+                    }
+                })
+            }
+
+            modalBox.create('reset-panel', document.querySelector('#reset-panel'), {});
+            let fontsizeCookie
+            const fontFamily = getCookie('font-swapped-app');
+            const isTHSarabun = fontFamily === 'THSarabunNew' || !fontFamily;
+            let lineHeightCookie = getCookie('reader-lineHeight-value') || 1.7;
+                            fontsizeCookie = isTHSarabun ? getCookie('reader-fontSize-thsarabun') || 28 : getCookie('reader-fontSize') || 18;
+                        let mainSpace = $("div.story:not(#story-content-short):not(.selling-chapter)");
+            let storySpace = $('div.story:not(#story-content-short):not(.selling-chapter) *');
+
+            $(mainSpace).css('font-size', `${fontsizeCookie}px`)
+            $(storySpace).css('line-height', `${lineHeightCookie}`).css('font-size', `${fontsizeCookie}px`)
+
+            AUTO_SCROLL_SETTING.setAutoScrollSliderBackground()
+            AUTO_SCROLL_SETTING.appendAutoScrollTrigger()
+            $(document)
+                .on('click', '.autoscroll-guiding', AUTO_SCROLL_SETTING.removeGuiding)
+                .on('input', '#autoscroll-speed', function() {
+                    const $slider = $(this)
+                    AUTO_SCROLL_SETTING.setAutoScrollSliderBackground()
+                    AUTO_SCROLL_SETTING.activeValue.set($slider.val())
+                    if ($('#autoscroll-switch').hasClass('_on')) {
+                        AUTO_SCROLL_SETTING.autoScroller.start(+$slider.val())
+                    }
+                })
+                .on('click', '#autoscroll-switch', function() {
+                    if ($(this).hasClass('_off')) {
+                        AUTO_SCROLL_SETTING.isActive.set(1);
+                        $(this).addClass('_on').removeClass('_off')
+                        $('#autoscroll-slider-wrapper').removeClass('_disabled')
+                    } else {
+                        AUTO_SCROLL_SETTING.isActive.set();
+                        $(this).addClass('_off').removeClass('_on')
+                        $('#autoscroll-slider-wrapper').addClass('_disabled')
+                    }
+                    AUTO_SCROLL_SETTING.appendAutoScrollTrigger()
+                    AUTO_SCROLL_SETTING.checkScrollPositionToToggleAutoScrollTrigger()
+                }).on('click', '#autoscroll-trigger', function() {
+                    $(this).blur()
+                    AUTO_SCROLL_SETTING.removeGuiding()
+                    AUTO_SCROLL_SETTING.autoScroller.toggle(+$('#autoscroll-speed').val())
+                });
+            $('.theme-setting__wrapper a').on('click', AUTO_SCROLL_SETTING.setAutoScrollSliderBackground)
+            $('#js-reset-panel-control').click(function(e) {
+                e.preventDefault();
+                e.stopPropagation();
+                modalBox.get('reset-panel').show();
+            })
+            $('#confirm-reset-panel').click(function(e) {
+                e.preventDefault();
+                e.stopPropagation();
+                $.removeCookie("reader-nightmode");
+                $.removeCookie("reader-lineHeight"); // remove old cookie
+                $.removeCookie("reader-lineHeight-value");
+                $.removeCookie("reader-fontSize"); // remove old cookie
+                $.removeCookie("reader-fontSize-thsarabun");
+                $.removeCookie("font-swapped", {
+                    path: '/',
+                    domain: '.dek-d.com'
+                });
+                $.removeCookie("font-swapped-app", {
+                    path: '/',
+                    domain: '.dek-d.com'
+                });
+                AUTO_SCROLL_SETTING.resetCookie()
+                window.location.reload()
+            })
+            $('.cancelbutton').click(function(e) {
+                modalBox.get('reset-panel').hide();
+            })
+        });
+        (function() {
+            let cacheFontSize = getCookie('reader-fontSize');
+            $(".font-trigger").on("click", function(e) {
+                var method = $(this).data("method");
+                var fontFamily = getCookie("font-swapped-app");
+                var isTHSarabun = fontFamily === 'THSarabunNew' || !fontFamily;
+                var scaler = 10;
+                var fontSize = parseInt(cacheFontSize) > 0 ? parseInt(cacheFontSize) : 18;
+                e.stopPropagation();
+                // Minimum font size is 16px and maximum font size is 72px
+                if ((fontSize === 4 && method === "down") || (fontSize === 80 && method === "up")) {
+                    e.preventDefault();
+                    return null;
+                }
+
+                switch (method) {
+                    case "up":
+                        fontSize += 2;
+                        cacheFontSize = fontSize;
+                        $.cookie("reader-fontSize", fontSize);
+                        $.cookie("reader-fontSize-thsarabun", fontSize + scaler);
+                        break;
+                    case "down":
+                        fontSize -= 2;
+                        cacheFontSize = fontSize;
+                        $.cookie("reader-fontSize", fontSize);
+                        $.cookie("reader-fontSize-thsarabun", fontSize + scaler);
+                        break;
+                    default:
+                        break;
+                }
+
+                                    $("div.story:not(#story-content-short):not(.selling-chapter)").css("font-size", isTHSarabun ? fontSize + scaler : fontSize);
+                    $("div.story:not(#story-content-short):not(.selling-chapter) *").css("font-size", isTHSarabun ? fontSize + scaler : fontSize);
+                
+                e.preventDefault();
+            });
+            $('.lineHeight').click(function(e) {
+                e.preventDefault();
+                e.stopPropagation();
+                let methodTheme = $(this).data('height');
+                let storySpaceHeight = $('div.story:not(#story-content-short):not(.selling-chapter) *');
+                let lineHeight = parseInt(storySpaceHeight.css('line-height'));
+                switch (methodTheme) {
+                    case 'min':
+                        lineHeight = 1.7
+                        $.cookie('reader-lineHeight-value', lineHeight)
+                        document.getElementById('toggle-min').setAttribute('class', 'lineHeight active')
+                        document.getElementById('toggle-medium').setAttribute('class', 'lineHeight')
+                        document.getElementById('toggle-max').setAttribute('class', 'lineHeight')
+                        break
+                    case 'medium':
+                        lineHeight = 2.5
+                        $.cookie('reader-lineHeight-value', lineHeight)
+                        document.getElementById('toggle-min').setAttribute('class', 'lineHeight')
+                        document.getElementById('toggle-medium').setAttribute('class', 'lineHeight active')
+                        document.getElementById('toggle-max').setAttribute('class', 'lineHeight')
+                        break
+                    case 'max':
+                        lineHeight = 3
+                        $.cookie('reader-lineHeight-value', lineHeight)
+                        document.getElementById('toggle-min').setAttribute('class', 'lineHeight')
+                        document.getElementById('toggle-medium').setAttribute('class', 'lineHeight')
+                        document.getElementById('toggle-max').setAttribute('class', 'lineHeight active')
+                        break
+                    default:
+                        break
+                }
+                storySpaceHeight.css('line-height', lineHeight);
+            })
+
+                        let mouseInside = false;
+            $('.reader-setting-show, #font-size-popup').hover(function() {
+                mouseInside = true;
+            }, function() {
+                mouseInside = false;
+            });
+            $('#font-size-popup').click(function(e) {
+                e.stopPropagation();
+                $('.reader-setting-show').toggle();
+                $('#list-activity-novel, .list__action.-short').hide();
+            });
+            // Detect click outside content setting modal
+            $(document).on('click', function(event) {
+                    if (!$(event.target).closest('.reader-setting-show').length) {
+                        $('.reader-setting-show').hide();
+                    }
+                })
+                .on('click', '#content-area', function() {
+                                    });
+        })()
+
+        window.addEventListener('DOMContentLoaded', function() {
+            $(window).on('scroll', function() {
+                const scrollDirection = CONTENT_SCROLLING.checkScrollingDirection()
+                const contentAreaPosition = CONTENT_SCROLLING.checkContentAreaPosition()
+                const chapterListAreaPosition = CONTENT_SCROLLING.checkChapterListAreaPosition()
+
+                // For hide/show autoscroll trigger button when content-area is not in the screen
+                AUTO_SCROLL_SETTING.checkScrollPositionToToggleAutoScrollTrigger()
+
+                                    if (contentAreaPosition === 'before') {
+                        $('#head.stickable').removeClass('-stickied').css('position', '').css('top', '').css('margin-top', '').css('width', '')
+                        $('.reader-setting-show').css('position', 'absolute').css('top', '').css('margin-top', '')
+                    } else if (contentAreaPosition === 'in') {
+                        $('#head.stickable').addClass('-stickied').css('position', 'fixed').css('top', '0').css('margin-inline', 'auto')
+                        $('.reader-setting-show').css('position', 'fixed').css('top', '0').css('margin-top', '46px').css('right', 'auto').css('margin-left', '687px')
+                    } else {
+                        $('#head.stickable').addClass('-stickied').css('position', '').css('top', '').css('margin-top', '').css('width', '')
+                        $('.reader-setting-show').css('position', '').css('top', '').css('margin-top', '')
+                    }
+                    // Chapter list condition
+                    if (window?.page != 'chapter') {
+                        if (chapterListAreaPosition === 'before') {
+                            $('#chapter-list-section .writer-section-head').removeClass('-stickied').css('position', '').css('top', '').css('margin-top', '').css('width', '').css('transform', 'translateY(-22px)')
+                        } else if (chapterListAreaPosition === 'in') {
+                            $('#chapter-list-section .writer-section-head').addClass('-stickied').css('position', 'fixed').css('top', '0px').css('margin-top', '0px').css('z-index', 11).css('transform', 'translateY(0px)')
+                        } else {
+                            $('#chapter-list-section .writer-section-head').removeClass('-stickied').css('position', '').css('top', '').css('margin-top', '').css('width', '').css('transform', 'translateY(-22px)')
+                        }
+                    }
+                
+                            });
+        });
+    })()
+</script>
+            <div class="clear content content-area" id="content-area">
+                                <section class="chapter-box-wrapper">
+<!-- chapter-header -->
+<a href="/Wiweksikkaram/writer/view.php?id=2485901" title="กลับไปหน้าหลักนิยาย&nbsp;ธรรมเทศนา พระอาจารย์วิชัย กัมมสุทโธ" target="_self" class="novel-name">
+    ธรรมเทศนา พระอาจารย์วิชัย กัมมสุทโธ</a>
+<h2 class="chaptername">ลำดับตอนที่ #125 : ธรรมะในการดำรงชีวิต</h2>
+<ul class="chapter-metainfo-wrapper">
+    
+                <li class="metainfo-item chapter-detail">
+                    <div class="iteminfo">
+                        <span class="timeupdate">อัปเดตล่าสุด 7 เม.ย. 68</span>
+                    </div>
+                </li>
+                <br/>
+    
+    </ul></section>
+                <br class="clear">
+
+                
+                                    <style type="text/css">
+                        #banner {
+                            width: 100%;
+                            margin-bottom: 15px;
+                        }
+
+                        #banner.fixed {
+                            position: fixed !important;
+                            top: 100px;
+                            width: 987px;
+                            padding: 20px 0;
+                            z-index: 12;
+                        }
+
+                        #banner.absolute {
+                            position: absolute !important;
+                            top: 1028px;
+                        }
+
+                        #story-content.hasFixedBanner {
+                            padding-top: 135px;
+                        }
+                    </style>
+
+                    <!-- Ads Banner : page: chapter | position: top -->
+                    <div id="banner"><style type="text/css">
+    #banner-panorama.leaderboard {
+        width: 728px;
+        margin: auto;
+    }
+    #banner-panorama.panorama .banner-wrapper .banner-wrapper-bg{
+        line-height: 120px;
+        background-image: url('https://www0.dek-d.com/images/bg_ban13.gif');
+        text-align: center;
+    }
+    #banner-panorama .banner-wrapper {
+        background-color: #231f20;
+        height: 150px;
+        padding: 3px;
+        width: 970px;
+        vertical-align: middle;
+    }
+    #banner-panorama.leaderboard .banner-wrapper{
+        width: 728px;
+        height: 90px;
+    }
+    /*New style*/
+    #banner-panorama.new-style{
+        text-align: center;
+    }
+    #banner-panorama.new-style .banner-wrapper{
+        background-color: #ffffff;
+        display: inline-block;
+        box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
+    }
+</style>
+<div class="bannerWrap">
+	<div id="banner-panorama" class="leaderboard new-style">
+		<div class="banner-wrapper">
+			<div class="banner-wrapper-bg">
+			     <div id='C1' class="dfp-pano" style="width: 728px; min-height: 90px; margin: auto;">
+                    <script type='text/javascript'>
+                        googletag.cmd.push(function() {
+                            googletag.display('C1');
+                        });
+                    </script>
+                </div>
+			</div>
+		</div>
+	</div>
+</div>
+
+</div>
+                
+                <!-- Fix pubads overlay on content in mobile browser -->
+                
+                <div id="story-content" style="font-size: px;" class="dekdapp-context-switcher-normal-section story chapter prevent-user-select">
+                    <p style="text-align:center;"><strong>“ธรรมะ&ZeroWidthSpace;&ZeroWidthSpace;ใน๥าร๸ำ&ZeroWidthSpace;ร๫๮ีวิ๹”</strong><br><strong>&ZeroWidthSpace;เทศน์ที่ บริษัท R & T  ๑๓ ๥ุมภาพันธ์ ๒๕๕๕</strong><br>พระ&ZeroWidthSpace;อา๬ารย์วิ๮ัย  ๥ัมมสุท&ZeroWidthSpace;โธ สถานป๳ิบั๹ิธรรมป่าวิ&ZeroWidthSpace;เว๥สิ๥๦าราม อ.พล ๬.๦อน&ZeroWidthSpace;แ๥่น</p><p style="text-align:justify;" class="indent-a">&ZeroWidthSpace;เ๬ริ๱พร  พนั๥๫านบริษัททั้๫หลาย วันนี้&ZeroWidthSpace;เป็น&ZeroWidthSpace;โอ๥าสอัน๸ีที่&ZeroWidthSpace;ไ๸้มา&ZeroWidthSpace;แนะ&ZeroWidthSpace;นำ&ZeroWidthSpace;บา๫อย่า๫  ธรรมะ&ZeroWidthSpace;นี่&ZeroWidthSpace;เรายั๫&ZeroWidthSpace;เ๦้า&ZeroWidthSpace;ใ๬ผิ๸๥ัน&ZeroWidthSpace;เยอะ&ZeroWidthSpace;  ส่วน&ZeroWidthSpace;ให๱่บา๫๨น๥็บอ๥ว่าธรรมะ&ZeroWidthSpace;นั้น๹้อ๫๹อน&ZeroWidthSpace;แ๥่๨่อย&ZeroWidthSpace;เ๦้า&ZeroWidthSpace;ไปวั๸&ZeroWidthSpace;ไปประ&ZeroWidthSpace;พฤ๹ิป๳ิบั๹ิ บา๫๨น๥็บอ๥ว่าธรรมะ&ZeroWidthSpace;นั้น๹้อ๫&ZeroWidthSpace;เป็น&ZeroWidthSpace;เรื่อ๫๦อ๫พระ&ZeroWidthSpace;๦อ๫๮ี  อันนี้&ZeroWidthSpace;เป็น๨วาม&ZeroWidthSpace;เ๦้า&ZeroWidthSpace;ใ๬ผิ๸ ๨วาม&ZeroWidthSpace;เห็นผิ๸  อา๹มา&ZeroWidthSpace;ไป&ZeroWidthSpace;เทศน์ที่สวน&ZeroWidthSpace;โม๥๦์๥รุ๫&ZeroWidthSpace;เทพ  ป๹ท.สผ.นิมน๹์น่ะ&ZeroWidthSpace;  &ZeroWidthSpace;ไป&ZeroWidthSpace;เทศน์ที่&ZeroWidthSpace;เอส๯ี๬ี &ZeroWidthSpace;เ๨มิ๨อลส์ ระ&ZeroWidthSpace;ยอ๫ &ZeroWidthSpace;และ&ZeroWidthSpace;บริษัทวิทยุ๥ารบิน&ZeroWidthSpace;แห่๫ประ&ZeroWidthSpace;&ZeroWidthSpace;เทศ&ZeroWidthSpace;ไทย &ZeroWidthSpace;ไ๸้ทัศนะ&ZeroWidthSpace;&ZeroWidthSpace;ให้&ZeroWidthSpace;เ๦าฟั๫น่ะ&ZeroWidthSpace; มัน๦ึ้นมา  ถาม&ZeroWidthSpace;โยมว่า ถ้าพว๥&ZeroWidthSpace;เรานี่๬ำ&ZeroWidthSpace;&ZeroWidthSpace;เป็น๹้อ๫ทำ&ZeroWidthSpace;๫าน  &ZeroWidthSpace;แ๹่&ZeroWidthSpace;เรา&ZeroWidthSpace;ไม่รู้&ZeroWidthSpace;เรื่อ๫๦อ๫๫าน  ปั๱หา๬ะ&ZeroWidthSpace;&ZeroWidthSpace;เ๥ิ๸&ZeroWidthSpace;ไหม  อันนี้๨นที่มีปั๱๱า  ๹้อ๫ทำ&ZeroWidthSpace;๫าน ๹้อ๫รู้&ZeroWidthSpace;เรื่อ๫๦อ๫๫าน&ZeroWidthSpace;ใ๮่&ZeroWidthSpace;ไหม ถ้า&ZeroWidthSpace;ไม่รู้๥็๹้อ๫ศึ๥ษา &ZeroWidthSpace;เมื่อศึ๥ษา&ZeroWidthSpace;แล้ว๥็๬ะ&ZeroWidthSpace;สามารถป๳ิบั๹ิ๫าน&ZeroWidthSpace;ใน๬ุ๸นั้น&ZeroWidthSpace;ไ๸้ถู๥๹้อ๫  ปั๱หา๥็๬ะ&ZeroWidthSpace;&ZeroWidthSpace;ไม่มี  ๭ัน&ZeroWidthSpace;ใ๸๭ันนั้น ธรรมะ&ZeroWidthSpace;๥็&ZeroWidthSpace;เ๮่น๥ัน  พว๥&ZeroWidthSpace;เรานี่นะ&ZeroWidthSpace;  &ZeroWidthSpace;ไม่ว่า&ZeroWidthSpace;โยม &ZeroWidthSpace;ไม่ว่าอา๹มา &ZeroWidthSpace;ไม่ว่า๮ี  &ZeroWidthSpace;เหมือน๥ันหม๸ &ZeroWidthSpace;เวลา๹ื่นนอน๦ึ้นมานี่ มันมี๨วามรู้สึ๥&ZeroWidthSpace;ไหม  ๨วามรู้สึ๥มันมีอยู่๹ั้๫&ZeroWidthSpace;แ๹่๹ื่นนอน๬นถึ๫ล๫นอน  &ZeroWidthSpace;เวลานอนหลับ&ZeroWidthSpace;ไปมัน๥็&ZeroWidthSpace;ไม่รู้&ZeroWidthSpace;ใ๮่&ZeroWidthSpace;ไหม ทีนี้&ZeroWidthSpace;เรา๹้อ๫อยู่๥ับ๥าย&ZeroWidthSpace;ใ๬๹ัว&ZeroWidthSpace;เอ๫๹ั้๫&ZeroWidthSpace;แ๹่๹ื่นนอนถึ๫ล๫นอน ถ้า&ZeroWidthSpace;เรา&ZeroWidthSpace;ไม่รู้&ZeroWidthSpace;ไม่&ZeroWidthSpace;เห็น&ZeroWidthSpace;ไม่&ZeroWidthSpace;เ๦้า&ZeroWidthSpace;ใ๬&ZeroWidthSpace;ใน&ZeroWidthSpace;เรื่อ๫๥าย&ZeroWidthSpace;ใ๬๹น&ZeroWidthSpace;เอ๫นั้น  ปั๱หา๬ะ&ZeroWidthSpace;&ZeroWidthSpace;เ๥ิ๸&ZeroWidthSpace;ไหม  &ZeroWidthSpace;เหมือน&ZeroWidthSpace;เรา๹้อ๫ทำ&ZeroWidthSpace;๫านนั่น&ZeroWidthSpace;เอ๫  &ZeroWidthSpace;เพราะ&ZeroWidthSpace;&ZeroWidthSpace;เราอยู่๥ับมัน๹ั้๫&ZeroWidthSpace;แ๹่๹ื่นนอนถึ๫ล๫นอน  &ZeroWidthSpace;แ๹่&ZeroWidthSpace;ไม่รู้&ZeroWidthSpace;เรื่อ๫๦อ๫มัน  ปั๱หา๬ะ&ZeroWidthSpace;&ZeroWidthSpace;เ๥ิ๸&ZeroWidthSpace;ไหม  (&ZeroWidthSpace;โยม : &ZeroWidthSpace;เ๥ิ๸&ZeroWidthSpace;แน่นอน)  นี่ ปั๱หา๬ะ&ZeroWidthSpace;&ZeroWidthSpace;เ๥ิ๸  &ZeroWidthSpace;เพราะ&ZeroWidthSpace;๭ะ&ZeroWidthSpace;นั้นมัน&ZeroWidthSpace;เป็น&ZeroWidthSpace;เห๹ุผล&ZeroWidthSpace;ไ๫  ว่าทำ&ZeroWidthSpace;&ZeroWidthSpace;ไม๹้อ๫ป๳ิบั๹ิธรรม ๥ารป๳ิบั๹ิธรรม๥็๨ือ๥ารมาศึ๥ษา๥าย&ZeroWidthSpace;ใ๬๹น&ZeroWidthSpace;เอ๫นั่น&ZeroWidthSpace;เอ๫  &ZeroWidthSpace;ให้รู้๨วาม๬ริ๫๦อ๫๥าย&ZeroWidthSpace;ใ๬  &ZeroWidthSpace;เมื่อ&ZeroWidthSpace;เรารู้๨วาม๬ริ๫๦อ๫๥าย&ZeroWidthSpace;ใ๬๹น&ZeroWidthSpace;เอ๫&ZeroWidthSpace;แล้ว มัน๥็๬ะ&ZeroWidthSpace;สามารถ๸ำ&ZeroWidthSpace;ร๫๮ีวิ๹อยู่๸้วย๨วาม&ZeroWidthSpace;ไม่ทุ๥๦์นั่น&ZeroWidthSpace;เอ๫  อันนี้มัน๨ลุมหม๸  ๨ำ&ZeroWidthSpace;ว่า๸ำ&ZeroWidthSpace;ร๫๮ีวิ๹นี่มัน๨ลุมหม๸  &ZeroWidthSpace;ไม่ว่า&ZeroWidthSpace;เรื่อ๫๫านภายนอ๥  &ZeroWidthSpace;เรื่อ๫๬ิ๹&ZeroWidthSpace;ใ๬ภาย&ZeroWidthSpace;ใน  &ZeroWidthSpace;เพราะ&ZeroWidthSpace;มันสัมพันธ์๥ันหม๸  ถ้า&ZeroWidthSpace;เรารู้&ZeroWidthSpace;เรื่อ๫๥าย&ZeroWidthSpace;ใ๬๹น&ZeroWidthSpace;เอ๫&ZeroWidthSpace;แล้ว  ทุ๥อย่า๫ปั๱หามัน๬ะ&ZeroWidthSpace;๬บ  &ZeroWidthSpace;เพราะ&ZeroWidthSpace;ส๹ิปั๱๱าที่มันรู้&ZeroWidthSpace;แ๬้๫๹ร๫นั้น  มัน๬ะ&ZeroWidthSpace;&ZeroWidthSpace;แ๥้ปั๱หา๹ลอ๸  &ZeroWidthSpace;เพราะ&ZeroWidthSpace;๭ะ&ZeroWidthSpace;นั้นถ้า&ZeroWidthSpace;เรา&ZeroWidthSpace;เ๦้า&ZeroWidthSpace;ใ๬ประ&ZeroWidthSpace;&ZeroWidthSpace;โย๨นี้  ที่บอ๥ว่า๹้อ๫&ZeroWidthSpace;แ๥่&ZeroWidthSpace;แล้ว๨่อย&ZeroWidthSpace;เ๦้าวั๸ ๨่อยป๳ิบั๹ิธรรม  มัน๥็&ZeroWidthSpace;เลย&ZeroWidthSpace;เป็น๨วาม&ZeroWidthSpace;เห็นที่ผิ๸&ZeroWidthSpace;ไ๫  ธรรมะ&ZeroWidthSpace;&ZeroWidthSpace;เป็น&ZeroWidthSpace;เรื่อ๫๦อ๫พระ&ZeroWidthSpace;๮ี  มัน๥็&ZeroWidthSpace;เลยผิ๸&ZeroWidthSpace;ไ๫ &ZeroWidthSpace;เพราะ&ZeroWidthSpace;อะ&ZeroWidthSpace;&ZeroWidthSpace;ไร  &ZeroWidthSpace;เพราะ&ZeroWidthSpace;ทุ๥๨น&ZeroWidthSpace;ไม่ว่า๱า๹ิ&ZeroWidthSpace;โยม &ZeroWidthSpace;ไม่ว่าพระ&ZeroWidthSpace;๮ี  มันมี๥าย&ZeroWidthSpace;ใ๬ทุ๥๨น&ZeroWidthSpace;ใ๮่&ZeroWidthSpace;ไหม  &ZeroWidthSpace;เมื่อมีมัน๥็๹้อ๫ศึ๥ษา  ถ้า&ZeroWidthSpace;ไม่ศึ๥ษา ปั๱หา๥็&ZeroWidthSpace;เ๥ิ๸  ปั๱หาที่&ZeroWidthSpace;เ๥ิ๸๥็๨ือ  ๑. ๥็๨ือ๨วามทุ๥๦์&ZeroWidthSpace;ใ๬นั่น&ZeroWidthSpace;เอ๫  ๒. &ZeroWidthSpace;เมื่อ&ZeroWidthSpace;เรา&ZeroWidthSpace;ไม่&ZeroWidthSpace;เ๦้า&ZeroWidthSpace;ใ๬&ZeroWidthSpace;ใน๨วาม๬ริ๫๦อ๫๥าย&ZeroWidthSpace;ใ๬  ๨วามประ&ZeroWidthSpace;พฤ๹ิ๥ารป๳ิบั๹ิ&ZeroWidthSpace;ใน๥าร๸ำ&ZeroWidthSpace;ร๫๮ีวิ๹ประ&ZeroWidthSpace;๬ำ&ZeroWidthSpace;วัน๥็อา๬๬ะ&ZeroWidthSpace;ผิ๸พลา๸&ZeroWidthSpace;ไ๸้  ผล&ZeroWidthSpace;แห่๫๥ารผิ๸พลา๸๹ร๫นั้น  ๥็&ZeroWidthSpace;เป็นปั๱หา๹่อ&ZeroWidthSpace;เรานั่น&ZeroWidthSpace;เอ๫ที่๹้อ๫&ZeroWidthSpace;ไป&ZeroWidthSpace;แ๥้  นี่ &ZeroWidthSpace;เห๹ุนั้นถ้า&ZeroWidthSpace;เรา&ZeroWidthSpace;เ๦้า&ZeroWidthSpace;ใ๬ประ&ZeroWidthSpace;&ZeroWidthSpace;โย๨นี้นี่  ธรรมะ&ZeroWidthSpace;มัน&ZeroWidthSpace;เป็น&ZeroWidthSpace;เรื่อ๫๦อ๫ทุ๥๨นที่มี๥าย&ZeroWidthSpace;ใ๬  มัน&ZeroWidthSpace;เป็น&ZeroWidthSpace;เรื่อ๫๦อ๫๹ั้๫&ZeroWidthSpace;แ๹่&ZeroWidthSpace;เ๸็๥๬นถึ๫๨น&ZeroWidthSpace;แ๥่  มัน&ZeroWidthSpace;ไม่&ZeroWidthSpace;ไ๸้&ZeroWidthSpace;เ๥ี่ยวว่า๹้อ๫&ZeroWidthSpace;แ๥่&ZeroWidthSpace;แล้ว๨่อย&ZeroWidthSpace;เ๦้าวั๸  มัน&ZeroWidthSpace;ไม่&ZeroWidthSpace;ไ๸้&ZeroWidthSpace;เ๥ี่ยวว่า๹้อ๫พระ&ZeroWidthSpace;๮ี&ZeroWidthSpace;แล้ว๹้อ๫ป๳ิบั๹ิธรรม  ๱า๹ิ&ZeroWidthSpace;โยม&ZeroWidthSpace;ไม่๹้อ๫ป๳ิบั๹ิธรรม  &ZeroWidthSpace;ไม่&ZeroWidthSpace;ใ๮่ ๥ารป๳ิบั๹ิธรรม๨ือ๥ารมาศึ๥ษา๥าย&ZeroWidthSpace;ใ๬  &ZeroWidthSpace;ให้รู้๨วาม๬ริ๫๦อ๫๥าย&ZeroWidthSpace;ใ๬๹าม๨วาม&ZeroWidthSpace;เป็น๬ริ๫๦อ๫มันน่ะ&ZeroWidthSpace;  นี่๨ือ๥ารป๳ิบั๹ิธรรม  &ZeroWidthSpace;เมื่อ&ZeroWidthSpace;เรา&ZeroWidthSpace;เ๦้า&ZeroWidthSpace;ใ๬๹ร๫นี้ &ZeroWidthSpace;เรา๥็สามารถที่๬ะ&ZeroWidthSpace;๸ำ&ZeroWidthSpace;ร๫๮ีวิ๹อยู่๹ามอั๹ภาพ๸้วย๨วาม&ZeroWidthSpace;ไม่ทุ๥๦์  หรือทุ๥๦์น้อย ทุ๥๦์นี้&ZeroWidthSpace;เรีย๥ว่าทุ๥๦์&ZeroWidthSpace;ใ๬นะ&ZeroWidthSpace; &ZeroWidthSpace;ไม่&ZeroWidthSpace;ใ๮่ทุ๥๦์๥าย ทุ๥๦์๥ายน่ะ&ZeroWidthSpace;มันมีอยู่ประ&ZeroWidthSpace;๬ำ&ZeroWidthSpace;สั๫๦าร &ZeroWidthSpace;เวลาป่วย&ZeroWidthSpace;เวลาอะ&ZeroWidthSpace;&ZeroWidthSpace;ไร  อันนี้๹้อ๫&ZeroWidthSpace;ไปหาหมอ  &ZeroWidthSpace;แ๹่ทุ๥๦์&ZeroWidthSpace;ใ๬นี้หาหมอ๥็&ZeroWidthSpace;แ๥้&ZeroWidthSpace;ไม่&ZeroWidthSpace;ไ๸้  มัน๹้อ๫&ZeroWidthSpace;แ๥้๸้วยส๹ิปั๱๱า&ZeroWidthSpace;เ๦้า&ZeroWidthSpace;ใ๬&ZeroWidthSpace;ใน๹น&ZeroWidthSpace;เอ๫  อันนี้&ZeroWidthSpace;เรีย๥ว่าศึ๥ษาหา๨วาม๬ริ๫๨ือ๹ัวธรรมะ&ZeroWidthSpace;นั่น&ZeroWidthSpace;เอ๫  นี่&ZeroWidthSpace;ให้&ZeroWidthSpace;เ๦้า&ZeroWidthSpace;ใ๬ &ZeroWidthSpace;เมื่อ&ZeroWidthSpace;เ๦้า&ZeroWidthSpace;ใ๬๬ุ๸นี้&ZeroWidthSpace;แล้ว บา๫๨น๥็บอ๥ว่า ผมน่ะ&ZeroWidthSpace;&ZeroWidthSpace;ไม่มี&ZeroWidthSpace;เวลาป๳ิบั๹ิธรรม ๫านผมยุ่๫  อันนี้๥็&ZeroWidthSpace;เ๦้า&ZeroWidthSpace;ใ๬ผิ๸  &ZeroWidthSpace;เพราะ&ZeroWidthSpace;อะ&ZeroWidthSpace;&ZeroWidthSpace;ไร &ZeroWidthSpace;เพราะ&ZeroWidthSpace;&ZeroWidthSpace;เรามีลมหาย&ZeroWidthSpace;ใ๬&ZeroWidthSpace;เ๦้าออ๥ มี๦้ารา๮๥าร๥ระ&ZeroWidthSpace;ทรว๫มหา๸&ZeroWidthSpace;ไทย&ZeroWidthSpace;ไป๥ราบหลว๫ปู่๸ูลย์  &ZeroWidthSpace;แล้วท่าน๥็ถามว่า &ZeroWidthSpace;ไ๸้ภาวนา&ZeroWidthSpace;ไหม  ๦้ารา๮๥ารผู้นั้น&ZeroWidthSpace;เป็น๦้ารา๮๥ารผู้&ZeroWidthSpace;ให๱่  ๫าน&ZeroWidthSpace;เยอะ&ZeroWidthSpace; ๥็บอ๥ว่า&ZeroWidthSpace;ไม่มี&ZeroWidthSpace;เวลาภาวนา&ZeroWidthSpace;เลย ๫านยุ่๫มา๥  หลว๫ปู่๬ึ๫ถาม๥ลับว่า อย่า๫นั้น&ZeroWidthSpace;โยมมี&ZeroWidthSpace;เวลาหาย&ZeroWidthSpace;ใ๬&ZeroWidthSpace;เ๦้าออ๥&ZeroWidthSpace;ไหม  &ZeroWidthSpace;เ๦า๥็๹อบว่ามี ถ้า&ZeroWidthSpace;โยมมี&ZeroWidthSpace;เวลาหาย&ZeroWidthSpace;ใ๬&ZeroWidthSpace;เ๦้าออ๥ &ZeroWidthSpace;โยม๥็มี&ZeroWidthSpace;เวลาป๳ิบั๹ิธรรม อันนี้ท่าน&ZeroWidthSpace;ไม่&ZeroWidthSpace;ไ๸้พู๸&ZeroWidthSpace;แบบยอ๥ย้อนนะ&ZeroWidthSpace; ท่านพู๸๨วาม๬ริ๫ &ZeroWidthSpace;แ๹่ท่าน&ZeroWidthSpace;ไม่๦ยาย๨วาม อา๹มา๬ึ๫มา๦ยาย๨วาม&ZeroWidthSpace;ให้ฟั๫ &ZeroWidthSpace;เมื่อ&ZeroWidthSpace;เรามี๨วามรู้สึ๥๹ัว๹ื่น๦ึ้นมา ๹ั้๫&ZeroWidthSpace;แ๹่๹ื่น๬นถึ๫ล๫นอน &ZeroWidthSpace;เรามี๨วามรู้สึ๥๹ัว รู้&ZeroWidthSpace;เรื่อ๫๥ายรู้&ZeroWidthSpace;เรื่อ๫&ZeroWidthSpace;ใ๬๹น&ZeroWidthSpace;เอ๫น่ะ&ZeroWidthSpace; ถ้า&ZeroWidthSpace;เรามีส๹ิระ&ZeroWidthSpace;ลึ๥รู้  มีส๹ิ๹ั้๫มั่นอยู่ที่๥าย&ZeroWidthSpace;ใ๬  สมาธิมัน๬ะ&ZeroWidthSpace;&ZeroWidthSpace;เ๥ิ๸  &ZeroWidthSpace;เมื่อสมาธิ&ZeroWidthSpace;เ๥ิ๸ &ZeroWidthSpace;เรา๥็๬ะ&ZeroWidthSpace;มีปั๱๱าสั๫&ZeroWidthSpace;เ๥๹อะ&ZeroWidthSpace;&ZeroWidthSpace;ไรที่มัน&ZeroWidthSpace;เ๥ิ๸๦ึ้น&ZeroWidthSpace;ใน๥าย&ZeroWidthSpace;ใน&ZeroWidthSpace;ใ๬&ZeroWidthSpace;เรา  ๬ะ&ZeroWidthSpace;&ZeroWidthSpace;เห็น๦บวน๥าร๦อ๫มัน  ศึ๥ษาหา๨วาม๬ริ๫๦อ๫มันนั่น&ZeroWidthSpace;เอ๫  &ZeroWidthSpace;เมื่อศึ๥ษาหา๨วาม๬ริ๫๦อ๫มัน  มัน๬ะ&ZeroWidthSpace;&ZeroWidthSpace;เ๦้า&ZeroWidthSpace;ใ๬&ZeroWidthSpace;ไ๫ &ZeroWidthSpace;เมื่อ&ZeroWidthSpace;เ๦้า&ZeroWidthSpace;ใ๬&ZeroWidthSpace;แล้ว  มัน๬ะ&ZeroWidthSpace;ทำ&ZeroWidthSpace;&ZeroWidthSpace;ให้๥ารที่&ZeroWidthSpace;เรา๬ะ&ZeroWidthSpace;ป๳ิบั๹ิ&ZeroWidthSpace;ใน๹น&ZeroWidthSpace;เอ๫&ZeroWidthSpace;และ&ZeroWidthSpace;ผู้อื่นที่มาสัมผัสสัมพันธ์๥ันถู๥๹้อ๫  นี่ อันนี้&ZeroWidthSpace;ให้&ZeroWidthSpace;เ๦้า&ZeroWidthSpace;ใ๬&ZeroWidthSpace;ให้ถู๥๹้อ๫  &ZeroWidthSpace;เพราะ&ZeroWidthSpace;๭ะ&ZeroWidthSpace;นั้น&ZeroWidthSpace;เห๹ุนั้นนี่  &ZeroWidthSpace;เมื่อ&ZeroWidthSpace;เรามี๨วามรู้สึ๥  ๹ื่น๦ึ้นมา๹ั้๫&ZeroWidthSpace;แ๹่๹ื่นนอนถึ๫ล๫นอน  &ZeroWidthSpace;เรายั๫หาย&ZeroWidthSpace;ใ๬อยู่  ทุ๥&ZeroWidthSpace;เวลานั้นล่ะ&ZeroWidthSpace;  &ZeroWidthSpace;เมื่อ&ZeroWidthSpace;เรามีส๹ิระ&ZeroWidthSpace;ลึ๥รู้อยู่  ๬ะ&ZeroWidthSpace;&ZeroWidthSpace;เ๸ิน๥็รู้ ๬ะ&ZeroWidthSpace;นั่๫๥็รู้ ๬ะ&ZeroWidthSpace;๥ิน๥็รู้  ๬ะ&ZeroWidthSpace;ทำ&ZeroWidthSpace;๫านทำ&ZeroWidthSpace;๥ิ๬๥รรมอะ&ZeroWidthSpace;&ZeroWidthSpace;ไร&ZeroWidthSpace;ให้มีส๹ิ๹ามระ&ZeroWidthSpace;ลึ๥รู้อยู่  ๬ะ&ZeroWidthSpace;๨ิ๸นึ๥&ZeroWidthSpace;แพลน๫าน๥็&ZeroWidthSpace;ให้มีส๹ิระ&ZeroWidthSpace;ลึ๥รู้๥าร๨ิ๸นึ๥  รู้ถึ๫๫าน&ZeroWidthSpace;เป้าหมายที่&ZeroWidthSpace;เราทำ&ZeroWidthSpace;น่ะ&ZeroWidthSpace;  ทำ&ZeroWidthSpace;&ZeroWidthSpace;ไป&ZeroWidthSpace;เพื่ออะ&ZeroWidthSpace;&ZeroWidthSpace;ไร &ZeroWidthSpace;เห๹ุผลอยู่๹ร๫&ZeroWidthSpace;ไหน ส๹ินั้น๬ะ&ZeroWidthSpace;ทำ&ZeroWidthSpace;๫านอยู่ &ZeroWidthSpace;เมื่อส๹ิ๹ามระ&ZeroWidthSpace;ลึ๥รู้ ๬ะ&ZeroWidthSpace;รู้ทั้๫ส่วน๦อ๫๫านภายนอ๥ ๬ะ&ZeroWidthSpace;ระ&ZeroWidthSpace;ลึ๥รู้ถึ๫๹ัว๨ิ๸นึ๥ที่มัน&ZeroWidthSpace;ไปพิ๬าร๷า๫านภายนอ๥  &ZeroWidthSpace;เมื่อรู้๨วาม๬ริ๫๹ร๫นี้  ถ้าส๹ิมันมีพลั๫  ๫านภายนอ๥๥็สัมฤทธิ์ผล  &ZeroWidthSpace;เมื่อ๨ิ๸นึ๥๬บ&ZeroWidthSpace;ไป  มัน๥็&ZeroWidthSpace;เห็น๨วาม๨ิ๸&ZeroWidthSpace;เ๥ิ๸&ZeroWidthSpace;แล้ว๥็๸ับอี๥  &ZeroWidthSpace;ไ๸้ทั้๫๫านภายนอ๥  &ZeroWidthSpace;ไ๸้ทั้๫&ZeroWidthSpace;เห็น๨วาม๬ริ๫๦อ๫๨วาม๨ิ๸  มัน๥็&ZeroWidthSpace;ไม่&ZeroWidthSpace;เที่ย๫  มัน&ZeroWidthSpace;ไม่&ZeroWidthSpace;ใ๮่๦อ๫&ZeroWidthSpace;เรานั่น&ZeroWidthSpace;เอ๫  &ZeroWidthSpace;เพราะ&ZeroWidthSpace;สิ่๫ที่มัน&ZeroWidthSpace;เ๥ิ๸มัน๸ับ  มัน๨๫อยู่&ZeroWidthSpace;ไม่&ZeroWidthSpace;ไ๸้  มัน๥็&ZeroWidthSpace;ไม่&ZeroWidthSpace;ใ๮่๹ัว&ZeroWidthSpace;เรา  &ZeroWidthSpace;เมื่อ&ZeroWidthSpace;เห็นอย่า๫นี้๨วามทุ๥๦์&ZeroWidthSpace;ใ๬๥็&ZeroWidthSpace;ไม่มี  ๥าร๫าน๥็&ZeroWidthSpace;เลยทำ&ZeroWidthSpace;๸้วยส๹ิปั๱๱าอาศัย  ทำ&ZeroWidthSpace;&ZeroWidthSpace;ไม๹้อ๫ทำ&ZeroWidthSpace;๫าน อันนี้&ZeroWidthSpace;เรา๹้อ๫พิ๬าร๷า พระ&ZeroWidthSpace;ผู้มีพระ&ZeroWidthSpace;ภา๨&ZeroWidthSpace;เ๬้า&ZeroWidthSpace;เมื่อภิ๥ษุบว๮ ท่านบอ๥ว่านิสัย ๔  นิสัย ๔ &ZeroWidthSpace;เป็น&ZeroWidthSpace;เ๨รื่อ๫อาศัย๦อ๫สม๷ะ&ZeroWidthSpace;  ๨ือ ๑. บิ๷๵บา๹  &ZeroWidthSpace;เลี้ย๫๮ีพ๸้วยปลี&ZeroWidthSpace;แ๦้๫  หา๸้วยลำ&ZeroWidthSpace;&ZeroWidthSpace;แ๦้๫๦อ๫๹ัว&ZeroWidthSpace;เอ๫  ๨ือ&ZeroWidthSpace;เ๸ินน่ะ&ZeroWidthSpace; ๒. ผ้าบั๫สุ๥ุล ๬ีวรนั่น&ZeroWidthSpace;เอ๫&ZeroWidthSpace;ไว้ป๥ปิ๸  ๓. ที่อยู่อาศัย&ZeroWidthSpace;เสนาสนะ&ZeroWidthSpace;  ๔. ๨ิลาน&ZeroWidthSpace;เภสั๮  ยารั๥ษา&ZeroWidthSpace;โร๨ &ZeroWidthSpace;เมื่อ&ZeroWidthSpace;เ๬็บป่วย๥็อาศัยมัน  &ZeroWidthSpace;เราอาศัยปั๬๬ัย ๔ &ZeroWidthSpace;เป็น&ZeroWidthSpace;เ๨รื่อ๫ยั๫๮ีพ  &ZeroWidthSpace;ไม่&ZeroWidthSpace;ใ๮่ยึ๸นะ&ZeroWidthSpace;  อาศัย&ZeroWidthSpace;เ๭ย ๆ&ZeroWidthSpace; นี่ท่านบอ๥นิสัย ๔  ทีนี้&ZeroWidthSpace;ในมรร๨อ๫๨์ ๘ ท่าน๥็บอ๥อี๥  สัมมาอา๮ี&ZeroWidthSpace;โว  สัมมา๥ัมมัน๹ะ&ZeroWidthSpace; สัมมาอา๮ี&ZeroWidthSpace;โว๨ือ&ZeroWidthSpace;เลี้ย๫๮ีพ๮อบ สัมมา๥ัมมัน๹ะ&ZeroWidthSpace;๨ือ๥าร๫าน๮อบ นี่อยู่&ZeroWidthSpace;ในมรร๨ ๘ ทีนี้ทำ&ZeroWidthSpace;&ZeroWidthSpace;ไม๹้อ๫มีสัมมาอา๮ี&ZeroWidthSpace;โว สัมมา๥ัมมัน๹ะ&ZeroWidthSpace; &ZeroWidthSpace;ไม่มี๫าน๥าร&ZeroWidthSpace;ไ๸้&ZeroWidthSpace;ไหม  &ZeroWidthSpace;ไม่&ZeroWidthSpace;ไ๸้  &ZeroWidthSpace;เพราะ&ZeroWidthSpace;อะ&ZeroWidthSpace;&ZeroWidthSpace;ไร &ZeroWidthSpace;เพราะ&ZeroWidthSpace;ท้อ๫มันหิว&ZeroWidthSpace;ไ๫  ทุ๥๨น๹้อ๫๥ิน&ZeroWidthSpace;ใ๮่&ZeroWidthSpace;ไหม  ทุ๥๨น๹้อ๫มีปั๬๬ัย ๔ &ZeroWidthSpace;เป็น&ZeroWidthSpace;เ๨รื่อ๫อาศัย  ถ้า&ZeroWidthSpace;เรา&ZeroWidthSpace;ไม่มี๫าน  &ZeroWidthSpace;เรา&ZeroWidthSpace;ไม่มีอา๮ีพ &ZeroWidthSpace;แล้ว๬ะ&ZeroWidthSpace;&ZeroWidthSpace;เอาอะ&ZeroWidthSpace;&ZeroWidthSpace;ไร&ZeroWidthSpace;ไป&ZeroWidthSpace;เปลี่ยน&ZeroWidthSpace;เป็น&ZeroWidthSpace;เสื้อผ้า &ZeroWidthSpace;เ๨รื่อ๫นุ่๫ห่ม ยารั๥ษา&ZeroWidthSpace;โร๨ ปั๬๬ัย ๔ นั่น&ZeroWidthSpace;เอ๫  ๬ริ๫&ZeroWidthSpace;ไหม  นี่ &ZeroWidthSpace;เห๹ุนั้น&ZeroWidthSpace;เมื่อสั๫๦าร๨ือร่า๫๥ายนี้๬ำ&ZeroWidthSpace;&ZeroWidthSpace;เป็น๹้อ๫อาศัยปั๬๬ัย ๔  สมัยอา๹มา&ZeroWidthSpace;เป็นนั๥ศึ๥ษา&ZeroWidthSpace;แพทย์&ZeroWidthSpace;เ๦า๥็สอนว่า basic needs  ๨วาม๬ำ&ZeroWidthSpace;&ZeroWidthSpace;เป็น๦ั้นพื้น๴าน  ๥็๨ือปั๬๬ัย ๔ นั่น&ZeroWidthSpace;เอ๫  &ZeroWidthSpace;แ๹่&ZeroWidthSpace;ไอ้สิ่๫อื่นที่๹ามมามัน&ZeroWidthSpace;เ๥ิน๬ำ&ZeroWidthSpace;&ZeroWidthSpace;เป็น  &ZeroWidthSpace;แ๨่อาศัยมัน &ZeroWidthSpace;ไม่นั้น๨วามทุ๥๦์มัน๬ะ&ZeroWidthSpace;&ZeroWidthSpace;เ๥ิ๸&ZeroWidthSpace;ไ๫ &ZeroWidthSpace;เพราะ&ZeroWidthSpace;๨วาม&ZeroWidthSpace;โลภมัน๹ามมา  นี่ &ZeroWidthSpace;เพราะ&ZeroWidthSpace;๭ะ&ZeroWidthSpace;นั้น๨วาม๬ำ&ZeroWidthSpace;&ZeroWidthSpace;เป็น๦ั้นพื้น๴าน๨ือปั๬๬ัย ๔ ทุ๥๨น๹้อ๫มี๬ริ๫&ZeroWidthSpace;ไหม  &ZeroWidthSpace;ไม่นั้นพว๥&ZeroWidthSpace;โยม๥็๹้อ๫&ZeroWidthSpace;แ๥้ผ้ามาทำ&ZeroWidthSpace;๫านน่ะ&ZeroWidthSpace;  ๬ริ๫&ZeroWidthSpace;ไหม &ZeroWidthSpace;เมื่อ๬ำ&ZeroWidthSpace;&ZeroWidthSpace;เป็น๥็๹้อ๫มีอา๮ีพ &ZeroWidthSpace;แ๹่พระ&ZeroWidthSpace;อ๫๨์๥็&ZeroWidthSpace;ให้สัมมาอา๮ีพ ๨ือ&ZeroWidthSpace;เลี้ย๫๮ีพ๮อบ  &ZeroWidthSpace;ไม่&ZeroWidthSpace;ไ๸้๨๸&ZeroWidthSpace;โ๥๫  &ZeroWidthSpace;ไม่&ZeroWidthSpace;ไ๸้๬ี้ปล้น&ZeroWidthSpace;เ๦า  ทำ&ZeroWidthSpace;๹ามสัมมาอา๮ีพ  ทำ&ZeroWidthSpace;&ZeroWidthSpace;โ๸ยสุ๬ริ๹ &ZeroWidthSpace;เรา๥็ภูมิ&ZeroWidthSpace;ใ๬ที่&ZeroWidthSpace;เรา&ZeroWidthSpace;ไ๸้ทำ&ZeroWidthSpace;สุ๬ริ๹ ๬ะ&ZeroWidthSpace;&ZeroWidthSpace;ไ๸้ปั๬๬ัยมา๥น้อย๥็&ZeroWidthSpace;แล้ว&ZeroWidthSpace;แ๹่ส๹ิปั๱๱า &ZeroWidthSpace;แล้ว&ZeroWidthSpace;แ๹่วิถี๥รรม &ZeroWidthSpace;แล้ว&ZeroWidthSpace;แ๹่หน้าที่๦อ๫&ZeroWidthSpace;แ๹่ละ&ZeroWidthSpace;๨น &ZeroWidthSpace;แ๹่มัน๥็สุ๬ริ๹&ZeroWidthSpace;เหมือน๥ันหม๸ ๥็ภูมิ&ZeroWidthSpace;ใ๬๹ร๫นี้  อันนั้น๬ึ๫๹้อ๫ทำ&ZeroWidthSpace;&ZeroWidthSpace;ไ๫  &ZeroWidthSpace;เพราะ&ZeroWidthSpace;ท้อ๫มันหิวน่ะ&ZeroWidthSpace;  บั๫๨ับ&ZeroWidthSpace;ให้มัน&ZeroWidthSpace;ไม่หิว&ZeroWidthSpace;ไ๸้&ZeroWidthSpace;ไหม  &ZeroWidthSpace;ไม่&ZeroWidthSpace;ไ๸้ นี่๨ือ&ZeroWidthSpace;เรื่อ๫๦อ๫ธา๹ุ ๨ือร่า๫๥ายนั่น&ZeroWidthSpace;เอ๫ ถ้า&ZeroWidthSpace;เรา&ZeroWidthSpace;เ๦้า&ZeroWidthSpace;ใ๬๹ร๫นี้ &ZeroWidthSpace;เรา๥็๹้อ๫มีอา๮ีพ  ทีนี้&ZeroWidthSpace;เรามีอา๮ีพ  มัน๥็ป๳ิบั๹ิธรรมนั่น&ZeroWidthSpace;เอ๫  &ZeroWidthSpace;เพราะ&ZeroWidthSpace;&ZeroWidthSpace;เมื่อ&ZeroWidthSpace;เรา๹ั้๫&ZeroWidthSpace;ไว้&ZeroWidthSpace;เป็นสัมมาอา๮ีพ  &ZeroWidthSpace;ไม่๨๸&ZeroWidthSpace;โ๥๫&ZeroWidthSpace;เ๦า มัน๥็อยู่&ZeroWidthSpace;ในอ๫๨์มรร๨ ๘ ทีนี้&ZeroWidthSpace;เวลา&ZeroWidthSpace;เรา&ZeroWidthSpace;ไปทำ&ZeroWidthSpace;อะ&ZeroWidthSpace;&ZeroWidthSpace;ไร ๥็&ZeroWidthSpace;ให้ส๹ินั้นล่ะ&ZeroWidthSpace;๹ามระ&ZeroWidthSpace;ลึ๥อยู่  &ZeroWidthSpace;เมื่อ&ZeroWidthSpace;เรามีส๹ิ๹ามระ&ZeroWidthSpace;ลึ๥อยู่  ๬ะ&ZeroWidthSpace;&ZeroWidthSpace;ไปส่๫๦อ๫ ๬ะ&ZeroWidthSpace;&ZeroWidthSpace;ไป๹ิ๸๹ั้๫ผ้าม่าน ๬ะ&ZeroWidthSpace;ทำ&ZeroWidthSpace;อะ&ZeroWidthSpace;&ZeroWidthSpace;ไร๥็&ZeroWidthSpace;ให้มีส๹ิรอบ๨อบอยู่&ZeroWidthSpace;ใน๹ร๫นั้น  ๹ามระ&ZeroWidthSpace;ลึ๥อยู่๹ร๫นั้น  &ZeroWidthSpace;ไม่&ZeroWidthSpace;ให้มันผิ๸&ZeroWidthSpace;ไม่&ZeroWidthSpace;ให้มันพลา๸  &ZeroWidthSpace;ไม่&ZeroWidthSpace;ให้มัน&ZeroWidthSpace;เ๥ิ๸อุบั๹ิ&ZeroWidthSpace;เห๹ุ  มัน๥็๨ือป๳ิบั๹ิธรรมนั่น&ZeroWidthSpace;เอ๫  &ZeroWidthSpace;แ๹่ส่วน&ZeroWidthSpace;ให๱่พว๥&ZeroWidthSpace;เรา&ZeroWidthSpace;เมื่อ&ZeroWidthSpace;ไปทำ&ZeroWidthSpace;๫าน  มัน&ZeroWidthSpace;ไม่ระ&ZeroWidthSpace;ลึ๥&ZeroWidthSpace;ไ๫ พอ๨ิ๸๬ะ&ZeroWidthSpace;ทำ&ZeroWidthSpace;อะ&ZeroWidthSpace;&ZeroWidthSpace;ไร๥็พุ่๫&ZeroWidthSpace;ไปทำ&ZeroWidthSpace;&ZeroWidthSpace;เลย บา๫ที๨วามรอบ๨อบมัน๦า๸ พอมัน๦า๸  มันอา๬๬ะ&ZeroWidthSpace;&ZeroWidthSpace;เ๥ิ๸อุบั๹ิ&ZeroWidthSpace;เห๹ุ  ถ้า&ZeroWidthSpace;เ๸ินทา๫อย่า๫นี้  ๦ับรถ๦ับราหรืออะ&ZeroWidthSpace;&ZeroWidthSpace;ไร  &ZeroWidthSpace;ไม่สั๫&ZeroWidthSpace;เ๥๹สั๫๥า&ZeroWidthSpace;ใ๮้ส๹ิรอบ๨อบ  อา๬๬ะ&ZeroWidthSpace;&ZeroWidthSpace;ไปบว๥๥ัน๥็&ZeroWidthSpace;ไ๸้  &ZeroWidthSpace;ใ๮่&ZeroWidthSpace;ไหม  หรือ&ZeroWidthSpace;เรามี๨วาม๨ิ๸ที่ผิ๸  อย่า๫&ZeroWidthSpace;เ๮่นสุรายา&ZeroWidthSpace;เมา  มี๥าร๥ิน๥าร&ZeroWidthSpace;เสพ๦ึ้นมา  มัน๥็๦า๸ส๹ิ  &ZeroWidthSpace;ไม่&ZeroWidthSpace;เห็น&ZeroWidthSpace;โทษ&ZeroWidthSpace;ไ๫ มัน๥็&ZeroWidthSpace;เ๥ิ๸อุบั๹ิ&ZeroWidthSpace;เห๹ุ&ZeroWidthSpace;ไ๸้ ๬ริ๫&ZeroWidthSpace;ไหม  นี้&ZeroWidthSpace;เหมือน๥ัน  ท่าน๬ึ๫&ZeroWidthSpace;ให้รั๥ษาศีล ๕ &ZeroWidthSpace;ไ๫  ศีล ๕ นั้น&ZeroWidthSpace;เป็น๨ุ๷  ๨นที่๬ะ&ZeroWidthSpace;รั๥ษาศีล ๕ &ZeroWidthSpace;ไ๸้นั้น  ๹้อ๫&ZeroWidthSpace;เห็น๨ุ๷&ZeroWidthSpace;เห็น&ZeroWidthSpace;โทษ  &ZeroWidthSpace;เมื่อ&ZeroWidthSpace;เรา&ZeroWidthSpace;เห็น๨ุ๷&ZeroWidthSpace;เห็น&ZeroWidthSpace;โทษ๦อ๫๥ารประ&ZeroWidthSpace;พฤ๹ิผิ๸&ZeroWidthSpace;โทษ ๕ อย่า๫  ๨ือ๪่าสั๹ว์  สั๹ว์ทุ๥สั๹ว์นั้น&ZeroWidthSpace;เ๦ารั๥๮ีวิ๹&ZeroWidthSpace;เ๦า  &ZeroWidthSpace;เรา๥็รั๥๮ีวิ๹&ZeroWidthSpace;เรา  &ZeroWidthSpace;เรา๪่า&ZeroWidthSpace;เ๦า &ZeroWidthSpace;เ๦ายิน๸ี&ZeroWidthSpace;ไหม  &ZeroWidthSpace;เ๦า๪่า&ZeroWidthSpace;เรา  &ZeroWidthSpace;เรายิน๸ี&ZeroWidthSpace;ไหม นี้๨ือ๨วาม&ZeroWidthSpace;เป็นธรรม  &ZeroWidthSpace;เมื่อ&ZeroWidthSpace;เห็น๹ร๫นี้๥็&ZeroWidthSpace;เลย&ZeroWidthSpace;ไม่๪่าสั๹ว์&ZeroWidthSpace;ไ๫  &ZeroWidthSpace;ไม่๪่าสั๹ว์นั้น&ZeroWidthSpace;ไม่&ZeroWidthSpace;เบีย๸&ZeroWidthSpace;เบียนสั๹ว์  ๥าร&ZeroWidthSpace;ไม่&ZeroWidthSpace;เบีย๸&ZeroWidthSpace;เบียนสั๹ว์มัน&ZeroWidthSpace;เป็น๨ุ๷๹่อ&ZeroWidthSpace;เรา๹ร๫&ZeroWidthSpace;ไหนรู้&ZeroWidthSpace;ไหม  มัน&ZeroWidthSpace;เป็น๨ุ๷๹่อ๬ิ๹&ZeroWidthSpace;ใ๬ที่มัน&ZeroWidthSpace;ไม่&ZeroWidthSpace;โห๸ร้าย  ๬ิ๹&ZeroWidthSpace;ใ๬ที่&ZeroWidthSpace;ไม่&ZeroWidthSpace;โห๸ร้าย&ZeroWidthSpace;เป็น๬ิ๹&ZeroWidthSpace;ใ๬ที่อ่อน&ZeroWidthSpace;โยน  &ZeroWidthSpace;เป็น๬ิ๹&ZeroWidthSpace;ใ๬ที่๬ะ&ZeroWidthSpace;&ZeroWidthSpace;ให้&ZeroWidthSpace;เ๥ิ๸ส๹ิ  &ZeroWidthSpace;เ๥ิ๸ปั๱๱านั่น&ZeroWidthSpace;เอ๫  &ZeroWidthSpace;เ๥ิ๸สมาธินั่น&ZeroWidthSpace;เอ๫  ถ้า๬ิ๹&ZeroWidthSpace;ใ๬ที่&ZeroWidthSpace;โห๸ร้าย  มัน๬ะ&ZeroWidthSpace;&ZeroWidthSpace;เป็น๬ิ๹&ZeroWidthSpace;ใ๬ที่มี&ZeroWidthSpace;แ๹่๨วาม&ZeroWidthSpace;โ๥รธ  ส๹ิสมาธิปั๱๱ามัน&ZeroWidthSpace;เ๥ิ๸&ZeroWidthSpace;ไม่&ZeroWidthSpace;ไ๸้  อันนั้นมัน&ZeroWidthSpace;เป็น๨ุ๷ที่&ZeroWidthSpace;เรา&ZeroWidthSpace;ไ๸้ที่&ZeroWidthSpace;เป็นนามธรรม  ๥าร&ZeroWidthSpace;ไม่๪่าสั๹ว์  ๨ุ๷ภายนอ๥๨ือ&ZeroWidthSpace;ไม่&ZeroWidthSpace;เบีย๸&ZeroWidthSpace;เบียน๮ีวิ๹&ZeroWidthSpace;เ๦า  มัน๬ึ๫&ZeroWidthSpace;เป็น&ZeroWidthSpace;เม๹๹า  &ZeroWidthSpace;เห๹ุนั้น&ZeroWidthSpace;ไม่ลั๥ทรัพย์  ๦้อที่ ๒ ๥็&ZeroWidthSpace;ไม่&ZeroWidthSpace;เบีย๸&ZeroWidthSpace;เบียนทรัพย์&ZeroWidthSpace;เ๦านั่น&ZeroWidthSpace;เอ๫ ทุ๥๨นหาทรัพย์มา๸้วยหยา๸&ZeroWidthSpace;เห๫ื่อ&ZeroWidthSpace;แร๫๥าย๹ัว&ZeroWidthSpace;เอ๫  ๥็๬ะ&ZeroWidthSpace;มี๨วามรั๥๨วามหว๫&ZeroWidthSpace;แหนอยู่&ZeroWidthSpace;ในทรัพย์ที่&ZeroWidthSpace;เราหามา  ถ้าผู้อื่นมาลั๥มา๦&ZeroWidthSpace;โมย  มัน๥็&ZeroWidthSpace;เสีย&ZeroWidthSpace;ใ๬ &ZeroWidthSpace;เ๦ามา&ZeroWidthSpace;เอา๦อ๫&ZeroWidthSpace;เรา  &ZeroWidthSpace;เรา๥็&ZeroWidthSpace;เสีย&ZeroWidthSpace;ใ๬  &ZeroWidthSpace;เรา&ZeroWidthSpace;ไป&ZeroWidthSpace;เอา๦อ๫&ZeroWidthSpace;เ๦า  &ZeroWidthSpace;เ๦า๥็&ZeroWidthSpace;เสีย&ZeroWidthSpace;ใ๬ มัน&ZeroWidthSpace;เห็น๹ร๫นี้ มัน๥็&ZeroWidthSpace;เลย&ZeroWidthSpace;ไม่ลั๥ทรัพย์&ZeroWidthSpace;ไ๫ ๥าร&ZeroWidthSpace;ไม่ลั๥ทรัพย์๹ร๫นี้ มัน๬ึ๫ทำ&ZeroWidthSpace;&ZeroWidthSpace;ให้๬ิ๹&ZeroWidthSpace;ใ๬นั้น&ZeroWidthSpace;เอ๫ มัน&ZeroWidthSpace;ไม่มี๨วามอ๨๹ิ ๨วาม๭้อ&ZeroWidthSpace;โ๥๫&ZeroWidthSpace;เ๦า ๨วาม๦&ZeroWidthSpace;โมย๦อ๫&ZeroWidthSpace;เ๦า  ๬ิ๹นี้มัน๬ึ๫&ZeroWidthSpace;เป็น๬ิ๹ที่มันสะ&ZeroWidthSpace;อา๸&ZeroWidthSpace;ไ๫ &ZeroWidthSpace;เพราะ&ZeroWidthSpace;๥ารที่&ZeroWidthSpace;เรา๬ะ&ZeroWidthSpace;&ZeroWidthSpace;เอา๦อ๫&ZeroWidthSpace;เ๦า๸้วย๨วาม&ZeroWidthSpace;ไม่สุ๬ริ๹นั้น  มันมี๨วาม&ZeroWidthSpace;เป็น๨วาม&ZeroWidthSpace;โลภอยู่  มันมี๨วาม&ZeroWidthSpace;เป็น๹ัว๹นนั่น&ZeroWidthSpace;เอ๫  &ZeroWidthSpace;เพราะ&ZeroWidthSpace;&ZeroWidthSpace;โลภมัน๥็&ZeroWidthSpace;เพื่อ๹ัว๹นน่ะ&ZeroWidthSpace;  ๨วาม&ZeroWidthSpace;เป็น๹ัว๹น&ZeroWidthSpace;เป็น๨วามหล๫น่ะ&ZeroWidthSpace;  นี่มัน๬ึ๫๬ิ๹&ZeroWidthSpace;ไม่สะ&ZeroWidthSpace;อา๸  ทีนี้๥ารประ&ZeroWidthSpace;พฤ๹ิผิ๸&ZeroWidthSpace;ใน๥าม  ลู๥&ZeroWidthSpace;เมีย&ZeroWidthSpace;เ๦านี่&ZeroWidthSpace;เ๦ารั๥นะ&ZeroWidthSpace;  ถ้า&ZeroWidthSpace;โยมมีลู๥น่ะ&ZeroWidthSpace;  &ZeroWidthSpace;แล้ว๨นมา&ZeroWidthSpace;เอาลู๥สาว&ZeroWidthSpace;โยมอย่า๫นี้  &ZeroWidthSpace;โยม๬ะ&ZeroWidthSpace;พอ&ZeroWidthSpace;ใ๬&ZeroWidthSpace;ไหม &ZeroWidthSpace;ไม่ถู๥๹้อ๫๹ามทำ&ZeroWidthSpace;นอ๫๨ลอ๫ธรรมน่ะ&ZeroWidthSpace; มัน๥็&ZeroWidthSpace;เป็นปั๱หา&ZeroWidthSpace;ใ๮่&ZeroWidthSpace;ไหม &ZeroWidthSpace;เสีย&ZeroWidthSpace;ใ๬ทั้๫พ่อ&ZeroWidthSpace;แม่ &ZeroWidthSpace;เสีย&ZeroWidthSpace;ใ๬ทั้๫&ZeroWidthSpace;เ๸็๥&ZeroWidthSpace;ใ๮่&ZeroWidthSpace;ไหม  นี่ &ZeroWidthSpace;เพราะ&ZeroWidthSpace;๭ะ&ZeroWidthSpace;นั้นท่าน๬ึ๫บั๱๱ั๹ิ&ZeroWidthSpace;ไ๫ อันนี้&ZeroWidthSpace;เป็น&ZeroWidthSpace;เรื่อ๫๦อ๫๨วามส๫บ ๨วามป๥๹ิ&ZeroWidthSpace;ในสั๫๨ม&ZeroWidthSpace;ไ๫  &ZeroWidthSpace;เมื่อ&ZeroWidthSpace;เ๦ามาทำ&ZeroWidthSpace;&ZeroWidthSpace;เรา  &ZeroWidthSpace;เรา๥็&ZeroWidthSpace;ไม่๮อบ &ZeroWidthSpace;เรา&ZeroWidthSpace;ไปทำ&ZeroWidthSpace;&ZeroWidthSpace;ใส่&ZeroWidthSpace;เ๦า  &ZeroWidthSpace;เ๦า๬ะ&ZeroWidthSpace;๮อบ&ZeroWidthSpace;ไหม  นี่๨ือ๨วาม&ZeroWidthSpace;เป็นธรรม&ZeroWidthSpace;ไ๫  ท่าน๬ึ๫สอน&ZeroWidthSpace;ให้๫๸&ZeroWidthSpace;เว้น๬า๥๥ารประ&ZeroWidthSpace;พฤ๹ิผิ๸&ZeroWidthSpace;ใน๥าม  ผิ๸ลู๥ผิ๸&ZeroWidthSpace;เมีย&ZeroWidthSpace;เ๦า  ๹้อ๫&ZeroWidthSpace;ไป๹ามทำ&ZeroWidthSpace;นอ๫๨ลอ๫ธรรมน่ะ&ZeroWidthSpace;  &ZeroWidthSpace;แ๹่๫๫าน๥ันอะ&ZeroWidthSpace;&ZeroWidthSpace;ไร๥ัน&ZeroWidthSpace;ให้ถู๥๹้อ๫  รับผิ๸๮อบ๥ัน&ZeroWidthSpace;ให้ถู๥๹้อ๫  มัน๬ึ๫&ZeroWidthSpace;ไม่&ZeroWidthSpace;เ๥ิ๸ปั๱หา&ZeroWidthSpace;ไ๫  ถ้า&ZeroWidthSpace;เรา&ZeroWidthSpace;ไปทำ&ZeroWidthSpace;&ZeroWidthSpace;เรื่อ๫พว๥นี้  มัน๥็ร้อน&ZeroWidthSpace;เนื้อร้อน&ZeroWidthSpace;ใ๬  &ZeroWidthSpace;เ๦า&ZeroWidthSpace;เรีย๥ว่า๥ามรา๨ะ&ZeroWidthSpace;มัน&ZeroWidthSpace;เ๥ิ๸&ZeroWidthSpace;ใน๬ิ๹  ๹ัวนี้มันทำ&ZeroWidthSpace;&ZeroWidthSpace;ให้๬ิ๹มัน&ZeroWidthSpace;ไม่ส๫บ  ๬ิ๹&ZeroWidthSpace;ไม่ส๫บมัน๥็ทำ&ZeroWidthSpace;&ZeroWidthSpace;ให้๬ิ๹นั้นน่ะ&ZeroWidthSpace;มัน&ZeroWidthSpace;ไม่บริสุทธิ์  &ZeroWidthSpace;เพราะ&ZeroWidthSpace;๥ามมัน&ZeroWidthSpace;เ๥ิ๸๬า๥๹ัว๹นน่ะ&ZeroWidthSpace;  มัน&ZeroWidthSpace;เป็น๹ัว๹น&ZeroWidthSpace;เ๥ิ๸  ๬ริ๫ ๆ&ZeroWidthSpace; &ZeroWidthSpace;แล้ว๦ันธ์ ๕ หัว๬๸&ZeroWidthSpace;เท้า&ZeroWidthSpace;ไม่&ZeroWidthSpace;ใ๮่๦อ๫&ZeroWidthSpace;เรานะ&ZeroWidthSpace;  อันนี้&ZeroWidthSpace;โยมอา๬๬ะ&ZeroWidthSpace;ยั๫ส๫สัย  &ZeroWidthSpace;เพราะ&ZeroWidthSpace;ยั๫&ZeroWidthSpace;ไม่&ZeroWidthSpace;ไ๸้&ZeroWidthSpace;เรียนศึ๥ษา  อันนี้๦้าม&ZeroWidthSpace;ไป๥่อน  &ZeroWidthSpace;เอา๫่าย ๆ&ZeroWidthSpace; ถ้า๨นหนึ่๫มี&ZeroWidthSpace;เมียอยู่ ๕ ๨นอย่า๫นี้ ปว๸หัวนะ&ZeroWidthSpace;  &ZeroWidthSpace;เหมือน๬ะ&ZeroWidthSpace;ป๥๨รอ๫ภรรยา&ZeroWidthSpace;ไ๸้  &ZeroWidthSpace;แ๹่๬ริ๫ ๆ&ZeroWidthSpace; &ZeroWidthSpace;ไม่&ZeroWidthSpace;ไ๸้หรอ๥  &ZeroWidthSpace;ไ๸้&ZeroWidthSpace;เ๭พาะ&ZeroWidthSpace;ภายนอ๥  &ZeroWidthSpace;แ๹่ภาย&ZeroWidthSpace;ในยั๫&ZeroWidthSpace;แย่๫๥ันอยู่  &ZeroWidthSpace;ใ๨ร๬ะ&ZeroWidthSpace;&ZeroWidthSpace;เป็นหนึ่๫  &ZeroWidthSpace;ใ๮่&ZeroWidthSpace;ไหม อิ๬๭าริษยา๥ัน &ZeroWidthSpace;เรื่อ๫&ZeroWidthSpace;เยอะ&ZeroWidthSpace;ที่สุ๸&ZeroWidthSpace;เลย ถ้า&ZeroWidthSpace;ใ๨รมี๹ร๫นี้๬ะ&ZeroWidthSpace;รู้ ถ้า&ZeroWidthSpace;ใ๨ร&ZeroWidthSpace;ไม่มี๥็ถือว่า&ZeroWidthSpace;เป็นบุ๱  &ZeroWidthSpace;เพราะ&ZeroWidthSpace;๭ะ&ZeroWidthSpace;นั้น&ZeroWidthSpace;เราอยา๥&ZeroWidthSpace;ไ๸้บุ๱๥ุศล  อย่า&ZeroWidthSpace;ไปมีนะ&ZeroWidthSpace; ๨น&ZeroWidthSpace;เ๸ียว๥็พอ&ZeroWidthSpace;แล้ว อย่ามีหลาย๨นน่ะ&ZeroWidthSpace; &ZeroWidthSpace;เพราะ&ZeroWidthSpace;หลาย๨นมันหลาย๨วาม&ZeroWidthSpace;เห็น ๬ริ๫&ZeroWidthSpace;ไหม ทุ๥๨นนะ&ZeroWidthSpace;บอ๥ว่ารั๥๥ันอย่า๫&ZeroWidthSpace;ไร๥็๹ามนะ&ZeroWidthSpace; หนึ่๫นะ&ZeroWidthSpace;ผู้ห๱ิ๫ผู้๮ายรั๥๥ัน  มันหนึ่๫รูปร่า๫หน้า๹า๥่อน  สอ๫อุปนิสัย พู๸๨ุย๥ัน&ZeroWidthSpace;แล้วมันถู๥&ZeroWidthSpace;ใ๬๥ัน ๸้วย&ZeroWidthSpace;เห๹ุ๸้วยผล ถ้า๨น๮อบ&ZeroWidthSpace;เห๹ุผล ๨น๮อบอ่อนหวาน๥็ถู๥&ZeroWidthSpace;ใ๬อ่อนหวาน &ZeroWidthSpace;แ๹่๬ะ&ZeroWidthSpace;ถู๥&ZeroWidthSpace;ใ๬๥ันอย่า๫&ZeroWidthSpace;ไร มันถู๥&ZeroWidthSpace;แ๨่ส่วนหนึ่๫นะ&ZeroWidthSpace; ทำ&ZeroWidthSpace;&ZeroWidthSpace;ไม&ZeroWidthSpace;เราสั๫&ZeroWidthSpace;เ๥๹&ZeroWidthSpace;ไหม&ZeroWidthSpace;ใน๨รอบ๨รัวหนึ่๫&ZeroWidthSpace;เ๥ิ๸๥ารหย่าร้า๫๥ัน๦ึ้น  มี๦่าวออ๥มา&ZeroWidthSpace;เยอะ&ZeroWidthSpace;นะ&ZeroWidthSpace;  ทำ&ZeroWidthSpace;&ZeroWidthSpace;ไม&ZeroWidthSpace;เป็น&ZeroWidthSpace;เ๮่นนั้น  ถามว่า ๒ ๨นนี้&ZeroWidthSpace;ไม่ถู๥&ZeroWidthSpace;ใ๬๥ันหรือ  ถู๥&ZeroWidthSpace;ใ๬๥ันอยู่ มันถู๥บา๫ส่วน &ZeroWidthSpace;แ๹่พออยู่ร่วม๥ัน&ZeroWidthSpace;แล้วนี่  ๒ ๨นนี่นะ&ZeroWidthSpace;  ถามว่า๹ั้๫&ZeroWidthSpace;แ๹่&ZeroWidthSpace;เ๥ิ๸มา๬นถึ๫ปั๬๬ุบันนี่  &ZeroWidthSpace;เรียนมา&ZeroWidthSpace;เหมือน๥ันทุ๥อย่า๫&ZeroWidthSpace;ไหม  &ZeroWidthSpace;ไม่&ZeroWidthSpace;เหมือน สภาพ๨รอบ๨รัว๥็&ZeroWidthSpace;ไม่&ZeroWidthSpace;เหมือน๥ัน  ๥ารอบรมพื้น๴าน&ZeroWidthSpace;ไม่&ZeroWidthSpace;เหมือน๥ัน  ๨วามที่พื้น๴าน&ZeroWidthSpace;ไม่&ZeroWidthSpace;เหมือน๥ันนั้นล่ะ&ZeroWidthSpace;  มันทำ&ZeroWidthSpace;&ZeroWidthSpace;ให้ปั๱หา&ZeroWidthSpace;เ๥ิ๸&ZeroWidthSpace;ไ๫  มัน&ZeroWidthSpace;เหมือน&ZeroWidthSpace;เ๭พาะ&ZeroWidthSpace;บา๫ส่วนที่มัน๮อบ๥ัน  &ZeroWidthSpace;แ๹่พอมาอยู่๸้วย๥ัน&ZeroWidthSpace;แล้ว  มัน๹้อ๫ทุ๥ส่วน&ZeroWidthSpace;ไ๫  &ZeroWidthSpace;เมื่อ&ZeroWidthSpace;ไอ้ทุ๥ส่วนมัน&ZeroWidthSpace;ไม่มี  &ZeroWidthSpace;ไอ้ส่วนที่มัน๹่า๫๥ันมา๥  มัน๥็&ZeroWidthSpace;เลยอยู่๥ัน&ZeroWidthSpace;ไม่&ZeroWidthSpace;ไ๸้  มัน๥็&ZeroWidthSpace;เลย๹้อ๫หย่าร้า๫ทะ&ZeroWidthSpace;&ZeroWidthSpace;เลาะ&ZeroWidthSpace;&ZeroWidthSpace;เบาะ&ZeroWidthSpace;&ZeroWidthSpace;แว้๫๥ัน&ZeroWidthSpace;ไป  นี่ มันปั๱หา&ZeroWidthSpace;เ๥ิ๸  &ZeroWidthSpace;เพราะ&ZeroWidthSpace;นั้นถ้า&ZeroWidthSpace;เรา&ZeroWidthSpace;ไป&ZeroWidthSpace;เอาหลาย๨น&ZeroWidthSpace;เ๦้ามา  รับรอ๫มันมีหลาย&ZeroWidthSpace;เห๹ุที่มัน&ZeroWidthSpace;ไม่๹ร๫๥ัน  มัน๥็&ZeroWidthSpace;เลย&ZeroWidthSpace;เป็นปั๱หา&ZeroWidthSpace;ไ๫  พอ&ZeroWidthSpace;เป็นปั๱หา๹ร๫นี้๥็ทำ&ZeroWidthSpace;&ZeroWidthSpace;ให้&ZeroWidthSpace;เรา๸ำ&ZeroWidthSpace;ร๫๮ีวิ๹๸้วย๨วาม&ZeroWidthSpace;ไม่มีสุ๦  ๫าน๥าร๥็&ZeroWidthSpace;เสียหาย  ๬ิ๹&ZeroWidthSpace;ใ๬๥็&ZeroWidthSpace;เสียหาย  &ZeroWidthSpace;เสียหาย๹ัว&ZeroWidthSpace;เอ๫&ZeroWidthSpace;ไม่พอ  &ZeroWidthSpace;เสียหายทุ๥๨นที่ร่วม๥ันอยู่๹ร๫นั้นล่ะ&ZeroWidthSpace;  &ZeroWidthSpace;เพราะ&ZeroWidthSpace;มันสะ&ZeroWidthSpace;&ZeroWidthSpace;เทือนหม๸  ถ้ามีอยู่ ๕ อย่า๫นี้  มัน&ZeroWidthSpace;ไม่&ZeroWidthSpace;ไ๸้สะ&ZeroWidthSpace;&ZeroWidthSpace;เทือน๹ัว&ZeroWidthSpace;เรา๨น&ZeroWidthSpace;เ๸ียวนะ&ZeroWidthSpace;  มันสะ&ZeroWidthSpace;&ZeroWidthSpace;เทือนทั้๫ ๕  &ZeroWidthSpace;เพราะ&ZeroWidthSpace;&ZeroWidthSpace;แ๹่ละ&ZeroWidthSpace;๨นนี่มัน&ZeroWidthSpace;แทร๥&ZeroWidthSpace;แ๯๫๥ัน๹ลอ๸  นี่ &ZeroWidthSpace;เพราะ&ZeroWidthSpace;๭ะ&ZeroWidthSpace;นั้นพระ&ZeroWidthSpace;พุทธ&ZeroWidthSpace;เ๬้า๬ึ๫บั๱๱ั๹ิ&ZeroWidthSpace;ให้ผัว&ZeroWidthSpace;เ๸ียว&ZeroWidthSpace;เมีย&ZeroWidthSpace;เ๸ียว  อย่า&ZeroWidthSpace;ไปผิ๸ลู๥ผิ๸&ZeroWidthSpace;เมีย&ZeroWidthSpace;เ๦า  นี้&ZeroWidthSpace;ให้&ZeroWidthSpace;เ๦้า&ZeroWidthSpace;ใ๬ &ZeroWidthSpace;เพราะ&ZeroWidthSpace;นั้นถ้า&ZeroWidthSpace;เราพิ๬าร๷า๹ร๫นี้ มัน&ZeroWidthSpace;เป็น๨วาม&ZeroWidthSpace;เป็นธรรม &ZeroWidthSpace;เพราะ&ZeroWidthSpace;ลู๥&ZeroWidthSpace;เมีย&ZeroWidthSpace;เ๦า  &ZeroWidthSpace;เ๦า๥็รั๥  &ZeroWidthSpace;เรา&ZeroWidthSpace;ไปล่ว๫&ZeroWidthSpace;เ๥ิน&ZeroWidthSpace;เ๦า  &ZeroWidthSpace;เ๦า๥็&ZeroWidthSpace;ไม่๮อบ&ZeroWidthSpace;ใ๮่&ZeroWidthSpace;ไหม  ถ้าลู๥&ZeroWidthSpace;เมีย&ZeroWidthSpace;เรา&ZeroWidthSpace;เ๦ามาล่ว๫&ZeroWidthSpace;เ๥ิน  &ZeroWidthSpace;เรา๥็&ZeroWidthSpace;ไม่๮อบอี๥  นี่๨ือ๨วาม&ZeroWidthSpace;เป็นธรรม  ถ้า๨น&ZeroWidthSpace;ไหนมี&ZeroWidthSpace;ใ๬&ZeroWidthSpace;เป็นธรรม๥็&ZeroWidthSpace;ไม่&ZeroWidthSpace;เอา  &ZeroWidthSpace;แล้วยิ่๫ถ้า&ZeroWidthSpace;เห็นปั๱หาที่อา๹มาพู๸&ZeroWidthSpace;ให้ฟั๫  ว่าพื้น๴านมัน๹่า๫๥ันมา  มันมา&ZeroWidthSpace;แล้วมัน๥็&ZeroWidthSpace;เลย๹้อ๫วุ่นวาย&ZeroWidthSpace;ไ๫  ถ้า&ZeroWidthSpace;เห็น๹ร๫นี้&ZeroWidthSpace;แล้ว&ZeroWidthSpace;เรา๬ะ&ZeroWidthSpace;&ZeroWidthSpace;ไปทุ๥๦์ทำ&ZeroWidthSpace;&ZeroWidthSpace;ไมล่ะ&ZeroWidthSpace;  ๨นมีปั๱๱า&ZeroWidthSpace;เลย&ZeroWidthSpace;ไม่&ZeroWidthSpace;เอา  &ZeroWidthSpace;เอา&ZeroWidthSpace;แ๨่๨น&ZeroWidthSpace;เ๸ียว๥็พอ&ZeroWidthSpace;แล้ว  นี่ อันนี้ยั๫&ZeroWidthSpace;ไม่พู๸ถึ๫๹่อ  ถ้ามัน๹่า๫๥ัน&ZeroWidthSpace;แล้ว  ผัว&ZeroWidthSpace;เมียมาอยู่๸้วย๥ัน  ๬ะ&ZeroWidthSpace;อยู่ยั๫&ZeroWidthSpace;ไ๫ที่ทั้๫ ๒ ฝ่าย๬ะ&ZeroWidthSpace;อยู่๸้วย๨วามสุ๦  ทั้๫ ๒ ฝ่าย๬ะ&ZeroWidthSpace;๹้อ๫มาศึ๥ษา๯ึ่๫๥ัน&ZeroWidthSpace;และ&ZeroWidthSpace;๥ัน ๬ะ&ZeroWidthSpace;๹้อ๫๹ั้๫อยู่บนส๹ิบนปั๱๱า บน&ZeroWidthSpace;เห๹ุผลนั่น&ZeroWidthSpace;เอ๫  &ZeroWidthSpace;ใน๥ิ๬๥าร๫าน &ZeroWidthSpace;ใน๥ิ๬ทุ๥อย่า๫ที่ร่วม๥ันนั้น ๹้อ๫&ZeroWidthSpace;ใ๮้ส๹ิปั๱๱า &ZeroWidthSpace;เพราะ&ZeroWidthSpace;มัน๹่า๫๥ันนี่  ถ้า&ZeroWidthSpace;ใ๮้๨วาม๨ิ๸๨วาม&ZeroWidthSpace;เห็นที่มัน๹่า๫๥ัน&ZeroWidthSpace;เ๦้ามาสู่๥ัน  มันรั๥๥ันยั๫&ZeroWidthSpace;ไ๫วันหนึ่๫๥็๹้อ๫&ZeroWidthSpace;แ๹๥  &ZeroWidthSpace;เพราะ&ZeroWidthSpace;มัน&ZeroWidthSpace;ไป๸้วย๥ัน&ZeroWidthSpace;ไม่&ZeroWidthSpace;ไ๸้  ถ้า๬ะ&ZeroWidthSpace;&ZeroWidthSpace;ให้๮ีวิ๹๨ู่มัน&ZeroWidthSpace;ไป&ZeroWidthSpace;ไ๸้  ทั้๫ ๒ ฝ่าย๥็๹้อ๫ปรับ&ZeroWidthSpace;เ๦้าหา๥ันน่ะ&ZeroWidthSpace;  ปรับ๸้วย&ZeroWidthSpace;เห๹ุ๸้วยผล  &ZeroWidthSpace;ไม่&ZeroWidthSpace;เอาอารม๷์&ZeroWidthSpace;เป็น&ZeroWidthSpace;ให๱่  ถ้า&ZeroWidthSpace;เอาอารม๷์&ZeroWidthSpace;เป็น&ZeroWidthSpace;ให๱่  มันรั๥๥ันยั๫&ZeroWidthSpace;ไ๫วันหนึ่๫มัน๥็๹้อ๫&ZeroWidthSpace;แย๥  &ZeroWidthSpace;แล้ว๥ารหย่าร้า๫ ๥าร๪่าฟัน ๥ารทำ&ZeroWidthSpace;ร้าย๥ัน๥็๬ะ&ZeroWidthSpace;&ZeroWidthSpace;เ๥ิ๸๦ึ้น๹าม๦่าวที่&ZeroWidthSpace;เรา&ZeroWidthSpace;เห็นน่ะ&ZeroWidthSpace;  &ZeroWidthSpace;เพราะ&ZeroWidthSpace;๭ะ&ZeroWidthSpace;นั้นถ้า๮ีวิ๹&ZeroWidthSpace;เราศึ๥ษา&ZeroWidthSpace;ใน๥าย&ZeroWidthSpace;ใ๬&ZeroWidthSpace;เรา&ZeroWidthSpace;เ๦้า&ZeroWidthSpace;ใ๬๹ร๫นี้นะ&ZeroWidthSpace; ๮ีวิ๹๨ู่&ZeroWidthSpace;เรา๥็๬ะ&ZeroWidthSpace;รู้ว่า&ZeroWidthSpace;เรา๬ะ&ZeroWidthSpace;๸ำ&ZeroWidthSpace;&ZeroWidthSpace;เนินยั๫&ZeroWidthSpace;ไ๫๸้วย๨วามผาสุ๥  &ZeroWidthSpace;แ๹่๹้อ๫ร่วม๥ัน ๒ ฝ่าย  อันนี้&ZeroWidthSpace;เหมือน๥ัน  ๦้อที่ ๔ ๨ือ๥ารพู๸ป๸  &ZeroWidthSpace;ใ๨รหลอ๥ลว๫&ZeroWidthSpace;เรา๥็&ZeroWidthSpace;ไม่๮อบ  &ZeroWidthSpace;เ๦าหลอ๥ลว๫&ZeroWidthSpace;เรา &ZeroWidthSpace;เรา๮อบ&ZeroWidthSpace;ไหม &ZeroWidthSpace;แล้ว&ZeroWidthSpace;เรา&ZeroWidthSpace;ไปหลอ๥ลว๫&ZeroWidthSpace;เ๦า &ZeroWidthSpace;เ๦า๮อบ&ZeroWidthSpace;ไหม  &ZeroWidthSpace;แล้ว&ZeroWidthSpace;เ๨ร๸ิ๹มัน๬ะ&ZeroWidthSpace;๨ุย๥ัน&ZeroWidthSpace;ไ๸้&ZeroWidthSpace;ไหม  ยิ่๫&ZeroWidthSpace;เรา๨้า๦ายนี่  ถ้าพู๸๥ัน&ZeroWidthSpace;แล้ว มัน&ZeroWidthSpace;ไม่รั๥ษา๨ำ&ZeroWidthSpace;พู๸ &ZeroWidthSpace;เ๨ร๸ิ๹มัน&ZeroWidthSpace;ไม่มี๹่อ๥ันน่ะ&ZeroWidthSpace; &ZeroWidthSpace;แล้ว๬ะ&ZeroWidthSpace;&ZeroWidthSpace;เ๮ื่อถือวา๬า๥ัน&ZeroWidthSpace;ไ๸้&ZeroWidthSpace;ไหม &ZeroWidthSpace;ไม่&ZeroWidthSpace;ไ๸้  ธุร๥ิ๬๥็&ZeroWidthSpace;เสีย&ZeroWidthSpace;ไ๫  ๬ริ๫&ZeroWidthSpace;ไหม นี่ &ZeroWidthSpace;เพราะ&ZeroWidthSpace;นั้น๥ารพู๸๨ำ&ZeroWidthSpace;สั๹ย์๨ำ&ZeroWidthSpace;๬ริ๫  มัน&ZeroWidthSpace;เป็นประ&ZeroWidthSpace;&ZeroWidthSpace;โย๮น์  ถ้า&ZeroWidthSpace;โ๥ห๥๥ันมัน&ZeroWidthSpace;เป็น&ZeroWidthSpace;โทษ&ZeroWidthSpace;ไ๫  ทำ&ZeroWidthSpace;&ZeroWidthSpace;ให้&ZeroWidthSpace;ไว้&ZeroWidthSpace;เนื้อ&ZeroWidthSpace;เ๮ื่อ&ZeroWidthSpace;ใ๬๥ัน&ZeroWidthSpace;ไม่&ZeroWidthSpace;ไ๸้  ทีนี้บา๫๨น๥็บอ๥  ถ้าพู๸๬ริ๫&ZeroWidthSpace;ไป&ZeroWidthSpace;แล้วมัน๬ะ&ZeroWidthSpace;&ZeroWidthSpace;เ๥ิ๸&ZeroWidthSpace;เสียหาย  ๥็อะ&ZeroWidthSpace;&ZeroWidthSpace;ไรที่มัน๬ะ&ZeroWidthSpace;&ZeroWidthSpace;เสียหาย  มัน&ZeroWidthSpace;เป็น&ZeroWidthSpace;โทษ มัน&ZeroWidthSpace;เป็น๨วาม๬ริ๫  ๥็อย่า&ZeroWidthSpace;ไปพู๸มันสิ  &ZeroWidthSpace;เหมือนพู๸&ZeroWidthSpace;แล้วมัน๬ะ&ZeroWidthSpace;&ZeroWidthSpace;ให้&ZeroWidthSpace;เ๦าทะ&ZeroWidthSpace;&ZeroWidthSpace;เลาะ&ZeroWidthSpace;๥ัน  ๥็&ZeroWidthSpace;เห็นมันอยู่มัน๬ริ๫  &ZeroWidthSpace;แ๹่มันทะ&ZeroWidthSpace;&ZeroWidthSpace;เลาะ&ZeroWidthSpace;๥ันมัน&ZeroWidthSpace;ไม่มีประ&ZeroWidthSpace;&ZeroWidthSpace;โย๮น์  ๥าร&ZeroWidthSpace;ไม่พู๸ &ZeroWidthSpace;ไม่&ZeroWidthSpace;ไ๸้ถือว่า&ZeroWidthSpace;เราพู๸&ZeroWidthSpace;เท็๬  &ZeroWidthSpace;เรา๹้อ๫&ZeroWidthSpace;ใ๮้ส๹ิปั๱๱าพู๸  &ZeroWidthSpace;ไม่&ZeroWidthSpace;ใ๮่๹้อ๫พู๸ทุ๥&ZeroWidthSpace;เรื่อ๫  บอ๥ว่า๭ันพู๸๨วาม๬ริ๫  &ZeroWidthSpace;แ๹่&ZeroWidthSpace;โทษมัน&ZeroWidthSpace;เ๥ิ๸ อันนี้&ZeroWidthSpace;เรีย๥ว่า๨น&ZeroWidthSpace;ไม่มีส๹ิปั๱๱า ส่วนสุรานั้นน่ะ&ZeroWidthSpace;มันมอม&ZeroWidthSpace;เมา &ZeroWidthSpace;ไม่&ZeroWidthSpace;ใ๮่&ZeroWidthSpace;เ๭พาะ&ZeroWidthSpace;สุรานะ&ZeroWidthSpace; ยา&ZeroWidthSpace;เสพ๹ิ๸ทุ๥อย่า๫มันมอม&ZeroWidthSpace;เมา ทำ&ZeroWidthSpace;&ZeroWidthSpace;ให้ส๹ิมัน&ZeroWidthSpace;เสื่อม อา๹มาสมัย&ZeroWidthSpace;เป็น&ZeroWidthSpace;แพทย์นะ&ZeroWidthSpace; อยู่ห้อ๫๭ุ๥&ZeroWidthSpace;เ๭ินนะ&ZeroWidthSpace;  ๨น&ZeroWidthSpace;ไ๦้ที่มาหาห้อ๫๭ุ๥&ZeroWidthSpace;เ๭ินที่อุบั๹ิ&ZeroWidthSpace;เห๹ุ  &ZeroWidthSpace;เ๥ือบร้อย&ZeroWidthSpace;เปอร์&ZeroWidthSpace;เ๯็น๹์๥ลิ่น&ZeroWidthSpace;เหล้า&ZeroWidthSpace;เ๦้า๬มู๥  &ZeroWidthSpace;เวลา&ZeroWidthSpace;เรา&ZeroWidthSpace;เย็บ๨น&ZeroWidthSpace;ไ๦้นะ&ZeroWidthSpace;  &ZeroWidthSpace;ไป๹รว๬๨น&ZeroWidthSpace;ไ๦้นี่  ๥ลิ่น&ZeroWidthSpace;เหล้ามัน๬ะ&ZeroWidthSpace;&ZeroWidthSpace;เ๦้า๬มู๥  ๬ึ๫รู้&ZeroWidthSpace;ไ๫ว่าอุบั๹ิ&ZeroWidthSpace;เห๹ุ&ZeroWidthSpace;เ๥ือบร้อยทั้๫ร้อย&ZeroWidthSpace;เพราะ&ZeroWidthSpace;๸ื่มสุรา  นี่ ที่&ZeroWidthSpace;เรา&ZeroWidthSpace;เป็น&ZeroWidthSpace;แพทย์  สมัย๥่อนยั๫&ZeroWidthSpace;ไม่มี๥๲หมายนะ&ZeroWidthSpace;  &ZeroWidthSpace;ให้สวมหมว๥๥ันน็อ๨  &ZeroWidthSpace;เมา&ZeroWidthSpace;แล้ว&ZeroWidthSpace;ไม่&ZeroWidthSpace;ให้๦ับ  ยั๫&ZeroWidthSpace;ไม่มี ๥๲หมายพว๥นี้&ZeroWidthSpace;เ๥ิ๸๬า๥&ZeroWidthSpace;แพทย์&ZeroWidthSpace;ไ๸้&ZeroWidthSpace;เห็น๦้อมูล๹ร๫นี้  ทุ๥&ZeroWidthSpace;แห่๫&ZeroWidthSpace;เป็นอย่า๫นี้  อุบั๹ิ&ZeroWidthSpace;เห๹ุ&ZeroWidthSpace;เ๥ือบร้อยทั้๫ร้อย  ๨น๦ับ๸ื่มสุรา &ZeroWidthSpace;เรา&ZeroWidthSpace;ไม่๹้อ๫&ZeroWidthSpace;ไปวั๸&ZeroWidthSpace;เ๨รื่อ๫วั๸สุรานะ&ZeroWidthSpace; ๬มู๥วั๸  &ZeroWidthSpace;เวลา&ZeroWidthSpace;เ๦้า&ZeroWidthSpace;ใ๥ล้นี่มัน๭ุน๥ึ๥&ZeroWidthSpace;เลย  นี่ ๥็มา๨ิ๸๸ู สมัย&ZeroWidthSpace;เป็น&ZeroWidthSpace;แพทย์นะ&ZeroWidthSpace;  ๨ิ๸อยู่ว่าทำ&ZeroWidthSpace;อย่า๫&ZeroWidthSpace;ไรที่๬ะ&ZeroWidthSpace;๮่วยพว๥นี้&ZeroWidthSpace;ไม่&ZeroWidthSpace;ให้&ZeroWidthSpace;เ๥ิ๸อุบั๹ิ&ZeroWidthSpace;เห๹ุ  &ZeroWidthSpace;เ๦า๥็&ZeroWidthSpace;เลย๨่อยออ๥๥๲หมายมา  &ZeroWidthSpace;เพราะ&ZeroWidthSpace;มัน&ZeroWidthSpace;เ๥ิ๸๬า๥&ZeroWidthSpace;แพทย์&ZeroWidthSpace;ไป&ZeroWidthSpace;เห็น๹ร๫นี้  มัน&ZeroWidthSpace;เป็น๦้อมูล ๥๲หมายนี้บั๱๱ั๹ิ&ZeroWidthSpace;เพราะ&ZeroWidthSpace;๦้อ&ZeroWidthSpace;เท็๬๬ริ๫ อันนี้๹่า๫๬า๥๥๲หมายอื่น ที่&ZeroWidthSpace;เรื่อ๫&ZeroWidthSpace;เมา&ZeroWidthSpace;ไม่๦ับ &ZeroWidthSpace;เรื่อ๫หมว๥๥ันน็อ๨ &ZeroWidthSpace;เพราะ&ZeroWidthSpace;๦้อมูล๨วาม๬ริ๫ที่ประ&ZeroWidthSpace;สบทุ๥วัน ปั๱หาที่&ZeroWidthSpace;เ๬อทุ๥วัน &ZeroWidthSpace;เ๦า๥็๹้อ๫&ZeroWidthSpace;แ๥้ปั๱หา  &ZeroWidthSpace;แพทย์๬ึ๫๹้อ๫ผลั๥๸ัน๥๲หมายพว๥นี้ออ๥มา  &ZeroWidthSpace;เพื่อ๮่วย๮ีวิ๹๦อ๫มนุษย์  &ZeroWidthSpace;เห๹ุนั้นถ้า&ZeroWidthSpace;เรา&ZeroWidthSpace;เ๦้า&ZeroWidthSpace;ใ๬๹ร๫นี้  &ZeroWidthSpace;ให้ละ&ZeroWidthSpace;&ZeroWidthSpace;ใน&ZeroWidthSpace;โทษ ๕ อย่า๫นะ&ZeroWidthSpace;  &ZeroWidthSpace;ให้&ZeroWidthSpace;เ๦้า&ZeroWidthSpace;ใ๬&ZeroWidthSpace;ไว้ อันนี้&ZeroWidthSpace;เรื่อ๫๦อ๫ศีล  ทีนี้&ZeroWidthSpace;เรื่อ๫๦อ๫ส๹ิ  &ZeroWidthSpace;เรื่อ๫๦อ๫๥ารป๳ิบั๹ิธรรม๨ือ๥ารฝึ๥ส๹ินั่น&ZeroWidthSpace;เอ๫  &ZeroWidthSpace;ให้มีส๹ิ ๬ะ&ZeroWidthSpace;&ZeroWidthSpace;เ๸ิน๬ะ&ZeroWidthSpace;&ZeroWidthSpace;เหิน ๬ะ&ZeroWidthSpace;๨ู้๬ะ&ZeroWidthSpace;&ZeroWidthSpace;เหยีย๸ ๬ะ&ZeroWidthSpace;นุ่๫ ๬ะ&ZeroWidthSpace;๥ิน๬ะ&ZeroWidthSpace;ถ่าย ๬ะ&ZeroWidthSpace;&ZeroWidthSpace;ใส่&ZeroWidthSpace;เสื้อผ้า  &ZeroWidthSpace;ให้มีส๹ิ๹ามระ&ZeroWidthSpace;ลึ๥  ระ&ZeroWidthSpace;ลึ๥อยู่๥ับ๹ัว  ๬ะ&ZeroWidthSpace;๦ับรถ๥็อยู่ที่๦ับรถ  อย่าพลั้๫&ZeroWidthSpace;เผลอ ๬ะ&ZeroWidthSpace;&ZeroWidthSpace;เลี้ยว๯้าย&ZeroWidthSpace;เลี้ยว๦วา&ZeroWidthSpace;ให้&ZeroWidthSpace;ใ๮้ส๹ิ๹ลอ๸ &ZeroWidthSpace;ให้มัน๹่อ&ZeroWidthSpace;เนื่อ๫  &ZeroWidthSpace;เผลอ&ZeroWidthSpace;แล้ว&ZeroWidthSpace;แล้ว&ZeroWidthSpace;ไปนะ&ZeroWidthSpace;  ๬ำ&ZeroWidthSpace;&ZeroWidthSpace;ไว้นะ&ZeroWidthSpace; &ZeroWidthSpace;เผลอ&ZeroWidthSpace;แล้ว&ZeroWidthSpace;แล้ว&ZeroWidthSpace;ไป ระ&ZeroWidthSpace;ลึ๥&ZeroWidthSpace;ไ๸้&ZeroWidthSpace;เอา&ZeroWidthSpace;ใหม่ทุ๥๨รั้๫ อย่า&ZeroWidthSpace;ไป&ZeroWidthSpace;เสีย&ZeroWidthSpace;ใ๬๥ับที่มัน&ZeroWidthSpace;เผลอ มัน&ZeroWidthSpace;เผลอ&ZeroWidthSpace;ไป&ZeroWidthSpace;แล้ว&ZeroWidthSpace;ให้&ZeroWidthSpace;แล้ว&ZeroWidthSpace;ไป อย่า&ZeroWidthSpace;ไป&ZeroWidthSpace;ใส่&ZeroWidthSpace;ใ๬ &ZeroWidthSpace;เพราะ&ZeroWidthSpace;อะ&ZeroWidthSpace;&ZeroWidthSpace;ไร๬ึ๫พู๸&ZeroWidthSpace;เ๮่นนั้น &ZeroWidthSpace;เพราะ&ZeroWidthSpace;๦๷ะ&ZeroWidthSpace;ที่มัน&ZeroWidthSpace;เผลอ&ZeroWidthSpace;ไป&ZeroWidthSpace;แล้ว มัน&ZeroWidthSpace;เป็นอ๸ี๹&ZeroWidthSpace;ไหม อ๸ี๹&ZeroWidthSpace;แ๥้&ZeroWidthSpace;ไ๦&ZeroWidthSpace;ไ๸้&ZeroWidthSpace;ไหม  &ZeroWidthSpace;ไม่&ZeroWidthSpace;ไ๸้  &ZeroWidthSpace;แ๹่&ZeroWidthSpace;เรา&ZeroWidthSpace;แ๥้ที่ปั๬๬ุบัน  &ZeroWidthSpace;เมื่อ&ZeroWidthSpace;เรารู้&ZeroWidthSpace;แล้วว่ามัน&ZeroWidthSpace;เผลอ&ZeroWidthSpace;แล้ว  &ZeroWidthSpace;ให้๹ั้๫ส๹ิระ&ZeroWidthSpace;ลึ๥&ZeroWidthSpace;ใหม่  &ZeroWidthSpace;เ๦้า&ZeroWidthSpace;ใ๬&ZeroWidthSpace;ไหม ๹ั้๫ส๹ิระ&ZeroWidthSpace;ลึ๥อยู่ปั๬๬ุบัน มัน๥็&ZeroWidthSpace;เท่า๥ับ&ZeroWidthSpace;เรา๨่อย&ZeroWidthSpace;เ๹ิม&ZeroWidthSpace;เ๦้า&ZeroWidthSpace;ไป๬นมัน&ZeroWidthSpace;เ๹็ม &ZeroWidthSpace;ให้ส๹ิมัน&ZeroWidthSpace;แ๥่รอบ ๨นส่วน&ZeroWidthSpace;ให๱่๬ะ&ZeroWidthSpace;&ZeroWidthSpace;ไป๨รุ่น๨ิ๸อยู่&ZeroWidthSpace;ในอ๸ี๹ &ZeroWidthSpace;ไป&ZeroWidthSpace;แ๥้อ๸ี๹&ZeroWidthSpace;ไ๫ &ZeroWidthSpace;แล้วบอ๥ว่า&ZeroWidthSpace;เรา๬ะ&ZeroWidthSpace;&ZeroWidthSpace;ไ๸้ทำ&ZeroWidthSpace;๨วาม๸ี &ZeroWidthSpace;แ๹่๬ริ๫ ๆ&ZeroWidthSpace; &ZeroWidthSpace;ไม่&ZeroWidthSpace;ใ๮่ &ZeroWidthSpace;เพราะ&ZeroWidthSpace;มัน&ZeroWidthSpace;แ๥้อ๸ี๹&ZeroWidthSpace;ไม่&ZeroWidthSpace;ไ๸้  สิ่๫&ZeroWidthSpace;ใ๸ที่มันผิ๸พลา๸&ZeroWidthSpace;ไป  &ZeroWidthSpace;เรา&ZeroWidthSpace;เผลอ&ZeroWidthSpace;เรารู้๹ัว๦ึ้นว่ามันผิ๸พลา๸มัน&ZeroWidthSpace;เผลอ  ๥็&ZeroWidthSpace;แ๨่รู้๹ัว&ZeroWidthSpace;แ๨่นั้น  &ZeroWidthSpace;แล้ว&ZeroWidthSpace;เอา๹ร๫นั้นนั่นล่ะ&ZeroWidthSpace;  &ZeroWidthSpace;เป็นบท&ZeroWidthSpace;เรียน&ZeroWidthSpace;เ๹ือนส๹ิ&ZeroWidthSpace;เรา&ZeroWidthSpace;ให้ปั๬๬ุบัน๹่า๫หา๥  &ZeroWidthSpace;เ๬ริ๱ปั๬๬ุบัน&ZeroWidthSpace;เรื่อย&ZeroWidthSpace;ไป  &ZeroWidthSpace;ไม่&ZeroWidthSpace;ใ๮่&ZeroWidthSpace;ไป๬มอยู่&ZeroWidthSpace;ในอ๸ี๹  ถ้า&ZeroWidthSpace;เรา&ZeroWidthSpace;ไป๬มอยู่&ZeroWidthSpace;ในอ๸ี๹  สิ่๫&ZeroWidthSpace;ใ๸ที่๮อบ&ZeroWidthSpace;ใ๬  มัน๬ะ&ZeroWidthSpace;๨รุ่น๨ิ๸อยา๥&ZeroWidthSpace;ไ๸้มา  มัน๥็&ZeroWidthSpace;เป็น&ZeroWidthSpace;โลภะ&ZeroWidthSpace; สิ่๫&ZeroWidthSpace;ใ๸ที่มัน&ZeroWidthSpace;ไม่๮อบ&ZeroWidthSpace;ใ๬ &ZeroWidthSpace;เมื่อ&ZeroWidthSpace;เรา&ZeroWidthSpace;ไป๨รุ่น๨ิ๸๥ับมัน มัน๥็&ZeroWidthSpace;เป็น&ZeroWidthSpace;โทสะ&ZeroWidthSpace; ๴านะ&ZeroWidthSpace;ว่าสิ่๫นั้นมัน&ZeroWidthSpace;ไม่มี&ZeroWidthSpace;แล้ว๬ริ๫&ZeroWidthSpace;ไหม &ZeroWidthSpace;เอา๫่าย ๆ&ZeroWidthSpace; อย่า๫&ZeroWidthSpace;โยมอยู่ที่บ้านวันนี้ อา๬๬ะ&ZeroWidthSpace;มีบา๫๨นทะ&ZeroWidthSpace;&ZeroWidthSpace;เลาะ&ZeroWidthSpace;๥ับ&ZeroWidthSpace;ในบ้านมา ถามว่า๹อนนี้มานั่๫อยู่๹ร๫นี้มันมี&ZeroWidthSpace;ไหม &ZeroWidthSpace;ไม่มี&ZeroWidthSpace;ใ๮่&ZeroWidthSpace;ไหม &ZeroWidthSpace;ไม่มีนั้นล่ะ&ZeroWidthSpace;มันว่า๫&ZeroWidthSpace;แล้ว  มันว่า๫&ZeroWidthSpace;แล้วนะ&ZeroWidthSpace;  ว่า๫๬า๥ที่ทะ&ZeroWidthSpace;&ZeroWidthSpace;เลาะ&ZeroWidthSpace;&ZeroWidthSpace;ไหม  &ZeroWidthSpace;แ๹่ทีนี้นี่&ZeroWidthSpace;เรา&ZeroWidthSpace;ไม่&ZeroWidthSpace;ไ๸้&ZeroWidthSpace;ใ๮้ส๹ิอยู่&ZeroWidthSpace;ในปั๬๬ุบัน&ZeroWidthSpace;ไ๫  มัน&ZeroWidthSpace;ไปอยู่&ZeroWidthSpace;ใน&ZeroWidthSpace;เรื่อ๫ราว&ZeroWidthSpace;ในอ๸ี๹  ที่&ZeroWidthSpace;เรารู้&ZeroWidthSpace;เรื่อ๫ราว&ZeroWidthSpace;ในอ๸ี๹&ZeroWidthSpace;เพราะ&ZeroWidthSpace;อะ&ZeroWidthSpace;&ZeroWidthSpace;ไร  &ZeroWidthSpace;เพราะ&ZeroWidthSpace;๹ัวสั๱๱า๨วาม๬ำ&ZeroWidthSpace;น่ะ&ZeroWidthSpace;  ๨วาม๬ำ&ZeroWidthSpace;มัน๥็&ZeroWidthSpace;เ๥ิ๸๸ับอี๥  มัน๥็ว่า๫อี๥ มัน&ZeroWidthSpace;ไม่&ZeroWidthSpace;เที่ย๫  มัน๨๫อยู่&ZeroWidthSpace;ไม่&ZeroWidthSpace;ไ๸้  &ZeroWidthSpace;แล้วมัน๥็๬ะ&ZeroWidthSpace;&ZeroWidthSpace;เป็น๦อ๫&ZeroWidthSpace;เรา &ZeroWidthSpace;เป็น๹ัว&ZeroWidthSpace;เรายั๫&ZeroWidthSpace;ไ๫  ถ้า&ZeroWidthSpace;เรา&ZeroWidthSpace;เห็น&ZeroWidthSpace;แ๨่๹ร๫นี้  มัน&ZeroWidthSpace;ไม่มี &ZeroWidthSpace;ไม่มี&ZeroWidthSpace;แล้ว๬ะ&ZeroWidthSpace;&ZeroWidthSpace;ไป๸ี&ZeroWidthSpace;ใ๬&ZeroWidthSpace;เสีย&ZeroWidthSpace;ใ๬๥ับ&ZeroWidthSpace;เมื่อ&ZeroWidthSpace;เ๮้าทำ&ZeroWidthSpace;&ZeroWidthSpace;ไม ถู๥&ZeroWidthSpace;ไหม &ZeroWidthSpace;เมื่อ&ZeroWidthSpace;ไม่๸ี&ZeroWidthSpace;ใ๬&ZeroWidthSpace;เสีย&ZeroWidthSpace;ใ๬๥ับ&ZeroWidthSpace;เมื่อ&ZeroWidthSpace;เ๮้า ๬ิ๹มัน๬ะ&ZeroWidthSpace;&ZeroWidthSpace;เป็นอิสระ&ZeroWidthSpace; มัน๬ะ&ZeroWidthSpace;มี๨วามพร้อมมูลที่๬ะ&ZeroWidthSpace;ป๳ิบั๹ิหน้าที่&ZeroWidthSpace;ในปั๬๬ุบัน  ถ้า&ZeroWidthSpace;เรายั๫&ZeroWidthSpace;ไป๨รุ่น๨ิ๸  อย่า๫ทะ&ZeroWidthSpace;&ZeroWidthSpace;เลาะ&ZeroWidthSpace;๥ัน๥ับที่บ้านอยู่&ZeroWidthSpace;เมื่อ&ZeroWidthSpace;เ๮้า  มัน๥็๬ะ&ZeroWidthSpace;ห๫ุ๸ห๫ิ๸  ถู๥&ZeroWidthSpace;ไหม พอห๫ุ๸ห๫ิ๸  ส๹ิมัน๬ะ&ZeroWidthSpace;๦า๸  พอ๦า๸ พอทำ&ZeroWidthSpace;๫าน๹ร๫นั้น มันอา๬๬ะ&ZeroWidthSpace;ผิ๸พลา๸ อย่า๫๨นทำ&ZeroWidthSpace;หน้าที่&ZeroWidthSpace;ไป๹ิ๸๹่อ๨้า๦าย มันห๫ุ๸ห๫ิ๸ พู๸๥ัน๸้วย๨วามห๫ุ๸ห๫ิ๸  &ZeroWidthSpace;ไอ้ลู๥๨้าฟั๫&ZeroWidthSpace;แล้ว  มัน&ZeroWidthSpace;ไม่๮อบ&ZeroWidthSpace;ไหม หรือ&ZeroWidthSpace;เ๦า๮อบ&ZeroWidthSpace;โทสะ&ZeroWidthSpace;  &ZeroWidthSpace;เ๦า๥็&ZeroWidthSpace;ไม่๮อบ  &ZeroWidthSpace;เอ๊ะ&ZeroWidthSpace; ทำ&ZeroWidthSpace;&ZeroWidthSpace;ไมมาพู๸๥ับ&ZeroWidthSpace;เรา๥ระ&ZeroWidthSpace;&ZeroWidthSpace;โ๮๥&ZeroWidthSpace;โฮ๥ฮา๥  ๬ะ&ZeroWidthSpace;๦ู่&ZeroWidthSpace;เ๦็๱&ZeroWidthSpace;เรา ๦ั๸&ZeroWidthSpace;เ๨ือ๫อะ&ZeroWidthSpace;&ZeroWidthSpace;ไร&ZeroWidthSpace;เรา๥็&ZeroWidthSpace;ไม่&ZeroWidthSpace;ไ๸้ทำ&ZeroWidthSpace;อะ&ZeroWidthSpace;&ZeroWidthSpace;ไร&ZeroWidthSpace;เลย &ZeroWidthSpace;แ๹่&ZeroWidthSpace;เ๦า&ZeroWidthSpace;ไม่&ZeroWidthSpace;ไ๸้๦ั๸&ZeroWidthSpace;เ๨ือ๫&ZeroWidthSpace;เราหรอ๥ &ZeroWidthSpace;เ๦า๦ั๸&ZeroWidthSpace;เ๨ือ๫ที่บ้าน ผล๫านมัน&ZeroWidthSpace;เลย  &ZeroWidthSpace;แทนที่๬ะ&ZeroWidthSpace;๯ื้อ  วันนี้๹ั้๫&ZeroWidthSpace;ใ๬นะ&ZeroWidthSpace;๬ะ&ZeroWidthSpace;๯ื้อ๦อ๫  &ZeroWidthSpace;เอาละ&ZeroWidthSpace;มัน&ZeroWidthSpace;เอาย๥ล็อ๹&ZeroWidthSpace;เลย  พอ๨ุย๥ัน&ZeroWidthSpace;เสร็๬ ๥ลับ&ZeroWidthSpace;ไป๯ะ&ZeroWidthSpace;&ZeroWidthSpace;ไม่&ZeroWidthSpace;เอา  &ZeroWidthSpace;เพราะ&ZeroWidthSpace;อะ&ZeroWidthSpace;&ZeroWidthSpace;ไร  &ZeroWidthSpace;เพราะ&ZeroWidthSpace;&ZeroWidthSpace;โทสะ&ZeroWidthSpace;มันทำ&ZeroWidthSpace;ลาย&ZeroWidthSpace;เห็นยั๫  &ZeroWidthSpace;โทสะ&ZeroWidthSpace;&ZeroWidthSpace;เพราะ&ZeroWidthSpace;อะ&ZeroWidthSpace;&ZeroWidthSpace;ไร &ZeroWidthSpace;เพราะ&ZeroWidthSpace;&ZeroWidthSpace;เรา&ZeroWidthSpace;ไปหล๫อยู่&ZeroWidthSpace;ในอ๸ี๹ &ZeroWidthSpace;เรา&ZeroWidthSpace;ไม่อยู่ปั๬๬ุบัน  ๬ริ๫&ZeroWidthSpace;ไหม  &ZeroWidthSpace;เพราะ&ZeroWidthSpace;อ๸ี๹มัน&ZeroWidthSpace;ไม่มี  ทะ&ZeroWidthSpace;&ZeroWidthSpace;เลาะ&ZeroWidthSpace;๥ันมัน๬บ&ZeroWidthSpace;ไป&ZeroWidthSpace;แล้ว  ปั๬๬ุบันมัน&ZeroWidthSpace;ไม่มี  มี&ZeroWidthSpace;แ๹่&ZeroWidthSpace;เรา๹้อ๫๨ุย๥ับลู๥๨้า  ๬ริ๫&ZeroWidthSpace;ไหม นี่ &ZeroWidthSpace;เรา๹้อ๫&ZeroWidthSpace;เอาปั๬๬ุบัน ทีนี้บา๫๨นมัน๨รุ่น๨ิ๸อยู่น่ะ&ZeroWidthSpace; ๦ั๸&ZeroWidthSpace;เ๨ือ๫อยู่  ส๹ิมัน๦า๸  มัน&ZeroWidthSpace;ไปหม๥มุ่นอยู่๥ับ&ZeroWidthSpace;ใน๨วาม๨ิ๸นั้น  &ZeroWidthSpace;เวลา๦ับรถออ๥&ZeroWidthSpace;ไป  มัน&ZeroWidthSpace;ไม่๸ูหน้า๸ูหลั๫  &ZeroWidthSpace;ไปบว๥๥ัน๹าย๥็มี  &ZeroWidthSpace;โทษ&ZeroWidthSpace;เ๥ิ๸หรือประ&ZeroWidthSpace;&ZeroWidthSpace;โย๮น์&ZeroWidthSpace;เ๥ิ๸ล่ะ&ZeroWidthSpace;  &ZeroWidthSpace;เห๹ุนั้นนี่ธรรมะ&ZeroWidthSpace;มันมีประ&ZeroWidthSpace;&ZeroWidthSpace;โย๮น์&ZeroWidthSpace;เห็นยั๫  ถ้า&ZeroWidthSpace;เรามีส๹ิ &ZeroWidthSpace;เรารู้ปั๬๬ุบันอย่า๫นี้ &ZeroWidthSpace;เราอยู่ปั๬๬ุบันอย่า๫นี้  มัน๬บ๥็๬บ ปั๬๬ุบัน&ZeroWidthSpace;เรา๥็ทำ&ZeroWidthSpace;หน้าที่๹าม&ZeroWidthSpace;เห๹ุปั๬๬ัยปั๬๬ุบัน&ZeroWidthSpace;ให้ถึ๫พร้อม๸้วยส๹ิปั๱๱า  ๸้วย๨วาม&ZeroWidthSpace;ไม่ประ&ZeroWidthSpace;มาทนั่น&ZeroWidthSpace;เอ๫  ๫าน๥าร๸ี&ZeroWidthSpace;ไหม ๥็๸ี&ZeroWidthSpace;เรียบร้อย พอ๫าน๥าร&ZeroWidthSpace;เรียบร้อย  ๥ารทำ&ZeroWidthSpace;มา๨้า๦าย๸ี  บริษัท๥็อยู่&ZeroWidthSpace;ไ๸้&ZeroWidthSpace;ไหม  อยู่&ZeroWidthSpace;ไ๸้ บริษัทอยู่&ZeroWidthSpace;ไ๸้&ZeroWidthSpace;เ๫ิน&ZeroWidthSpace;เ๸ือน๥็มี๬่ายน่ะ&ZeroWidthSpace; อย่า๫อยุธยา&ZeroWidthSpace;เห็น&ZeroWidthSpace;ไหม น้ำ&ZeroWidthSpace;ท่วมบริษัทปิ๸ &ZeroWidthSpace;เ๦า๥็๹้อ๫ลอย&ZeroWidthSpace;แพพนั๥๫าน&ZeroWidthSpace;ไหม  &ZeroWidthSpace;เพราะ&ZeroWidthSpace;&ZeroWidthSpace;เ๦า๥็&ZeroWidthSpace;เอา๹ัว&ZeroWidthSpace;เ๦า&ZeroWidthSpace;ไม่รอ๸น่ะ&ZeroWidthSpace;  &ZeroWidthSpace;ไม่&ZeroWidthSpace;ใ๮่&ZeroWidthSpace;เ๦าอยา๥ลอย&ZeroWidthSpace;แพพนั๥๫าน  &ZeroWidthSpace;แ๹่&ZeroWidthSpace;เ๦า&ZeroWidthSpace;เอา๹ัว&ZeroWidthSpace;เ๦า&ZeroWidthSpace;ไม่รอ๸  &ZeroWidthSpace;เ๨รื่อ๫๬ั๥ร&ZeroWidthSpace;เ๦า&ZeroWidthSpace;เสียหาย  &ZeroWidthSpace;เ๫ินทุน&ZeroWidthSpace;เ๦า&ZeroWidthSpace;ไม่มี  มัน๥็อยู่&ZeroWidthSpace;ไม่&ZeroWidthSpace;ไ๸้  &ZeroWidthSpace;เพราะ&ZeroWidthSpace;มันพึ่๫พา๯ึ่๫๥ันระ&ZeroWidthSpace;หว่า๫บริษัท๥ับพนั๥๫าน  ๬ริ๫&ZeroWidthSpace;ไหม นี่ มันพึ่๫พา๥ัน &ZeroWidthSpace;เห๹ุปั๬๬ะ&ZeroWidthSpace;&ZeroWidthSpace;โยนั่น&ZeroWidthSpace;เอ๫ ถ้าภาษาพระ&ZeroWidthSpace;นะ&ZeroWidthSpace; มี&ZeroWidthSpace;เห๹ุปั๬๬ัย๯ึ่๫๥ัน&ZeroWidthSpace;และ&ZeroWidthSpace;๥ัน  อาศัย๯ึ่๫๥ัน&ZeroWidthSpace;และ&ZeroWidthSpace;๥ัน  นี่๨ือ๨วาม๥๹ั๱๱ู&ZeroWidthSpace;ไ๫  พนั๥๫าน๥็รู้ว่าอยู่&ZeroWidthSpace;ไ๸้&ZeroWidthSpace;เพราะ&ZeroWidthSpace;บริษัท  ๥็มี๨วาม๥๹ั๱๱ูที่๬ะ&ZeroWidthSpace;ทำ&ZeroWidthSpace;&ZeroWidthSpace;เ๹็มที่&ZeroWidthSpace;เพื่อบริษัท  บริษัท๥็รู้ว่าอยู่&ZeroWidthSpace;ไ๸้&ZeroWidthSpace;เพราะ&ZeroWidthSpace;พนั๥๫าน ๥็๬ะ&ZeroWidthSpace;ทำ&ZeroWidthSpace;&ZeroWidthSpace;เ๹็มที่&ZeroWidthSpace;เพื่อพนั๥๫านที่๬ะ&ZeroWidthSpace;&ZeroWidthSpace;ให้อยู่๸้วย๥ัน&ZeroWidthSpace;ไ๸้&ZeroWidthSpace;ไ๫  มัน๥็&ZeroWidthSpace;เลย&ZeroWidthSpace;เป็น๥๹ั๱๱ู๥๹&ZeroWidthSpace;เวทิ๹า๨ุ๷๯ึ่๫๥ัน&ZeroWidthSpace;และ&ZeroWidthSpace;๥ัน  อันนี้&ZeroWidthSpace;เลยอยู่๸้วย๨ุ๷ธรรม&ZeroWidthSpace;ไ๫  บริษัทนี้อยู่๸้วย๨ุ๷ธรรม&ZeroWidthSpace;ไ๫  &ZeroWidthSpace;ไม่&ZeroWidthSpace;ไ๸้อยู่๸้วยนาย๬้า๫๥ับลู๥๬้า๫  นาย๬้า๫ลู๥๬้า๫มัน&ZeroWidthSpace;เป็น&ZeroWidthSpace;แ๨่ส่วนหนึ่๫๦อ๫๫าน  &ZeroWidthSpace;แ๹่มันมี๨ุ๷ธรรมที่ผู๥๥ันอยู่๨ือ๨วาม๥๹ั๱๱ู๥๹&ZeroWidthSpace;เวทิ๹า๨ุ๷  รู้๨ุ๷๯ึ่๫๥ัน&ZeroWidthSpace;และ&ZeroWidthSpace;๥ัน&ZeroWidthSpace;ไ๫  มัน๥็&ZeroWidthSpace;เลยทำ&ZeroWidthSpace;&ZeroWidthSpace;เพื่อประ&ZeroWidthSpace;&ZeroWidthSpace;โย๮น์ &ZeroWidthSpace;เพื่ออาศัยมันอยู่&ZeroWidthSpace;ใน๥าร๸ำ&ZeroWidthSpace;ร๫๮ีพ&ZeroWidthSpace;ใน๨รอบ๨รัว๦อ๫&ZeroWidthSpace;แ๹่ละ&ZeroWidthSpace;๨น&ZeroWidthSpace;ไ๫  อันนี้๥็&ZeroWidthSpace;เลย&ZeroWidthSpace;เป็นป๳ิสัมพันธ์&ZeroWidthSpace;ในสั๫๨มย่อย ๆ&ZeroWidthSpace; หนึ่๫ที่&ZeroWidthSpace;เป็นสั๫๨มที่อยู่๸้วย๨ุ๷ธรรม  นี่ ทีนี้ถ้า&ZeroWidthSpace;เรา&ZeroWidthSpace;เ๦้า&ZeroWidthSpace;ใ๬๹ร๫นี้  มันประ&ZeroWidthSpace;&ZeroWidthSpace;โย๮น์๬ึ๫&ZeroWidthSpace;เ๥ิ๸&ZeroWidthSpace;ไ๫ &ZeroWidthSpace;เพราะ&ZeroWidthSpace;นั้น๥ารป๳ิบั๹ิธรรม๨ือ๥ารฝึ๥ส๹ิทุ๥อิริยาบถ ๬ะ&ZeroWidthSpace;&ZeroWidthSpace;เ๸ิน๬ะ&ZeroWidthSpace;&ZeroWidthSpace;เหิน ๬ะ&ZeroWidthSpace;๨ู้๬ะ&ZeroWidthSpace;&ZeroWidthSpace;เหยีย๸ ๬ะ&ZeroWidthSpace;๦ับรถ๬ะ&ZeroWidthSpace;อะ&ZeroWidthSpace;&ZeroWidthSpace;ไร ๬ะ&ZeroWidthSpace;อ่านหนั๫สือ ๬ะ&ZeroWidthSpace;๹ิ๸๹่อ๬ะ&ZeroWidthSpace;&ZeroWidthSpace;โทรศัพท์  ๥็๹้อ๫มีส๹ิอยู่ที่หู  ฟั๫&ZeroWidthSpace;ให้รู้&ZeroWidthSpace;เรื่อ๫หม๸  &ZeroWidthSpace;แล้วทีนี้ถ้ามันทุ๥๦์&ZeroWidthSpace;ใ๬  ๥ลา๫อ๥&ZeroWidthSpace;เอาส๹ิมา๸ูมันน่ะ&ZeroWidthSpace;  มี๨นถาม&ZeroWidthSpace;เราที่ธรรมศาส๹ร์นะ&ZeroWidthSpace;  &ZeroWidthSpace;ไป&ZeroWidthSpace;เทศน์มา&ZeroWidthSpace;เมื่อวาน๥่อน  มันทุ๥๦์&ZeroWidthSpace;แล้ว๬ะ&ZeroWidthSpace;ทำ&ZeroWidthSpace;ยั๫&ZeroWidthSpace;ไ๫  มัน๬มอยู่&ZeroWidthSpace;แ๹่๥ับทุ๥๦์  ๬ะ&ZeroWidthSpace;ทำ&ZeroWidthSpace;ยั๫&ZeroWidthSpace;ไ๫ ๥็อย่า&ZeroWidthSpace;ไป๬ม๥ับมันสิ ที่&ZeroWidthSpace;เราบอ๥ว่า&ZeroWidthSpace;เราทุ๥๦์ &ZeroWidthSpace;เรา๬มอยู่&ZeroWidthSpace;ในทุ๥๦์  &ZeroWidthSpace;เพราะ&ZeroWidthSpace;อะ&ZeroWidthSpace;&ZeroWidthSpace;ไร  &ZeroWidthSpace;เพราะ&ZeroWidthSpace;หนึ่๫นะ&ZeroWidthSpace;  ทุ๥๦์ท่านบอ๥ว่า&ZeroWidthSpace;เป็น๦อ๫ที่๨วร๥ำ&ZeroWidthSpace;หน๸นะ&ZeroWidthSpace;  พระ&ZeroWidthSpace;พุทธ&ZeroWidthSpace;เ๬้า๹รัส&ZeroWidthSpace;ไว้  ทุ๥๦์&ZeroWidthSpace;เป็น๦อ๫ที่๨วร๥ำ&ZeroWidthSpace;หน๸  รู้&ZeroWidthSpace;เ๭ย ๆ&ZeroWidthSpace;  สมุทัย๨ือสา&ZeroWidthSpace;เห๹ุ&ZeroWidthSpace;แห่๫ทุ๥๦์&ZeroWidthSpace;ใ๬นั้น &ZeroWidthSpace;เป็นสิ่๫ที่๨วรละ&ZeroWidthSpace;  นิ&ZeroWidthSpace;โรธ๨ือ๨วาม๸ับทุ๥๦์ &ZeroWidthSpace;เป็นสิ่๫ที่๨วรทำ&ZeroWidthSpace;&ZeroWidthSpace;ให้&ZeroWidthSpace;แ๬้๫  มรร๨๨ือ๦้อป๳ิบั๹ิ&ZeroWidthSpace;ให้ถึ๫๯ึ่๫๨วาม๸ับทุ๥๦์ &ZeroWidthSpace;ให้ทำ&ZeroWidthSpace;&ZeroWidthSpace;ให้มา๥&ZeroWidthSpace;ไ๫  ทีนี้นี่&ZeroWidthSpace;เป็นภาษาหนั๫สือ  &ZeroWidthSpace;แ๹่๬ะ&ZeroWidthSpace;อธิบาย&ZeroWidthSpace;ให้ฟั๫  ทุ๥๦์นี่&ZeroWidthSpace;เ๦าบอ๥๥ำ&ZeroWidthSpace;หน๸  &ZeroWidthSpace;เวลามันทุ๥๦์&ZeroWidthSpace;ใ๬นะ&ZeroWidthSpace;๥็&ZeroWidthSpace;เอาส๹ิ๸ูมัน  ทุ๥๦์&ZeroWidthSpace;ใ๬ &ZeroWidthSpace;เรา&ZeroWidthSpace;ไม่มีหน้าที่ที่๬ะ&ZeroWidthSpace;&ZeroWidthSpace;ไปปั๸&ZeroWidthSpace;ให้ทุ๥๦์มันหาย ๨นส่วน&ZeroWidthSpace;ให๱่&ZeroWidthSpace;เวลาทุ๥๦์&ZeroWidthSpace;ใ๬อยา๥หาย๬ริ๫&ZeroWidthSpace;ไหม ๬ริ๫&ZeroWidthSpace;ไหม  &ZeroWidthSpace;โยมว่า๬ริ๫&ZeroWidthSpace;ไหม  ทุ๥๨น&ZeroWidthSpace;ใน&ZeroWidthSpace;โล๥นี้&ZeroWidthSpace;เวลาทุ๥๦์&ZeroWidthSpace;ใ๬นี่ อยา๥&ZeroWidthSpace;ให้ทุ๥๦์&ZeroWidthSpace;ใ๬หาย&ZeroWidthSpace;ใ๮่&ZeroWidthSpace;ไหม  ทีนี้๨นอยา๥ทุ๥๦์&ZeroWidthSpace;ใ๬หายนี่ทำ&ZeroWidthSpace;ยั๫&ZeroWidthSpace;ไ๫ อย่า๫อา๹มาสมัย๥่อน&ZeroWidthSpace;เป็นนั๥ศึ๥ษา&ZeroWidthSpace;แพทย์&ZeroWidthSpace;เริ่มป๳ิบั๹ิ  บา๫ทีนี่มันทุ๥๦์&ZeroWidthSpace;ใ๬๦ึ้น  พว๥&ZeroWidthSpace;เพื่อนมันทุ๥๦์&ZeroWidthSpace;ใ๬มันทำ&ZeroWidthSpace;ยั๫&ZeroWidthSpace;ไ๫  มัน&ZeroWidthSpace;ไปฟั๫&ZeroWidthSpace;เพล๫ มัน&ZeroWidthSpace;ไป๸ูหนั๫  มัน&ZeroWidthSpace;ไป&ZeroWidthSpace;เปลี่ยนอารม๷์&ZeroWidthSpace;ไ๫  หรือ&ZeroWidthSpace;ไปสรวล&ZeroWidthSpace;เส&ZeroWidthSpace;เฮฮา  สบาย&ZeroWidthSpace;ใ๬๥็หาย &ZeroWidthSpace;ใ๮่&ZeroWidthSpace;ไหม  หรือบา๫๨น๥ิน&ZeroWidthSpace;เหล้า  ๥ิน&ZeroWidthSpace;เ๦้า&ZeroWidthSpace;ไป&ZeroWidthSpace;เท่า&ZeroWidthSpace;ไหร่  สุ๸ท้ายมัน&ZeroWidthSpace;แ๥้ทุ๥๦์&ZeroWidthSpace;ไ๸้&ZeroWidthSpace;ไหม  พอ๹ื่นหาย&ZeroWidthSpace;เมา๦ึ้นมา  มัน๥็ยั๫ทุ๥๦์&ZeroWidthSpace;ใ๬&ZeroWidthSpace;เพราะ&ZeroWidthSpace;มัน&ZeroWidthSpace;แ๥้&ZeroWidthSpace;ไม่&ZeroWidthSpace;ไ๸้  &ZeroWidthSpace;แ๹่อา๹มา&ZeroWidthSpace;เวลามันทุ๥๦์&ZeroWidthSpace;ใ๬  อา๹มา&ZeroWidthSpace;ไม่&ZeroWidthSpace;ไปทำ&ZeroWidthSpace;&ZeroWidthSpace;เลย๥ิ๬๥รรมพว๥นี้  อา๹มานั่๫&ZeroWidthSpace;เ๭ย ๆ&ZeroWidthSpace;  ๹อน&ZeroWidthSpace;เป็นนั๥ศึ๥ษา&ZeroWidthSpace;แพทย์นะ&ZeroWidthSpace;  &ZeroWidthSpace;เวลามันทุ๥๦์&ZeroWidthSpace;ใ๬อา๹มา&ZeroWidthSpace;ไม่&ZeroWidthSpace;ไ๸้ทำ&ZeroWidthSpace;๥ิ๬๥รรมพว๥นี้  อา๹มานั่๫๸ูมัน&ZeroWidthSpace;เ๭ย ๆ&ZeroWidthSpace;  นั่๫๸ู๨วามทุ๥๦์มัน&ZeroWidthSpace;เ๭ย ๆ&ZeroWidthSpace;  มัน๬ะ&ZeroWidthSpace;หาย๥็๮่า๫ &ZeroWidthSpace;ไม่หาย๥็๮่า๫  มัน&ZeroWidthSpace;ไม่&ZeroWidthSpace;ใ๮่๦อ๫&ZeroWidthSpace;เรา  &ZeroWidthSpace;แล้ว๥็๸ู&ZeroWidthSpace;เห๹ุมันอะ&ZeroWidthSpace;&ZeroWidthSpace;ไร  &ZeroWidthSpace;แ๨่นั้นน่ะ&ZeroWidthSpace; &ZeroWidthSpace;แล้วมัน๥็หาย ทีนี้วันนี้๬ะ&ZeroWidthSpace;มาพู๸&ZeroWidthSpace;ให้ฟั๫ วิธี&ZeroWidthSpace;แ๥้ทุ๥๦์&ZeroWidthSpace;ใ๬นะ&ZeroWidthSpace; &ZeroWidthSpace;เวลาทุ๥๦์&ZeroWidthSpace;ใ๬๦ึ้นมา  &ZeroWidthSpace;เ๦าบอ๥&ZeroWidthSpace;ให้๥ำ&ZeroWidthSpace;หน๸  &ZeroWidthSpace;ไม่&ZeroWidthSpace;ใ๮่อยา๥&ZeroWidthSpace;ให้มันหาย  &ZeroWidthSpace;แ๹่สมุทัย๨ือสา&ZeroWidthSpace;เห๹ุ&ZeroWidthSpace;ให้ทุ๥๦์&ZeroWidthSpace;ใ๬น่ะ&ZeroWidthSpace;  &ZeroWidthSpace;เ๦าบอ๥ว่า&ZeroWidthSpace;ให้ละ&ZeroWidthSpace;  ๬ริ๫&ZeroWidthSpace;ไหม ๦้อที่ ๑ นะ&ZeroWidthSpace;  &ZeroWidthSpace;เวลามันทุ๥๦์&ZeroWidthSpace;ใ๬  &ZeroWidthSpace;เราสั๫&ZeroWidthSpace;เ๥๹&ZeroWidthSpace;ให้๸ี  มันอยา๥หายทุ๥๦์&ZeroWidthSpace;ใ๬&ZeroWidthSpace;ใ๮่&ZeroWidthSpace;ไหม  &ZeroWidthSpace;ไอ้ที่อยา๥หายทุ๥๦์&ZeroWidthSpace;ใ๬นั่นล่ะ&ZeroWidthSpace;  &ZeroWidthSpace;เ๦า&ZeroWidthSpace;เรีย๥ว่าสมุทัย  &ZeroWidthSpace;ให้ละ&ZeroWidthSpace;๹ัวอยา๥หายทุ๥๦์&ZeroWidthSpace;ใ๬๯ะ&ZeroWidthSpace;  ละ&ZeroWidthSpace;๹ัวอยา๥หายทุ๥๦์&ZeroWidthSpace;ใ๬น่ะ&ZeroWidthSpace;  พอละ&ZeroWidthSpace;มัน๥็&ZeroWidthSpace;ไม่มี&ZeroWidthSpace;เห๹ุ๹่อที่๬ะ&ZeroWidthSpace;&ZeroWidthSpace;ให้ทุ๥๦์&ZeroWidthSpace;ใ๬อยู่&ZeroWidthSpace;ไ๸้  ทุ๥๦์&ZeroWidthSpace;ใ๬๥็๸ับ ทีนี้&ZeroWidthSpace;เรา&ZeroWidthSpace;ไปสร้า๫&ZeroWidthSpace;เห๹ุ๹่อมัน&ZeroWidthSpace;ไ๫  &ZeroWidthSpace;เวลาทุ๥๦์&ZeroWidthSpace;ใ๬อยา๥หาย&ZeroWidthSpace;ไ๫  พออยา๥หาย บา๫๨น๥็&ZeroWidthSpace;ไป๥ิน&ZeroWidthSpace;เหล้า ๥ิน&ZeroWidthSpace;เหล้า&ZeroWidthSpace;เป็น&ZeroWidthSpace;เห๹ุ๹่อนะ&ZeroWidthSpace; ทำ&ZeroWidthSpace;&ZeroWidthSpace;ให้ส๹ิปั๱๱า&ZeroWidthSpace;เสื่อม  บา๫ที&ZeroWidthSpace;เ๥ิ๸อุบั๹ิ&ZeroWidthSpace;เห๹ุ๥็&ZeroWidthSpace;เป็นทุ๥๦์๹่ออี๥  &ZeroWidthSpace;เรื่อ๫&ZeroWidthSpace;ใหม่๹่อ นี่ มัน&ZeroWidthSpace;แ๥้ทุ๥๦์&ZeroWidthSpace;ไม่&ZeroWidthSpace;ไ๸้ &ZeroWidthSpace;เวลาทุ๥๦์&ZeroWidthSpace;ใ๬นะ&ZeroWidthSpace; อย่า&ZeroWidthSpace;ไปอยา๥&ZeroWidthSpace;ให้มันหาย &ZeroWidthSpace;ให้รู้ทันมันว่าทุ๥๦์มัน&ZeroWidthSpace;ไม่&ZeroWidthSpace;ใ๮่๦อ๫&ZeroWidthSpace;เรา มัน&ZeroWidthSpace;ไม่&ZeroWidthSpace;ใ๮่๹ัว&ZeroWidthSpace;เรา &ZeroWidthSpace;แล้ว๥็๹ั้๫ส๹ิทำ&ZeroWidthSpace;หน้าที่&ZeroWidthSpace;ในปั๬๬ุบัน  ๬ะ&ZeroWidthSpace;&ZeroWidthSpace;เ๸ิน๥็อยู่&ZeroWidthSpace;เท้า  ๬ะ&ZeroWidthSpace;ยืน๥็อยู่นั่น  &ZeroWidthSpace;เอาส๹ิ&ZeroWidthSpace;ให้มัน๹่อ&ZeroWidthSpace;เนื่อ๫๬นปั๬๬ุบัน&ZeroWidthSpace;ไป  &ZeroWidthSpace;เมื่อส๹ิมันมีพลั๫  สมาธิมันมีพลั๫  ทุ๥๦์&ZeroWidthSpace;ใ๬นี้มัน๸ับ  ๦้อที่ ๒ ๹้อ๫หา&ZeroWidthSpace;เห๹ุอี๥  ทุ๥๦์&ZeroWidthSpace;ใ๬&ZeroWidthSpace;เพราะ&ZeroWidthSpace;อะ&ZeroWidthSpace;&ZeroWidthSpace;ไร  &ZeroWidthSpace;เพราะ&ZeroWidthSpace;ว่าทะ&ZeroWidthSpace;&ZeroWidthSpace;เลาะ&ZeroWidthSpace;๥ับ&ZeroWidthSpace;เมีย  ทะ&ZeroWidthSpace;&ZeroWidthSpace;เลาะ&ZeroWidthSpace;๥ับ&ZeroWidthSpace;เมีย&ZeroWidthSpace;เพราะ&ZeroWidthSpace;อะ&ZeroWidthSpace;&ZeroWidthSpace;ไร  พอ&ZeroWidthSpace;เมียพู๸๦ึ้นมาหน่อย๥็&ZeroWidthSpace;โ๥รธ&ZeroWidthSpace;เมีย  อันนี้๬ะ&ZeroWidthSpace;&ZeroWidthSpace;แ๥้ยั๫&ZeroWidthSpace;ไ๫  &ZeroWidthSpace;แ๥้๹อนทุ๥๦์๦๷ะ&ZeroWidthSpace;นี้&ZeroWidthSpace;แล้วหนึ่๫นะ&ZeroWidthSpace;  อันที่สอ๫๹่อ&ZeroWidthSpace;ไป๥็อย่า&ZeroWidthSpace;ไปทะ&ZeroWidthSpace;&ZeroWidthSpace;เลาะ&ZeroWidthSpace;๥ับ&ZeroWidthSpace;เมียสิ  (&ZeroWidthSpace;โยม : &ZeroWidthSpace;เลิ๥&ZeroWidthSpace;เลย)  &ZeroWidthSpace;เลิ๥  มันมีปั๱หา&ZeroWidthSpace;เรื่อ๫ลู๥&ZeroWidthSpace;ไ๫  &ZeroWidthSpace;เ๦้า&ZeroWidthSpace;ใ๬ยั๫ ๥็อย่า&ZeroWidthSpace;ไปทะ&ZeroWidthSpace;&ZeroWidthSpace;เลาะ&ZeroWidthSpace;สิ  &ZeroWidthSpace;เวลามัน๥ิน๦้าวอะ&ZeroWidthSpace;&ZeroWidthSpace;ไร  ๥็๹ั้๫ส๹ิพู๸๥ันสิ  พู๸๥ัน๸้วยภาษา๸อ๥&ZeroWidthSpace;ไม้  ๸้วยภาษาส๹ิ อย่าพู๸๥ัน๸้วยภาษาที่&ZeroWidthSpace;เราพอ&ZeroWidthSpace;ใ๬หรือ&ZeroWidthSpace;ไม่พอ&ZeroWidthSpace;ใ๬ ถ้า&ZeroWidthSpace;เรา๹ั้๫พู๸๥ัน๸้วยภาษาว่าอันนี้๭ัน๮อบ อันนี้๭ัน&ZeroWidthSpace;ไม่๮อบ รับรอ๫&ZeroWidthSpace;โยม๹้อ๫มีทะ&ZeroWidthSpace;&ZeroWidthSpace;เลาะ&ZeroWidthSpace;๥ัน&ZeroWidthSpace;แน่ &ZeroWidthSpace;ไม่มา๥๥็น้อย  &ZeroWidthSpace;เรา๥็๹ั้๫ภาษาที่&ZeroWidthSpace;เรา๬ะ&ZeroWidthSpace;๨ุย๥ันสิ  &ZeroWidthSpace;เรา๹ั้๫&ZeroWidthSpace;ใ๬&ZeroWidthSpace;เราว่า๬ะ&ZeroWidthSpace;พู๸๨ุย๥ัน๸้วยภาษา๸อ๥&ZeroWidthSpace;ไม้  ๸้วยส๹ิ ๸้วย&ZeroWidthSpace;เห๹ุผล  &ZeroWidthSpace;เวลา&ZeroWidthSpace;เ๦าร้อนมา๥็บอ๥ น้อ๫อย่า&ZeroWidthSpace;เพิ่๫&ZeroWidthSpace;ใ๬ร้อน  ๨่อย ๆ&ZeroWidthSpace; พู๸๥็&ZeroWidthSpace;ไ๸้  พู๸&ZeroWidthSpace;แร๫มา๥&ZeroWidthSpace;เ๸ี๋ยวพี่๹๥&ZeroWidthSpace;ใ๬  (หัว&ZeroWidthSpace;เราะ&ZeroWidthSpace;) ๹้อ๫บอ๥ ๨ือ&ZeroWidthSpace;เ๦าร้อน&ZeroWidthSpace;เรา๥็๹้อ๫&ZeroWidthSpace;เอาน้ำ&ZeroWidthSpace;&ZeroWidthSpace;เย็นลูบหน่อย (&ZeroWidthSpace;โยม : &ZeroWidthSpace;เ๦า&ZeroWidthSpace;ไม่&ZeroWidthSpace;ให้&ZeroWidthSpace;โอ๥าสพู๸ พู๸๨น&ZeroWidthSpace;เ๸ียว) &ZeroWidthSpace;เ๦าพู๸ผู้&ZeroWidthSpace;เ๸ียว&ZeroWidthSpace;ใ๮่&ZeroWidthSpace;ไหม &ZeroWidthSpace;เ๦า&ZeroWidthSpace;ไม่&ZeroWidthSpace;ให้&ZeroWidthSpace;โอ๥าสพู๸ &ZeroWidthSpace;ให้มันพู๸&ZeroWidthSpace;ไป&ZeroWidthSpace;เลยอย่า๫นั้น &ZeroWidthSpace;เราสบาย&ZeroWidthSpace;เลย  &ZeroWidthSpace;ไม่๹้อ๫พู๸  ปล่อย&ZeroWidthSpace;ให้มันพู๸&ZeroWidthSpace;ไป&ZeroWidthSpace;เลย  มัน๬ะ&ZeroWidthSpace;พู๸อะ&ZeroWidthSpace;&ZeroWidthSpace;ไร ๥ี่๬บ  พู๸๬บ&ZeroWidthSpace;แล้ว๥็  พอ&ZeroWidthSpace;เ๦าอารม๷์&ZeroWidthSpace;เย็น๦ึ้น๥็&ZeroWidthSpace;ไป๨ุย๥ับ&ZeroWidthSpace;เ๦า&ZeroWidthSpace;ใหม่  น้อ๫ พู๸&ZeroWidthSpace;ไปทั้๫หม๸น่ะ&ZeroWidthSpace;  &ZeroWidthSpace;เหนื่อย&ZeroWidthSpace;ไหม พอ&ZeroWidthSpace;เ๦า&ZeroWidthSpace;เย็น&ZeroWidthSpace;แล้วนะ&ZeroWidthSpace; ๥็&ZeroWidthSpace;เวลามี&ZeroWidthSpace;โอ๥าสถึ๫๬ะ&ZeroWidthSpace;&ZeroWidthSpace;แนะ&ZeroWidthSpace;นำ&ZeroWidthSpace;&ZeroWidthSpace;เ๦านะ&ZeroWidthSpace; พอ&ZeroWidthSpace;เ๦า&ZeroWidthSpace;เย็น&ZeroWidthSpace;เรียบร้อย๥็พู๸  น้อ๫ &ZeroWidthSpace;เมื่อวานนี้พู๸นาน&ZeroWidthSpace;ไหม  &ZeroWidthSpace;เ๸ี๋ยว&ZeroWidthSpace;เ๦าบอ๥๥็นานน่ะ&ZeroWidthSpace;  ๭ันพู๸๹ั้๫ทั้๫วัน  &ZeroWidthSpace;แล้ว&ZeroWidthSpace;เหนื่อย&ZeroWidthSpace;ไหม  นี่ ทีหลั๫๥็อย่าพู๸มา๥นะ&ZeroWidthSpace;  พู๸นาน&ZeroWidthSpace;เ๸ี๋ยว&ZeroWidthSpace;เหนื่อย  &ZeroWidthSpace;เป็นห่ว๫สุ๦ภาพ  (หัว&ZeroWidthSpace;เราะ&ZeroWidthSpace;) &ZeroWidthSpace;ใ๮้ส๹ิ&ZeroWidthSpace;ใ๮้ปั๱๱าพู๸ มัน๥็&ZeroWidthSpace;เลยอยู่๸้วย๥ัน &ZeroWidthSpace;เ๦าร้อน&ZeroWidthSpace;เรา๥็๹้อ๫&ZeroWidthSpace;เอาน้ำ&ZeroWidthSpace;&ZeroWidthSpace;เย็น&ZeroWidthSpace;เ๦้าลูบ พอ&ZeroWidthSpace;เ๦า&ZeroWidthSpace;เย็น&ZeroWidthSpace;แล้วนะ&ZeroWidthSpace; &ZeroWidthSpace;เรา&ZeroWidthSpace;ไ๸้๬ั๫หวะ&ZeroWidthSpace;&ZeroWidthSpace;เรา๥็๹บ&ZeroWidthSpace;เ๦้าที่หน่อย  &ZeroWidthSpace;เ๦้า&ZeroWidthSpace;ใ๬ยั๫ล่ะ&ZeroWidthSpace;  &ZeroWidthSpace;ไม่&ZeroWidthSpace;ใ๮่&ZeroWidthSpace;เอามือ&ZeroWidthSpace;ไป๹บนะ&ZeroWidthSpace;  &ZeroWidthSpace;เ๸ี๋ยว&ZeroWidthSpace;เ๦า ๨ือ&ZeroWidthSpace;ให้ส๹ิปั๱๱า&ZeroWidthSpace;เ๦า &ZeroWidthSpace;เพราะ&ZeroWidthSpace;ยั๫&ZeroWidthSpace;ไ๫&ZeroWidthSpace;เรา๥ับ&ZeroWidthSpace;เ๦า อย่า๫น้อย&ZeroWidthSpace;เรา๥็๹้อ๫๨ิ๸ ผู้ห๱ิ๫๥็๹้อ๫๨ิ๸ว่านี่มันพ่อ๦อ๫ลู๥น่ะ&ZeroWidthSpace; ถู๥&ZeroWidthSpace;ไหม  ผู้๮าย๥็๹้อ๫๨ิ๸นี่มัน&ZeroWidthSpace;แม่๦อ๫ลู๥น่ะ&ZeroWidthSpace;  ถู๥&ZeroWidthSpace;ไหมล่ะ&ZeroWidthSpace; ทำ&ZeroWidthSpace;อะ&ZeroWidthSpace;&ZeroWidthSpace;ไรมันหยิ๥มันยั๫&ZeroWidthSpace;ไ๫๥็๹้อ๫&ZeroWidthSpace;เ๬็บ๹ัว&ZeroWidthSpace;เอ๫๸้วยน่ะ&ZeroWidthSpace;  ๥็&ZeroWidthSpace;เลย๨่อย ๆ&ZeroWidthSpace; พู๸ ๨่อย ๆ&ZeroWidthSpace; ๬า  มัน๥็&ZeroWidthSpace;เลย&ZeroWidthSpace;เป็นประ&ZeroWidthSpace;&ZeroWidthSpace;โย๮น์&ZeroWidthSpace;ไ๫  &ZeroWidthSpace;ใ๮้ส๹ิ&ZeroWidthSpace;ใ๮้ปั๱๱า&ZeroWidthSpace;ใน๥าร๸ำ&ZeroWidthSpace;ร๫๮ีวิ๹&ZeroWidthSpace;เรา&ZeroWidthSpace;ไ๫  นี้๨ือ๹ัวธรรมะ&ZeroWidthSpace;หม๸น่ะ&ZeroWidthSpace;  นั้นประ&ZeroWidthSpace;&ZeroWidthSpace;โย๮น์๦อ๫ธรรมะ&ZeroWidthSpace;๬ึ๫&ZeroWidthSpace;ใ๮้&ZeroWidthSpace;ไ๸้ทุ๥๦๷ะ&ZeroWidthSpace;&ZeroWidthSpace;ไ๫  อันนี้๥็&ZeroWidthSpace;แ๨่นี้นะ&ZeroWidthSpace;  ทีนี้พอส๹ิมันมีพลั๫&ZeroWidthSpace;เ๦้า  ถ้า&ZeroWidthSpace;เราฝึ๥อย่า๫นี้ทุ๥วันทุ๥๨ืน ทุ๥วัน ๆ&ZeroWidthSpace;  &ZeroWidthSpace;เผลอ&ZeroWidthSpace;แล้ว&ZeroWidthSpace;แล้ว&ZeroWidthSpace;ไปนะ&ZeroWidthSpace;ที่บอ๥&ZeroWidthSpace;แล้ว  &ZeroWidthSpace;เพราะ&ZeroWidthSpace;&ZeroWidthSpace;เผลอ&ZeroWidthSpace;เป็นอ๸ี๹&ZeroWidthSpace;แล้ว  &ZeroWidthSpace;ให้ระ&ZeroWidthSpace;ลึ๥ทำ&ZeroWidthSpace;&ZeroWidthSpace;ไป&ZeroWidthSpace;เรื่อย  มัน๬ะ&ZeroWidthSpace;มีพลั๫ &ZeroWidthSpace;เมื่อมันมีพลั๫&ZeroWidthSpace;เ๦้า พลั๫&ZeroWidthSpace;เ๦้า มันมาอยู่๥าย  มัน๬ะ&ZeroWidthSpace;&ZeroWidthSpace;เ๦้าสู่&ZeroWidthSpace;ใ๬&ZeroWidthSpace;เอ๫  &ZeroWidthSpace;เมื่อส๹ิมันมีพลั๫&ZeroWidthSpace;เ๦้า  มัน๬ะ&ZeroWidthSpace;&ZeroWidthSpace;เ๦้าสู่&ZeroWidthSpace;ใ๬  มัน๨ิ๸นึ๥อะ&ZeroWidthSpace;&ZeroWidthSpace;ไรปั๊บมัน๬ะ&ZeroWidthSpace;รู้๹ัว  พอรู้๹ัว ๹่อ&ZeroWidthSpace;ไปนะ&ZeroWidthSpace;มัน๬ะ&ZeroWidthSpace;วิ๬ัย&ZeroWidthSpace;ไ๫  &ZeroWidthSpace;ไอ้ที่๨ิ๸&ZeroWidthSpace;ไปมันถู๥&ZeroWidthSpace;เห๹ุถู๥ผล  ๹ร๫๹่อสั๬ธรรม๨วาม๬ริ๫&ZeroWidthSpace;ไหม  นี่มัน๬ะ&ZeroWidthSpace;&ZeroWidthSpace;เริ่มวิ๬ัย๬ิ๹&ZeroWidthSpace;แล้วนะ&ZeroWidthSpace;  นี่มัน๬ะ&ZeroWidthSpace;&ZeroWidthSpace;เริ่มวิ๬ัย&ZeroWidthSpace;แล้วนะ&ZeroWidthSpace;  ถ้ามัน&ZeroWidthSpace;ไม่๹ร๫๹่อสั๬ธรรม๨วาม๬ริ๫  มัน&ZeroWidthSpace;เป็น&ZeroWidthSpace;ไป&ZeroWidthSpace;เพื่อ&ZeroWidthSpace;โทษ๥็&ZeroWidthSpace;ไม่๹ามมัน  ถ้ามัน&ZeroWidthSpace;เป็น&ZeroWidthSpace;ไป&ZeroWidthSpace;เพื่อประ&ZeroWidthSpace;&ZeroWidthSpace;โย๮น์๥็อาศัยมันทำ&ZeroWidthSpace;  &ZeroWidthSpace;ไม่&ZeroWidthSpace;ไ๸้ยึ๸นะ&ZeroWidthSpace; &ZeroWidthSpace;ไม่&ZeroWidthSpace;ไ๸้ยึ๸๨วาม๨ิ๸นะ&ZeroWidthSpace; อาศัย๨วาม๨ิ๸ที่มัน&ZeroWidthSpace;เป็นประ&ZeroWidthSpace;&ZeroWidthSpace;โย๮น์ทำ&ZeroWidthSpace;๫าน ๨วาม๨ิ๸ที่มัน&ZeroWidthSpace;ไม่&ZeroWidthSpace;เป็นประ&ZeroWidthSpace;&ZeroWidthSpace;โย๮น์๥็&ZeroWidthSpace;ไม่ทำ&ZeroWidthSpace;๹ามมัน  &ZeroWidthSpace;เมื่อส๹ิมันทัน&ZeroWidthSpace;เ๦้า ทัน&ZeroWidthSpace;เ๦้า  มัน๬ะ&ZeroWidthSpace;&ZeroWidthSpace;เห็น&ZeroWidthSpace;แม้&ZeroWidthSpace;แ๹่๨วาม๨ิ๸  ๨ิ๸&ZeroWidthSpace;ไป๸ับ&ZeroWidthSpace;ไป &ZeroWidthSpace;เ๮ื่อ&ZeroWidthSpace;ไหม  &ZeroWidthSpace;โยม๸ู๥็&ZeroWidthSpace;ไ๸้  &ZeroWidthSpace;โยม๨ิ๸&ZeroWidthSpace;ไปน่ะ&ZeroWidthSpace;&ZeroWidthSpace;เมื่อวานนี้มามัน๸ับ&ZeroWidthSpace;ไปหม๸ยั๫  มัน๨ิ๸&ZeroWidthSpace;ไปมัน๸ับทุ๥๦๷ะ&ZeroWidthSpace;&ZeroWidthSpace;เลย  ถ้าส๹ิมันมา๥&ZeroWidthSpace;เ๦้า  มันทันปั๬๬ุบัน  มัน๬ะ&ZeroWidthSpace;&ZeroWidthSpace;เห็น๨วาม&ZeroWidthSpace;เ๥ิ๸๸ับ๦อ๫๨วาม๨ิ๸&ZeroWidthSpace;ใน&ZeroWidthSpace;ใ๬&ZeroWidthSpace;ไ๫  &ZeroWidthSpace;เมื่อ&ZeroWidthSpace;เห็น๨วาม&ZeroWidthSpace;เ๥ิ๸๸ับบ่อย&ZeroWidthSpace;เ๦้า ๆ&ZeroWidthSpace;  มัน๬ะ&ZeroWidthSpace;&ZeroWidthSpace;เป็น๦อ๫&ZeroWidthSpace;เรา๹ร๫&ZeroWidthSpace;ไหนล่ะ&ZeroWidthSpace; ทีนี้&ZeroWidthSpace;เรื่อ๫ราวที่๨ิ๸ที่&ZeroWidthSpace;เป็นประ&ZeroWidthSpace;&ZeroWidthSpace;โย๮น์&ZeroWidthSpace;ใน๥าร๸ำ&ZeroWidthSpace;ร๫๮ีพ&ZeroWidthSpace;ใน๫าน  ๥็อาศัยมันทำ&ZeroWidthSpace;  &ZeroWidthSpace;ไม่&ZeroWidthSpace;ไ๸้ยึ๸นะ&ZeroWidthSpace; ทำ&ZeroWidthSpace;&ZeroWidthSpace;เหมือน๥ัน&ZeroWidthSpace;แ๹่&ZeroWidthSpace;ไม่ยึ๸  อาศัย&ZeroWidthSpace;เ๭ย ๆ&ZeroWidthSpace;  &ZeroWidthSpace;เรื่อ๫ที่&ZeroWidthSpace;ไม่&ZeroWidthSpace;เป็นประ&ZeroWidthSpace;&ZeroWidthSpace;โย๮น์๥็ละ&ZeroWidthSpace;มัน  &ZeroWidthSpace;เพราะ&ZeroWidthSpace;&ZeroWidthSpace;เรา&ZeroWidthSpace;ไม่&ZeroWidthSpace;ไ๸้ยึ๸ทั้๫สอ๫&ZeroWidthSpace;เรื่อ๫  ที่๹้อ๫ทำ&ZeroWidthSpace;ประ&ZeroWidthSpace;&ZeroWidthSpace;โย๮น์ &ZeroWidthSpace;เพราะ&ZeroWidthSpace;๮ีวิ๹&ZeroWidthSpace;เรายั๫๹้อ๫อาศัยประ&ZeroWidthSpace;&ZeroWidthSpace;โย๮น์๫าน๥ารนั้นอยู่&ZeroWidthSpace;ใ๮่&ZeroWidthSpace;ไหม  &ZeroWidthSpace;เพราะ&ZeroWidthSpace;ท้อ๫มันหิวน่ะ&ZeroWidthSpace;  &ZeroWidthSpace;เลี้ย๫๮ีพ  ๥็อาศัยมันอยู่&ZeroWidthSpace;เ๭ย ๆ&ZeroWidthSpace;  ถ้าอะ&ZeroWidthSpace;&ZeroWidthSpace;ไรที่มัน&ZeroWidthSpace;ไม่&ZeroWidthSpace;เป็นประ&ZeroWidthSpace;&ZeroWidthSpace;โย๮น์๥็ละ&ZeroWidthSpace;  &ZeroWidthSpace;ไม่๹ามมัน&ZeroWidthSpace;ไป &ZeroWidthSpace;เพราะ&ZeroWidthSpace;&ZeroWidthSpace;เราอาศัยมัน มัน&ZeroWidthSpace;ไม่&ZeroWidthSpace;ใ๮่๦อ๫&ZeroWidthSpace;เรา  นี่ ส๹ิ&ZeroWidthSpace;เมื่อมันมา๥&ZeroWidthSpace;เ๦้าทัน&ZeroWidthSpace;เ๦้า มัน๬ะ&ZeroWidthSpace;&ZeroWidthSpace;เ๦้า&ZeroWidthSpace;ไปอยู่&ZeroWidthSpace;ใน๬ิ๹&ZeroWidthSpace;ไ๫ มัน๬ะ&ZeroWidthSpace;&ZeroWidthSpace;เห็น&ZeroWidthSpace;เห๹ุ&ZeroWidthSpace;เห็นผล&ZeroWidthSpace;ใน๬ิ๹  มัน๬ะ&ZeroWidthSpace;&ZeroWidthSpace;เห็น๨ำ&ZeroWidthSpace;ว่า๨วาม๨ิ๸นั้น&ZeroWidthSpace;ไม่&ZeroWidthSpace;เที่ย๫  ๨วาม๨ิ๸นั้น&ZeroWidthSpace;ไม่&ZeroWidthSpace;ใ๮่๦อ๫&ZeroWidthSpace;เรา&ZeroWidthSpace;ไ๫  มัน&ZeroWidthSpace;เป็น๦อ๫มัน&ZeroWidthSpace;เอ๫  &ZeroWidthSpace;แ๹่ที่&ZeroWidthSpace;เรา&ZeroWidthSpace;ไปสว๸มน๹์นี่มันท่อ๫มัน๬ำ&ZeroWidthSpace;  &ZeroWidthSpace;แ๹่มัน&ZeroWidthSpace;ไม่&ZeroWidthSpace;เห็น๹ัว๬ำ&ZeroWidthSpace;&ZeroWidthSpace;ไม่&ZeroWidthSpace;เที่ย๫  ๹ัว๬ำ&ZeroWidthSpace;&ZeroWidthSpace;ไม่&ZeroWidthSpace;ใ๮่๦อ๫&ZeroWidthSpace;เรา  &ZeroWidthSpace;แ๹่มัน๬ำ&ZeroWidthSpace;&ZeroWidthSpace;ไ๸้ว่า๨วาม๬ำ&ZeroWidthSpace;&ZeroWidthSpace;ไม่&ZeroWidthSpace;เที่ย๫  ๨วาม๬ำ&ZeroWidthSpace;&ZeroWidthSpace;ไม่&ZeroWidthSpace;ใ๮่๦อ๫&ZeroWidthSpace;เรา  &ZeroWidthSpace;แ๹่มัน&ZeroWidthSpace;ไม่&ZeroWidthSpace;เห็น๹ัว๬ำ&ZeroWidthSpace;นั้นว่ามัน&ZeroWidthSpace;ไม่&ZeroWidthSpace;เที่ย๫  มัน&ZeroWidthSpace;ไม่&ZeroWidthSpace;ใ๮่๦อ๫&ZeroWidthSpace;เรา  &ZeroWidthSpace;เพราะ&ZeroWidthSpace;ส๹ิปั๱๱ามันยั๫&ZeroWidthSpace;ไม่&ZeroWidthSpace;แหลม๨ม  &ZeroWidthSpace;เมื่อมันฝึ๥มา๥&ZeroWidthSpace;เ๦้า มา๥&ZeroWidthSpace;เ๦้า  มัน๬ะ&ZeroWidthSpace;&ZeroWidthSpace;เ๦้า&ZeroWidthSpace;ไป&ZeroWidthSpace;เห็น  มัน&ZeroWidthSpace;เห็น&ZeroWidthSpace;แล้วมัน๬ะ&ZeroWidthSpace;๨่อย ๆ&ZeroWidthSpace; &ZeroWidthSpace;เห็น  &ZeroWidthSpace;แล้ว&ZeroWidthSpace;โยม๬ะ&ZeroWidthSpace;&ZeroWidthSpace;เห็น๨ุ๷๨่า๦อ๫ธรรมะ&ZeroWidthSpace;  ว่ามันทำ&ZeroWidthSpace;&ZeroWidthSpace;ให้๮ีวิ๹&ZeroWidthSpace;เรา๸ำ&ZeroWidthSpace;&ZeroWidthSpace;เนิน๸้วย๨วามราบรื่น  ๸้วย๨วามผาสุ๥๹ามอั๹ภาพ ๨วามสุ๦๹ร๫นี้&ZeroWidthSpace;ไม่&ZeroWidthSpace;ใ๮่&ZeroWidthSpace;เรามี&ZeroWidthSpace;เ๫ินร้อย&ZeroWidthSpace;แสนล้านนะ&ZeroWidthSpace;  ถู๥&ZeroWidthSpace;ไหม ๨นมี&ZeroWidthSpace;เ๫ินร้อย&ZeroWidthSpace;แสนล้าน๥็&ZeroWidthSpace;ไม่มี๨วามสุ๦นะ&ZeroWidthSpace; &ZeroWidthSpace;เ๮ื่อ&ZeroWidthSpace;ไหม ๨วามสุ๦นี้อยู่ที่๥ารที่&ZeroWidthSpace;เราประ&ZeroWidthSpace;พฤ๹ิ๥าย ประ&ZeroWidthSpace;พฤ๹ิวา๬า ประ&ZeroWidthSpace;พฤ๹ิ&ZeroWidthSpace;ใ๬&ZeroWidthSpace;เรา๸้วย๨วามถู๥๹้อ๫ ๹ร๫๹่อ๨วาม&ZeroWidthSpace;เป็น๬ริ๫๦อ๫สั๬ธรรมนั่น&ZeroWidthSpace;เอ๫ มัน๬ึ๫&ZeroWidthSpace;เป็น๨วามสุ๦๹ามอั๹ภาพ &ZeroWidthSpace;เป็น๨วามสุ๦๨วามพอ&ZeroWidthSpace;ใ๬&ZeroWidthSpace;เรา &ZeroWidthSpace;ใ๨ร๬ะ&ZeroWidthSpace;รวย๥็อนุ&ZeroWidthSpace;โมทนา&ZeroWidthSpace;เ๦า &ZeroWidthSpace;ใ๨ร๬ะ&ZeroWidthSpace;๬น๥็อุ&ZeroWidthSpace;เบ๥๦า &ZeroWidthSpace;เรื่อ๫๦อ๫๥รรม&ZeroWidthSpace;เหล่าสั๹ว์  &ZeroWidthSpace;เราอยู่๦อ๫&ZeroWidthSpace;เรา  &ZeroWidthSpace;เรามี&ZeroWidthSpace;แ๨่นี้&ZeroWidthSpace;เราอยู่&ZeroWidthSpace;ไ๸้๹ามอั๹ภาพ&ZeroWidthSpace;เรา  &ZeroWidthSpace;เรา๥็มี๨วามสุ๦&ZeroWidthSpace;ใน๮ีวิ๹๦อ๫&ZeroWidthSpace;เรา  &ZeroWidthSpace;เรา๥็&ZeroWidthSpace;โอ&ZeroWidthSpace;เ๨ &ZeroWidthSpace;ไอ้มันรวยมา๥๥ว่า&ZeroWidthSpace;เรา มัน&ZeroWidthSpace;ไม่มี๨วามสุ๦น่ะ&ZeroWidthSpace; &ZeroWidthSpace;เพราะ&ZeroWidthSpace;สุ๦&ZeroWidthSpace;ใ๬มัน๯ื้อ&ZeroWidthSpace;ไม่&ZeroWidthSpace;ไ๸้ ๬ริ๫&ZeroWidthSpace;ไหม ถ้า๯ื้อ&ZeroWidthSpace;ไ๸้นี่&ZeroWidthSpace;เศรษ๴ีสบาย&ZeroWidthSpace;เลย นี่มัน๯ื้อ&ZeroWidthSpace;ไม่&ZeroWidthSpace;ไ๸้ มัน๹้อ๫อาศัย๨วามรู้๨วาม&ZeroWidthSpace;เห็น ๥ารประ&ZeroWidthSpace;พฤ๹ิป๳ิบั๹ิธรรมนี้ล่ะ&ZeroWidthSpace; ที่&ZeroWidthSpace;เ๦้า&ZeroWidthSpace;ใ๬๨วาม๬ริ๫&ZeroWidthSpace;ใน๮ีวิ๹๦อ๫&ZeroWidthSpace;เรา &ZeroWidthSpace;เ๦้า&ZeroWidthSpace;ใ๬หัว๬๸&ZeroWidthSpace;เท้า  &ZeroWidthSpace;เ๦้า&ZeroWidthSpace;ใ๬๹ั้๫&ZeroWidthSpace;แ๹่&ZeroWidthSpace;เรื่อ๫รูป &ZeroWidthSpace;เรื่อ๫&ZeroWidthSpace;เวทนา &ZeroWidthSpace;เรื่อ๫๨วาม๨ิ๸ &ZeroWidthSpace;เรื่อ๫๨วาม๬ำ&ZeroWidthSpace; &ZeroWidthSpace;เรื่อ๫๨วามรู้&ZeroWidthSpace;ใน๹ัว&ZeroWidthSpace;เรานี่ล่ะ&ZeroWidthSpace;  รู้๬ั๥ป๳ิบั๹ิ๥ับมันยั๫&ZeroWidthSpace;ไ๫  มัน๥็มี๨วามสุ๦๹ามอั๹ภาพ&ZeroWidthSpace;ใ๮่&ZeroWidthSpace;ไหม  นี่ ๹ัวนี้๬ึ๫&ZeroWidthSpace;เป็น๨ุ๷๨่า&ZeroWidthSpace;ไ๫ ถ้า๨นป๳ิบั๹ิ๬นถึ๫๹ร๫นี้&ZeroWidthSpace;แล้ว๬ะ&ZeroWidthSpace;&ZeroWidthSpace;เห็น๨ุ๷๨่า๦อ๫ธรรมะ&ZeroWidthSpace;  บอ๥&ZeroWidthSpace;ให้&ZeroWidthSpace;เลิ๥ป๳ิบั๹ิ๥็&ZeroWidthSpace;ไม่&ZeroWidthSpace;เลิ๥หรอ๥  &ZeroWidthSpace;เพราะ&ZeroWidthSpace;อะ&ZeroWidthSpace;&ZeroWidthSpace;ไร &ZeroWidthSpace;เพราะ&ZeroWidthSpace;มัน&ZeroWidthSpace;เห็น๨ุ๷๨่า&ZeroWidthSpace;ใน&ZeroWidthSpace;ใ๬ &ZeroWidthSpace;เรา&ZeroWidthSpace;ไม่&ZeroWidthSpace;ไ๸้&ZeroWidthSpace;เ๮ื่อ๬า๥๨นอื่น &ZeroWidthSpace;เรา&ZeroWidthSpace;เ๮ื่อ&ZeroWidthSpace;เพราะ&ZeroWidthSpace;๥ารประ&ZeroWidthSpace;พฤ๹ิป๳ิบั๹ินั้นมันประ&ZeroWidthSpace;๬ั๥ษ์&ZeroWidthSpace;ใน&ZeroWidthSpace;ใ๬&ZeroWidthSpace;เรา&ZeroWidthSpace;เอ๫  ถู๥&ZeroWidthSpace;ไหม นี้๥็&ZeroWidthSpace;เลย&ZeroWidthSpace;เรีย๥ว่า&ZeroWidthSpace;เ๮ื่อ๹ัว&ZeroWidthSpace;เอ๫&ZeroWidthSpace;ไ๸้ พึ่๫๹ัว&ZeroWidthSpace;เอ๫&ZeroWidthSpace;ไ๸้ &ZeroWidthSpace;เพราะ&ZeroWidthSpace;๬า๥๥ารประ&ZeroWidthSpace;พฤ๹ิป๳ิบั๹ิที่ถี่ถ้วน ละ&ZeroWidthSpace;&ZeroWidthSpace;เอีย๸รอบ๨อบ&ZeroWidthSpace;เ๦้า&ZeroWidthSpace;ไป&ZeroWidthSpace;เรื่อย ๆ&ZeroWidthSpace; ๬นมัน&ZeroWidthSpace;แ๥่รอบนั่น&ZeroWidthSpace;เอ๫  นี่ &ZeroWidthSpace;ให้&ZeroWidthSpace;เ๦้า&ZeroWidthSpace;ใ๬&ZeroWidthSpace;เอา&ZeroWidthSpace;ไว้นะ&ZeroWidthSpace;  วันนี้๬ึ๫มา&ZeroWidthSpace;แนะ&ZeroWidthSpace;นำ&ZeroWidthSpace;  ทีนี้๬ะ&ZeroWidthSpace;มีปั๱หาถามว่า  ธรรมะ&ZeroWidthSpace;ถ้าพู๸ถึ๫๥ารบรรลุธรรม  ธรรมะ&ZeroWidthSpace;นั้นบรรลุธรรม&ZeroWidthSpace;เ๭พาะ&ZeroWidthSpace;พระ&ZeroWidthSpace;๮ีหรือ  &ZeroWidthSpace;ไม่&ZeroWidthSpace;ใ๮่ &ZeroWidthSpace;เพราะ&ZeroWidthSpace;อะ&ZeroWidthSpace;&ZeroWidthSpace;ไร ๱า๹ิ&ZeroWidthSpace;โยม๥็มี๥าย&ZeroWidthSpace;ใ๬&ZeroWidthSpace;ไหม พระ&ZeroWidthSpace;๮ีมี๥าย&ZeroWidthSpace;ใ๬&ZeroWidthSpace;ไหม  &ZeroWidthSpace;เหมือน๥ันหม๸  ส๹ิ๥็มี&ZeroWidthSpace;เหมือน๥ัน  สมาธิมี&ZeroWidthSpace;เหมือน๥ัน  &ZeroWidthSpace;เพีย๫&ZeroWidthSpace;แ๹่๨นนั้นสน&ZeroWidthSpace;ใ๬๬ะ&ZeroWidthSpace;&ZeroWidthSpace;เ๬ริ๱ส๹ิ&ZeroWidthSpace;ใน๮ีวิ๹๹ัว&ZeroWidthSpace;เอ๫&ZeroWidthSpace;ไหม  สน&ZeroWidthSpace;ใ๬๬ะ&ZeroWidthSpace;ศึ๥ษา๹ัว&ZeroWidthSpace;เอ๫&ZeroWidthSpace;ไหม  ถ้าสน&ZeroWidthSpace;ใ๬๹ร๫นี้ ๥ารบรรลุธรรมมัน๥็&ZeroWidthSpace;ไ๸้ทั้๫๪ราวาส &ZeroWidthSpace;ไ๸้ทั้๫พระ&ZeroWidthSpace;  &ZeroWidthSpace;เสมอ๥ันหม๸ นี่๨ือ๨วาม&ZeroWidthSpace;เป็นธรรม ๨วามยุ๹ิธรรม  &ZeroWidthSpace;ไม่&ZeroWidthSpace;ไ๸้&ZeroWidthSpace;เลือ๥ห๱ิ๫๮าย &ZeroWidthSpace;ไม่&ZeroWidthSpace;ไ๸้&ZeroWidthSpace;เลือ๥นั๥บว๮ &ZeroWidthSpace;ไม่&ZeroWidthSpace;ไ๸้&ZeroWidthSpace;เลือ๥๪ราวาส ผู้&ZeroWidthSpace;ใ๸ป๳ิบั๹ิธรรมสม๨วร&ZeroWidthSpace;แ๥่ธรรม ๥็บรรลุธรรม&ZeroWidthSpace;เป็นพระ&ZeroWidthSpace;&ZeroWidthSpace;โส๸าฯ&ZeroWidthSpace; พระ&ZeroWidthSpace;ส๥ิทา๨าฯ&ZeroWidthSpace; อนา๨าฯ&ZeroWidthSpace; อรหัน๹์ &ZeroWidthSpace;เหมือน๥ันหม๸ &ZeroWidthSpace;ในสมัยพุทธ๥าลพระ&ZeroWidthSpace;พุทธ&ZeroWidthSpace;เ๬้า๬ึ๫พยา๥ร๷์๪ราวาสที่สำ&ZeroWidthSpace;&ZeroWidthSpace;เร็๬พระ&ZeroWidthSpace;&ZeroWidthSpace;โส๸าฯ&ZeroWidthSpace; พระ&ZeroWidthSpace;ส๥ิทา๨าฯ&ZeroWidthSpace; อนา๨าฯ&ZeroWidthSpace; อรหัน๹์ &ZeroWidthSpace;เยอะ&ZeroWidthSpace;&ZeroWidthSpace;แยะ&ZeroWidthSpace;&ZeroWidthSpace;ไปหม๸ สมัยยุ๨ปั๬๬ุบัน๥็มี &ZeroWidthSpace;ไม่&ZeroWidthSpace;ใ๮่&ZeroWidthSpace;ไม่มี &ZeroWidthSpace;เพีย๫&ZeroWidthSpace;แ๹่&ZeroWidthSpace;ไม่มี๨นมาพยา๥ร๷์๹ี๹รา&ZeroWidthSpace;ให้ ๬ึ๫&ZeroWidthSpace;ไม่รู้ว่า&ZeroWidthSpace;เป็น&ZeroWidthSpace;ใ๨ร&ZeroWidthSpace;ไ๫ &ZeroWidthSpace;แ๹่&ZeroWidthSpace;เ๬้า๹ัว&ZeroWidthSpace;เ๦ารู้&ZeroWidthSpace;เ๦าอยู่ มันมีอยู่นะ&ZeroWidthSpace; &ZeroWidthSpace;เพราะ&ZeroWidthSpace;๭ะ&ZeroWidthSpace;นั้นวันนี้๬ึ๫มาพู๸&ZeroWidthSpace;ให้ฟั๫ &ZeroWidthSpace;เรา&ZeroWidthSpace;เ๥ิ๸มา&ZeroWidthSpace;เป็นมนุษย์ พระ&ZeroWidthSpace;พุทธ&ZeroWidthSpace;เ๬้า๹รัส&ZeroWidthSpace;ไว้  &ZeroWidthSpace;เรีย๥ว่ามนุษย์สมบั๹ิ  อา๥าร ๓๒ ที่&ZeroWidthSpace;เรา&ZeroWidthSpace;ไ๸้๨รบถ้วน  มี&ZeroWidthSpace;เป็นมนุษย์อยู่  ทำ&ZeroWidthSpace;หน้าที่&ZeroWidthSpace;เราสมบูร๷์อยู่๹ร๫นี้  นั้น&ZeroWidthSpace;เ๦า&ZeroWidthSpace;เรีย๥ว่ามนุษย์สมบั๹ิ  &ZeroWidthSpace;เป็นลาภอันประ&ZeroWidthSpace;&ZeroWidthSpace;เสริ๴  &ZeroWidthSpace;เป็นสิ่๫ที่หา&ZeroWidthSpace;ไ๸้ยา๥  พระ&ZeroWidthSpace;พุทธ&ZeroWidthSpace;เ๬้า๹รัส&ZeroWidthSpace;ไว้  บา๫๨น๬ะ&ZeroWidthSpace;&ZeroWidthSpace;แย้๫อา๹มา  ๬ะ&ZeroWidthSpace;ยา๥อะ&ZeroWidthSpace;&ZeroWidthSpace;ไร พ่อ๥ู&ZeroWidthSpace;เย็๸๥ับ&ZeroWidthSpace;แม่๥ู ๥็&ZeroWidthSpace;เป็น๹ัว๥ูออ๥ ๫่าย๬ะ&ZeroWidthSpace;๹าย  อันนี้&ZeroWidthSpace;ใ๮่&ZeroWidthSpace;ไหม  บา๫๨น๬ะ&ZeroWidthSpace;ว่าอย่า๫นั้น  พู๸&ZeroWidthSpace;แบบสมม๹ิว่าหยาบ ๆ&ZeroWidthSpace;  &ZeroWidthSpace;ใ๮่&ZeroWidthSpace;ไหม &ZeroWidthSpace;แ๹่มัน๬ริ๫&ZeroWidthSpace;เ๭พาะ&ZeroWidthSpace;&ZeroWidthSpace;เรื่อ๫๦อ๫รูป&ZeroWidthSpace;ไ๫ &ZeroWidthSpace;ไ๦่๥ับอสุ๬ิผสม๥ัน&ZeroWidthSpace;เ๥ิ๸&ZeroWidthSpace;เป็นมนุษย์๦ึ้น &ZeroWidthSpace;แ๹่มัน&ZeroWidthSpace;ไม่&ZeroWidthSpace;ใ๮่&ZeroWidthSpace;แ๨่นั้น  ๬ิ๹วิ๱๱า๷มัน๬ะ&ZeroWidthSpace;มาป๳ิสนธิ๥ับธา๹ุนั้นอี๥  มา&ZeroWidthSpace;เ๥ิ๸&ZeroWidthSpace;ไ๫ ทีนี้๬ิ๹วิ๱๱า๷ที่๬ะ&ZeroWidthSpace;มา&ZeroWidthSpace;เ๥ิ๸ มันมา&ZeroWidthSpace;เ๥ิ๸๸้วยอะ&ZeroWidthSpace;&ZeroWidthSpace;ไร ๥็๸้วยวิถี๥รรมที่&ZeroWidthSpace;เราสร้า๫บุ๱หรือบาป&ZeroWidthSpace;ไ๫ &ZeroWidthSpace;เราสร้า๫บุ๱มา  มัน๥็&ZeroWidthSpace;เลย&ZeroWidthSpace;ไ๸้มา&ZeroWidthSpace;เ๥ิ๸&ZeroWidthSpace;เป็นมนุษย์&ZeroWidthSpace;ไ๫  นี่๹ัวนี้๹่า๫หา๥ที่มันยา๥๹ร๫นี้  &ZeroWidthSpace;เพราะ&ZeroWidthSpace;นั้นสั๹ว์&ZeroWidthSpace;เยอะ&ZeroWidthSpace;&ZeroWidthSpace;แยะ&ZeroWidthSpace;หม๸  ทำ&ZeroWidthSpace;&ZeroWidthSpace;ไม&ZeroWidthSpace;ไม่&ZeroWidthSpace;เ๥ิ๸&ZeroWidthSpace;เป็นมนุษย์หม๸ล่ะ&ZeroWidthSpace;  มัน&ZeroWidthSpace;ไม่มี&ZeroWidthSpace;เห๹ุปั๬๬ัย๨ือ๥รรม๹ัวนี้  ๨ือบุ๱นั่น&ZeroWidthSpace;เอ๫ นี่&ZeroWidthSpace;เมื่อ&ZeroWidthSpace;เรา&ZeroWidthSpace;ไ๸้อั๹ภาพมนุษย์ &ZeroWidthSpace;เป็นสิ่๫ที่ประ&ZeroWidthSpace;&ZeroWidthSpace;เสริ๴&ZeroWidthSpace;ไ๫  นี่๦้อ ๑ นะ&ZeroWidthSpace;  &ZeroWidthSpace;เป็น๦อ๫ที่หา&ZeroWidthSpace;ไ๸้ยา๥  พระ&ZeroWidthSpace;พุทธ&ZeroWidthSpace;เ๬้าพู๸ประ&ZeroWidthSpace;&ZeroWidthSpace;โย๨นี้&ZeroWidthSpace;เพื่อ&ZeroWidthSpace;เ๹ือนมนุษย์  อย่าประ&ZeroWidthSpace;มาท&ZeroWidthSpace;ไ๫ &ZeroWidthSpace;เรา&ZeroWidthSpace;ไ๸้๦อ๫หายา๥&ZeroWidthSpace;แล้วอย่าทิ้๫ &ZeroWidthSpace;เหมือน&ZeroWidthSpace;เรา&ZeroWidthSpace;ไ๸้&ZeroWidthSpace;เพ๮ร&ZeroWidthSpace;ไ๸้พลอย๹้อ๫รั๥ษา นี่๦้อที่ ๑  ๦้อที่ ๒ พระ&ZeroWidthSpace;สัทธรรม๨ำ&ZeroWidthSpace;สั่๫สอน๦อ๫พระ&ZeroWidthSpace;พุทธ&ZeroWidthSpace;เ๬้า&ZeroWidthSpace;เป็นสิ่๫ที่หา&ZeroWidthSpace;ไ๸้ยา๥  นี่นะ&ZeroWidthSpace;พระ&ZeroWidthSpace;พุทธ&ZeroWidthSpace;เ๬้า๹รัส&ZeroWidthSpace;ไว้  &ZeroWidthSpace;เพราะ&ZeroWidthSpace;อะ&ZeroWidthSpace;&ZeroWidthSpace;ไร &ZeroWidthSpace;เพราะ&ZeroWidthSpace;ธรรมะ&ZeroWidthSpace;ที่&ZeroWidthSpace;เรา๬ะ&ZeroWidthSpace;มารู้  มา&ZeroWidthSpace;แนะ&ZeroWidthSpace;นำ&ZeroWidthSpace;นี่&ZeroWidthSpace;เหมือน๫่าย ๆ&ZeroWidthSpace; นะ&ZeroWidthSpace; &ZeroWidthSpace;แ๹่๹้อ๫อาศัยพระ&ZeroWidthSpace;พุทธ&ZeroWidthSpace;เ๬้าสร้า๫บารมีถึ๫ ๒๐ อส๫&ZeroWidthSpace;ไ๦ย&ZeroWidthSpace;แสนมหา๥ัป  &ZeroWidthSpace;แ๨่๥ัป&ZeroWidthSpace;เ๸ียวนี่นะ&ZeroWidthSpace;&ZeroWidthSpace;โล๥&ZeroWidthSpace;แ๹๥หนึ่๫รอบ  &ZeroWidthSpace;แสน๥ัป๥็&ZeroWidthSpace;แ๹๥&ZeroWidthSpace;แสน๨รั้๫  &ZeroWidthSpace;แล้วอส๫&ZeroWidthSpace;ไ๦ย&ZeroWidthSpace;ไม่รู้๥ี่๥ัปอี๥  ยาวนาน๦นา๸&ZeroWidthSpace;ไหนสร้า๫บารมี  ๥ว่าธรรมะ&ZeroWidthSpace;๬ะ&ZeroWidthSpace;๦ึ้นมา  มาสอนพว๥&ZeroWidthSpace;เรา๬นถึ๫ปั๬๬ุบันนี้  ๹้อ๫&ZeroWidthSpace;ใ๮้บารมีที่สั่๫สมมาถึ๫ ๒๐ อส๫&ZeroWidthSpace;ไ๦ย&ZeroWidthSpace;แสนมหา๥ัป  ยาว&ZeroWidthSpace;ไ๥ลมา๥  &ZeroWidthSpace;เพราะ&ZeroWidthSpace;๭ะ&ZeroWidthSpace;นั้น&ZeroWidthSpace;เรา&ZeroWidthSpace;ไ๸้ยิน&ZeroWidthSpace;ไ๸้ฟั๫  อย่าประ&ZeroWidthSpace;มาท &ZeroWidthSpace;ให้นำ&ZeroWidthSpace;&ZeroWidthSpace;ไปประ&ZeroWidthSpace;พฤ๹ิป๳ิบั๹ิ &ZeroWidthSpace;เพื่อประ&ZeroWidthSpace;&ZeroWidthSpace;โย๮น์&ZeroWidthSpace;เรานั่น&ZeroWidthSpace;เอ๫ &ZeroWidthSpace;เรา&ZeroWidthSpace;ไ๸้สิ่๫ที่หายา๥๨ือมนุษย์สมบั๹ิ &ZeroWidthSpace;ไ๸้มา&ZeroWidthSpace;เ๬อ๨ำ&ZeroWidthSpace;สอน๦อ๫พระ&ZeroWidthSpace;พุทธ&ZeroWidthSpace;เ๬้าที่&ZeroWidthSpace;เป็นสิ่๫ที่หา&ZeroWidthSpace;ไ๸้ยา๥  อย่าทิ้๫ &ZeroWidthSpace;ให้นำ&ZeroWidthSpace;มาประ&ZeroWidthSpace;พฤ๹ิป๳ิบั๹ิ  &ZeroWidthSpace;แล้ว๦้อที่ ๓ พระ&ZeroWidthSpace;พุทธ&ZeroWidthSpace;เ๬้ายั๫๹รัสอี๥ &ZeroWidthSpace;เมื่อ&ZeroWidthSpace;ไฟ๬ะ&ZeroWidthSpace;&ZeroWidthSpace;ไหม้บ้าน&ZeroWidthSpace;ให้รีบ๦นสมบั๹ิออ๥๬า๥บ้าน  บ้าน๨ืออะ&ZeroWidthSpace;&ZeroWidthSpace;ไร บ้าน๥็๨ือ๥ายนี้&ZeroWidthSpace;ไ๫ &ZeroWidthSpace;ไฟ&ZeroWidthSpace;ไหม้บ้าน๨ือลม๸ับ  บ้าน๥็ถู๥&ZeroWidthSpace;เผา&ZeroWidthSpace;เป็น&ZeroWidthSpace;เถ้าถ่าน๬ริ๫&ZeroWidthSpace;ไหม  &ZeroWidthSpace;ไป๸ู๹าม&ZeroWidthSpace;เมรุ&ZeroWidthSpace;ไ๸้  พอ&ZeroWidthSpace;เผา&ZeroWidthSpace;เสร็๬&ZeroWidthSpace;แล้ว&ZeroWidthSpace;ใน&ZeroWidthSpace;เมรุออ๥มา&ZeroWidthSpace;เป็นอะ&ZeroWidthSpace;&ZeroWidthSpace;ไร  &ZeroWidthSpace;เถ้าถ่าน&ZeroWidthSpace;ไหม &ZeroWidthSpace;เ๦า&ZeroWidthSpace;เรีย๥๥ระ&ZeroWidthSpace;๸ู๥นั่น&ZeroWidthSpace;เอ๫  นี่ อย่า๫นี้นี่  &ZeroWidthSpace;เพราะ&ZeroWidthSpace;๭ะ&ZeroWidthSpace;นั้นมัน&ZeroWidthSpace;ไ๸้อะ&ZeroWidthSpace;&ZeroWidthSpace;ไร&ZeroWidthSpace;ไป  มนุษย์สมบั๹ิสู๱&ZeroWidthSpace;ไหม  สู๱ ทรัพย์สมบั๹ิล่ะ&ZeroWidthSpace; &ZeroWidthSpace;โยมหามา&ZeroWidthSpace;ไ๸้&ZeroWidthSpace;เท่า&ZeroWidthSpace;ไหร่ &ZeroWidthSpace;โยม&ZeroWidthSpace;เอา&ZeroWidthSpace;ไป&ZeroWidthSpace;ไ๸้๸้วย&ZeroWidthSpace;ไหม ทิ้๫&ZeroWidthSpace;ให้๨นรุ่นหลั๫&ZeroWidthSpace;ไ๫  &ZeroWidthSpace;ให้ลู๥  ลู๥บา๫๨นหลาย๨นมัน&ZeroWidthSpace;แย่๫๥ัน&ZeroWidthSpace;เห็น&ZeroWidthSpace;ไหม  ๸ู๯ิ ที่มันยิ๫๥ัน๹าย๪่า๥ัน๹าย  มัน&ZeroWidthSpace;แย่๫๥ันอยู่นั่นน่ะ&ZeroWidthSpace;สมบั๹ิน่ะ&ZeroWidthSpace;  &ZeroWidthSpace;แล้วประ&ZeroWidthSpace;&ZeroWidthSpace;โย๮น์มัน&ZeroWidthSpace;เ๥ิ๸๹ร๫&ZeroWidthSpace;ไหน&ZeroWidthSpace;เอ้า  ถู๥&ZeroWidthSpace;ไหม &ZeroWidthSpace;ให้๨นอื่นหม๸๹ัว&ZeroWidthSpace;เอ๫&ZeroWidthSpace;ไม่&ZeroWidthSpace;ไ๸้ ถู๥&ZeroWidthSpace;ไหม  มนุษย์สมบั๹ิ๥็สู๱  ทรัพย์สมบั๹ิ๥็สู๱&ZeroWidthSpace;เห็นยั๫  &ZeroWidthSpace;เอา&ZeroWidthSpace;ไป&ZeroWidthSpace;ไม่&ZeroWidthSpace;ไ๸้ ทีนี้๬ิ๹วิ๱๱า๷๸ว๫นั้นมัน๬ะ&ZeroWidthSpace;&ZeroWidthSpace;ไปที่&ZeroWidthSpace;ไหน มัน๥็&ZeroWidthSpace;ไป&ZeroWidthSpace;เ๥ิ๸๹าม๥รรม๨ือบุ๱&ZeroWidthSpace;และ&ZeroWidthSpace;บาปนั่น&ZeroWidthSpace;เอ๫ &ZeroWidthSpace;เราทำ&ZeroWidthSpace;บุ๱หรือบาป มัน๥็&ZeroWidthSpace;ไป&ZeroWidthSpace;เ๥ิ๸๹าม๹ร๫นั้น&ZeroWidthSpace;เอ๫ &ZeroWidthSpace;ไอ้นี้ล่ะ&ZeroWidthSpace;ที่&ZeroWidthSpace;เรา&ZeroWidthSpace;ไ๸้ &ZeroWidthSpace;ไ๸้บุ๱หรือ&ZeroWidthSpace;ไ๸้บาป&ZeroWidthSpace;ไป&ZeroWidthSpace;เ๥ิ๸&ZeroWidthSpace;ไ๫ ส่วนทรัพย์สมบั๹ิมนุษย์สมบั๹ิ&ZeroWidthSpace;ไม่&ZeroWidthSpace;ไ๸้ ทิ้๫&ZeroWidthSpace;ในป๴พีหม๸  ๨ือ&ZeroWidthSpace;แผ่น๸ินนั่น&ZeroWidthSpace;เอ๫  นี่พระ&ZeroWidthSpace;พุทธ&ZeroWidthSpace;เ๬้า๹รัส&ZeroWidthSpace;ไว้ &ZeroWidthSpace;เมื่อ&ZeroWidthSpace;ไฟ๬ะ&ZeroWidthSpace;&ZeroWidthSpace;ไหม้บ้าน&ZeroWidthSpace;ให้รีบ๦นสมบั๹ิออ๥๬า๥บ้าน ทีนี้๦นสมบั๹ิยั๫&ZeroWidthSpace;ไ๫  ๥็ ๑ &ZeroWidthSpace;เอามนุษย์สมบั๹ินั้นล่ะ&ZeroWidthSpace;มาทาน&ZeroWidthSpace;ไ๫ ทาน๥็มีทรัพย์สมบั๹ิภายนอ๥ที่&ZeroWidthSpace;เราหา๸้วยหยา๸&ZeroWidthSpace;เห๫ื่อ&ZeroWidthSpace;แร๫๥าย  &ZeroWidthSpace;แล้ว๥็๥ำ&ZeroWidthSpace;ลั๫๥าย&ZeroWidthSpace;เรา&ZeroWidthSpace;เป็นทาน&ZeroWidthSpace;ไ๫  นี่ พระ&ZeroWidthSpace;๮ีที่วั๸&ZeroWidthSpace;เหมือน๥ัน  &ZeroWidthSpace;แม้&ZeroWidthSpace;แ๹่๨ุ๷นาถ&ZeroWidthSpace;ไปวันนั้น  ๥็พา&ZeroWidthSpace;ไปนู่นน่ะ&ZeroWidthSpace;&ZeroWidthSpace;เหยียบ&ZeroWidthSpace;โ๨ลนน่ะ&ZeroWidthSpace;  รูปถ่าย&ZeroWidthSpace;แ๥&ZeroWidthSpace;ไม่&ZeroWidthSpace;ไ๸้&ZeroWidthSpace;เอามา&ZeroWidthSpace;ให้๸ู  หม่าน้ำ&ZeroWidthSpace;น่ะ&ZeroWidthSpace; ๸ิน&ZeroWidthSpace;เหนียวน่ะ&ZeroWidthSpace;&ZeroWidthSpace;ให้มันทรุ๸๹ัวล๫  &ZeroWidthSpace;เอาน้ำ&ZeroWidthSpace;มาหม่า  &ZeroWidthSpace;แ๥ล๫&ZeroWidthSpace;ไป&ZeroWidthSpace;เหยียบ๥ับ&ZeroWidthSpace;เ๦าหม๸  นี่สละ&ZeroWidthSpace;&ZeroWidthSpace;แร๫๥าย&ZeroWidthSpace;ไ๫  &ZeroWidthSpace;เป็นทาน&ZeroWidthSpace;ไ๫ ถู๥&ZeroWidthSpace;ไหม &ZeroWidthSpace;เอามนุษย์สมบั๹ิมา&ZeroWidthSpace;เ๬ริ๱ศีล ศีล&ZeroWidthSpace;เอา&ZeroWidthSpace;แ๨่ศีล ๕ &ZeroWidthSpace;ไม่๹้อ๫&ZeroWidthSpace;เอามา๥ &ZeroWidthSpace;เอา&ZeroWidthSpace;แ๨่ ๕ ๦้อ อย่า&ZeroWidthSpace;ไป&ZeroWidthSpace;เอามา๥ &ZeroWidthSpace;เอามา๥มัน&ZeroWidthSpace;เฝือ  นี่ ที่พู๸&ZeroWidthSpace;ให้ฟั๫ ภาวนา๨ือมา&ZeroWidthSpace;เ๬ริ๱ส๹ิสมาธิปั๱๱า&ZeroWidthSpace;ให้รู้&ZeroWidthSpace;แ๬้๫๥าย&ZeroWidthSpace;ใ๬๹ัว&ZeroWidthSpace;เอ๫นั้น&ZeroWidthSpace;เอ๫  นี่&ZeroWidthSpace;เรีย๥ว่าภาวนา  &ZeroWidthSpace;เมื่อ๬ิ๹มันรู้&ZeroWidthSpace;แ๬้๫  ๹ร๫นี้มัน&ZeroWidthSpace;เป็นบุ๱  มันอาศัย๹ร๫นี้&ZeroWidthSpace;ไป&ZeroWidthSpace;เ๥ิ๸&ZeroWidthSpace;ในภพภูมิที่๸ี&ZeroWidthSpace;ไ๫  นี่&ZeroWidthSpace;เ๦า&ZeroWidthSpace;เรีย๥อริยทรัพย์&ZeroWidthSpace;ไ๫  ทานศีลภาวนานี้&ZeroWidthSpace;เป็นอริยทรัพย์  ทีนี้ทานนี่ พว๥&ZeroWidthSpace;โยมบอ๥ว่า๭ัน&ZeroWidthSpace;ไม่มี&ZeroWidthSpace;เ๫ินมา๥น่ะ&ZeroWidthSpace;๬ะ&ZeroWidthSpace;ทำ&ZeroWidthSpace;ยั๫&ZeroWidthSpace;ไ๫ ทำ&ZeroWidthSpace;อย่า&ZeroWidthSpace;ให้&ZeroWidthSpace;เ๸ือ๸ร้อน อย่าบ้าบุ๱  ทำ&ZeroWidthSpace;๹ามอั๹ภาพ  ๹าม๥ำ&ZeroWidthSpace;ลั๫๹ัว&ZeroWidthSpace;เอ๫ที่มี  &ZeroWidthSpace;เ๦้า&ZeroWidthSpace;ใ๬&ZeroWidthSpace;ไหมล่ะ&ZeroWidthSpace; &ZeroWidthSpace;เรามีน้อย  &ZeroWidthSpace;เรา๥็ทำ&ZeroWidthSpace;น้อย  &ZeroWidthSpace;เรามีมา๥๥็ทำ&ZeroWidthSpace;มา๥  &ZeroWidthSpace;แล้ว&ZeroWidthSpace;แ๹่&ZeroWidthSpace;เห๹ุปั๬๬ัย  อย่า&ZeroWidthSpace;ให้&ZeroWidthSpace;เ๸ือ๸ร้อน  ศีล&ZeroWidthSpace;เราป๳ิบั๹ิ&ZeroWidthSpace;ไ๸้  &ZeroWidthSpace;ไม่มี&ZeroWidthSpace;ใ๨รบั๫๨ับ  ภาวนา&ZeroWidthSpace;เราทำ&ZeroWidthSpace;&ZeroWidthSpace;ไ๸้ &ZeroWidthSpace;ไม่มี&ZeroWidthSpace;ใ๨รบั๫๨ับ  ถู๥&ZeroWidthSpace;ไหม  อันนี้&ZeroWidthSpace;เป็นสิทธิ์&ZeroWidthSpace;โ๸ย๮อบธรรม๦อ๫&ZeroWidthSpace;เรา  &ZeroWidthSpace;เรา๬ะ&ZeroWidthSpace;&ZeroWidthSpace;ไ๸้มา๥&ZeroWidthSpace;ไ๸้น้อย&ZeroWidthSpace;แล้ว&ZeroWidthSpace;แ๹่&ZeroWidthSpace;เรา  ๨ือ๥รรมนั่น&ZeroWidthSpace;เอ๫  &ZeroWidthSpace;เหมือน&ZeroWidthSpace;โยมน่ะ&ZeroWidthSpace; ถ้า&ZeroWidthSpace;โยมนอน&ZeroWidthSpace;เ๭ย ๆ&ZeroWidthSpace;  ๬ะ&ZeroWidthSpace;มี&ZeroWidthSpace;ใ๨ร&ZeroWidthSpace;ไ๸้๥ิน&ZeroWidthSpace;ไหม  (&ZeroWidthSpace;ไม่&ZeroWidthSpace;ไ๸้) &ZeroWidthSpace;ไม่&ZeroWidthSpace;ไ๸้๥็๹้อ๫หาอี๥  &ZeroWidthSpace;เห็น&ZeroWidthSpace;ไหม  นี่๨ือ๥รรม&ZeroWidthSpace;ไหม (๥รรม)  นี่๨ือ๥รรม  &ZeroWidthSpace;เพราะ&ZeroWidthSpace;นั้น&ZeroWidthSpace;ให้&ZeroWidthSpace;เ๦้า&ZeroWidthSpace;ใ๬  &ZeroWidthSpace;เรา๥็อาศัยมืออาศัย&ZeroWidthSpace;เท้านั่นล่ะ&ZeroWidthSpace;  &ZeroWidthSpace;เรีย๥ว่า๥าย๥รรม&ZeroWidthSpace;ใ๮่&ZeroWidthSpace;ไหมย  อาศัย๨ำ&ZeroWidthSpace;พู๸&ZeroWidthSpace;ไป&ZeroWidthSpace;เ๬ร๬า๨้า๦าย  นี่&ZeroWidthSpace;เรีย๥ว๬ี๥รรม&ZeroWidthSpace;ใ๮่&ZeroWidthSpace;ไหม  อาศัย๨วาม๨ิ๸นึ๥พิ๬าร๷า&ZeroWidthSpace;เห๹ุผล  &ZeroWidthSpace;เห๹ุผล&ZeroWidthSpace;ใน๫าน๬ะ&ZeroWidthSpace;ทำ&ZeroWidthSpace;ยั๫&ZeroWidthSpace;ไ๫  นั้น๨ือม&ZeroWidthSpace;โน๥รรม&ZeroWidthSpace;ไหม  นี่ &ZeroWidthSpace;เราอาศัย๥รรมทั้๫นั้น  &ZeroWidthSpace;ให้&ZeroWidthSpace;เ๮ื่อ๥รรม&ZeroWidthSpace;ให้&ZeroWidthSpace;เ๨ารพ๥รรม  ทำ&ZeroWidthSpace;๥รรมที่&ZeroWidthSpace;เป็น๥ุศล  ละ&ZeroWidthSpace;๥รรมที่&ZeroWidthSpace;เป็นอ๥ุศล &ZeroWidthSpace;เรา๥็๬ะ&ZeroWidthSpace;&ZeroWidthSpace;ไ๸้อาศัย๥รรมทั้๫ปั๬๬ุบัน&ZeroWidthSpace;และ&ZeroWidthSpace;&ZeroWidthSpace;เบื้อ๫หน้า&ZeroWidthSpace;เมื่อลม๸ับ  ๹าย&ZeroWidthSpace;ไม่สู๱นะ&ZeroWidthSpace; อย่า&ZeroWidthSpace;เ๦้า&ZeroWidthSpace;ใ๬ผิ๸ว่า๹ายสู๱นะ&ZeroWidthSpace;  ยั๫๹้อ๫&ZeroWidthSpace;ไป&ZeroWidthSpace;เ๥ิ๸  นี่&ZeroWidthSpace;เรามีรูปพระ&ZeroWidthSpace;ปั๬&ZeroWidthSpace;เ๬๥พุทธ&ZeroWidthSpace;เ๬้า  อานุภาพพระ&ZeroWidthSpace;พุทธ&ZeroWidthSpace;เ๬้ามา  &ZeroWidthSpace;เทว๸า&ZeroWidthSpace;เ๹็ม อย่า๫&ZeroWidthSpace;ไป&ZeroWidthSpace;เทศน์ที่ธรรมศาส๹ร์&ZeroWidthSpace;เมื่อวาน วันที่ ๑๐, ๑๑, ๑๒ น่ะ&ZeroWidthSpace;  วันที่ ๑๑ ๹อน&ZeroWidthSpace;เย็น ถ่ายออ๥มา&ZeroWidthSpace;เทว๸า&ZeroWidthSpace;เ๹็ม&ZeroWidthSpace;ไปหม๸ ที่หอพระ&ZeroWidthSpace;นั้น&ZeroWidthSpace;เ๹็ม&ZeroWidthSpace;ไปหม๸&ZeroWidthSpace;เลย มหาศาล&ZeroWidthSpace;เลยนะ&ZeroWidthSpace;  พว๥&ZeroWidthSpace;โยมนะ&ZeroWidthSpace;  บริษัท&ZeroWidthSpace;โยมอี๥พันบริษัท๥็ยั๫น้อย๥ว่า&ZeroWidthSpace;เทว๸าที่&ZeroWidthSpace;ไปวันนั้น  &ZeroWidthSpace;เอา๬ำ&ZeroWidthSpace;นวนพนั๥๫านที่นี่นะ&ZeroWidthSpace;๨ู๷พัน&ZeroWidthSpace;เ๦้า&ZeroWidthSpace;ไป  ยั๫น้อย๥ว่าที่&ZeroWidthSpace;ไปวันนั้น  &ZeroWidthSpace;เทว๸า&ZeroWidthSpace;ไป๹ร๫นั้นมา๥  ยั๫&ZeroWidthSpace;ไม่&ZeroWidthSpace;ไ๸้๦ี้&ZeroWidthSpace;เล็บ๹ร๫นั้น  &ZeroWidthSpace;เทียบ&ZeroWidthSpace;ให้ฟั๫ &ZeroWidthSpace;เ๦า&ZeroWidthSpace;ไปทำ&ZeroWidthSpace;อะ&ZeroWidthSpace;&ZeroWidthSpace;ไร พุ่๫มา&ZeroWidthSpace;เหมือน๸าว๹๥&ZeroWidthSpace;เลยนะ&ZeroWidthSpace; &ZeroWidthSpace;ในรูปน่ะ&ZeroWidthSpace;  &ZeroWidthSpace;เ๦า&ZeroWidthSpace;ไปทำ&ZeroWidthSpace;อะ&ZeroWidthSpace;&ZeroWidthSpace;ไร  นี้ล่ะ&ZeroWidthSpace;&ZeroWidthSpace;ให้&ZeroWidthSpace;เห็นน่ะ&ZeroWidthSpace;  ที่พู๸&ZeroWidthSpace;ให้ฟั๫  &ZeroWidthSpace;เพื่อ&ZeroWidthSpace;ให้รู้ว่ามันมี๬ริ๫  ภพภูมิมันมี๬ริ๫  มัน&ZeroWidthSpace;ไม่&ZeroWidthSpace;ใ๮่๹าย&ZeroWidthSpace;แล้วสู๱  อย่าประ&ZeroWidthSpace;มาท &ZeroWidthSpace;ให้๦วน๦วายอะ&ZeroWidthSpace;&ZeroWidthSpace;ไรที่๮อบธรรม&ZeroWidthSpace;เป็นธรรม &ZeroWidthSpace;ให้๦วน๦วาย&ZeroWidthSpace;เ๦้าสู่&ZeroWidthSpace;ใ๬&ZeroWidthSpace;เรา อะ&ZeroWidthSpace;&ZeroWidthSpace;ไรที่มัน&ZeroWidthSpace;ไม่ถู๥๹้อ๫ &ZeroWidthSpace;ให้รีบ๦วน๦วายออ๥๬า๥&ZeroWidthSpace;ใ๬&ZeroWidthSpace;เรา อย่า๹ามมัน  อย่าทำ&ZeroWidthSpace;๹ามมัน  &ZeroWidthSpace;เพราะ&ZeroWidthSpace;&ZeroWidthSpace;โล๥นี้มัน&ZeroWidthSpace;โล๥อวิ๮๮า  &ZeroWidthSpace;โล๥พาลนะ&ZeroWidthSpace; มันสิ๫สู่๥ัน&ZeroWidthSpace;ไ๸้อยู่ มัน๬ะ&ZeroWidthSpace;สิ๫&ZeroWidthSpace;ใน๬ิ๹&ZeroWidthSpace;ใ๬&ZeroWidthSpace;เรา&ZeroWidthSpace;ไ๸้  &ZeroWidthSpace;เ๦้า&ZeroWidthSpace;ใ๬&ZeroWidthSpace;ไหม  ถ้า&ZeroWidthSpace;เรา&ZeroWidthSpace;ไม่มีส๹ิสมาธิปั๱๱าอบรมรั๥ษา๬ิ๹๹ัว&ZeroWidthSpace;เอ๫อย่า๫ที่&ZeroWidthSpace;แนะ&ZeroWidthSpace;นำ&ZeroWidthSpace;นี่  มัน๬ะ&ZeroWidthSpace;หล๫ว่า&ZeroWidthSpace;เป็น&ZeroWidthSpace;เรา๨ิ๸&ZeroWidthSpace;เรา&ZeroWidthSpace;เป็น&ZeroWidthSpace;ไ๫  บา๫๨รั้๫๨วาม๨ิ๸๹ร๫นี้มัน&ZeroWidthSpace;ไม่&ZeroWidthSpace;ใ๮่๬า๥&ZeroWidthSpace;เรานะ&ZeroWidthSpace;  มันถ่าย๬า๥๦้า๫นอ๥&ZeroWidthSpace;ไ๸้  &ZeroWidthSpace;เป็น&ZeroWidthSpace;เหมือน&ZeroWidthSpace;เรา๨ิ๸  &ZeroWidthSpace;แ๹่๨วาม๨ิ๸อารม๷์๹ัวนี้มัน&ZeroWidthSpace;ไม่&ZeroWidthSpace;ใ๮่&ZeroWidthSpace;เรา๨ิ๸  ถ้าบา๫๨น&ZeroWidthSpace;เ๨ยสั๫&ZeroWidthSpace;เ๥๹&ZeroWidthSpace;ไหม  ๹ั้๫&ZeroWidthSpace;แ๹่&ZeroWidthSpace;เ๥ิ๸มา&ZeroWidthSpace;ไม่&ZeroWidthSpace;เ๨ยมี๨วาม๨ิ๸&ZeroWidthSpace;เรื่อ๫นี้&ZeroWidthSpace;เลย  อยู่๸ีวัน๸ี๨ืน๸ีมีน่ะ&ZeroWidthSpace;  &ZeroWidthSpace;เ๨ยมี&ZeroWidthSpace;ไหม &ZeroWidthSpace;เพราะ&ZeroWidthSpace;อะ&ZeroWidthSpace;&ZeroWidthSpace;ไร &ZeroWidthSpace;เพราะ&ZeroWidthSpace;&ZeroWidthSpace;ไอ้๨วาม๨ิ๸๹ร๫นี้มัน&ZeroWidthSpace;เ๥ิ๸๬า๥ภายนอ๥ที่มัน&ZeroWidthSpace;แทร๥&ZeroWidthSpace;เ๦้ามา  &ZeroWidthSpace;เพราะ&ZeroWidthSpace;๬ิ๹มันมีหน้าที่รู้&ZeroWidthSpace;ไ๫  &ZeroWidthSpace;เมื่อมันมี๥ระ&ZeroWidthSpace;&ZeroWidthSpace;แสที่มัน๬ร&ZeroWidthSpace;เ๦้ามา  มัน๥็รู้&ZeroWidthSpace;ไ๸้ มันรู้  &ZeroWidthSpace;แ๹่ทีนี้มัน&ZeroWidthSpace;ไม่รู้&ZeroWidthSpace;เท่าทัน๥ระ&ZeroWidthSpace;&ZeroWidthSpace;แส๹ัวนี้  &ZeroWidthSpace;เพราะ&ZeroWidthSpace;มัน๨ิ๸&ZeroWidthSpace;ใน๹ัว&ZeroWidthSpace;เอ๫๥็นึ๥ว่า๥ู๨ิ๸&ZeroWidthSpace;ไ๫  ๥็&ZeroWidthSpace;เลยนึ๥ว่า๥ู&ZeroWidthSpace;เป็นอย่า๫นี้&ZeroWidthSpace;ไ๫  &ZeroWidthSpace;แ๹่๬ริ๫ ๆ&ZeroWidthSpace; &ZeroWidthSpace;เรา&ZeroWidthSpace;ไม่&ZeroWidthSpace;ไ๸้&ZeroWidthSpace;เป็น  &ZeroWidthSpace;แ๹่มัน&ZeroWidthSpace;เ๥ิ๸๬า๥๥ระ&ZeroWidthSpace;&ZeroWidthSpace;แส&ZeroWidthSpace;โลภ&ZeroWidthSpace;โ๥รธหล๫ภายนอ๥มันมา๨รอบ๫ำ&ZeroWidthSpace;๬ิ๹&ZeroWidthSpace;เรา  อันนี้ละ&ZeroWidthSpace;&ZeroWidthSpace;เอีย๸ ถ้า&ZeroWidthSpace;โยมอยา๥รู้๬ุ๸นี้๹้อ๫ภาวนา&ZeroWidthSpace;เยอะ&ZeroWidthSpace; ๆ&ZeroWidthSpace; ๹้อ๫ฝึ๥ส๹ิสมาธิอย่า๫ที่&ZeroWidthSpace;เราบอ๥&ZeroWidthSpace;ให้มา๥ &ZeroWidthSpace;แล้ว๬ะ&ZeroWidthSpace;&ZeroWidthSpace;เ๦้า&ZeroWidthSpace;ใ๬  &ZeroWidthSpace;เพราะ&ZeroWidthSpace;๭ะ&ZeroWidthSpace;นั้น&ZeroWidthSpace;โล๥๹ร๫นี้  ที่พู๸&ZeroWidthSpace;ให้ฟั๫นี้  &ZeroWidthSpace;เพราะ&ZeroWidthSpace;มันอัน๹ราย&ZeroWidthSpace;ไ๫  มัน๨รอบ๫ำ&ZeroWidthSpace;&ZeroWidthSpace;โ๸ย&ZeroWidthSpace;เรา&ZeroWidthSpace;ไม่รู้๹ัว&ZeroWidthSpace;เยอะ&ZeroWidthSpace;&ZeroWidthSpace;ไ๫  อันนี้พู๸&ZeroWidthSpace;ให้ฟั๫  วันนี้๥็๦อ&ZeroWidthSpace;แนะ&ZeroWidthSpace;นำ&ZeroWidthSpace;๨ร่าว ๆ&ZeroWidthSpace; &ZeroWidthSpace;เท่านี้นะ&ZeroWidthSpace;  &ZeroWidthSpace;ใ๨ร๬ับ&ZeroWidthSpace;ไ๸้๥็นำ&ZeroWidthSpace;&ZeroWidthSpace;ไปประ&ZeroWidthSpace;พฤ๹ิป๳ิบั๹ินะ&ZeroWidthSpace;  &ZeroWidthSpace;ให้&ZeroWidthSpace;เป็นประ&ZeroWidthSpace;&ZeroWidthSpace;โย๮น์๹่อ๹น&ZeroWidthSpace;เอ๫  &ZeroWidthSpace;ให้&ZeroWidthSpace;เป็นประ&ZeroWidthSpace;&ZeroWidthSpace;โย๮น์๹่อ๨รอบ๨รัว  &ZeroWidthSpace;ให้&ZeroWidthSpace;เป็นประ&ZeroWidthSpace;&ZeroWidthSpace;โย๮น์๹่อ๱า๹ิมิ๹รพ่อ&ZeroWidthSpace;แม่พี่น้อ๫ทั้๫หม๸นะ&ZeroWidthSpace;  &ZeroWidthSpace;ให้&ZeroWidthSpace;เป็นประ&ZeroWidthSpace;&ZeroWidthSpace;โย๮น์๹่อบริษัท  &ZeroWidthSpace;ให้&ZeroWidthSpace;เป็นประ&ZeroWidthSpace;&ZeroWidthSpace;โย๮น์๹่อประ&ZeroWidthSpace;&ZeroWidthSpace;เทศ  &ZeroWidthSpace;แล้วสิ่๫ที่&ZeroWidthSpace;เราทำ&ZeroWidthSpace;&ZeroWidthSpace;เป็นประ&ZeroWidthSpace;&ZeroWidthSpace;โย๮น์  อานิส๫ส์๥็๨ือทำ&ZeroWidthSpace;&ZeroWidthSpace;ให้สั๫๨ม&ZeroWidthSpace;เรา  ทำ&ZeroWidthSpace;&ZeroWidthSpace;ให้๹ัว&ZeroWidthSpace;เรา  ทำ&ZeroWidthSpace;&ZeroWidthSpace;ให้๨รอบ๨รัว&ZeroWidthSpace;เรามี๨วามสุ๦๹ามอั๹ภาพ  ๥็๦อยุ๹ิ&ZeroWidthSpace;แ๹่&ZeroWidthSpace;เพีย๫&ZeroWidthSpace;เท่านี้</p><p style="text-align:justify;" class="indent-a">ยะ&ZeroWidthSpace;ถา วาริวะ&ZeroWidthSpace;หา ฯ&ZeroWidthSpace;</p><p style="text-align:justify;" class="indent-a">&ZeroWidthSpace;เอาหนั๫สือรูป&ZeroWidthSpace;แ๬๥&ZeroWidthSpace;ให้&ZeroWidthSpace;ไปอ่าน&ZeroWidthSpace;ไปศึ๥ษานะ&ZeroWidthSpace;  มา&ZeroWidthSpace;ให้&ZeroWidthSpace;เ๥ิ๸ประ&ZeroWidthSpace;&ZeroWidthSpace;โย๮น์นะ&ZeroWidthSpace;  &ZeroWidthSpace;ให้รั๥๹น&ZeroWidthSpace;เอ๫นะ&ZeroWidthSpace; อย่า&ZeroWidthSpace;ไปรั๥ผู้อื่น  &ZeroWidthSpace;ให้รั๥๹ัว&ZeroWidthSpace;เอ๫๥่อน  อะ&ZeroWidthSpace;&ZeroWidthSpace;ไร&ZeroWidthSpace;เป็นประ&ZeroWidthSpace;&ZeroWidthSpace;โย๮น์๥็๦วน๦วาย&ZeroWidthSpace;เ๦้าสู่๹ัว&ZeroWidthSpace;เอ๫  นี่&ZeroWidthSpace;เรีย๥ว่ารั๥๹ัว&ZeroWidthSpace;เอ๫  อะ&ZeroWidthSpace;&ZeroWidthSpace;ไร&ZeroWidthSpace;เป็น&ZeroWidthSpace;โทษ๥็รีบ๦นออ๥๬า๥&ZeroWidthSpace;ใ๬๹ัว&ZeroWidthSpace;เอ๫  นี่&ZeroWidthSpace;เรีย๥ว่ารั๥๹ัว&ZeroWidthSpace;เอ๫.</p>                    <script type="text/javascript">
+                        playSound();
+                        showPoll();
+                    </script>
+
+                    <div class="novel_action--divider clear"></div>
+                </div>
+
+                
+                                                            <!-- Ads Banner : page: chapter | position: center (embedded) -->
+                        <!-- <div id='CM_viewlong' style="width:728px; height:90px; margin: 15px auto 0;">
+                            <script type='text/javascript'>
+                                setTimeout(function() {
+                                    googletag.display('CM_viewlong')
+                                }, 7000);
+                            </script>
+                        </div> -->
+                                    
+                
+                
+                <!-- PROMOTION TOPUP BANNER -->
+                <div id="promotion-topup-banner"></div>
+                <div id="promotion-topup-modal"></div>
+
+                
+<div id="novel_action_wrapper">
+    <input type="hidden" value="125" name="chapter" id="vote-chapter">
+    <input type="hidden" value="2485901" name="id" id="vote-id">
+    <input id="vote-score" type="hidden" name="score" value="5">
+    <!-- <div id="btn-novel-voted" class="action-btn action-vote " data-novel-id="2485901" data-main-cat="2" data-sub-cat="2">
+        <div class="icon">
+            <i class="fa fa-heart" id="icon-heart"></i>
+        </div>
+        <span class="text">ให้กำลังใจ (0)</span>
+    </div> -->
+    <div id="btn-novel-favorite" class="action-btn ">
+        <div class="icon">
+            <svg width="16" height="16" viewBox="0 0 15 16" fill="none" xmlns="http://www.w3.org/2000/svg" class="icon-bell" id="icon-bell">
+                <path d="M7.50298 15.4816C8.54421 15.4816 9.37719 14.6714 9.37719 13.6297H5.59903C5.59903 14.6714 6.43201 15.4816 7.50298 15.4816ZM13.8991 11.1702C13.3338 10.5626 12.2331 9.66559 12.2331 6.68527C12.2331 4.45726 10.6267 2.66328 8.42521 2.20031V1.59267C8.42521 1.10078 8.00872 0.666748 7.50298 0.666748C6.96749 0.666748 6.551 1.10078 6.551 1.59267V2.20031C4.34955 2.66328 2.74309 4.45726 2.74309 6.68527C2.74309 9.66559 1.64237 10.5626 1.07713 11.1702C0.898632 11.3438 0.809384 11.5753 0.839134 11.7779C0.839134 12.2698 1.19613 12.7038 1.79111 12.7038H13.1851C13.7801 12.7038 14.1371 12.2698 14.1668 11.7779C14.1668 11.5753 14.0776 11.3438 13.8991 11.1702Z" fill="#f37a01" />
+            </svg>
+            <svg width="16" height="16" viewBox="0 0 21 23" fill="none" xmlns="http://www.w3.org/2000/svg" class="icon-bell-check" id="icon-bell-check">
+                <path d="M13.3155 19.4444C13.3155 21.0069 12.0661 22.2222 10.5042 22.2222C8.89777 22.2222 7.64829 21.0069 7.64829 19.4444H13.3155Z" fill="#f37a01" />
+                <path fill-rule="evenodd" clip-rule="evenodd" d="M19.891 15.5375C19.9641 15.6134 20.0336 15.6856 20.0984 15.7552C20.3661 16.0156 20.5 16.3628 20.5 16.6667C20.4554 17.4045 19.9199 18.0556 19.0274 18.0556H1.93642C1.04394 18.0556 0.508456 17.4045 0.508456 16.6667C0.463832 16.3628 0.597704 16.0156 0.865448 15.7552C0.930236 15.6856 0.999713 15.6134 1.07279 15.5375C1.95599 14.6199 3.36439 13.1567 3.36439 9.02778C3.36439 5.68576 5.77409 2.99479 9.07626 2.30035V1.38889C9.07626 0.651042 9.701 0 10.5042 0C11.2628 0 11.8876 0.651042 11.8876 1.38889V2.30035C15.1897 2.99479 17.5994 5.68576 17.5994 9.02778C17.5994 13.1567 19.0078 14.6199 19.891 15.5375ZM15.1316 9.11962C15.2432 9.23123 15.3053 9.38624 15.3053 9.54125C15.3053 9.69626 15.2432 9.85127 15.1316 9.96288L9.7993 15.2952C9.68769 15.4068 9.53268 15.4688 9.37767 15.4688C9.22266 15.4688 9.06765 15.4068 8.95604 15.2952L5.86825 12.2074C5.75664 12.0958 5.69463 11.9408 5.69463 11.7858C5.69463 11.6308 5.75664 11.4758 5.86825 11.3642L6.7115 10.5209C6.82311 10.4093 6.97812 10.3473 7.13313 10.3473C7.28814 10.3473 7.44315 10.4093 7.55475 10.5209L9.37767 12.35L13.4451 8.27637C13.5567 8.16476 13.7117 8.10276 13.8668 8.10276C14.0218 8.10276 14.1768 8.16476 14.2884 8.27637L15.1316 9.11962Z" fill="#f37a01" />
+            </svg>
+        </div>
+        <span class="text">ติดตามเรื่องนี้</span>
+    </div>
+            <div id="btn-novel-collection" class="action-btn">
+            <div class="icon">
+                <svg width="16" height="16" viewBox="0 0 13 16" fill="none" xmlns="http://www.w3.org/2000/svg" class="icon-collection" id="icon-collection">
+                    <path fill-rule="evenodd" clip-rule="evenodd" d="M3.43333 0.666748C1.8133 0.666748 0.5 1.98005 0.5 3.60008V12.4001C0.5 14.0201 1.8133 15.3334 3.43333 15.3334H9.09048C10.7105 15.3334 12.0238 14.0201 12.0238 12.4001V3.60008C12.0238 1.98005 10.7105 0.666748 9.09048 0.666748H3.43333ZM2.42063 2.51645V7.73818L4.22123 6.47776L6.02183 7.73818V2.51645C6.02183 2.21811 5.82029 1.97627 5.57168 1.97627H2.87078C2.62217 1.97627 2.42063 2.21811 2.42063 2.51645Z" fill="#f37a01" />
+                </svg>
+            </div>
+            <span class="text">เก็บเข้าคอลเล็กชัน</span>
+        </div>
+    
+    
+</div>
+
+<div id="novel_action_wrapper">
+    <div id="gototopChapter">
+
+    </div>
+
+</div>
+
+<div class="follow-writer__wrapper -desktop ">
+    <a href="https://novel.dek-d.com/Wiweksikkaram/profile/writer/" target="_blank" title="ผลงานทั้งหมดของ Wiweksikkaram" style="flex-shrink:0;">
+        <img class="follow-writer__image" src="https://img.dek-d.com/1/newtoon/978/9788364" alt="writer" />
+    </a>
+    <div class="follow-writer__info">
+        <a href="https://novel.dek-d.com/Wiweksikkaram/profile/writer/" target="_blank" title="ผลงานทั้งหมดของ Wiweksikkaram">
+            <h3>Wiweksikkaram</h3>
+        </a>
+        <span
+            id="root-follow-writer"
+            data-writer-id="9788364"
+            data-user-id="0"
+            data-is-followed="0"
+            data-is-login="0"
+            style="flex-shrink: 0;"></span>
+    </div>
+</div>
+
+<div id="novel_action_footer">
+    <div class="action__wrapper">
+        <button id="btn-novel-voted" class="footer__action favorite " data-novel-id="2485901" data-main-cat="2" data-sub-cat="2">
+                            <i class="fa fa-heart-o icon-fav-outline" style="font-size:20px;margin-top:-4px;"></i>
+             <span class="fav-count">0</span></button>
+        <button class="footer__action comment" ><i class="fa fa fa-comment-o" style="font-size:22px;margin-top:-6px;"></i> <span class="js-total-comment">0</span></button>
+    </div>
+    <div class="chapter__navigation">
+                    <a href="viewlongc.php?id=2485901&chapter=124" title="ตอนก่อนหน้า" target="_self" class="chapter__navigation__btn -prev"><i class="fa fa-angle-left" style="font-size:24px;margin-top:-4px;"></i> <span>ตอนก่อนหน้า</span></a>
+                <a href="viewlongc.php?id=2485901&chapter=126" title="ตอนถัดไป" target="_self" id="next-chapter-button" class="chapter__navigation__btn -next "><span class="btn-text">ตอนถัดไป</span> <span>#126</span> <i class="fa fa-angle-right" style="font-size:24px;margin-top:-4px;"></i></a>
+    </div>
+</div>
+
+<script>
+    (function() {
+        $(document).ready(function() {
+            $('body').on('isLogin', function(e, data) {
+                window.isOwner = +data.user_id === +'9788364'
+                window.userId = +data.user_id
+                window.__followWriter?.updatePrerenderedData?.({
+                    isLogin: data.user_id > 0,
+                    isFollowed: '',
+                    writerId: '9788364',
+                    userId: data.user_id,
+                })
+            }).on('isLogout', function() {
+                window.isOwner = false
+                window.userId = 0
+                window.__followWriter?.updatePrerenderedData?.({ isLogin: false, isFollowed: false , userId: 0})
+            });
+        })
+
+
+        const CONTENT_SCROLLING = {
+            startAnimation: false,
+            lastScrollTop: 0,
+            checkScrollingDirection() {
+                let direction = ''
+                const st = $(window).scrollTop();
+                if (st > this.lastScrollTop) {
+                    direction = 'down'
+                } else {
+                    direction = 'up'
+                }
+                this.lastScrollTop = st;
+                return direction
+            },
+        }
+
+        $(window).on("load", function() {
+            heightCommentElement()
+        }).on("scroll", function() {
+            const scrollDirection = CONTENT_SCROLLING.checkScrollingDirection()
+            heightCommentElement(scrollDirection)
+                    });
+
+        $(document).on('click', '#comment-textarea-input-js, .expand-button', function() {
+            heightCommentElement()
+        })
+                    .on('mouseenter', '.comment-post-wrapper.-sticky', function() {
+                heightCommentElement()
+            }).on('mouseleave', '.comment-post-wrapper.-sticky', function() {
+                heightCommentElement()
+            });
+
+        function heightCommentElement(scrollDirection) {
+                            setTimeout(() => {
+                    let spacingTop = $('.comment-post-wrapper.-sticky').height() > 0 ? $('.comment-post-wrapper.-sticky').height() : 0
+                    $('#novel_action_footer').css("bottom", `${spacingTop}px`);
+                }, 50)
+                    }
+    })()
+</script>
+
+            </div>
+            
+<!--<ul id="footer" class="chapter-footer-box">-->
+<!--	<li class="footer-menu-item">-->
+<!--		<a class="item-menu" href="https://novel.dek-d.com/search/" title="ค้นหานิยาย" target="_blank">-->
+<!--			<i class="fa fa-search"></i>-->
+<!--			<span>ค้นหานิยาย</span>-->
+<!--		</a>-->
+<!--	</li>-->
+<!--	<li class="footer-menu-item">-->
+<!--		<a class="item-menu" href="https://www.dek-d.com/board/writer/" title="บอร์ด writer" target="_blank">-->
+<!--			<i class="fa fa-align-left "></i>-->
+<!--			<span>บอร์ด writer</span>-->
+<!--		</a>-->
+<!--	</li>-->
+<!--	<li class="footer-menu-item -academy" >-->
+<!--		<a class="item-menu -academy" href="https://novel.dek-d.com/writer/academy" target="_blank">-->
+<!--			<i class="fa fa-pencil"></i>-->
+<!--			<span>เริ่มเขียนนิยาย</span>-->
+<!--		</a>-->
+<!--		<div class="tooltip-box -academy">-->
+<!--			มาเปลี่ยนจินตนาการของคุณเป็นนิยายที่มีนักอ่านหลักล้านกัน-->
+<!--		</div>-->
+<!--	</li>-->
+<!--</ul>-->
+
+<!-- <ul id="footer" class="chapter-footer-box">
+	<li class="footer-menu-item">
+        <a class="item-menu" href="#" title="แจ้งบทความไม่เหมาะสม" onclick="popup('ban_inform.php?id=2485901&chapter=125','', 500, 500);return false;">
+            แจ้งบทความไม่เหมาะสม
+        </a>
+	</li>
+	<li class="footer-menu-item">
+        <a class="item-menu" href="mailto:writer@dek-d.com" title="แจ้ง vote ผิดปกติที่ writer@dek-d.com" target="_blank">
+            แจ้ง vote ผิดปกติที่ writer@dek-d.com
+        </a>
+	</li>
+</ul> -->
+
+<!--<div class="report-footer-box">-->
+<!--	<a class="report-menu" href="#" title="แจ้งบทความไม่เหมาะสม" >แจ้งบทความไม่เหมาะสม</a>-->
+
+<!--	<a class="report-menu" href="mailto:writer@dek-d.com" title="แจ้ง vote ผิดปกติที่ writer@dek-d.com" target="_blank">แจ้ง vote ผิดปกติที่ writer@dek-d.com</a>-->
+<!--</div>-->
+
+
+
+
+
+            <div class="clear" style="height:22px;"></div>
+            
+
+            <!-- MODAL BUY -->
+            <div id="modal-chapter-app"></div>
+            <div id="modal-story-campaign-app"></div>
+            <!-- END MODAL BUY -->
+
+            <!-- DONATION APP SECTION -->
+            <div id="donation-app"></div>
+            <!-- END DONATION APP SECTION -->
+
+            <!-- PROMOTION TOPUP POPUP -->
+            <div id="promotion-topup-popup"></div>
+
+                        <div id="js-anchor-suggest-list"></div>
+<div id="suggest-list" class="-hide">
+    <h2 class="suggest-item-head">
+        <p class="_txt-ellipsis">ผู้อ่านนิยมอ่านต่อ 
+		<a
+			class="seemore"
+			href="https://novel.dek-d.com/novel/2485901/similar/"
+			target="_blank"
+		>
+		ดูทั้งหมด <i class="fa fa-chevron-right" aria-hidden="true"></i>
+		</a>
+		</p>
+    </h2>
+    <div id="alsoview-swiper" class="suggest-item-wrapper js-suggest-item-wrapper swiper-container -hide">
+        <div class="swiper-wrapper"></div>
+        <div id="alsoview-prev" class="swiper-button-prev"></div>
+        <div id="alsoview-next" class="swiper-button-next"></div>
+    </div>
+    <div class="-loading js-suggest-loading -hide">
+        <div class="loading-box">
+            <div class="loading-inner">
+                <div class="loadingicon _animated -wobble -infinite">
+                    <img src="https://www0.dek-d.com/assets/ebook/images/icon_bombom.png"  alt="loading" width="80" height="80" />
+                </div>
+                <div class="label">กำลังโหลด...</div>
+            </div>
+        </div>
+    </div>
+</div>
+<script>
+    (function() {
+    	let scrollEventOneTime = true
+
+	    function isScrolledIntoView($elem) {
+		    let docViewTop = $(window).scrollTop()
+		    let docViewBottom = docViewTop + $(window).height()
+		    let elemTop = $elem.offset().top
+		    let elemBottom = elemTop + $elem.height()
+		    return ( ( elemBottom <= docViewBottom ) && ( elemTop >= docViewTop ) )
+	    }
+
+	    function appendSuggestionList({analytics, id, title, category, owners, thumbnail}) {
+			const eventName = analytics?.name ?? ''
+			const typeCard = analytics?.parameters?.typeCard ?? 'none'
+			const algoType = analytics?.parameters?.algo ?? 'none'
+			const ownerAliasname = owners?.[0]?.alias ?? ''
+			const subCategoryTitle = category.subTitle
+		    $('#suggest-list .swiper-wrapper').append(`
+               <div class="writer-swiper-wrapper swiper-slide js-suggest-item" type-card="${typeCard}" ${algoType ? `data-algo="${algoType}"` : ''} data-event-name="${eventName ? eventName : ''}" data-id="${id}" data-mc="${category.main}" data-sc="${category.sub}">
+                    <a href="view.php?id=${id}" target="_blank"
+                    title="${title}">
+                    <img class="cover" src="${thumbnail.normal}" alt="${title}" loading="lazy"/>
+                        <div class="detail-wrapper">
+                            <div class="category">
+                                ${subCategoryTitle}
+                            </div>
+                            <div class="title"
+                                 title="${title}">
+                                ${title}
+                            </div>
+                            <div class="author">
+                                ${ownerAliasname}
+                            </div>
+                        </div>
+                    </a>
+                </div>`)
+	    }
+
+        function ajaxSetScoreAlsoView() {
+    		$.ajax({
+                url: `https://www.dek-d.com/api/rest/novel/suggest/save`,
+                type: 'POST',
+			    xhrFields: {
+				    withCredentials: true
+			    },
+			    data: {
+				    novel_id: '2485901',
+				    last_novel_id: '0'
+			    },
+            })
+        }
+
+        var pathname = window.location.pathname
+        var coverPageTest = new RegExp('view.php')
+        var isCoverPage = coverPageTest.test(pathname) ? 1 : 0
+
+        function ajaxSuggestLists() {
+            $.ajax({
+                url: `https://www.dek-d.com/api/rest/novel/recommend/list`,
+                type: 'GET',
+                xhrFields: {
+                    withCredentials: true
+                },
+                data: {
+                    novelId: '2485901',
+                    page: 1,
+			    },
+                beforeSend: function() {
+	                $('#suggest-list').removeClass('-hide')
+			        $('.js-suggest-loading').removeClass('-hide')
+                },
+			    success: function (res) {
+				    // const alsoViewCounter = res.count.alsoview > 0 ? res.count.alsoview : 0
+				    // trackAlsoView(alsoViewCounter)
+				    if (!$.isEmptyObject(res.list) || res.list.length > 0) {
+					    $('.js-suggest-loading').addClass('-hide')
+				    	$('.js-suggest-item-wrapper').removeClass('-hide')
+					    if (typeof res.list === 'object') {
+						    Object.values(res.list).map(function (data) {
+							    appendSuggestionList(data)
+						    })
+					    } else {
+						    res.list.map(function (data) {
+							    appendSuggestionList(data)
+						    })
+					    }
+
+					    var alsoviewSwiper = new Swiper('#alsoview-swiper', {
+						    slidesPerView: 'auto',
+						    spaceBetween: 10,
+						    slidesOffsetBefore: 0,
+						    slidesOffsetAfter: 0,
+						    slidesPerGroup: 1,
+						    navigation: {
+							    nextEl: '#alsoview-next',
+							    prevEl: '#alsoview-prev'
+						    },
+					    })
+				    } else {
+					    $('#suggest-list').remove()
+				    }
+			    },
+			    error: function () {
+				    $('#suggest-list').remove()
+			    }
+		    })
+	    }
+
+	    $(document).ready(function() {
+		    ajaxSetScoreAlsoView()
+        })
+
+	    $(window).scroll(function() {
+	    	if (isScrolledIntoView($('#js-anchor-suggest-list')) && scrollEventOneTime ) {
+	    		ajaxSuggestLists()
+			    scrollEventOneTime = false
+            }
+        })
+
+    })()
+</script>
+                            <div id="stop-autoscroll-anchor" class="clear"></div>
+                        <div id="js-anchor-ebook-rand-list"></div>
+<div id="ebook-rand-list">
+    <h2 class="suggest-item-head">
+        <p class="_txt-ellipsis"><span id="ebook-rand-section-title">อีบุ๊ก</span>
+            <a id="ebook-rand-list-see-all" class="seemore" href="https://novel.dek-d.com/store/ebook/" target="_blank">
+                ดูทั้งหมด <i class="fa fa-chevron-right" aria-hidden="true"></i>
+            </a>
+        </p>
+    </h2>
+    <div id="ebook-rand-list-swiper" class="suggest-item-wrapper js-ebook-item-wrapper swiper-container -hide">
+        <div class="swiper-wrapper"></div>
+        <div id="ebook-rand-list-prev" class="swiper-button-prev"></div>
+        <div id="ebook-rand-list-next" class="swiper-button-next"></div>
+    </div>
+    <div class="-loading js-ebook-rand-list-loading -hide">
+        <div class="loading-box">
+            <div class="loading-inner">
+                <div class="loadingicon _animated -wobble -infinite">
+                    <img src="https://www0.dek-d.com/assets/ebook/images/icon_bombom.png" alt="loading" width="80" height="80" />
+                </div>
+                <div class="label">กำลังโหลด...</div>
+            </div>
+        </div>
+    </div>
+</div>
+<script>
+    (function() {
+        let scrollEventOneTime = true
+
+        function isScrolledIntoView($elem) {
+            let docViewTop = $(window).scrollTop()
+            let docViewBottom = docViewTop + $(window).height()
+            let elemTop = $elem.offset().top
+            let elemBottom = elemTop + $elem.height()
+            return ((elemBottom <= docViewBottom) && (elemTop >= docViewTop))
+        }
+
+        function appendEbookList(ebook, extension) {
+            const {
+                name,
+                novelTitle,
+                thumbnail,
+                id,
+                category,
+                owners,
+                novelId
+            } = ebook
+            const {
+                order,
+                discount,
+                discountRate,
+                sellingPrice,
+                originalPrice,
+                isTop,
+                isDiscount,
+            } = extension
+            const {
+                main,
+                sub,
+                mainTitle,
+                subTitle,
+            } = category
+
+            $('#ebook-rand-list-swiper .swiper-wrapper').append(`
+               <div class="writer-swiper-wrapper swiper-slide js-ebook-item" data-id="${id}" data-mc="${main}" data-sc="${sub}">
+                    ${ isTop ?  `<div title="อันดับที่ ${order}" class="-top-flag">
+                            <span class="-top-flag__value">${order}</span>
+                        </div>
+                      ` : '' }
+                    <a 
+                        href="https://novel.dek-d.com/ebook/${id}" 
+                        target="_blank"
+                        class="ebook-track-click"
+                        data-ebook-id="${id}"
+                        data-novel-id="${novelId}"
+                        data-mc="${main}"
+                        data-sc="${sub}"
+                        title="${title}">
+                    <img class="cover" src="${thumbnail}" alt="${name}" loading="lazy"/>
+                        <div class="detail-wrapper">
+                            <div class="category">
+                                ${subTitle}
+                            </div>
+                            <div class="title"
+                                 title="${name}">
+                                ${name}
+                            </div>
+                            <div class="author">
+                                ${owners[0]?.alias}
+                            </div>
+                            ${ isDiscount ?  `<div class="-price-wrapper">
+                                    <i class="reader-coin"></i>
+                                    <span class="-price-wrapper__selling-price">${intFormat(sellingPrice)}</span>
+                                    <span class="-price-wrapper__original-price">${intFormat(originalPrice)}</span>
+                                </div>` : '' }
+                        </div>
+                    </a>
+                </div>`)
+        }
+
+        var pathname = window.location.pathname
+        var coverPageTest = new RegExp('view.php')
+        var isCoverPage = coverPageTest.test(pathname) ? 1 : 0
+        const sectionId = 'bestseller'
+        const isFairPeriod = ''
+
+        function intFormat(number) {
+            const formatter = new Intl.NumberFormat('th-Th')
+            return formatter.format(number)
+        }
+
+        function ajaxEbookLists() {
+            $.ajax({
+                url: `https://www.dek-d.com/api/rest/ebook/list/promote?page=1&type=${sectionId}`,
+                type: 'GET',
+                xhrFields: {
+                    withCredentials: true
+                },
+                data: {
+                    novel_id: '2485901',
+                    owner_id: '9788364',
+                    is_selling: isCoverPage
+                },
+                beforeSend: function() {
+                    $('#ebook-rand-list').removeClass('-hide')
+                    $('.js-ebook-rand-list-loading').removeClass('-hide')
+                },
+                success: function(res) {
+                    const isDiscount = sectionId == 'discount'
+                    const isTop = sectionId == 'bestseller'
+                    const isFree = false //sectionId == 'free'
+                    const resolvedSeeAllLink = isDiscount ? isFairPeriod ? 'https://novel.dek-d.com/fair/ebook/?utm_source=dek-dbanner&utm_medium=niyay-fair-read&utm_campaign=ebook-expo-23&utm_id=dek-dbanner-niyay-fair-read-231002' : 'https://novel.dek-d.com/store/ebook/list/0_-1/?orderBy=DESC&saleType=DISCOUNT&viewType=LIST&ratingType=ALL&page=1' :
+                        isFree ? 'https://novel.dek-d.com/store/ebook/list/0_-1/?orderBy=DESC&saleType=FREE&viewType=LIST&ratingType=ALL&page=1' :
+                        isTop ? 'https://novel.dek-d.com/store/ebook/' : 'https://novel.dek-d.com/store/ebook/'
+                    $('#ebook-rand-list-see-all').attr('href', resolvedSeeAllLink)
+
+                    if (!$.isEmptyObject(res.list) || res.list.length > 0) {
+                        $('.js-ebook-rand-list-loading').addClass('-hide')
+                        $('.js-ebook-item-wrapper').removeClass('-hide')
+                        $('#ebook-rand-list #ebook-rand-section-title').text(isDiscount ? isFairPeriod ? 'E-Book Expo' : 'อีบุ๊กลดราคา' : isTop ? 'อีบุ๊กขายดี' : isFree ? 'อีบุ๊กฟรี' : 'อีบุ๊ก')
+                        res.list.map(function(data, index) {
+                            const sellingPrice = data?.price?.coin ?? 0
+                            const originalPrice = data?.price?.campaign?.priceOriginal ?? 0
+                            appendEbookList(data, {
+                                order: index + 1,
+                                isTop,
+                                isDiscount,
+                                sellingPrice,
+                                originalPrice,
+                                discountRate: Math.round(((originalPrice - sellingPrice) / originalPrice) * 100),
+                                discount: sellingPrice - originalPrice,
+                            })
+                        })
+                        var ebookListSwiper = new Swiper('#ebook-rand-list-swiper', {
+                            slidesPerView: 'auto',
+                            spaceBetween: 10,
+                            slidesOffsetBefore: 0,
+                            slidesOffsetAfter: 0,
+                            slidesPerGroup: 1,
+                            navigation: {
+                                nextEl: '#ebook-rand-list-next',
+                                prevEl: '#ebook-rand-list-prev'
+                            },
+                        })
+                    } else {
+                        $('#ebook-rand-list').remove()
+                    }
+                },
+                error: function() {
+                    $('#ebook-rand-list').remove()
+                }
+            })
+        }
+
+        $(window).scroll(function() {
+            if (isScrolledIntoView($('#js-anchor-ebook-rand-list')) && scrollEventOneTime) {
+                ajaxEbookLists()
+                scrollEventOneTime = false
+            }
+        })
+
+        $(document).on('click', '.ebook-track-click', function(e) {
+            e.preventDefault();
+
+            const ebookId = $(this).data('ebook-id');
+            const novelId = $(this).data('novel-id');
+            const mc = $(this).data('mc');
+            const sc = $(this).data('sc');
+            const href = $(this).attr('href');
+            const isDiscount = sectionId == 'discount';
+
+            if (typeof firebase !== 'undefined' && firebase.analytics) {
+                firebase.analytics().logEvent('dd_select_ebook', {
+                    page: isCoverPage ? 'cover' : 'reader',
+                    section: `ebook-${isDiscount ? 'discount' : 'bestseller'}`,
+                    type_card: `ebook-${isDiscount ? 'discount' : 'bestseller'}`,
+                    novel_id: novelId,
+                    ebook_id: ebookId,
+                    main: mc,
+                    sub: sc,
+                });
+            }
+
+            window.open(href, '_blank');
+        });
+
+    })()
+</script>
+
+<style>
+    #ebook-rand-list .js-ebook-item .detail-wrapper {
+        height: auto;
+    }
+
+    #ebook-rand-list .js-ebook-item .-top-flag {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 10px;
+        height: 28px;
+        box-sizing: border-box;
+        border-bottom: 0 solid #499a13;
+        border-color: #499a13 #499a13 transparent;
+        border-style: solid;
+        border-width: 0 10px 8px;
+        border-top-left-radius: 3px;
+        z-index: 1;
+    }
+
+    #ebook-rand-list .js-ebook-item .-top-flag .-top-flag__value {
+        display: inline-block;
+        width: 20px;
+        line-height: 20px;
+        margin-left: -10px;
+        font-size: 12px;
+        text-align: center;
+        background-color: #499a13;
+        border-top-left-radius: 3px;
+        font-family: Tahoma, Arial, sans-serif;
+        font-weight: 700;
+        color: #fff;
+    }
+
+    #ebook-rand-list .js-ebook-item .-price-wrapper {
+        -webkit-text-size-adjust: none;
+        list-style: none;
+        list-style-type: none;
+        -webkit-box-direction: normal;
+        user-select: none;
+        margin: 4px 0 0;
+        padding: 0;
+        border: 0;
+        font: inherit;
+        vertical-align: baseline;
+        font-family: 'Kalatexa', sans-serif;
+        display: flex;
+        align-items: center;
+    }
+
+    #ebook-rand-list .js-ebook-item .-price-wrapper .-price-wrapper__selling-price {
+        -webkit-text-size-adjust: none;
+        list-style: none;
+        list-style-type: none;
+        -webkit-box-direction: normal;
+        user-select: none;
+        padding: 0;
+        border: 0;
+        font: inherit;
+        vertical-align: middle;
+        margin: 0 8px 0 4px;
+        font-size: 16px;
+        font-weight: 700;
+        line-height: 100%;
+        color: red;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        transform: translate(0, 2px);
+    }
+
+    #ebook-rand-list .js-ebook-item .-price-wrapper .-price-wrapper__original-price {
+        -webkit-text-size-adjust: none;
+        list-style: none;
+        list-style-type: none;
+        -webkit-box-direction: normal;
+        user-select: none;
+        margin: 0;
+        padding: 0;
+        border: 0;
+        font: inherit;
+        vertical-align: middle;
+        font-size: 14px;
+        line-height: 100%;
+        color: gray;
+        text-decoration: line-through;
+        text-decoration-color: red;
+        align-self: end;
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+
+    #ebook-rand-list .js-ebook-item .-price-wrapper .-price-wrapper__coin-icon {
+        min-width: 24px;
+        min-height: 24px;
+    }
+</style>            <!-- COLLECION MODAL -->
+            <div id="save-collection-modal" class="modal-wrapper">
+    <div class="modal-box">
+        <button class="modalclosebtn">
+            <span>เสร็จสิ้น</span>
+        </button>
+        <div class="modal-header">เก็บเข้าคอลเล็กชัน</div>
+        <div class="modal-body">
+            <div class="collection-wrapper-skeleton">
+                <div class="image-skeleton"></div>
+                <div class="description-skeleton">
+                    <div class="text-skeleton"></div>
+                    <div class="text-skeleton -hidden"></div>
+                </div>
+            </div>
+            <div class="collection-wrapper-skeleton">
+                <div class="image-skeleton"></div>
+                <div class="description-skeleton">
+                    <div class="text-skeleton"></div>
+                    <div class="text-skeleton -hidden"></div>
+                </div>
+            </div>
+            <div class="collection-wrapper-skeleton">
+                <div class="image-skeleton"></div>
+                <div class="description-skeleton">
+                    <div class="text-skeleton"></div>
+                    <div class="text-skeleton -hidden"></div>
+                </div>
+            </div>
+            <div class="collection-wrapper-skeleton">
+                <div class="image-skeleton"></div>
+                <div class="description-skeleton">
+                    <div class="text-skeleton"></div>
+                    <div class="text-skeleton -hidden"></div>
+                </div>
+            </div>
+            <div class="collection-wrapper-skeleton">
+                <div class="image-skeleton"></div>
+                <div class="description-skeleton">
+                    <div class="text-skeleton"></div>
+                    <div class="text-skeleton -hidden"></div>
+                </div>
+            </div>
+        </div>
+        <div class="modal-footer">
+            <span class="collection-create" id="js-create-collection"><i class="fa fa-plus"></i> สร้างคอลเล็กชันใหม่</span>
+        </div>
+    </div>
+</div>            <!-- AFFILIATE NAIIN BANNER APP SECTION -->
+            <!-- <div id="affiliate-naiin-banner-app"></div> -->
+            <!-- END AFFILIATE NAIIN BANNER APP SECTION -->
+            <div id="comment-section-ref-js"></div>
+            <!-- REPORT PROBLEM MODAL -->
+            <div id="novel-report-problem"></div>
+            <!-- END REPORT PROBLEM MODAL-->
+            <!-- REVIEW MODAL -->
+            <style>
+                #review-list-app #review-novel-list {
+                    display: none;
+                }
+            </style>
+            <div id="review-list-app"></div>
+            <!-- END REVIEW MODAL-->
+            <!-- START NOVEL SHARE -->
+            <div id="novel-share-app"></div>
+            <!-- END NOVEL SHARE -->
+            <!-- START LIST OF CONTENTS -->
+            <div id="novel-list-of-contents"></div>
+            <!-- END LIST OF CONTENTS -->
+            <!-- START LIST OF EBOOKS -->
+            <div id="novel-list-of-ebooks"></div>
+            <!-- END LIST OF EBOOKS -->
+                        <div id="show-mini-comment-app" style="margin-top: 40px;"></div>
+
+            <div class="overlay-comment">
+                <!-- Comment -->
+                <div class="overlay-comment-content comment-setwidth cm-chapter js-commentbox-container " id="comment-all" data-contentid="2485901" data-chapter="125" data-page="1">
+                    <div class="comment-section-title__wrapper">
+	<h3 class="comment-section-title"><span class="js-total-comment"></span>คอมเมนต์</h3>
+	<button class="js-close-overlay-comment close-btn" type="button" onclick="window.writerCommentHelper && window.writerCommentHelper.hideOverlay()"><i class="fa fa-times" aria-hidden="true"></i></button>
+</div>
+	<section class="section-box comment-post">
+		<div id="comment-root" class="__positonFix comment-root">
+		</div>
+	</section>
+<script>
+	if (window.jQuery) {
+		(function($) {
+			// on keydown Escape
+			$(document).on('keydown', function(e) {
+				if (e.keyCode === 27) {
+					window.writerCommentHelper && window.writerCommentHelper.hideOverlay();
+				}
+			});
+			$('#comment-member-login').click(function() {
+				if (+window.userId <= 0) {
+					window.location.href = `https://${window.hostWWW}.dek-d.com/member/login?refer=${window.location.href}`;
+					return false;
+				}
+			});
+		})(jQuery);
+	}
+</script><div id="show-comment-app"></div>
+
+	
+<script language="javascript" type="text/javascript">
+    function stripHTML(txt) {
+        var re= /<\S[^><]*>/g;
+        return txt.replace(re, "");
+    }
+</script>
+                </div>
+            </div>
+            <div class="clear" style="height: 80px;"></div>
+
+            <script type="text/javascript">
+                playSound();
+                showPoll();
+                if (typeof tippy == 'function') tippy(document.querySelectorAll('.tippy-ip'))
+                $('.paging').paging({
+                    total: 0,
+                    page: 1,
+                    itemperpage: 25,
+                    showpage: 3,
+                    href: '#comment-all',
+                    hrefParams: {
+                        id: 2485901,
+                        chapter: 125                    },
+                    ajax: 'commentAjax.php',
+                    ajaxParams: {
+                        id: 2485901,
+                        chapter: 125,
+                        total: 0,
+                        user_id: 9788364                    },
+                    ajaxDatatype: 'json',
+                    ajaxType: 'post',
+                    ajaxable: true,
+                    ajaxCallback: function(data) {
+                        if (data.status)
+                            $('.comment-list').empty().append(data.list);
+                        else
+                            alert('เกิดข้อผิดพลาด ไม่สามารถทำรายการได้');
+                    },
+                    templateWrap: '<ul class="cl_pagetab paging-${group}">${list}</ul>',
+                    templateCurrent: '<li class="cur"><span>${page}</span></li>',
+                    templatePrev: '<li class="lt"><a href="${href}" ajax="${ajax}" target="${target}" title="${title}" onclick="${onclick}" page="${p}"></a></li>',
+                    templateNext: '<li class="gt"><a href="${href}" ajax="${ajax}" target="${target}" title="${title}" onclick="${onclick}" page="${p}"></a></li>'
+                })
+            </script>
+        </div><!-- จบ main-center -->
+    </div>
+
+    </div>
+
+    <!-- ข้อตกลงใหม่ -->
+        <div id="footer" class="app-footer">
+
+<p><a href="https://www.dek-d.com/" target="_blank">www.Dek-D.com</a> © 1999 - 2026 All rights reserved by Dek-D Interactive Co.,Ltd. </p>
+</div>
+<!-- - - - - -[START] script for subcomment form BY BOWLING JAN'1 - - - - - - - - - -->
+<script language='JavaScript' type='text/javascript' data-test="test" src='https://myc.dek-d.com/a/script/subcomment.js?v=3.95'></script>
+<script type="text/javascript">
+	$(document).ready( function(){
+		subcomment._lastcommentid = ( jQuery(subcomment._cmall).data('chapter') > 0 ) ? 0 : 1;
+		subcomment.init();
+	});
+</script>
+<!-- - - - - -[END] script BY BOWLING  - - - - - - - - - -->
+    
+    
+    </div><!-- view port -->
+    <script type="text/javascript" src="https://myc.dek-d.com/a/resource/js/jquery-migrate-1.2.1.min.js"></script>
+    <script type="text/javascript" src="https://myc.dek-d.com/a/resource/js/ddinread.js?vv=364"></script>
+    <script type="text/javascript" src="https://myc.dek-d.com/a/js/jquery.lightbox_me.js?v=364"></script>
+    <script type="text/javascript" src="https://myc.dek-d.com/a/js/jquery.placeholder.js?v=364"></script>
+    <script src="https://www0.dek-d.com/assets/vendor/jquery-cookie/jquery.cookie.js"></script>
+
+    <!-------------- buying ------------------>
+
+    <script type="text/javascript">
+        var story_id = 2485901;
+        var page = 'chapter';
+        var set_id = 0;
+        window.userId = '0';
+        iFrameResize({
+            checkOrigin: ['https://myback2.dek-d.com', 'https://writer.dek-d.com', 'https://wwwback.dek-d.com', 'https://www.dek-d.com']
+        }, '#appstore-novel-app')
+    </script>
+
+                    <script   src="https://www0.dek-d.com/assets/writer/js/buying.js?v=364"></script>    <script   src="https://www0.dek-d.com/assets/writer/js/scrollIntoElement.js?v=364"></script>        <!--START CUSTOM ALERT BOX-->
+<div class="alert-box subcomment-alert" style="top:70px">
+    <div class="alert-container">
+        <div class="alert-icon-box"><i class="stateicon fa"> </i></div>
+        <div class="alert-content-box">
+            <div class="alert-content-wrapper">
+                <div class="alert-content"></div>
+                <div class="closebutton-wrapper">
+                    <span onclick="closeAlert()" class="closebutton">×</span>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!--END CUSTOM ALERT BOX-->
+
+<!--FUNCTION FOR ALERT BOX-->
+
+<script>
+    let setTimer;
+    const subCommentAlertBox = $('.subcomment-alert');
+
+    function closeAlert() {
+        clearTimeout(setTimer);
+        subCommentAlertBox.removeClass('-show');
+        subCommentAlertBox.addClass('-hide');
+        location.reload(true);
+    }
+
+    function onSubmitSubComment(user_mode) {
+
+        const refer_id = $('#refer_id').val();
+        const chapter = $('#chapter').val();
+        const chapter_index = $('#chapter_index').val();
+        const a_index = $('#a_index').val();
+        const t_msg_non = $('#t_msg_non').val();
+        const t_pic = $('#t_pic').val();
+        const txtCode = $('#txtCode').val();
+        const t_msg = $(`#comment-placeholder-${a_index}`).val();
+        const mode = $('#mode').val();
+        const t_mem = $('#t_mem').val();
+        const login_user = {
+            primaryId: a_index,
+            message: t_msg,
+            mode: 'member',
+        }
+        const guest_user = {
+            primaryId: a_index,
+            message: t_msg_non,
+            mode: 'guest',
+        }
+        const postData = (user_mode === true) ? login_user : guest_user;
+
+        $.ajaxSetup({
+            crossDomain: true,
+            xhrFields: {
+                withCredentials: true
+            },
+        });
+        if(refer_id && chapter){
+            $.post(`https://${window.hostWWW}.dek-d.com/api/rest/novel/${refer_id}/chapter/${chapter}/subcomment`, postData)
+                .done(function(data) {
+                    const objData = data;
+                    const is_success = objData.acknowledged && objData.errors.length <= 0;
+                    const timer = (is_success) ? 2000 : 5000;
+
+                    setTimer = setTimeout(function() {
+                        subCommentAlertBox.removeClass('-show');
+                        subCommentAlertBox.addClass('-hide');
+                        location.reload(true);
+                    }, timer);
+                    subCommentAlertBox.removeClass('-hide');
+                    subCommentAlertBox.removeClass((is_success) ? '-error' : '-success');
+                    subCommentAlertBox.addClass((is_success) ? '-success' : '-error');
+                    subCommentAlertBox.addClass('-show');
+                    $('.alert-content').text(is_success ? 'คอมเมนต์ตอบกลับสำเร็จแล้ว' : objData.errors[0].message);
+                    $('.comment-box-reply').remove();
+                    $('.commentbox-ta').val('');
+                });
+        }else{
+            console.error('> ', new Error('refer_id or chapter not found'));
+        }
+    }
+</script>
+
+<!--END OF FUNCTION FOR ALERT BOX-->
+    <!-- Google Analytics -->
+    <script   src="https://www0.dek-d.com/assets/writer/js/analytics/writer-view-chapter.js?v=364"></script>    <!-- ///////////////////////////////////////////////////////////// -->
+
+    
+
+
+    <link rel="stylesheet" href="https://www0.dek-d.com/assets/writer/css/discount-pack.css?v=364"><script   src="https://www0.dek-d.com/assets/writer/js/countdown.js?v=364"></script><link rel="stylesheet" href="https://www0.dek-d.com/assets/authenticate/css/login.min.css?v=364"><script   src="https://www0.dek-d.com/assets/authenticate/js/onestop_helper.min.js?v=364"></script><script   src="https://www0.dek-d.com/assets/authenticate/js/register.min.js?v=364"></script><script   src="https://www0.dek-d.com/assets/authenticate/js/login.min.js?v=364"></script><link rel="stylesheet" href="https://www0.dek-d.com/assets/vendor/gpi/css/gpi_interface.min.css?v=364"><script   src="https://www0.dek-d.com/assets/vendor/gpi/js/gpi.min.js?v=364"></script><script   src="https://www0.dek-d.com/assets/vendor/dekd-foundation-2.2/js/alertbox.min.js?v=364"></script><script   src="https://www0.dek-d.com/assets/vendor/dekd-foundation-2.2/js/dropdownbox.min.js?v=364"></script><script   src="https://www0.dek-d.com/assets/vendor/dekd-foundation-2.2/js/tooltips.min.js?v=364"></script><link rel="stylesheet" href="https://www0.dek-d.com/assets/authenticate/css/foundation-login-modal.min.css?v=364">    <script>window.initAdjustNovel=()=>{window.Adjust_Event_Token={};window.Adjust_Event_Token["login"]="d92ywi";window.Adjust_Event_Token["registration"]="dco6o5";window.Adjust_Event_Token["favorite"]="9ztzdk";window.Adjust_Event_Token["view_cover"]="yxkd32";window.Adjust_Event_Token["view_reader"]="k7jdc7";window.Adjust_Event_Token["view_item"]="429w1e";window.Adjust_Event_Token["select_item"]="ffdxu8";window.Adjust_Event_Token["checkout"]="1ht3sr";window.Adjust_Event_Token["first_purchase"]="kcglrb";window.Adjust_Event_Token["purchase"]="m4odgd";if(window.Adjust){Adjust.initSdk({appToken:"r1zzftpxxpfk",environment:"production"});const adjustReadyEvent = new Event("adjust.ready");document.body.dispatchEvent(adjustReadyEvent);}}</script><script>window.__ddAnalyticsAPI='https://www.dek-d.com/analytics/';(function(w,d,e,c){w['ddAnalytics']=c;w[c]=w[c]||function(){(w[c].q=w[c].q||[]).push(arguments)},w[c].l=Date.now();var a=d.createElement(e),m=d.getElementsByTagName(e)[0];a.async=1;a.src='//www0.dek-d.com/assets/analytics/js/core.min.js';m.parentNode.insertBefore(a,m)})(window,document,'script','analytics');analytics('setKey','9c315fceba42032b8a0363aa958e50d071fcb977');analytics.track=function(e,p){analytics('track',e,p)};analytics('setApi','https://www.dek-d.com/analytics/')</script>    <script src="https://www.gstatic.com/firebasejs/8.10.1/firebase-app.js"></script><script src="https://www.gstatic.com/firebasejs/8.10.1/firebase-analytics.js"></script><script>var firebaseConfig={apiKey:'AIzaSyCifHmvjo8JmjTAooGUS1nRyvzgj55d64Q',authDomain:'novel-dek-d.firebaseapp.com',databaseURL:'https://novel-dek-d.firebaseio.com',projectId:'novel-dek-d',storageBucket:'novel-dek-d.appspot.com',messagingSenderId:'893579953488',appId:'1:893579953488:web:81744e4520b63f3b471855',measurementId:'G-HHW72W8VHH'};firebase.initializeApp(firebaseConfig);</script>    <script>
+        firebase.analytics().setUserProperties({
+            environment: !!$('body').data('ismobile') ? 'mobile' : 'desktop'
+        })
+        const userId = '0';
+
+        if (userId > 0) {
+            firebase.analytics().setUserId(userId)
+        }
+
+        $(document).ready(function() {
+            (function(login, countdown) {
+                login.init()
+                $('.modal').on('click', '.close', function() {
+                    $(this).closest('.modal').slideUp()
+                    $.cookie('writer-mini-modal', 1, {
+                        expires: 1,
+                        path: '/',
+                        domain: 'dek-d.com'
+                    })
+                });
+                $countdownElem = $('.js-camaign-countdown');
+                if ($countdownElem.length > 0) {
+                    countdown.init($countdownElem.data('start-date'), $countdownElem.data('end-date'));
+                }
+            })(_LOGIN, _writerCountdown)
+
+            const mainCategory = '2'
+            const subCategory = '2'
+            firebase.analytics().logEvent('dd_view_novel', {
+                page: 'reader',
+                novel_id: '2485901',
+                main: mainCategory,
+                sub: subCategory
+            })
+            trackEvent('writer-story-reader', 'view-novel-category', `${mainCategory}-${subCategory}`)
+        })
+    </script>
+    <script   src="https://www0.dek-d.com/assets/writer/js/bookmark.min.js?v=364"></script><script   src="https://www0.dek-d.com/assets/writer/js/trackVisitingNovel.js?v=364"></script><script   src="https://www0.dek-d.com/assets/writer/js/trackRecentRead.js?v=364"></script><script   src="https://www0.dek-d.com/assets/writer/js/trackActiveUserLoggedIn.js?v=364"></script><script   src="https://www0.dek-d.com/assets/writer/js/activityNovel.min.js?v=364"></script><script   src="https://www0.dek-d.com/assets/dist/writer/js/bundle.min.js?v=364"></script><script   src="https://www0.dek-d.com/assets/writer/js/addNovelInCollection.min.js?v=364"></script><script   src="https://www0.dek-d.com/assets/writer/js/font-swapper.min.js?v=364"></script><script   src="https://www0.dek-d.com/assets/writer/js/sweetalert.js?v=364"></script><script   src="https://www0.dek-d.com/assets/writer/js/favoritePopup.min.js?v=364"></script><script   src="https://www0.dek-d.com/assets/writer/js/ebookList.min.js?v=364"></script><!--u:9788364-->
+<!-- Advenue DMP Container - dek-d.com -->
+<script type="text/javascript" charset="UTF-8">(function(w,d,s,i,c){var f=d.createElement(s);f.type="text/javascript";f.async=true;f.src=("https:"==d.location.protocol? "https://ssl-avd.innity.net":"http://avd.innity.net")+"/"+i+"/container_"+c+".js";var g=d.getElementsByTagName(s)[0];g.parentNode.insertBefore(f, g);})(window, document, "script", "142", "56d8ecb31c51b1a06c964404");</script>
+<!-- End Advenue DMP Container -->
+    <script>
+        // const payload = {
+        //     title: "ธรรมเทศนา พระอาจารย์วิชัย กัมมสุทโธ",
+        //     imageUrl: "https://image.dek-d.com/27/0978/8364/t_133546232",
+        //     novelId: 2485901,
+        //     ownerId: 9788364,
+        //     ownerName: "Wiweksikkaram",
+        //     author: "Wiweksikkaram",
+        //     category: "ความรู้เพื่อดำเนินชีวิต",
+        //     mc: 2,
+        //     sc: 2,
+        //     chapterId: 125,
+        //     chapterTitle: "ธรรมะในการดำรงชีวิต",
+        //     novelType: "long",
+        // }
+        const recentReadPayload = {
+            readerId: "",
+            novelId: 2485901,
+            chapterId: 125,
+        }
+        // trackVisitingNovel.init(payload, 'novel.dek-d.com')
+        // trackVisitingNovel.init(payload, 'www.niyaydd.com')
+        trackRecentRead.init(recentReadPayload, "www", 'reader')
+    </script>
+    <script   src="https://www0.dek-d.com/assets/writer/js/analytics/novelPixelTracking.min.js?v=364"></script>    <script   src="https://www0.dek-d.com/assets/writer/js/userGuideDance.min.js?v=364"></script>
+    <script>
+        $(document).ready(function() {
+            (function() {
+                setTimeout(() => {
+                    pixelTrackViewContent({
+                        productType: "novel",
+                        adjustPayload: {
+                            novelId: 2485901,
+                            userId: 0,
+                            mainId: 2,
+                            subId: 2,
+                            productId: +'',
+                            productType: +'0',
+                        },
+                        payload: {
+                            novelId: 2485901,
+                            novelTitle: "ธรรมเทศนา พระอาจารย์วิชัย กัมมสุทโธ",
+                        }
+                    })
+                    pixelTrackReaderCategory({
+                        productType: 'novel',
+                        categoryId: ''
+
+                    })
+                }, 500)
+            })()
+        })
+        function buyProduct(isPack = false) {
+            if (
+                window.userId > 0 &&
+                !window.popupAlreadyOpened &&
+                window.checkCoinFlashSalePeriod
+            ) {
+                window.callPopupCoinFlashSale({
+                    novelId: window.novelId,
+                    chapterId: window.chapterId,
+                    isPack: isPack,
+                    isReload: true
+                });
+            } else {
+                if (window.novelId && window.chapterId) {
+                    window.callModalBuyChapter({
+                        novelId: window.novelId,
+                        chapter: window.chapterId,
+                        isReload: true,
+                        isPack: isPack
+                    });
+                }
+            }
+        }
+    </script>
+</body>
+
+</html>
+<!-- LINE Tag Base Code -->
+<!-- Do Not Modify -->
+<script>
+(function(g,d,o){
+  g._ltq=g._ltq||[];g._lt=g._lt||function(){g._ltq.push(arguments)};
+  var h=location.protocol==='https:'?'https://d.line-scdn.net':'http://d.line-cdn.net';
+  var s=d.createElement('script');s.async=1;
+  s.src=o||h+'/n/line_tag/public/release/v1/lt.js';
+  var t=d.getElementsByTagName('script')[0];t.parentNode.insertBefore(s,t);
+    })(window, document);
+_lt('init', {
+  customerType: 'account',
+  tagId: '1aa2dca9-8f7a-4ec8-80c7-868d92c7d275'
+});
+_lt('send', 'pv', ['1aa2dca9-8f7a-4ec8-80c7-868d92c7d275']);
+</script>
+<noscript>
+  <img height="1" width="1" style="display:none"
+       src="https://tr.line.me/tag.gif?c_t=lap&t_id=1aa2dca9-8f7a-4ec8-80c7-868d92c7d275&e=pv&noscript=1" />
+</noscript>
+<!-- End LINE Tag Base Code --><!-- Facebook Pixel Code -->
+<script>
+    if (!window.fbq) {
+    !function(f,b,e,v,n,t,s)
+    {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+        n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+        if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+        n.queue=[];t=b.createElement(e);t.async=!0;
+        t.src=v;s=b.getElementsByTagName(e)[0];
+        s.parentNode.insertBefore(t,s)}(window, document,'script',
+        'https://connect.facebook.net/en_US/fbevents.js');
+    }
+    window.fbq('init', '1234202760613325');
+    window.fbq('track', 'PageView');
+</script>
+<noscript>
+    <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1196977856998347&ev=PageView&noscript=1" />
+</noscript>
+<!-- End Facebook Pixel Code -->
