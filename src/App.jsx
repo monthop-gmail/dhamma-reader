@@ -186,7 +186,11 @@ function App() {
     };
 
     const filteredPlaylist = PLAYLIST.filter(item => {
-        const matchesSearch = item.title.toLowerCase().includes(searchTerm.toLowerCase());
+        const lowerSearch = searchTerm.toLowerCase();
+        const matchesTitle = item.title.toLowerCase().includes(lowerSearch);
+        const matchesOrder = item.order.toString().includes(lowerSearch);
+        const matchesSearch = matchesTitle || matchesOrder;
+
         if (viewMode === 'favorites') {
             return matchesSearch && favorites.includes(item.order);
         }
@@ -243,7 +247,7 @@ function App() {
                         >
                             <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start' }}>
                                 <div style={{ display: 'flex', gap: '10px' }}>
-                                    <span className="chapter-number">{(item.order + 1).toString().padStart(2, '0')}</span>
+                                    <span className="chapter-number">{item.order.toString().padStart(2, '0')}</span>
                                     <div className="chapter-title">{item.title}</div>
                                 </div>
                                 <div style={{ display: 'flex', gap: '8px' }}>
