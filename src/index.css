@@ -60,6 +60,16 @@ h3,
   transition: all 0.3s ease;
 }
 
+.sidebar.closed {
+  width: 0;
+  overflow: hidden;
+  border: none;
+}
+
+.sidebar-overlay {
+  display: none;
+}
+
 .sidebar-header {
   padding: 2rem 1.5rem;
   border-bottom: 1px solid var(--border-color);
@@ -281,25 +291,76 @@ h3,
 }
 
 @media (max-width: 768px) {
-  #root {
-    flex-direction: column;
+  .sidebar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 85%; /* Slightly less than full width */
+    max-width: 320px;
+    z-index: 1001;
+    box-shadow: 2px 0 20px rgba(0, 0, 0, 0.2);
+    transform: translateX(0);
   }
 
-  .sidebar {
-    width: 100%;
-    height: 300px;
+  .sidebar.closed {
+    transform: translateX(-100%);
+    width: 85% !important; /* Override inline style if necessary */
   }
 
   .main-content {
-    padding: 1.5rem;
+    padding: 1rem 1rem 5rem 1rem; /* Added bottom padding for scroll space */
   }
 
-  .nav-btn-title {
-    max-width: 120px;
+  .article-header h2 {
+    font-size: 1.6rem;
+  }
+
+  .article-meta {
+    flex-direction: column;
+    gap: 12px;
+  }
+
+  .font-controls {
+    width: 100%;
+    justify-content: space-between;
+  }
+
+  .navigation-footer > div {
+    flex-direction: column;
+    gap: 10px;
   }
 
   .nav-btn {
-    padding: 0.8rem;
+    max-width: 100%;
+    width: 100%;
+  }
+
+  .nav-btn.next {
+    text-align: left; /* Revert text alignment for stacked view */
+    flex-direction: row-reverse; /* Keep icon on right */
+  }
+  
+  .nav-btn.next > div {
+      text-align: right;
+  }
+
+  /* Ensure the toggle button is easily clickable */
+  .mobile-toggle {
+    padding: 10px;
+    margin: -10px; /* Expand hit area */
+  }
+
+  .sidebar-overlay.active {
+    display: block;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.5);
+    z-index: 1000;
+    animation: fadeIn 0.2s ease-out;
   }
 }
 

@@ -38,7 +38,12 @@ function App() {
 
     const [content, setContent] = useState('');
     const [loading, setLoading] = useState(false);
-    const [sidebarOpen, setSidebarOpen] = useState(true);
+    const [sidebarOpen, setSidebarOpen] = useState(() => {
+        if (typeof window !== 'undefined') {
+            return window.innerWidth > 768;
+        }
+        return true;
+    });
     const [searchTerm, setSearchTerm] = useState('');
     const [fontSize, setFontSize] = useState(() => {
         try {
@@ -191,8 +196,13 @@ function App() {
     return (
         <>
             <div className="progress-bar" style={{ width: `${scrollProgress}%` }} />
+            
+            <div 
+                className={`sidebar-overlay ${sidebarOpen ? 'active' : ''}`} 
+                onClick={() => setSidebarOpen(false)} 
+            />
 
-            <div className={`sidebar ${sidebarOpen ? '' : 'closed'}`} style={{ width: sidebarOpen ? '350px' : '0', overflow: 'hidden' }}>
+            <div className={`sidebar ${sidebarOpen ? '' : 'closed'}`}>
                 <div className="sidebar-header">
                     <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
                         <h1 className="serif">ธรรมบริการ</h1>
@@ -304,11 +314,11 @@ function App() {
                                     ))}
                                 </select>
                                 <div className="divider" />
-                                <button onClick={() => setFontSize(prev => Math.max(0.8, prev - 0.1))} title="ลดขนาดตัวอักษร">
+                                <button onClick={() => setFontSize(prev => Math.max(0.75, prev - 0.25))} title="ลดขนาดตัวอักษร">
                                     <Minus size={14} />
                                 </button>
                                 <span style={{ fontSize: '0.8rem', minWidth: '40px' }}>{Math.round(fontSize * 100)}%</span>
-                                <button onClick={() => setFontSize(prev => Math.min(2.5, prev + 0.1))} title="เพิ่มขนาดตัวอักษร">
+                                <button onClick={() => setFontSize(prev => Math.min(2.5, prev + 0.25))} title="เพิ่มขนาดตัวอักษร">
                                     <Plus size={14} />
                                 </button>
                             </div>
