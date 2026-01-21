@@ -7,7 +7,3 @@ services:
     envVars:
       - key: NODE_ENV
         value: production
-    disk:
-      name: cache-disk
-      mountPath: /app/cache
-      sizeGB: 1
