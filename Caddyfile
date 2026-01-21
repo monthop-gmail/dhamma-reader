@@ -1,0 +1,3 @@
+dhamma-reader.sumana.org {
+    reverse_proxy dhamma-reader:80
+}

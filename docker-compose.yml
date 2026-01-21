@@ -3,8 +3,8 @@ version: '3.8'
 services:
   dhamma-reader:
     build: .
-    ports:
-      - "8080:80"
+    # ports:
+    #   - "8080:80"
     volumes:
       - ./cache:/app/cache
       - ./public:/app/public
@@ -13,3 +13,20 @@ services:
     environment:
       - NODE_ENV=development
     container_name: dhamma-reader
+
+  caddy:
+    image: caddy:2-alpine
+    restart: unless-stopped
+    ports:
+      - "80:80"
+      - "443:443"
+    volumes:
+      - ./Caddyfile:/etc/caddy/Caddyfile
+      - caddy_data:/data
+      - caddy_config:/config
+    depends_on:
+      - dhamma-reader
+
+volumes:
+  caddy_data:
+  caddy_config:
