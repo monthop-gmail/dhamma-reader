@@ -117,8 +117,9 @@ function App() {
             // Strategy 1: Try to load from pre-scraped local content (Fastest & Most Reliable for Render)
             const localUrl = `/content/${item.order}.json`;
             const localResponse = await fetch(localUrl);
+            const contentType = localResponse.headers.get('content-type');
 
-            if (localResponse.ok) {
+            if (localResponse.ok && contentType && contentType.includes('application/json')) {
                 console.log('Loading from local content...');
                 const data = await localResponse.json();
                 processRawHtml(data.html);
@@ -126,25 +127,26 @@ function App() {
                 return;
             }
 
-            // Strategy 2: Fallback to dynamic proxy (Original way)
-            console.log('Local content not found, falling back to proxy...');
+            // Strategy 2: Fallback to dynamic proxy (Original way + Server Cache)
+            console.log('Local content not found, falling back to proxy/cache...');
             const proxyUrl = `/api/fetch?url=${encodeURIComponent(item.url)}`;
             const response = await fetch(proxyUrl);
             const html = await response.text();
 
-            if (html.toLowerCase().includes('human verification') || html.toLowerCase().includes('cloudflare')) {
-                setContent(`
-                    <div style="text-align: center; padding: 20px; border: 1px solid #e63946; border-radius: 8px; background: #fff5f5;">
-                        <h3 style="color: #e63946;">ถูกระงับการเข้าถึงชั่วคราว (Human Verification)</h3>
-                        <p>เซิร์ฟเวอร์โดนระบบป้องกันความปลอดภัยบล็อกครับ</p>
-                        <p style="margin-top: 10px; font-size: 0.9rem;">
-                            <strong>วิธีแก้:</strong> ญาติๆ สามารถอ่านได้แน่นอนหากคุณใช้ระบบ "Scraper" ในเครื่องแล้วส่งขึ้น GitHub อีกครั้งครับ
-                        </p>
-                    </div>
-                `);
-            } else {
-                processRawHtml(html);
-            }
+            processRawHtml(html);
+            // if (html.toLowerCase().includes('human verification') || html.toLowerCase().includes('cloudflare')) {
+            //     setContent(`
+            //         <div style="text-align: center; padding: 20px; border: 1px solid #e63946; border-radius: 8px; background: #fff5f5;">
+            //             <h3 style="color: #e63946;">ถูกระงับการเข้าถึงชั่วคราว (Human Verification)</h3>
+            //             <p>เซิร์ฟเวอร์โดนระบบป้องกันความปลอดภัยบล็อกครับ</p>
+            //             <p style="margin-top: 10px; font-size: 0.9rem;">
+            //                 <strong>วิธีแก้:</strong> ญาติๆ สามารถอ่านได้แน่นอนหากคุณใช้ระบบ "Scraper" ในเครื่องแล้วส่งขึ้น GitHub อีกครั้งครับ
+            //             </p>
+            //         </div>
+            //     `);
+            // } else {
+            //     processRawHtml(html);
+            // }
         } catch (error) {
             console.error('Error fetching content:', error);
             setContent('<p>เกิดข้อผิดพลาดในการโหลดเนื้อหา กรุณาตรวจสอบการเชื่อมต่ออินเทอร์เน็ต</p>');

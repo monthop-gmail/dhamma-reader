@@ -43,20 +43,17 @@ app.get('/api/fetch', async (req, res) => {
     // Check disk cache
     try {
         if (existsSync(cachePath)) {
-            const stats = await fs.stat(cachePath);
-            if (Date.now() - stats.mtimeMs < CACHE_TTL) {
-                console.log(`Serving from disk cache: ${targetUrl}`);
-                const data = await fs.readFile(cachePath);
+            console.log(`Serving from disk cache: ${targetUrl}`);
+            const data = await fs.readFile(cachePath);
 
-                // Set content type based on extension
-                if (ext === '.woff' || ext === '.woff2') res.setHeader('Content-Type', 'font/woff2');
-                else if (ext === '.ttf') res.setHeader('Content-Type', 'font/ttf');
-                else if (ext === '.eot') res.setHeader('Content-Type', 'application/vnd.ms-fontobject');
-                else res.setHeader('Content-Type', 'text/html; charset=utf-8');
+            // Set content type based on extension
+            if (ext === '.woff' || ext === '.woff2') res.setHeader('Content-Type', 'font/woff2');
+            else if (ext === '.ttf') res.setHeader('Content-Type', 'font/ttf');
+            else if (ext === '.eot') res.setHeader('Content-Type', 'application/vnd.ms-fontobject');
+            else if (ext === '.php' || ext === '.html') res.setHeader('Content-Type', 'text/html; charset=utf-8');
+            else res.setHeader('Content-Type', 'text/html; charset=utf-8');
 
-                return res.send(data);
-            }
-            await fs.unlink(cachePath); // Expired
+            return res.send(data);
         }
     } catch (e) {
         console.error('Cache read error:', e);
